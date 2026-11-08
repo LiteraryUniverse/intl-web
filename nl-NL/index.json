@@ -835,7 +835,6 @@
   "blog.post.editor.language": "Taal om te bewerken",
   "blog.post.editor.translations": "Vertalingen",
   "blog.post.editor.newTranslation": "Nieuwe vertaling",
-  "blog.pages.editor.ownLayout": "Deze vertaling is opgeslagen met een eigen indeling, die lezers nog steeds zien. Als je haar hier opslaat, krijgt ze de indeling van de pagina, met de tekst van de blokken die beide delen.",
   "blog.pages.editor.colours": "Paginakleuren",
   "blog.pages.editor.previewHint": "Bekijk de pagina zoals lezers haar zien, zonder de bewerkingstools.",
   "blog.pages.editor.backToEditing": "Terug naar bewerken",

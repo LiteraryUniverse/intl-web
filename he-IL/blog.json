@@ -634,7 +634,6 @@
   "blog.post.editor.language": "השפה לעריכה",
   "blog.post.editor.translations": "תרגומים",
   "blog.post.editor.newTranslation": "תרגום חדש",
-  "blog.pages.editor.ownLayout": "התרגום הזה נשמר עם פריסה משלו, והקוראים עדיין רואים אותה. שמירה כאן תעניק לו את פריסת העמוד, עם הטקסט של הבלוקים המשותפים לשניהם.",
   "blog.pages.editor.colours": "צבעי העמוד",
   "blog.pages.editor.previewHint": "ראו את העמוד כפי שהקוראים רואים אותו, בלי כלי העריכה.",
   "blog.pages.editor.backToEditing": "חזרה לעריכה",

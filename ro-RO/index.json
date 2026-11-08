@@ -835,7 +835,6 @@
   "blog.post.editor.language": "Limba editată",
   "blog.post.editor.translations": "Traduceri",
   "blog.post.editor.newTranslation": "Traducere nouă",
-  "blog.pages.editor.ownLayout": "Această traducere a fost salvată cu o machetă proprie, pe care cititorii o văd în continuare. Dacă o salvezi aici, primește macheta paginii, cu textul blocurilor comune ambelor.",
   "blog.pages.editor.colours": "Culorile paginii",
   "blog.pages.editor.previewHint": "Vezi pagina așa cum o văd cititorii, fără instrumentele de editare.",
   "blog.pages.editor.backToEditing": "Înapoi la editare",

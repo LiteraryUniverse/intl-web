@@ -835,7 +835,6 @@
   "blog.post.editor.language": "Language to edit",
   "blog.post.editor.translations": "Translations",
   "blog.post.editor.newTranslation": "New translation",
-  "blog.pages.editor.ownLayout": "This translation was saved with a layout of its own, which readers still see. Saving it here gives it the page's layout, with the text of the blocks both share.",
   "blog.pages.editor.colours": "Page colours",
   "blog.pages.editor.previewHint": "See the page as readers see it, without the editing tools.",
   "blog.pages.editor.backToEditing": "Back to editing",

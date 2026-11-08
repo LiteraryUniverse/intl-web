@@ -835,7 +835,6 @@
   "blog.post.editor.language": "Ngôn ngữ chỉnh sửa",
   "blog.post.editor.translations": "Bản dịch",
   "blog.post.editor.newTranslation": "Bản dịch mới",
-  "blog.pages.editor.ownLayout": "Bản dịch này đã được lưu với bố cục riêng mà độc giả vẫn đang thấy. Khi lưu tại đây, bản dịch sẽ dùng bố cục của trang, cùng nội dung của các khối mà cả hai dùng chung.",
   "blog.pages.editor.colours": "Màu trang",
   "blog.pages.editor.previewHint": "Xem trang như độc giả thấy, không có công cụ chỉnh sửa.",
   "blog.pages.editor.backToEditing": "Quay lại chỉnh sửa",

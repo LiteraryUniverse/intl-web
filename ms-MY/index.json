@@ -835,7 +835,6 @@
   "blog.post.editor.language": "Bahasa yang disunting",
   "blog.post.editor.translations": "Terjemahan",
   "blog.post.editor.newTranslation": "Terjemahan baharu",
-  "blog.pages.editor.ownLayout": "Terjemahan ini disimpan dengan reka letaknya sendiri, yang masih dilihat pembaca. Menyimpannya di sini memberikannya reka letak halaman, dengan teks blok yang dikongsi oleh kedua-duanya.",
   "blog.pages.editor.colours": "Warna halaman",
   "blog.pages.editor.previewHint": "Lihat halaman seperti yang dilihat pembaca, tanpa alat penyuntingan.",
   "blog.pages.editor.backToEditing": "Kembali menyunting",

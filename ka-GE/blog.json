@@ -634,7 +634,6 @@
   "blog.post.editor.language": "რედაქტირების ენა",
   "blog.post.editor.translations": "თარგმანები",
   "blog.post.editor.newTranslation": "ახალი თარგმანი",
-  "blog.pages.editor.ownLayout": "ეს თარგმანი საკუთარი განლაგებით შეინახა, რომელსაც მკითხველები ისევ ხედავენ. აქ შენახვისას მას გვერდის განლაგება მიეცემა, ორივესთვის საერთო ბლოკების ტექსტით.",
   "blog.pages.editor.colours": "გვერდის ფერები",
   "blog.pages.editor.previewHint": "ნახეთ გვერდი ისე, როგორც მკითხველები ხედავენ, რედაქტირების ხელსაწყოების გარეშე.",
   "blog.pages.editor.backToEditing": "რედაქტირებაზე დაბრუნება",

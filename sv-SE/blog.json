@@ -634,7 +634,6 @@
   "blog.post.editor.language": "Språk som redigeras",
   "blog.post.editor.translations": "Översättningar",
   "blog.post.editor.newTranslation": "Ny översättning",
-  "blog.pages.editor.ownLayout": "Den här översättningen sparades med en egen layout, som läsarna fortfarande ser. Om du sparar den här får den sidans layout, med texten i de block som båda delar.",
   "blog.pages.editor.colours": "Sidfärger",
   "blog.pages.editor.previewHint": "Se sidan som läsarna ser den, utan redigeringsverktygen.",
   "blog.pages.editor.backToEditing": "Tillbaka till redigeringen",

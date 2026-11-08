@@ -835,7 +835,6 @@
   "blog.post.editor.language": "Мова для редагування",
   "blog.post.editor.translations": "Переклади",
   "blog.post.editor.newTranslation": "Новий переклад",
-  "blog.pages.editor.ownLayout": "Цей переклад збережено з власним макетом, який читачі досі бачать. Якщо зберегти його тут, він отримає макет сторінки з текстом блоків, спільних для обох.",
   "blog.pages.editor.colours": "Кольори сторінки",
   "blog.pages.editor.previewHint": "Подивіться на сторінку так, як її бачать читачі, без інструментів редагування.",
   "blog.pages.editor.backToEditing": "Назад до редагування",

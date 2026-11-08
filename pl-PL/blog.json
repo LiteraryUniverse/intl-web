@@ -634,7 +634,6 @@
   "blog.post.editor.language": "Edytowany język",
   "blog.post.editor.translations": "Tłumaczenia",
   "blog.post.editor.newTranslation": "Nowe tłumaczenie",
-  "blog.pages.editor.ownLayout": "To tłumaczenie zapisano z własnym układem, który czytelnicy nadal widzą. Zapisanie go tutaj nada mu układ strony, z tekstem bloków wspólnych dla obu wersji.",
   "blog.pages.editor.colours": "Kolory strony",
   "blog.pages.editor.previewHint": "Zobacz stronę tak, jak widzą ją czytelnicy, bez narzędzi do edycji.",
   "blog.pages.editor.backToEditing": "Wróć do edycji",

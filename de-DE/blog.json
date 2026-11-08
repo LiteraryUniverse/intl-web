@@ -634,7 +634,6 @@
   "blog.post.editor.language": "Zu bearbeitende Sprache",
   "blog.post.editor.translations": "Übersetzungen",
   "blog.post.editor.newTranslation": "Neue Übersetzung",
-  "blog.pages.editor.ownLayout": "Diese Übersetzung wurde mit einem eigenen Layout gespeichert, das Leser weiterhin sehen. Wenn du sie hier speicherst, erhält sie das Layout der Seite, mit dem Text der Blöcke, die beide gemeinsam haben.",
   "blog.pages.editor.colours": "Seitenfarben",
   "blog.pages.editor.previewHint": "Sieh die Seite so, wie Leser sie sehen, ohne Bearbeitungswerkzeuge.",
   "blog.pages.editor.backToEditing": "Zurück zur Bearbeitung",
