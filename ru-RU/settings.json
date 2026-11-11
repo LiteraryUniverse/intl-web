@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Читать уведомления",
   "settings.apiKeys.scope.notifications.read.desc": "Читать ваши уведомления",
   "settings.apiKeys.scope.notifications.write": "Обновлять уведомления",
-  "settings.apiKeys.scope.notifications.write.desc": "Отмечать ваши уведомления как прочитанные"
+  "settings.apiKeys.scope.notifications.write.desc": "Отмечать ваши уведомления как прочитанные",
+  "settings.integrations.mailer.summary": "Подключите рассылки своего блога.",
+  "settings.integrations.mailer.description": "Передавайте подтвержденных подписчиков в свой почтовый сервис. Отписки проверяются каждый час.",
+  "settings.integrations.mailer.noBlogs": "Создайте блог, чтобы подключить его рассылку."
 }

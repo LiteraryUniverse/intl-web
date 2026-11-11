@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "জাননী পঢ়ক",
   "settings.apiKeys.scope.notifications.read.desc": "আপোনাৰ জাননীসমূহ পঢ়ক",
   "settings.apiKeys.scope.notifications.write": "জাননী আপডেট কৰক",
-  "settings.apiKeys.scope.notifications.write.desc": "আপোনাৰ জাননীসমূহ পঢ়া বুলি চিহ্নিত কৰক"
+  "settings.apiKeys.scope.notifications.write.desc": "আপোনাৰ জাননীসমূহ পঢ়া বুলি চিহ্নিত কৰক",
+  "settings.integrations.mailer.summary": "আপোনাৰ ব্লগৰ মেইলিং তালিকা সংযোগ কৰক।",
+  "settings.integrations.mailer.description": "নিশ্চিত কৰা গ্ৰাহকসকলক আপোনাৰ ইমেইল সেৱালৈ পঠিয়াওক। প্ৰতি ঘণ্টাত সদস্যতা বাতিল পৰীক্ষা কৰা হয়।",
+  "settings.integrations.mailer.noBlogs": "মেইলিং তালিকা সংযোগ কৰিবলৈ এটা ব্লগ সৃষ্টি কৰক।"
 }

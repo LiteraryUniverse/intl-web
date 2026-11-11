@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Értesítések olvasása",
   "settings.apiKeys.scope.notifications.read.desc": "Értesítéseid olvasása",
   "settings.apiKeys.scope.notifications.write": "Értesítések frissítése",
-  "settings.apiKeys.scope.notifications.write.desc": "Értesítéseid megjelölése olvasottként"
+  "settings.apiKeys.scope.notifications.write.desc": "Értesítéseid megjelölése olvasottként",
+  "settings.integrations.mailer.summary": "Kapcsold össze a blogod levelezőlistáit.",
+  "settings.integrations.mailer.description": "Küldd el a megerősített feliratkozókat az e-mail-szolgáltatásodnak. A leiratkozásokat óránként ellenőrizzük.",
+  "settings.integrations.mailer.noBlogs": "Hozz létre egy blogot a levelezőlistája összekapcsolásához."
 }

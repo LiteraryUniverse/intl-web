@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Read notifications",
   "settings.apiKeys.scope.notifications.read.desc": "Read your notifications",
   "settings.apiKeys.scope.notifications.write": "Update notifications",
-  "settings.apiKeys.scope.notifications.write.desc": "Mark your notifications as read"
+  "settings.apiKeys.scope.notifications.write.desc": "Mark your notifications as read",
+  "settings.integrations.mailer.summary": "Connect your blog mailing lists.",
+  "settings.integrations.mailer.description": "Send confirmed subscribers to your mail service. Unsubscribes are checked hourly.",
+  "settings.integrations.mailer.noBlogs": "Create a blog to connect its mailing list."
 }

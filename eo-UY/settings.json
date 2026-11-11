@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Legi sciigojn",
   "settings.apiKeys.scope.notifications.read.desc": "Legi viajn sciigojn",
   "settings.apiKeys.scope.notifications.write": "Ĝisdatigi sciigojn",
-  "settings.apiKeys.scope.notifications.write.desc": "Marki viajn sciigojn kiel legitajn"
+  "settings.apiKeys.scope.notifications.write.desc": "Marki viajn sciigojn kiel legitajn",
+  "settings.integrations.mailer.summary": "Konektu la dissendolistojn de via blogo.",
+  "settings.integrations.mailer.description": "Sendu konfirmitajn abonantojn al via retpoŝta servo. Malabonoj estas kontrolataj ĉiuhore.",
+  "settings.integrations.mailer.noBlogs": "Kreu blogon por konekti ĝian dissendoliston."
 }

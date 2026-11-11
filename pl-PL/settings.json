@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Odczyt powiadomień",
   "settings.apiKeys.scope.notifications.read.desc": "Odczytywanie Twoich powiadomień",
   "settings.apiKeys.scope.notifications.write": "Aktualizowanie powiadomień",
-  "settings.apiKeys.scope.notifications.write.desc": "Oznaczanie Twoich powiadomień jako przeczytanych"
+  "settings.apiKeys.scope.notifications.write.desc": "Oznaczanie Twoich powiadomień jako przeczytanych",
+  "settings.integrations.mailer.summary": "Połącz listy mailingowe swojego bloga.",
+  "settings.integrations.mailer.description": "Przesyłaj potwierdzonych subskrybentów do swojej usługi e-mail. Rezygnacje z subskrypcji są sprawdzane co godzinę.",
+  "settings.integrations.mailer.noBlogs": "Utwórz blog, aby połączyć jego listę mailingową."
 }

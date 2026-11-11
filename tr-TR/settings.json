@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Bildirimleri oku",
   "settings.apiKeys.scope.notifications.read.desc": "Bildirimlerinizi okuyun",
   "settings.apiKeys.scope.notifications.write": "Bildirimleri güncelle",
-  "settings.apiKeys.scope.notifications.write.desc": "Bildirimlerinizi okundu olarak işaretleyin"
+  "settings.apiKeys.scope.notifications.write.desc": "Bildirimlerinizi okundu olarak işaretleyin",
+  "settings.integrations.mailer.summary": "Blogunuzun posta listelerini bağlayın.",
+  "settings.integrations.mailer.description": "Onaylanmış aboneleri e-posta hizmetinize gönderin. Abonelik iptalleri her saat kontrol edilir.",
+  "settings.integrations.mailer.noBlogs": "Posta listesini bağlamak için bir blog oluşturun."
 }

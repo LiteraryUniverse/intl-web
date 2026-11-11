@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "सूचना वाचा",
   "settings.apiKeys.scope.notifications.read.desc": "तुमच्या सूचना वाचा",
   "settings.apiKeys.scope.notifications.write": "सूचना अद्ययावत करा",
-  "settings.apiKeys.scope.notifications.write.desc": "तुमच्या सूचना वाचलेल्या म्हणून चिन्हांकित करा"
+  "settings.apiKeys.scope.notifications.write.desc": "तुमच्या सूचना वाचलेल्या म्हणून चिन्हांकित करा",
+  "settings.integrations.mailer.summary": "तुमच्या ब्लॉगच्या मेलिंग याद्या जोडा.",
+  "settings.integrations.mailer.description": "पुष्टी केलेले सदस्य तुमच्या ईमेल सेवेकडे पाठवा. रद्द केलेली सदस्यत्वे दर तासाला तपासली जातात.",
+  "settings.integrations.mailer.noBlogs": "मेलिंग यादी जोडण्यासाठी ब्लॉग तयार करा."
 }

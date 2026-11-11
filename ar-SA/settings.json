@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "قراءة الإشعارات",
   "settings.apiKeys.scope.notifications.read.desc": "قراءة إشعاراتك",
   "settings.apiKeys.scope.notifications.write": "تحديث الإشعارات",
-  "settings.apiKeys.scope.notifications.write.desc": "وضع علامة مقروء على إشعاراتك"
+  "settings.apiKeys.scope.notifications.write.desc": "وضع علامة مقروء على إشعاراتك",
+  "settings.integrations.mailer.summary": "اربط قوائم بريد مدونتك.",
+  "settings.integrations.mailer.description": "أرسل المشتركين المؤكدين إلى خدمة البريد لديك. نتحقق من إلغاء الاشتراك كل ساعة.",
+  "settings.integrations.mailer.noBlogs": "أنشئ مدونة لربط قائمتها البريدية."
 }

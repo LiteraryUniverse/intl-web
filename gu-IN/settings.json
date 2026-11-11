@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "સૂચનાઓ વાંચો",
   "settings.apiKeys.scope.notifications.read.desc": "તમારી સૂચનાઓ વાંચો",
   "settings.apiKeys.scope.notifications.write": "સૂચનાઓ અપડેટ કરો",
-  "settings.apiKeys.scope.notifications.write.desc": "તમારી સૂચનાઓને વાંચેલી તરીકે ચિહ્નિત કરો"
+  "settings.apiKeys.scope.notifications.write.desc": "તમારી સૂચનાઓને વાંચેલી તરીકે ચિહ્નિત કરો",
+  "settings.integrations.mailer.summary": "તમારા બ્લોગની મેઇલિંગ યાદીઓ જોડો.",
+  "settings.integrations.mailer.description": "પુષ્ટિ થયેલા સબ્સ્ક્રાઇબર્સને તમારી ઇમેઇલ સેવામાં મોકલો. દર કલાકે રદ થયેલા સબ્સ્ક્રિપ્શન તપાસવામાં આવે છે.",
+  "settings.integrations.mailer.noBlogs": "તેની મેઇલિંગ યાદી જોડવા માટે બ્લોગ બનાવો."
 }

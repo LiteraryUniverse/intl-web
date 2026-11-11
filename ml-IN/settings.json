@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "അറിയിപ്പുകൾ വായിക്കുക",
   "settings.apiKeys.scope.notifications.read.desc": "നിങ്ങളുടെ അറിയിപ്പുകൾ വായിക്കുക",
   "settings.apiKeys.scope.notifications.write": "അറിയിപ്പുകൾ പുതുക്കുക",
-  "settings.apiKeys.scope.notifications.write.desc": "നിങ്ങളുടെ അറിയിപ്പുകൾ വായിച്ചതായി അടയാളപ്പെടുത്തുക"
+  "settings.apiKeys.scope.notifications.write.desc": "നിങ്ങളുടെ അറിയിപ്പുകൾ വായിച്ചതായി അടയാളപ്പെടുത്തുക",
+  "settings.integrations.mailer.summary": "നിങ്ങളുടെ ബ്ലോഗിന്റെ മെയിലിംഗ് ലിസ്റ്റുകൾ ബന്ധിപ്പിക്കുക.",
+  "settings.integrations.mailer.description": "സ്ഥിരീകരിച്ച വരിക്കാരെ നിങ്ങളുടെ ഇമെയിൽ സേവനത്തിലേക്ക് അയയ്ക്കുക. റദ്ദാക്കിയ സബ്സ്ക്രിപ്ഷനുകൾ ഓരോ മണിക്കൂറിലും പരിശോധിക്കും.",
+  "settings.integrations.mailer.noBlogs": "മെയിലിംഗ് ലിസ്റ്റ് ബന്ധിപ്പിക്കാൻ ഒരു ബ്ലോഗ് സൃഷ്ടിക്കുക."
 }

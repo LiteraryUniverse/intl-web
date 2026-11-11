@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Citirea notificărilor",
   "settings.apiKeys.scope.notifications.read.desc": "Citirea notificărilor tale",
   "settings.apiKeys.scope.notifications.write": "Actualizarea notificărilor",
-  "settings.apiKeys.scope.notifications.write.desc": "Marcarea notificărilor tale ca citite"
+  "settings.apiKeys.scope.notifications.write.desc": "Marcarea notificărilor tale ca citite",
+  "settings.integrations.mailer.summary": "Conectează listele de e-mail ale blogului tău.",
+  "settings.integrations.mailer.description": "Trimite abonații confirmați către serviciul tău de e-mail. Dezabonările sunt verificate în fiecare oră.",
+  "settings.integrations.mailer.noBlogs": "Creează un blog pentru a-i conecta lista de e-mail."
 }

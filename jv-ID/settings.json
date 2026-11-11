@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Maca kabar",
   "settings.apiKeys.scope.notifications.read.desc": "Maca kabar sampeyan",
   "settings.apiKeys.scope.notifications.write": "Nganyari kabar",
-  "settings.apiKeys.scope.notifications.write.desc": "Nandhani kabar sampeyan wis diwaca"
+  "settings.apiKeys.scope.notifications.write.desc": "Nandhani kabar sampeyan wis diwaca",
+  "settings.integrations.mailer.summary": "Sambungake dhaptar email blog sampeyan.",
+  "settings.integrations.mailer.description": "Kirim pelanggan sing wis dikonfirmasi menyang layanan email sampeyan. Pembatalan langganan dipriksa saben jam.",
+  "settings.integrations.mailer.noBlogs": "Gawe blog kanggo nyambungake dhaptar emaile."
 }

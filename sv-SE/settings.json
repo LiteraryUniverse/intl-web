@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Läs aviseringar",
   "settings.apiKeys.scope.notifications.read.desc": "Läs dina aviseringar",
   "settings.apiKeys.scope.notifications.write": "Uppdatera aviseringar",
-  "settings.apiKeys.scope.notifications.write.desc": "Markera dina aviseringar som lästa"
+  "settings.apiKeys.scope.notifications.write.desc": "Markera dina aviseringar som lästa",
+  "settings.integrations.mailer.summary": "Anslut din bloggs e-postlistor.",
+  "settings.integrations.mailer.description": "Skicka bekräftade prenumeranter till din e-posttjänst. Avregistreringar kontrolleras varje timme.",
+  "settings.integrations.mailer.noBlogs": "Skapa en blogg för att ansluta dess e-postlista."
 }

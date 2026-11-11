@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Basahin ang mga abiso",
   "settings.apiKeys.scope.notifications.read.desc": "Basahin ang iyong mga abiso",
   "settings.apiKeys.scope.notifications.write": "I-update ang mga abiso",
-  "settings.apiKeys.scope.notifications.write.desc": "Markahan ang iyong mga abiso bilang nabasa na"
+  "settings.apiKeys.scope.notifications.write.desc": "Markahan ang iyong mga abiso bilang nabasa na",
+  "settings.integrations.mailer.summary": "Ikonekta ang mga mailing list ng iyong blog.",
+  "settings.integrations.mailer.description": "Ipadala ang mga kumpirmadong subscriber sa iyong serbisyo sa email. Sinusuri ang mga pag-unsubscribe bawat oras.",
+  "settings.integrations.mailer.noBlogs": "Gumawa ng blog para ikonekta ang mailing list nito."
 }

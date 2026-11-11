@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Loe teavitusi",
   "settings.apiKeys.scope.notifications.read.desc": "Loe oma teavitusi",
   "settings.apiKeys.scope.notifications.write": "Uuenda teavitusi",
-  "settings.apiKeys.scope.notifications.write.desc": "Märgi oma teavitused loetuks"
+  "settings.apiKeys.scope.notifications.write.desc": "Märgi oma teavitused loetuks",
+  "settings.integrations.mailer.summary": "Ühenda oma ajaveebi meililistid.",
+  "settings.integrations.mailer.description": "Saada kinnitatud tellijad oma meiliteenusesse. Loobumisi kontrollitakse iga tund.",
+  "settings.integrations.mailer.noBlogs": "Loo ajaveeb, et ühendada selle meililist."
 }

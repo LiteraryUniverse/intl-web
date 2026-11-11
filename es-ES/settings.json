@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Leer notificaciones",
   "settings.apiKeys.scope.notifications.read.desc": "Leer tus notificaciones",
   "settings.apiKeys.scope.notifications.write": "Actualizar notificaciones",
-  "settings.apiKeys.scope.notifications.write.desc": "Marcar tus notificaciones como leídas"
+  "settings.apiKeys.scope.notifications.write.desc": "Marcar tus notificaciones como leídas",
+  "settings.integrations.mailer.summary": "Conecta las listas de correo de tu blog.",
+  "settings.integrations.mailer.description": "Envía los suscriptores confirmados a tu servicio de correo. Las bajas se comprueban cada hora.",
+  "settings.integrations.mailer.noBlogs": "Crea un blog para conectar su lista de correo."
 }

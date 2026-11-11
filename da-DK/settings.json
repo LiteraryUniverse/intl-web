@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "Læs notifikationer",
   "settings.apiKeys.scope.notifications.read.desc": "Læs dine notifikationer",
   "settings.apiKeys.scope.notifications.write": "Opdater notifikationer",
-  "settings.apiKeys.scope.notifications.write.desc": "Markér dine notifikationer som læst"
+  "settings.apiKeys.scope.notifications.write.desc": "Markér dine notifikationer som læst",
+  "settings.integrations.mailer.summary": "Forbind din blogs mailinglister.",
+  "settings.integrations.mailer.description": "Send bekræftede abonnenter til din mailtjeneste. Afmeldinger kontrolleres hver time.",
+  "settings.integrations.mailer.noBlogs": "Opret en blog for at forbinde dens mailingliste."
 }

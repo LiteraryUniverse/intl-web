@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "קריאת התראות",
   "settings.apiKeys.scope.notifications.read.desc": "קריאת ההתראות שלך",
   "settings.apiKeys.scope.notifications.write": "עדכון התראות",
-  "settings.apiKeys.scope.notifications.write.desc": "סימון ההתראות שלך כנקראו"
+  "settings.apiKeys.scope.notifications.write.desc": "סימון ההתראות שלך כנקראו",
+  "settings.integrations.mailer.summary": "חברו את רשימות התפוצה של הבלוג שלכם.",
+  "settings.integrations.mailer.description": "שלחו מנויים מאומתים לשירות הדיוור שלכם. ביטולי הרשמה נבדקים מדי שעה.",
+  "settings.integrations.mailer.noBlogs": "צרו בלוג כדי לחבר את רשימת התפוצה שלו."
 }

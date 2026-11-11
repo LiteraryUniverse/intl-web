@@ -555,5 +555,8 @@
   "settings.apiKeys.scope.notifications.read": "सूचनाहरू पढ्नुहोस्",
   "settings.apiKeys.scope.notifications.read.desc": "आफ्ना सूचनाहरू पढ्नुहोस्",
   "settings.apiKeys.scope.notifications.write": "सूचनाहरू अद्यावधिक गर्नुहोस्",
-  "settings.apiKeys.scope.notifications.write.desc": "आफ्ना सूचनाहरू पढिएको रूपमा चिन्ह लगाउनुहोस्"
+  "settings.apiKeys.scope.notifications.write.desc": "आफ्ना सूचनाहरू पढिएको रूपमा चिन्ह लगाउनुहोस्",
+  "settings.integrations.mailer.summary": "आफ्नो ब्लगको मेलिङ सूची जोड्नुहोस्।",
+  "settings.integrations.mailer.description": "पुष्टि भएका सदस्यहरूलाई आफ्नो इमेल सेवामा पठाउनुहोस्। सदस्यता रद्द भएको हरेक घण्टा जाँच गरिन्छ।",
+  "settings.integrations.mailer.noBlogs": "मेलिङ सूची जोड्न ब्लग सिर्जना गर्नुहोस्।"
 }
