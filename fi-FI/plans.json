@@ -47,6 +47,7 @@
   "plans.feature.accessToBeta": "Pääsy beetaversioihin",
   "plans.feature.userGroups": "Käyttäjäryhmät",
   "plans.feature.privateUserGroups": "Luo yksityisiä ja piilotettuja käyttäjäryhmiä",
+  "plans.feature.eventMessages": "Viesti kaikille tapahtumiisi tuleville",
   "plans.feature.internalUniverseForums": "Sisäinen foorumi universumeille",
   "plans.feature.fictionalTime": "Keksitty aika",
   "plans.feature.forums": "Foorumit blogeissa ja universumisivuilla",

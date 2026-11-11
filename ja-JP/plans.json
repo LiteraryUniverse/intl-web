@@ -47,6 +47,7 @@
   "plans.feature.accessToBeta": "ベータ版の機能にアクセスする",
   "plans.feature.userGroups": "ユーザーグループ",
   "plans.feature.privateUserGroups": "プライベートおよび非表示のユーザーグループ作成",
+  "plans.feature.eventMessages": "イベント参加予定の全員にメッセージを送る",
   "plans.feature.internalUniverseForums": "宇宙に関する社内フォーラム",
   "plans.feature.fictionalTime": "架空の時間",
   "plans.feature.forums": "ブログフォーラム&宇宙関連ページ",
