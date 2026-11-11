@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Írd a történeteidet az Obsidianben, és tartsd őket szinkronban a Literary Universe-szel.",
   "settings.integrations.obsidian.pull": "A fejezeteid Markdown-jegyzetként érkeznek a tárolódba.",
   "settings.integrations.obsidian.push": "A szerkesztett fejezetek piszkozatként kerülnek vissza. A jegyzeteidet soha nem írjuk felül: ha egy fejezet mindkét helyen megváltozott, a Literary Universe-es változatot a jegyzeted mellé mentjük.",
-  "settings.integrations.obsidian.apiKey": "Hozz létre egy <link>API-kulcsot</link> a(z) „Történetek olvasása” és „Történetek szerkesztése” engedéllyel, majd add hozzá a bővítmény beállításaiban.",
+  "settings.integrations.obsidian.signIn": "Jelentkezz be a bővítmény beállításaiban, és engedd meg neki, hogy olvassa és szerkessze a történeteidet. <link>Hogyan működik a bővítmény</link>",
   "settings.apiKeys.scope.tasks.read": "Feladatok olvasása",
   "settings.apiKeys.scope.tasks.read.desc": "Személyes feladataid olvasása",
   "settings.apiKeys.scope.tasks.write": "Feladatok frissítése",

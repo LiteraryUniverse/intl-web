@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "เขียนเรื่องของคุณใน Obsidian และซิงค์ไว้กับ Literary Universe เสมอ",
   "settings.integrations.obsidian.pull": "บทของคุณจะเข้ามาในคลังของคุณเป็นโน้ต Markdown",
   "settings.integrations.obsidian.push": "บทที่คุณแก้ไขจะถูกส่งกลับเป็นฉบับร่าง โน้ตของคุณจะไม่ถูกเขียนทับ: หากบทใดเปลี่ยนทั้งสองฝั่ง ฉบับจาก Literary Universe จะถูกบันทึกไว้ข้างโน้ตของคุณ",
-  "settings.integrations.obsidian.apiKey": "สร้าง<link>คีย์ API</link>ที่มีสิทธิ์ “อ่านเรื่องราว” และ “แก้ไขเรื่องราว” แล้วเพิ่มในการตั้งค่าของปลั๊กอิน",
+  "settings.integrations.obsidian.signIn": "ลงชื่อเข้าใช้จากการตั้งค่าของปลั๊กอิน และอนุญาตให้ปลั๊กอินอ่านและแก้ไขเรื่องของคุณ <link>ปลั๊กอินทำงานอย่างไร</link>",
   "settings.apiKeys.scope.tasks.read": "อ่านงาน",
   "settings.apiKeys.scope.tasks.read.desc": "อ่านงานส่วนตัวของคุณ",
   "settings.apiKeys.scope.tasks.write": "อัปเดตงาน",

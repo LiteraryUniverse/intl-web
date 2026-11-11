@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Kirjoita tarinasi Obsidianissa ja pidä ne synkronoituina Literary Universen kanssa.",
   "settings.integrations.obsidian.pull": "Lukusi saapuvat holviisi Markdown-muistiinpanoina.",
   "settings.integrations.obsidian.push": "Muokkaamasi luvut palaavat luonnoksina. Muistiinpanojasi ei koskaan korvata: jos luku on muuttunut molemmissa paikoissa, Literary Universen versio tallennetaan muistiinpanosi viereen.",
-  "settings.integrations.obsidian.apiKey": "Luo <link>API-avain</link>, jolla on oikeudet ”Lue tarinoita” ja ”Muokkaa tarinoita”, ja lisää se sitten laajennuksen asetuksiin.",
+  "settings.integrations.obsidian.signIn": "Kirjaudu sisään laajennuksen asetuksista ja salli sen lukea ja muokata tarinoitasi. <link>Näin laajennus toimii</link>",
   "settings.apiKeys.scope.tasks.read": "Lue tehtäviä",
   "settings.apiKeys.scope.tasks.read.desc": "Lue henkilökohtaisia tehtäviäsi",
   "settings.apiKeys.scope.tasks.write": "Päivitä tehtäviä",

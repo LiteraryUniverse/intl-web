@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Obsidian でストーリーを書き、Literary Universe と同期させましょう。",
   "settings.integrations.obsidian.pull": "章は Markdown ノートとして保管庫に届きます。",
   "settings.integrations.obsidian.push": "編集した章は下書きとして戻ります。ノートが上書きされることはありません。章が両方で変更されていた場合は、Literary Universe 側の版がノートの隣に保存されます。",
-  "settings.integrations.obsidian.apiKey": "「ストーリーを読む」と「ストーリーを編集」の権限を持つ<link>API キー</link>を作成し、プラグインの設定に追加してください。",
+  "settings.integrations.obsidian.signIn": "プラグインの設定からサインインし、ストーリーの閲覧と編集を許可してください。<link>プラグインのしくみ</link>",
   "settings.apiKeys.scope.tasks.read": "タスクの読み取り",
   "settings.apiKeys.scope.tasks.read.desc": "個人タスクを読み取ります",
   "settings.apiKeys.scope.tasks.write": "タスクの更新",

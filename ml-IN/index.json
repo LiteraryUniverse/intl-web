@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Obsidian-ൽ നിങ്ങളുടെ കഥകൾ എഴുതുക, അവ Literary Universe-മായി സമന്വയിപ്പിച്ച് നിലനിർത്തുക.",
   "settings.integrations.obsidian.pull": "നിങ്ങളുടെ അധ്യായങ്ങൾ Markdown കുറിപ്പുകളായി നിങ്ങളുടെ വോൾട്ടിൽ എത്തുന്നു.",
   "settings.integrations.obsidian.push": "നിങ്ങൾ തിരുത്തുന്ന അധ്യായങ്ങൾ ഡ്രാഫ്റ്റുകളായി തിരികെ പോകുന്നു. നിങ്ങളുടെ കുറിപ്പുകൾ ഒരിക്കലും മാറ്റിയെഴുതപ്പെടില്ല: ഒരു അധ്യായം രണ്ടിടത്തും മാറിയിട്ടുണ്ടെങ്കിൽ, Literary Universe പതിപ്പ് നിങ്ങളുടെ കുറിപ്പിനടുത്ത് സംരക്ഷിക്കും.",
-  "settings.integrations.obsidian.apiKey": "“Read stories”, “കഥകൾ തിരുത്തുക” അനുമതികളുള്ള ഒരു <link>API കീ</link> സൃഷ്ടിക്കുക, തുടർന്ന് അത് പ്ലഗിനിന്റെ ക്രമീകരണങ്ങളിൽ ചേർക്കുക.",
+  "settings.integrations.obsidian.signIn": "പ്ലഗിനിന്റെ ക്രമീകരണങ്ങളിൽ നിന്ന് സൈൻ ഇൻ ചെയ്ത്, നിങ്ങളുടെ കഥകൾ വായിക്കാനും തിരുത്താനും അതിന് അനുമതി നൽകുക. <link>പ്ലഗിൻ എങ്ങനെ പ്രവർത്തിക്കുന്നു</link>",
   "settings.apiKeys.scope.tasks.read": "ജോലികൾ വായിക്കുക",
   "settings.apiKeys.scope.tasks.read.desc": "നിങ്ങളുടെ വ്യക്തിഗത ജോലികൾ വായിക്കുക",
   "settings.apiKeys.scope.tasks.write": "ജോലികൾ പുതുക്കുക",

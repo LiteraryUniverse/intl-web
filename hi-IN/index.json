@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Obsidian में अपनी कहानियाँ लिखें और उन्हें Literary Universe के साथ सिंक रखें।",
   "settings.integrations.obsidian.pull": "आपके अध्याय Markdown नोट्स के रूप में आपके वॉल्ट में आते हैं।",
   "settings.integrations.obsidian.push": "आप जिन अध्यायों को संपादित करते हैं, वे ड्राफ़्ट के रूप में वापस जाते हैं। आपके नोट्स कभी ओवरराइट नहीं होते: अगर कोई अध्याय दोनों जगह बदला है, तो Literary Universe वाला संस्करण आपके नोट के बगल में सहेजा जाता है।",
-  "settings.integrations.obsidian.apiKey": "“कहानियाँ पढ़ना” और “कहानियाँ संपादित करना” अनुमतियों के साथ एक <link>API कुंजी</link> बनाएँ, फिर उसे प्लगइन की सेटिंग्स में जोड़ें।",
+  "settings.integrations.obsidian.signIn": "प्लगइन की सेटिंग्स से साइन इन करें और उसे अपनी कहानियाँ पढ़ने और संपादित करने की अनुमति दें। <link>प्लगइन कैसे काम करता है</link>",
   "settings.apiKeys.scope.tasks.read": "कार्य पढ़ें",
   "settings.apiKeys.scope.tasks.read.desc": "अपने व्यक्तिगत कार्य पढ़ें",
   "settings.apiKeys.scope.tasks.write": "कार्य अपडेट करें",

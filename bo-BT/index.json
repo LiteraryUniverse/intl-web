@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "ཁྱེད་ཀྱི་སྒྲུང་རྣམས་ Obsidian ནང་འབྲི་བ་དང་ Literary Universe དང་མཉམ་དུ་མཐུན་སྒྲིག་བྱེད།",
   "settings.integrations.obsidian.pull": "ཁྱེད་ཀྱི་ལེའུ་རྣམས་ Markdown ཟིན་ཐོའི་རྣམ་པར་ཁྱེད་ཀྱི་ vault ནང་འབྱོར་གྱི་རེད།",
   "settings.integrations.obsidian.push": "ཁྱེད་ཀྱིས་རྩོམ་སྒྲིག་བྱས་པའི་ལེའུ་རྣམས་ཟིན་བྲིས་སུ་ཕྱིར་འགྲོ། ཁྱེད་ཀྱི་ཟིན་ཐོ་ནམ་ཡང་ཚབ་བརྗེ་མི་བྱེད། ལེའུ་ཞིག་ས་གནས་གཉིས་ཀར་འགྱུར་བ་བྱུང་ན། Literary Universe ཡི་པར་གཞི་དེ་ཁྱེད་ཀྱི་ཟིན་ཐོའི་འགྲམ་དུ་ཉར་ཚགས་བྱེད།",
-  "settings.integrations.obsidian.apiKey": "“Read stories” དང་ “སྒྲུང་རྣམས་རྩོམ་སྒྲིག་བྱེད་པ།” ཆོག་མཆན་ཡོད་པའི་ <link>API ལྡེ་མིག</link> ཞིག་བཟོས་ནས་ plugin ཡི་སྒྲིག་འགོད་ནང་སྣོན།",
+  "settings.integrations.obsidian.signIn": "plugin ཡི་སྒྲིག་འགོད་ནས་ནང་འཛུལ་བྱས་ཏེ། ཁྱེད་ཀྱི་སྒྲུང་ཀློག་པ་དང་རྩོམ་སྒྲིག་བྱེད་པའི་ཆོག་མཆན་སྤྲོད། <link>plugin ཇི་ལྟར་ལས་ཀ་བྱེད་པ།</link>",
   "settings.apiKeys.scope.tasks.read": "ལས་ཀ་ཀློག་པ།",
   "settings.apiKeys.scope.tasks.read.desc": "ཁྱེད་ཀྱི་སྒེར་གྱི་ལས་ཀ་ཀློག་པ།",
   "settings.apiKeys.scope.tasks.write": "ལས་ཀ་གསར་སྒྱུར།",

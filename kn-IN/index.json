@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Obsidian ನಲ್ಲಿ ನಿಮ್ಮ ಕಥೆಗಳನ್ನು ಬರೆಯಿರಿ ಮತ್ತು ಅವುಗಳನ್ನು Literary Universe ಜೊತೆ ಸಿಂಕ್‌ನಲ್ಲಿಡಿ.",
   "settings.integrations.obsidian.pull": "ನಿಮ್ಮ ಅಧ್ಯಾಯಗಳು Markdown ಟಿಪ್ಪಣಿಗಳಾಗಿ ನಿಮ್ಮ ವಾಲ್ಟ್‌ಗೆ ಬರುತ್ತವೆ.",
   "settings.integrations.obsidian.push": "ನೀವು ಸಂಪಾದಿಸುವ ಅಧ್ಯಾಯಗಳು ಕರಡುಗಳಾಗಿ ಹಿಂತಿರುಗುತ್ತವೆ. ನಿಮ್ಮ ಟಿಪ್ಪಣಿಗಳನ್ನು ಎಂದಿಗೂ ಮೇಲ್ಬರಹ ಮಾಡಲಾಗುವುದಿಲ್ಲ: ಒಂದು ಅಧ್ಯಾಯ ಎರಡೂ ಕಡೆ ಬದಲಾಗಿದ್ದರೆ, Literary Universe ಆವೃತ್ತಿಯನ್ನು ನಿಮ್ಮ ಟಿಪ್ಪಣಿಯ ಪಕ್ಕದಲ್ಲಿ ಉಳಿಸಲಾಗುತ್ತದೆ.",
-  "settings.integrations.obsidian.apiKey": "“Read stories” ಮತ್ತು “ಕಥೆಗಳನ್ನು ಸಂಪಾದಿಸಿ” ಅನುಮತಿಗಳೊಂದಿಗೆ ಒಂದು <link>API ಕೀ</link> ರಚಿಸಿ, ನಂತರ ಅದನ್ನು ಪ್ಲಗಿನ್‌ನ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಸೇರಿಸಿ.",
+  "settings.integrations.obsidian.signIn": "ಪ್ಲಗಿನ್‌ನ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಂದ ಸೈನ್ ಇನ್ ಮಾಡಿ ಮತ್ತು ನಿಮ್ಮ ಕಥೆಗಳನ್ನು ಓದಲು ಹಾಗೂ ಸಂಪಾದಿಸಲು ಅದಕ್ಕೆ ಅನುಮತಿ ನೀಡಿ. <link>ಪ್ಲಗಿನ್ ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ</link>",
   "settings.apiKeys.scope.tasks.read": "ಕಾರ್ಯಗಳನ್ನು ಓದಿ",
   "settings.apiKeys.scope.tasks.read.desc": "ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಕಾರ್ಯಗಳನ್ನು ಓದಿ",
   "settings.apiKeys.scope.tasks.write": "ಕಾರ್ಯಗಳನ್ನು ನವೀಕರಿಸಿ",

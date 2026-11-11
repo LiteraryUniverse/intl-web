@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Obsidian‌లో మీ కథలు రాసి, వాటిని Literary Universe‌తో సింక్‌లో ఉంచండి.",
   "settings.integrations.obsidian.pull": "మీ అధ్యాయాలు Markdown నోట్‌లుగా మీ వాల్ట్‌లోకి వస్తాయి.",
   "settings.integrations.obsidian.push": "మీరు సవరించిన అధ్యాయాలు డ్రాఫ్ట్‌లుగా తిరిగి వెళ్తాయి. మీ నోట్‌లు ఎప్పుడూ ఓవర్‌రైట్ కావు: ఒక అధ్యాయం రెండు చోట్లా మారితే, Literary Universe వెర్షన్ మీ నోట్ పక్కనే సేవ్ అవుతుంది.",
-  "settings.integrations.obsidian.apiKey": "“Read stories”, “కథలను సవరించండి” అనుమతులతో ఒక <link>API కీ</link>ని సృష్టించి, ఆపై దాన్ని ప్లగిన్ సెట్టింగ్‌లలో జోడించండి.",
+  "settings.integrations.obsidian.signIn": "ప్లగిన్ సెట్టింగ్‌ల నుండి సైన్ ఇన్ చేసి, మీ కథలను చదవడానికి, సవరించడానికి దానికి అనుమతి ఇవ్వండి. <link>ప్లగిన్ ఎలా పనిచేస్తుంది</link>",
   "settings.apiKeys.scope.tasks.read": "పనులను చదవండి",
   "settings.apiKeys.scope.tasks.read.desc": "మీ వ్యక్తిగత పనులను చదవండి",
   "settings.apiKeys.scope.tasks.write": "పనులను నవీకరించండి",

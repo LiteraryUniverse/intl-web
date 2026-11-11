@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Nyurat satua ragané ring Obsidian tur jaga mangda satata pateh sareng Literary Universe.",
   "settings.integrations.obsidian.pull": "Bab-bab ragané rauh ring vault ragané dados cacatetan Markdown.",
   "settings.integrations.obsidian.push": "Bab sané kaédit mawali dados draf. Cacatetan ragané nénten naenin katimpalin: yéning wénten bab sané maobah ring kalih genah, vérsi Literary Universe kasimpen ring sisin cacatetan ragané.",
-  "settings.integrations.obsidian.apiKey": "Ngaryanin <link>kunci API</link> antuk idin “Read stories” miwah “Édit satua”, raris ngawewehin ring setélan plugin.",
+  "settings.integrations.obsidian.signIn": "Ranjing ring setélan plugin tur icén idin ngwacén miwah ngédit satua ragané. <link>Sapunapi plugin puniki makarya</link>",
   "settings.apiKeys.scope.tasks.read": "Ngwacen tugas",
   "settings.apiKeys.scope.tasks.read.desc": "Ngwacen tugas pribadi ragane",
   "settings.apiKeys.scope.tasks.write": "Nganyarin tugas",

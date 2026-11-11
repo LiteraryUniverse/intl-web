@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Viết truyện của bạn trong Obsidian và luôn đồng bộ với Literary Universe.",
   "settings.integrations.obsidian.pull": "Các chương của bạn được đưa vào kho của bạn dưới dạng ghi chú Markdown.",
   "settings.integrations.obsidian.push": "Các chương bạn chỉnh sửa sẽ được gửi lại dưới dạng bản nháp. Ghi chú của bạn không bao giờ bị ghi đè: nếu một chương đã thay đổi ở cả hai nơi, phiên bản của Literary Universe sẽ được lưu bên cạnh ghi chú của bạn.",
-  "settings.integrations.obsidian.apiKey": "Tạo một <link>khóa API</link> với quyền “Đọc truyện” và “Chỉnh sửa truyện”, sau đó thêm khóa vào phần cài đặt của plugin.",
+  "settings.integrations.obsidian.signIn": "Đăng nhập từ phần cài đặt của plugin và cho phép plugin đọc và chỉnh sửa truyện của bạn. <link>Cách plugin hoạt động</link>",
   "settings.apiKeys.scope.tasks.read": "Đọc công việc",
   "settings.apiKeys.scope.tasks.read.desc": "Đọc các công việc cá nhân của bạn",
   "settings.apiKeys.scope.tasks.write": "Cập nhật công việc",

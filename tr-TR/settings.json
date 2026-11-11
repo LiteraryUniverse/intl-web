@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Hikâyelerinizi Obsidian'da yazın ve Literary Universe ile eşitlenmiş tutun.",
   "settings.integrations.obsidian.pull": "Bölümleriniz kasanıza Markdown notları olarak gelir.",
   "settings.integrations.obsidian.push": "Düzenlediğiniz bölümler taslak olarak geri gider. Notlarınızın üzerine asla yazılmaz: bir bölüm iki yerde de değiştiyse Literary Universe sürümü notunuzun yanına kaydedilir.",
-  "settings.integrations.obsidian.apiKey": "“Hikayeleri okuyun” ve “Hikâyeleri düzenle” izinlerine sahip bir <link>API anahtarı</link> oluşturun, ardından eklentinin ayarlarına ekleyin.",
+  "settings.integrations.obsidian.signIn": "Eklentinin ayarlarından oturum açın ve hikâyelerinizi okumasına ve düzenlemesine izin verin. <link>Eklenti nasıl çalışır</link>",
   "settings.apiKeys.scope.tasks.read": "Görevleri oku",
   "settings.apiKeys.scope.tasks.read.desc": "Kişisel görevlerinizi okuyun",
   "settings.apiKeys.scope.tasks.write": "Görevleri güncelle",

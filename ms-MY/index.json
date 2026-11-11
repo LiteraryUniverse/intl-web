@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Tulis cerita anda dalam Obsidian dan pastikan ia sentiasa disegerakkan dengan Literary Universe.",
   "settings.integrations.obsidian.pull": "Bab anda tiba dalam vault anda sebagai nota Markdown.",
   "settings.integrations.obsidian.push": "Bab yang anda sunting dihantar semula sebagai draf. Nota anda tidak akan ditulis ganti: jika sesuatu bab berubah di kedua-dua tempat, versi Literary Universe disimpan di sebelah nota anda.",
-  "settings.integrations.obsidian.apiKey": "Cipta <link>kunci API</link> dengan kebenaran “Baca cerita” dan “Sunting cerita”, kemudian tambahkannya dalam tetapan pemalam.",
+  "settings.integrations.obsidian.signIn": "Log masuk dari tetapan pemalam dan benarkan ia membaca serta menyunting cerita anda. <link>Cara pemalam berfungsi</link>",
   "settings.apiKeys.scope.tasks.read": "Baca tugas",
   "settings.apiKeys.scope.tasks.read.desc": "Baca tugas peribadi anda",
   "settings.apiKeys.scope.tasks.write": "Kemas kini tugas",

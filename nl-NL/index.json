@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Schrijf je verhalen in Obsidian en houd ze gesynchroniseerd met Literary Universe.",
   "settings.integrations.obsidian.pull": "Je hoofdstukken komen als Markdown-notities in je kluis.",
   "settings.integrations.obsidian.push": "Hoofdstukken die je bewerkt, gaan terug als concepten. Je notities worden nooit overschreven: is een hoofdstuk op beide plekken gewijzigd, dan wordt de versie uit Literary Universe naast je notitie opgeslagen.",
-  "settings.integrations.obsidian.apiKey": "Maak een <link>API-sleutel</link> met de rechten ‘Verhalen lezen’ en ‘Verhalen bewerken’ en voeg hem toe in de instellingen van de plug-in.",
+  "settings.integrations.obsidian.signIn": "Log in via de instellingen van de plug-in en geef hem toestemming om je verhalen te lezen en te bewerken. <link>Zo werkt de plug-in</link>",
   "settings.apiKeys.scope.tasks.read": "Taken lezen",
   "settings.apiKeys.scope.tasks.read.desc": "Je persoonlijke taken lezen",
   "settings.apiKeys.scope.tasks.write": "Taken bijwerken",

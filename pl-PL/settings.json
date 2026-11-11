@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Pisz swoje historie w Obsidianie i synchronizuj je z Literary Universe.",
   "settings.integrations.obsidian.pull": "Twoje rozdziały trafiają do twojego sejfu jako notatki Markdown.",
   "settings.integrations.obsidian.push": "Edytowane rozdziały wracają jako wersje robocze. Twoje notatki nigdy nie są nadpisywane: jeśli rozdział zmienił się w obu miejscach, wersja z Literary Universe zostanie zapisana obok twojej notatki.",
-  "settings.integrations.obsidian.apiKey": "Utwórz <link>klucz API</link> z uprawnieniami „Proszę przeczytać historie” i „Edytowanie historii”, a następnie dodaj go w ustawieniach wtyczki.",
+  "settings.integrations.obsidian.signIn": "Zaloguj się w ustawieniach wtyczki i pozwól jej czytać i edytować twoje historie. <link>Jak działa wtyczka</link>",
   "settings.apiKeys.scope.tasks.read": "Odczyt zadań",
   "settings.apiKeys.scope.tasks.read.desc": "Odczytywanie Twoich osobistych zadań",
   "settings.apiKeys.scope.tasks.write": "Aktualizowanie zadań",

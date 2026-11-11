@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Obsidian માં તમારી વાર્તાઓ લખો અને તેમને Literary Universe સાથે સિંકમાં રાખો.",
   "settings.integrations.obsidian.pull": "તમારાં પ્રકરણો Markdown નોંધો તરીકે તમારા વૉલ્ટમાં આવે છે.",
   "settings.integrations.obsidian.push": "તમે સંપાદિત કરો છો તે પ્રકરણો ડ્રાફ્ટ તરીકે પાછાં જાય છે. તમારી નોંધો ક્યારેય ઓવરરાઇટ થતી નથી: જો કોઈ પ્રકરણ બંને જગ્યાએ બદલાયું હોય, તો Literary Universe નું સંસ્કરણ તમારી નોંધની બાજુમાં સાચવવામાં આવે છે.",
-  "settings.integrations.obsidian.apiKey": "“Read stories” અને “વાર્તાઓ સંપાદિત કરો” પરવાનગીઓ સાથે એક <link>API કી</link> બનાવો, પછી તેને પ્લગઇનની સેટિંગ્સમાં ઉમેરો.",
+  "settings.integrations.obsidian.signIn": "પ્લગઇનની સેટિંગ્સમાંથી સાઇન ઇન કરો અને તેને તમારી વાર્તાઓ વાંચવા અને સંપાદિત કરવાની મંજૂરી આપો. <link>પ્લગઇન કેવી રીતે કામ કરે છે</link>",
   "settings.apiKeys.scope.tasks.read": "કાર્યો વાંચો",
   "settings.apiKeys.scope.tasks.read.desc": "તમારા વ્યક્તિગત કાર્યો વાંચો",
   "settings.apiKeys.scope.tasks.write": "કાર્યો અપડેટ કરો",

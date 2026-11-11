@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Scrivi le tue storie in Obsidian e tienile sincronizzate con Literary Universe.",
   "settings.integrations.obsidian.pull": "I tuoi capitoli arrivano nel tuo vault come note Markdown.",
   "settings.integrations.obsidian.push": "I capitoli che modifichi tornano indietro come bozze. Le tue note non vengono mai sovrascritte: se un capitolo è cambiato in entrambi i posti, la versione di Literary Universe viene salvata accanto alla tua nota.",
-  "settings.integrations.obsidian.apiKey": "Crea una <link>chiave API</link> con i permessi «Leggi le storie» e «Modificare le storie», poi aggiungila nelle impostazioni del plugin.",
+  "settings.integrations.obsidian.signIn": "Accedi dalle impostazioni del plugin e consentigli di leggere e modificare le tue storie. <link>Come funziona il plugin</link>",
   "settings.apiKeys.scope.tasks.read": "Leggere le attività",
   "settings.apiKeys.scope.tasks.read.desc": "Leggere le tue attività personali",
   "settings.apiKeys.scope.tasks.write": "Aggiornare le attività",

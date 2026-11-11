@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Obsidian मे अपन कथा लिखू आ ओकरा Literary Universe संग सिंक मे राखू।",
   "settings.integrations.obsidian.pull": "अहाँक अध्याय Markdown नोटक रूप मे अहाँक वॉल्ट मे अबैत अछि।",
   "settings.integrations.obsidian.push": "अहाँ जे अध्याय संपादित करैत छी से ड्राफ्टक रूप मे घुरि जाइत अछि। अहाँक नोट कहियो ओवरराइट नहि होइत अछि: जँ कोनो अध्याय दुनू ठाम बदलल अछि, तँ Literary Universe वला संस्करण अहाँक नोटक बगल मे सहेजल जाइत अछि।",
-  "settings.integrations.obsidian.apiKey": "“Read stories” आ “कथा संपादित करू” अनुमतिक संग एकटा <link>API कुंजी</link> बनाउ, फेर ओकरा प्लगइनक सेटिंग मे जोड़ू।",
+  "settings.integrations.obsidian.signIn": "प्लगइनक सेटिंग सँ साइन इन करू आ ओकरा अहाँक कथा पढ़बाक आ संपादित करबाक अनुमति दिअ। <link>प्लगइन कोना काज करैत अछि</link>",
   "settings.apiKeys.scope.tasks.read": "काज पढ़ू",
   "settings.apiKeys.scope.tasks.read.desc": "अपन व्यक्तिगत काज पढ़ू",
   "settings.apiKeys.scope.tasks.write": "काज अद्यतन करू",

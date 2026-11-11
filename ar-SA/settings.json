@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "اكتب قصصك في Obsidian وأبقِها متزامنة مع Literary Universe.",
   "settings.integrations.obsidian.pull": "تصل فصولك إلى خزنتك كملاحظات Markdown.",
   "settings.integrations.obsidian.push": "تعود الفصول التي تعدّلها كمسودات. لا تُستبدل ملاحظاتك أبدًا: إذا تغيّر فصل في المكانين، تُحفظ نسخة Literary Universe بجانب ملاحظتك.",
-  "settings.integrations.obsidian.apiKey": "أنشئ <link>مفتاح API</link> بصلاحيتي «قراءة القصص» و«تعديل القصص»، ثم أضفه في إعدادات الإضافة.",
+  "settings.integrations.obsidian.signIn": "سجّل الدخول من إعدادات الإضافة واسمح لها بقراءة قصصك وتعديلها. <link>كيف تعمل الإضافة</link>",
   "settings.apiKeys.scope.tasks.read": "قراءة المهام",
   "settings.apiKeys.scope.tasks.read.desc": "قراءة مهامك الشخصية",
   "settings.apiKeys.scope.tasks.write": "تحديث المهام",

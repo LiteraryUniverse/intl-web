@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Verku viajn rakontojn en Obsidian kaj tenu ilin sinkronigitaj kun Literary Universe.",
   "settings.integrations.obsidian.pull": "Viaj ĉapitroj alvenas en vian trezorejon kiel Markdown-notoj.",
   "settings.integrations.obsidian.push": "Ĉapitroj, kiujn vi redaktas, revenas kiel malnetoj. Viaj notoj neniam estas anstataŭigitaj: se ĉapitro ŝanĝiĝis en ambaŭ lokoj, la versio de Literary Universe estas konservita apud via noto.",
-  "settings.integrations.obsidian.apiKey": "Kreu <link>API-ŝlosilon</link> kun la permesoj “Legi rakontojn” kaj “Redakti rakontojn”, poste aldonu ĝin en la agordoj de la kromprogramo.",
+  "settings.integrations.obsidian.signIn": "Ensalutu el la agordoj de la kromprogramo kaj permesu al ĝi legi kaj redakti viajn rakontojn. <link>Kiel la kromprogramo funkcias</link>",
   "settings.apiKeys.scope.tasks.read": "Legi taskojn",
   "settings.apiKeys.scope.tasks.read.desc": "Legi viajn personajn taskojn",
   "settings.apiKeys.scope.tasks.write": "Ĝisdatigi taskojn",

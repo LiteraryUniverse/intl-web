@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Tulisen crita sampeyan ing Obsidian lan jaga supaya tetep sinkron karo Literary Universe.",
   "settings.integrations.obsidian.pull": "Bab-bab sampeyan mlebu ing vault sampeyan minangka cathetan Markdown.",
   "settings.integrations.obsidian.push": "Bab sing sampeyan sunting bali minangka draf. Cathetan sampeyan ora tau ditimpa: yen ana bab sing owah ing loro panggonan, versi Literary Universe disimpen ing sandhinge cathetan sampeyan.",
-  "settings.integrations.obsidian.apiKey": "Gawe <link>kunci API</link> kanthi idin “Read stories” lan “Sunting crita”, banjur tambahake ing setelan plugin.",
+  "settings.integrations.obsidian.signIn": "Mlebu saka setelan plugin lan idinake plugin maca lan nyunting crita sampeyan. <link>Carane plugin iki makarya</link>",
   "settings.apiKeys.scope.tasks.read": "Maca tugas",
   "settings.apiKeys.scope.tasks.read.desc": "Maca tugas pribadi sampeyan",
   "settings.apiKeys.scope.tasks.write": "Nganyari tugas",

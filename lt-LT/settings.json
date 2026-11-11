@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Rašykite savo istorijas Obsidian programoje ir laikykite jas sinchronizuotas su Literary Universe.",
   "settings.integrations.obsidian.pull": "Jūsų skyriai atkeliauja į jūsų saugyklą kaip Markdown užrašai.",
   "settings.integrations.obsidian.push": "Jūsų redaguoti skyriai grįžta kaip juodraščiai. Jūsų užrašai niekada neperrašomi: jei skyrius pasikeitė abiejose vietose, Literary Universe versija išsaugoma šalia jūsų užrašo.",
-  "settings.integrations.obsidian.apiKey": "Sukurkite <link>API raktą</link> su leidimais „Skaityti istorijas“ ir „Redaguoti istorijas“, tada pridėkite jį papildinio nustatymuose.",
+  "settings.integrations.obsidian.signIn": "Prisijunkite papildinio nustatymuose ir leiskite jam skaityti bei redaguoti jūsų istorijas. <link>Kaip veikia papildinys</link>",
   "settings.apiKeys.scope.tasks.read": "Skaityti užduotis",
   "settings.apiKeys.scope.tasks.read.desc": "Skaityti jūsų asmenines užduotis",
   "settings.apiKeys.scope.tasks.write": "Atnaujinti užduotis",

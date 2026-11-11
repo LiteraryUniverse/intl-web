@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Kirjuta oma lugusid Obsidianis ja hoia need Literary Universe'iga sünkroonis.",
   "settings.integrations.obsidian.pull": "Sinu peatükid jõuavad su hoidlasse Markdowni märkmetena.",
   "settings.integrations.obsidian.push": "Peatükid, mida muudad, lähevad tagasi mustanditena. Sinu märkmeid ei kirjutata kunagi üle: kui peatükk muutus mõlemas kohas, salvestatakse Literary Universe'i versioon sinu märkme kõrvale.",
-  "settings.integrations.obsidian.apiKey": "Loo <link>API-võti</link> õigustega „Lugege lugusid“ ja „Muuda lugusid“ ning lisa see siis pistikprogrammi seadetesse.",
+  "settings.integrations.obsidian.signIn": "Logi sisse pistikprogrammi seadetes ja luba sel oma lugusid lugeda ja muuta. <link>Kuidas pistikprogramm töötab</link>",
   "settings.apiKeys.scope.tasks.read": "Loe ülesandeid",
   "settings.apiKeys.scope.tasks.read.desc": "Loe oma isiklikke ülesandeid",
   "settings.apiKeys.scope.tasks.write": "Uuenda ülesandeid",

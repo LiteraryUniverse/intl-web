@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Scríobh do scéalta in Obsidian agus coinnigh iad i sioncrónú le Literary Universe.",
   "settings.integrations.obsidian.pull": "Tagann do chaibidlí isteach i do stór mar nótaí Markdown.",
   "settings.integrations.obsidian.push": "Téann caibidlí a chuireann tú in eagar ar ais mar dhréachtaí. Ní dhéantar do nótaí a fhorscríobh riamh: má athraíodh caibidil sa dá áit, sábháiltear leagan Literary Universe in aice le do nóta.",
-  "settings.integrations.obsidian.apiKey": "Cruthaigh <link>eochair API</link> leis na ceadanna “Read stories” agus “Cuir scéalta in eagar”, ansin cuir i socruithe an bhreiseáin í.",
+  "settings.integrations.obsidian.signIn": "Sínigh isteach ó shocruithe an bhreiseáin agus lig dó do scéalta a léamh agus a chur in eagar. <link>Conas a oibríonn an breiseán</link>",
   "settings.apiKeys.scope.tasks.read": "Léigh tascanna",
   "settings.apiKeys.scope.tasks.read.desc": "Léigh do thascanna pearsanta",
   "settings.apiKeys.scope.tasks.write": "Nuashonraigh tascanna",

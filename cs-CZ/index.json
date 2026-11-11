@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Pište své příběhy v Obsidianu a udržujte je synchronizované s Literary Universe.",
   "settings.integrations.obsidian.pull": "Vaše kapitoly se objeví ve vašem trezoru jako poznámky v Markdownu.",
   "settings.integrations.obsidian.push": "Kapitoly, které upravíte, se vrátí jako koncepty. Vaše poznámky se nikdy nepřepíšou: pokud se kapitola změnila na obou místech, verze z Literary Universe se uloží vedle vaší poznámky.",
-  "settings.integrations.obsidian.apiKey": "Vytvořte <link>API klíč</link> s oprávněními „Přečtěte si příběhy“ a „Upravovat příběhy“ a pak ho přidejte v nastavení pluginu.",
+  "settings.integrations.obsidian.signIn": "Přihlaste se v nastavení pluginu a povolte mu číst a upravovat vaše příběhy. <link>Jak plugin funguje</link>",
   "settings.apiKeys.scope.tasks.read": "Číst úkoly",
   "settings.apiKeys.scope.tasks.read.desc": "Číst vaše osobní úkoly",
   "settings.apiKeys.scope.tasks.write": "Upravovat úkoly",

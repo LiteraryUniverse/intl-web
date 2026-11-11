@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Skriv dine historier i Obsidian, og hold dem synkroniseret med Literary Universe.",
   "settings.integrations.obsidian.pull": "Dine kapitler lander i din boks som Markdown-noter.",
   "settings.integrations.obsidian.push": "Kapitler, du redigerer, sendes tilbage som kladder. Dine noter bliver aldrig overskrevet: Hvis et kapitel er ændret begge steder, gemmes versionen fra Literary Universe ved siden af din note.",
-  "settings.integrations.obsidian.apiKey": "Opret en <link>API-nøgle</link> med tilladelserne »Læs historier« og »Rediger historier«, og tilføj den derefter i pluginnets indstillinger.",
+  "settings.integrations.obsidian.signIn": "Log ind fra pluginnets indstillinger, og giv det lov til at læse og redigere dine historier. <link>Sådan fungerer pluginnet</link>",
   "settings.apiKeys.scope.tasks.read": "Læs opgaver",
   "settings.apiKeys.scope.tasks.read.desc": "Læs dine personlige opgaver",
   "settings.apiKeys.scope.tasks.write": "Opdater opgaver",

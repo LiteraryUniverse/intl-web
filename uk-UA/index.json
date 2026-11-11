@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Пишіть історії в Obsidian і синхронізуйте їх із Literary Universe.",
   "settings.integrations.obsidian.pull": "Ваші розділи потрапляють у сховище як нотатки Markdown.",
   "settings.integrations.obsidian.push": "Відредаговані розділи повертаються як чернетки. Ваші нотатки ніколи не перезаписуються: якщо розділ змінився в обох місцях, версію з Literary Universe буде збережено поруч із вашою нотаткою.",
-  "settings.integrations.obsidian.apiKey": "Створіть <link>API-ключ</link> із дозволами «Читати історії» і «Редагувати історії», а потім додайте його в налаштуваннях плагіна.",
+  "settings.integrations.obsidian.signIn": "Увійдіть у налаштуваннях плагіна й дозвольте йому читати та редагувати ваші історії. <link>Як працює плагін</link>",
   "settings.apiKeys.scope.tasks.read": "Читати завдання",
   "settings.apiKeys.scope.tasks.read.desc": "Читати ваші особисті завдання",
   "settings.apiKeys.scope.tasks.write": "Оновлювати завдання",

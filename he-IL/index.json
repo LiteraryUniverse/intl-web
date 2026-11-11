@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "כתוב את הסיפורים שלך ב-Obsidian ושמור אותם מסונכרנים עם Literary Universe.",
   "settings.integrations.obsidian.pull": "הפרקים שלך מגיעים לכספת שלך כפתקי Markdown.",
   "settings.integrations.obsidian.push": "פרקים שערכת חוזרים כטיוטות. הפתקים שלך אף פעם לא נדרסים: אם פרק השתנה בשני המקומות, הגרסה מ-Literary Universe נשמרת לצד הפתק שלך.",
-  "settings.integrations.obsidian.apiKey": "צור <link>מפתח API</link> עם ההרשאות “קרא סיפורים” ו-“עריכת סיפורים”, ואז הוסף אותו בהגדרות התוסף.",
+  "settings.integrations.obsidian.signIn": "התחבר מההגדרות של התוסף ואשר לו לקרוא ולערוך את הסיפורים שלך. <link>איך התוסף עובד</link>",
   "settings.apiKeys.scope.tasks.read": "קריאת משימות",
   "settings.apiKeys.scope.tasks.read.desc": "קריאת המשימות האישיות שלך",
   "settings.apiKeys.scope.tasks.write": "עדכון משימות",

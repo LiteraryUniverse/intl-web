@@ -6501,7 +6501,7 @@
   "settings.integrations.obsidian.summary": "Escriu les teves històries a Obsidian i mantén-les sincronitzades amb Literary Universe.",
   "settings.integrations.obsidian.pull": "Els teus capítols arriben a la teva caixa forta com a notes Markdown.",
   "settings.integrations.obsidian.push": "Els capítols que edites tornen com a esborranys. Les teves notes no se sobreescriuen mai: si un capítol ha canviat als dos llocs, la versió de Literary Universe es desa al costat de la teva nota.",
-  "settings.integrations.obsidian.apiKey": "Crea una <link>clau d’API</link> amb els permisos «Llegir històries» i «Editar històries» i afegeix-la a la configuració del connector.",
+  "settings.integrations.obsidian.signIn": "Inicia la sessió des de la configuració del connector i permet-li llegir i editar les teves històries. <link>Com funciona el connector</link>",
   "settings.apiKeys.scope.tasks.read": "Llegir tasques",
   "settings.apiKeys.scope.tasks.read.desc": "Llegir les teves tasques personals",
   "settings.apiKeys.scope.tasks.write": "Actualitzar tasques",

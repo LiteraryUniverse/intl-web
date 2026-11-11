@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Write your stories in Obsidian and keep them in sync with Literary Universe.",
   "settings.integrations.obsidian.pull": "Your chapters arrive in your vault as Markdown notes.",
   "settings.integrations.obsidian.push": "Chapters you edit go back as drafts. Your notes are never overwritten: if a chapter changed in both places, the Literary Universe version is saved next to your note.",
-  "settings.integrations.obsidian.apiKey": "Create an <link>API key</link> with the Read stories and Edit stories permissions, then add it in the plugin's settings.",
+  "settings.integrations.obsidian.signIn": "Sign in from the plugin's settings and allow it to read and edit your stories. <link>How the plugin works</link>",
   "settings.apiKeys.scope.tasks.read": "Read tasks",
   "settings.apiKeys.scope.tasks.read.desc": "Read your personal tasks",
   "settings.apiKeys.scope.tasks.write": "Update tasks",

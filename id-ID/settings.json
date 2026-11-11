@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Tulis cerita Anda di Obsidian dan jaga agar tetap sinkron dengan Literary Universe.",
   "settings.integrations.obsidian.pull": "Bab Anda masuk ke vault Anda sebagai catatan Markdown.",
   "settings.integrations.obsidian.push": "Bab yang Anda edit dikirim kembali sebagai draf. Catatan Anda tidak pernah ditimpa: jika sebuah bab berubah di kedua tempat, versi Literary Universe disimpan di samping catatan Anda.",
-  "settings.integrations.obsidian.apiKey": "Buat <link>kunci API</link> dengan izin “Baca cerita” dan “Edit cerita”, lalu tambahkan di pengaturan plugin.",
+  "settings.integrations.obsidian.signIn": "Masuk dari pengaturan plugin dan izinkan plugin membaca serta mengedit cerita Anda. <link>Cara kerja plugin</link>",
   "settings.apiKeys.scope.tasks.read": "Baca tugas",
   "settings.apiKeys.scope.tasks.read.desc": "Baca tugas pribadi Anda",
   "settings.apiKeys.scope.tasks.write": "Perbarui tugas",

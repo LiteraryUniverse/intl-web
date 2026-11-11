@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Obsidian ରେ ଆପଣଙ୍କ ଗଳ୍ପ ଲେଖନ୍ତୁ ଏବଂ ସେଗୁଡ଼ିକୁ Literary Universe ସହ ସିଙ୍କରେ ରଖନ୍ତୁ।",
   "settings.integrations.obsidian.pull": "ଆପଣଙ୍କ ଅଧ୍ୟାୟଗୁଡ଼ିକ Markdown ନୋଟ୍ ଭାବରେ ଆପଣଙ୍କ ଭଲ୍ଟରେ ପହଞ୍ଚେ।",
   "settings.integrations.obsidian.push": "ଆପଣ ସମ୍ପାଦନା କରୁଥିବା ଅଧ୍ୟାୟଗୁଡ଼ିକ ଡ୍ରାଫ୍ଟ ଭାବରେ ଫେରିଯାଏ। ଆପଣଙ୍କ ନୋଟ୍ କେବେ ବି ଓଭରରାଇଟ୍ ହୁଏ ନାହିଁ: ଯଦି କୌଣସି ଅଧ୍ୟାୟ ଉଭୟ ସ୍ଥାନରେ ବଦଳିଛି, ତେବେ Literary Universe ସଂସ୍କରଣଟି ଆପଣଙ୍କ ନୋଟ୍ ପାଖରେ ସଞ୍ଚୟ ହୁଏ।",
-  "settings.integrations.obsidian.apiKey": "“Read stories” ଓ “ଗଳ୍ପଗୁଡ଼ିକ ସମ୍ପାଦନା କରନ୍ତୁ” ଅନୁମତି ସହ ଏକ <link>API କି</link> ତିଆରି କରନ୍ତୁ, ତାପରେ ତାହାକୁ ପ୍ଲଗଇନର ସେଟିଂସରେ ଯୋଡ଼ନ୍ତୁ।",
+  "settings.integrations.obsidian.signIn": "ପ୍ଲଗଇନର ସେଟିଂସରୁ ସାଇନ ଇନ କରନ୍ତୁ ଏବଂ ଏହାକୁ ଆପଣଙ୍କ ଗଳ୍ପ ପଢ଼ିବା ଓ ସମ୍ପାଦନା କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ। <link>ପ୍ଲଗଇନ କିପରି କାମ କରେ</link>",
   "settings.apiKeys.scope.tasks.read": "କାର୍ଯ୍ୟ ପଢ଼ନ୍ତୁ",
   "settings.apiKeys.scope.tasks.read.desc": "ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ କାର୍ଯ୍ୟ ପଢ଼ନ୍ତୁ",
   "settings.apiKeys.scope.tasks.write": "କାର୍ଯ୍ୟ ଅଦ୍ୟତନ କରନ୍ତୁ",

@@ -471,7 +471,7 @@
   "settings.integrations.obsidian.summary": "Skryf jou stories in Obsidian en hou hulle gesinkroniseer met Literary Universe.",
   "settings.integrations.obsidian.pull": "Jou hoofstukke kom in jou kluis aan as Markdown-notas.",
   "settings.integrations.obsidian.push": "Hoofstukke wat jy wysig, gaan terug as konsepte. Jou notas word nooit oorskryf nie: as 'n hoofstuk op albei plekke verander het, word die Literary Universe-weergawe langs jou nota gestoor.",
-  "settings.integrations.obsidian.apiKey": "Skep 'n <link>API-sleutel</link> met die toestemmings “Lees stories” en “Wysig stories”, en voeg dit dan by in die inprop se instellings.",
+  "settings.integrations.obsidian.signIn": "Meld aan in die inprop se instellings en gee dit toestemming om jou stories te lees en te wysig. <link>Hoe die inprop werk</link>",
   "settings.apiKeys.scope.tasks.read": "Lees take",
   "settings.apiKeys.scope.tasks.read.desc": "Lees jou persoonlike take",
   "settings.apiKeys.scope.tasks.write": "Werk take by",
