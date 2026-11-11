@@ -54,5 +54,20 @@
   "challenges.panel.none": "Durung wenten tantangan sane mamargi ring satua puniki.",
   "challenges.panel.start": "Ngawit tantangan",
   "challenges.panel.chip": "{title}: {total, number} saking {goal, number} kruna. Bukak panel sisih.",
-  "challenges.panel.perDayToFinish": "Sarahina mangda puput: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Sarahina mangda puput: {perDay, number}",
+  "challenges.daily.title": "Sasaran kruna sadina",
+  "challenges.daily.success": "Rahina sane kasidan",
+  "challenges.daily.failure": "Rahina sane kalintang",
+  "challenges.daily.window": "30 rahina pamuput",
+  "challenges.untilFinished": "Ngantos satua puput",
+  "challenges.variation": "Tantangan",
+  "challenges.ending": "Puput",
+  "challenges.duration": "Akeh rahina",
+  "challenges.preset.custom": "Sasaran kruna pilihan",
+  "challenges.preset.daily": "Sasaran kruna sadina",
+  "challenges.preset.daily750": "750 kruna sadina",
+  "challenges.preset.everyDay": "Nyurat sarahina",
+  "challenges.preset.novel30": "50.000 kruna sajeroning 30 rahina",
+  "challenges.preset.words30": "30.000 kruna sajeroning 30 rahina",
+  "challenges.invalidSettings": "Lebetang sasaran kruna wilangan bulat positif miwah rahina ngawit lan puput sane patut."
 }

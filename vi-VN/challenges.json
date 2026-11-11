@@ -54,5 +54,20 @@
   "challenges.panel.none": "Không có thử thách nào đang diễn ra cho truyện này.",
   "challenges.panel.start": "Bắt đầu thử thách",
   "challenges.panel.chip": "{title}: {total, number} trên {goal, number} từ. Mở bảng bên.",
-  "challenges.panel.perDayToFinish": "Mỗi ngày để hoàn thành: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Mỗi ngày để hoàn thành: {perDay, number}",
+  "challenges.daily.title": "Mục tiêu số từ hàng ngày",
+  "challenges.daily.success": "Số ngày đã trôi qua",
+  "challenges.daily.failure": "Số ngày vắng mặt",
+  "challenges.daily.window": "30 ngày qua",
+  "challenges.untilFinished": "Cho đến khi câu chuyện kết thúc",
+  "challenges.variation": "Thử thách",
+  "challenges.ending": "Kết thúc",
+  "challenges.duration": "Số ngày",
+  "challenges.preset.custom": "Mục tiêu từ tùy chỉnh",
+  "challenges.preset.daily": "Mục tiêu số từ hàng ngày",
+  "challenges.preset.daily750": "750 từ mỗi ngày",
+  "challenges.preset.everyDay": "Viết mỗi ngày",
+  "challenges.preset.novel30": "50.000 từ trong 30 ngày",
+  "challenges.preset.words30": "30.000 từ trong 30 ngày",
+  "challenges.invalidSettings": "Hãy nhập một mục tiêu là một từ nguyên vẹn có giá trị dương cùng với điểm bắt đầu và điểm kết thúc hợp lệ."
 }

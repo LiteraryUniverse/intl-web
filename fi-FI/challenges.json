@@ -54,5 +54,20 @@
   "challenges.panel.none": "Tälle tarinalle ei ole käynnissä haastetta.",
   "challenges.panel.start": "Aloita haaste",
   "challenges.panel.chip": "{title}: {total, number} / {goal, number} sanaa. Avaa sivupaneeli.",
-  "challenges.panel.perDayToFinish": "Päivässä loppuun saamiseksi: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Päivässä loppuun saamiseksi: {perDay, number}",
+  "challenges.daily.title": "Päivittäinen sanatavoite",
+  "challenges.daily.success": "Tapaamispäivät",
+  "challenges.daily.failure": "Poissaolopäivät",
+  "challenges.daily.window": "Viimeiset 30 päivää",
+  "challenges.untilFinished": "Kunnes tarina on valmis",
+  "challenges.variation": "Haaste",
+  "challenges.ending": "Loppu",
+  "challenges.duration": "Päivien lukumäärä",
+  "challenges.preset.custom": "Mukautettu sanatavoite",
+  "challenges.preset.daily": "Päivittäinen sanatavoite",
+  "challenges.preset.daily750": "750 sanaa päivässä",
+  "challenges.preset.everyDay": "Kirjoita joka päivä",
+  "challenges.preset.novel30": "50 000 sanaa 30 päivässä",
+  "challenges.preset.words30": "30 000 sanaa 30 päivässä",
+  "challenges.invalidSettings": "Syötä positiivinen kokonainen sana tavoitteeksi sekä kelvollinen alku ja loppu."
 }

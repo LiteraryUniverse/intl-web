@@ -54,5 +54,20 @@
   "challenges.panel.none": "Não há nenhum desafio em curso para esta história.",
   "challenges.panel.start": "Começar um desafio",
   "challenges.panel.chip": "{title}: {total, number} de {goal, number} palavras. Abrir o painel lateral.",
-  "challenges.panel.perDayToFinish": "Por dia para terminar: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Por dia para terminar: {perDay, number}",
+  "challenges.daily.title": "Meta diária de palavras",
+  "challenges.daily.success": "Dias cumpridos",
+  "challenges.daily.failure": "Dias em que faltou",
+  "challenges.daily.window": "Últimos 30 dias",
+  "challenges.untilFinished": "Até a história estar terminada",
+  "challenges.variation": "Desafio",
+  "challenges.ending": "Fim",
+  "challenges.duration": "Número de dias",
+  "challenges.preset.custom": "Palavra personalizada como alvo",
+  "challenges.preset.daily": "Meta diária de palavras",
+  "challenges.preset.daily750": "750 palavras por dia",
+  "challenges.preset.everyDay": "Escreve todos os dias",
+  "challenges.preset.novel30": "50 000 palavras em 30 dias",
+  "challenges.preset.words30": "30 000 palavras em 30 dias",
+  "challenges.invalidSettings": "Introduza um objetivo expresso numa palavra inteira e positiva, bem como um início e um fim válidos."
 }

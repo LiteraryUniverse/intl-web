@@ -54,5 +54,20 @@
   "challenges.panel.none": "Ehhez a történethez jelenleg nincs folyamatban kihívás.",
   "challenges.panel.start": "Kihívás indítása",
   "challenges.panel.chip": "{title}: {total, number} / {goal, number} szó. Oldalpanel megnyitása.",
-  "challenges.panel.perDayToFinish": "A befejezéshez naponta: {perDay, number}"
+  "challenges.panel.perDayToFinish": "A befejezéshez naponta: {perDay, number}",
+  "challenges.daily.title": "Napi szókincs-cél",
+  "challenges.daily.success": "Teljesített napok száma",
+  "challenges.daily.failure": "Kihagyott napok",
+  "challenges.daily.window": "Az elmúlt 30 nap",
+  "challenges.untilFinished": "Amíg a történet be nem fejeződik",
+  "challenges.variation": "Kihívás",
+  "challenges.ending": "Vége",
+  "challenges.duration": "Napok száma",
+  "challenges.preset.custom": "Egyéni szócél",
+  "challenges.preset.daily": "Napi szókincs-cél",
+  "challenges.preset.daily750": "Naponta 750 szó",
+  "challenges.preset.everyDay": "Írj minden nap!",
+  "challenges.preset.novel30": "50 000 szó 30 nap alatt",
+  "challenges.preset.words30": "30 000 szó 30 nap alatt",
+  "challenges.invalidSettings": "Írjon be egy pozitív, teljes szóból álló célt, valamint egy érvényes kezdő- és végszót."
 }

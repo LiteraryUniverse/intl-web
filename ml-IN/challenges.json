@@ -54,5 +54,20 @@
   "challenges.panel.none": "ഈ കഥയ്ക്ക് നിലവിൽ ഒരു വെല്ലുവിളിയും നടക്കുന്നില്ല.",
   "challenges.panel.start": "വെല്ലുവിളി ആരംഭിക്കുക",
   "challenges.panel.chip": "{title}: {goal, number} വാക്കുകളിൽ {total, number} വാക്കുകൾ. വശത്തെ പാനൽ തുറക്കുക.",
-  "challenges.panel.perDayToFinish": "പൂർത്തിയാക്കാൻ ദിവസേന: {perDay, number}"
+  "challenges.panel.perDayToFinish": "പൂർത്തിയാക്കാൻ ദിവസേന: {perDay, number}",
+  "challenges.daily.title": "ദൈനംദിന വാക്കുകളുടെ ലക്ഷ്യം",
+  "challenges.daily.success": "ദിവസങ്ങൾ കണ്ടുമുട്ടി",
+  "challenges.daily.failure": "നഷ്ടപ്പെട്ട ദിവസങ്ങൾ",
+  "challenges.daily.window": "കഴിഞ്ഞ 30 ദിവസം",
+  "challenges.untilFinished": "കഥ പൂർത്തിയാകുന്നതുവരെ",
+  "challenges.variation": "സവால்",
+  "challenges.ending": "അവസാനിച്ചു",
+  "challenges.duration": "ദിവസങ്ങളുടെ എണ്ണം",
+  "challenges.preset.custom": "ഇഷ്ടാനുസൃത വാക്ക് ലക്ഷ്യം",
+  "challenges.preset.daily": "ദൈനംദിന വാക്കുകളുടെ ലക്ഷ്യം",
+  "challenges.preset.daily750": "ദിവസേന 750 വാക്കുകൾ",
+  "challenges.preset.everyDay": "എല്ലാ ദിവസവും എഴുതുക",
+  "challenges.preset.novel30": "30 ദിവസം കൊണ്ട് 50,000 വാക്കുകൾ",
+  "challenges.preset.words30": "30 ദിവസങ്ങളിൽ 30,000 വാക്കുകൾ",
+  "challenges.invalidSettings": "ഒരു പോസിറ്റീവ് പൂർണ്ണ-വാക്ക് ലക്ഷ്യവും സാധുവായ തുടക്കവും അവസാനവും നൽകുക."
 }

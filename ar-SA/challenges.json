@@ -54,5 +54,20 @@
   "challenges.panel.none": "لا يوجد تحدٍ جارٍ لهذه القصة.",
   "challenges.panel.start": "بدء تحدٍ",
   "challenges.panel.chip": "{title}: {total, number} من {goal, number} كلمة. فتح اللوحة الجانبية.",
-  "challenges.panel.perDayToFinish": "المطلوب يوميًا للإنهاء: {perDay, number}"
+  "challenges.panel.perDayToFinish": "المطلوب يوميًا للإنهاء: {perDay, number}",
+  "challenges.daily.title": "الهدف اليومي من الكلمات",
+  "challenges.daily.success": "عدد الأيام التي تم الوفاء بها",
+  "challenges.daily.failure": "الأيام التي لم يحضرها",
+  "challenges.daily.window": "آخر 30 يومًا",
+  "challenges.untilFinished": "إلى أن تنتهي القصة",
+  "challenges.variation": "التحدي",
+  "challenges.ending": "النهاية",
+  "challenges.duration": "عدد الأيام",
+  "challenges.preset.custom": "كلمة مخصصة مستهدفة",
+  "challenges.preset.daily": "الهدف اليومي من الكلمات",
+  "challenges.preset.daily750": "750 كلمة في اليوم",
+  "challenges.preset.everyDay": "اكتب كل يوم",
+  "challenges.preset.novel30": "50,000 كلمة في 30 يومًا",
+  "challenges.preset.words30": "30,000 كلمة في 30 يومًا",
+  "challenges.invalidSettings": "أدخل هدفًا مكونًا من كلمة كاملة ذات قيمة موجبة، مع تحديد بداية ونهاية صالحتين."
 }

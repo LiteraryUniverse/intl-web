@@ -54,5 +54,20 @@
   "challenges.panel.none": "Pre tento príbeh práve neprebieha žiadna výzva.",
   "challenges.panel.start": "Začať výzvu",
   "challenges.panel.chip": "{title}: {total, number} z {goal, number} slov. Otvoriť bočný panel.",
-  "challenges.panel.perDayToFinish": "Denne na dokončenie {perDay, number}"
+  "challenges.panel.perDayToFinish": "Denne na dokončenie {perDay, number}",
+  "challenges.daily.title": "Denný cieľ v počte slov",
+  "challenges.daily.success": "Počet dní",
+  "challenges.daily.failure": "Počet zmeškaných dní",
+  "challenges.daily.window": "Posledných 30 dní",
+  "challenges.untilFinished": "Kým sa príbeh neskončí",
+  "challenges.variation": "Výzva",
+  "challenges.ending": "Koniec",
+  "challenges.duration": "Počet dní",
+  "challenges.preset.custom": "Vlastný cieľový výraz",
+  "challenges.preset.daily": "Denný cieľ v počte slov",
+  "challenges.preset.daily750": "750 slov denne",
+  "challenges.preset.everyDay": "Píšte každý deň",
+  "challenges.preset.novel30": "50 000 slov za 30 dní",
+  "challenges.preset.words30": "30 000 slov za 30 dní",
+  "challenges.invalidSettings": "Zadajte kladný cieľ v podobe celého slova a platný začiatok a koniec."
 }

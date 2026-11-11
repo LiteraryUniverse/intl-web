@@ -54,5 +54,20 @@
   "challenges.panel.none": "Ingen utmaning pågår för den här berättelsen.",
   "challenges.panel.start": "Starta en utmaning",
   "challenges.panel.chip": "{title}: {total, number} av {goal, number} ord. Öppna sidopanelen.",
-  "challenges.panel.perDayToFinish": "Per dag för att bli klar: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Per dag för att bli klar: {perDay, number}",
+  "challenges.daily.title": "Dagligt ordmål",
+  "challenges.daily.success": "Uppfyllda dagar",
+  "challenges.daily.failure": "Frånvarodagar",
+  "challenges.daily.window": "De senaste 30 dagarna",
+  "challenges.untilFinished": "Tills berättelsen är färdig",
+  "challenges.variation": "Utmaning",
+  "challenges.ending": "Slut",
+  "challenges.duration": "Antal dagar",
+  "challenges.preset.custom": "Anpassat ordmål",
+  "challenges.preset.daily": "Dagligt ordmål",
+  "challenges.preset.daily750": "750 ord om dagen",
+  "challenges.preset.everyDay": "Skriv varje dag",
+  "challenges.preset.novel30": "50 000 ord på 30 dagar",
+  "challenges.preset.words30": "30 000 ord på 30 dagar",
+  "challenges.invalidSettings": "Ange ett positivt mål i form av ett helt ord samt en giltig start- och slutpunkt."
 }

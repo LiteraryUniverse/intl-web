@@ -54,5 +54,20 @@
   "challenges.panel.none": "Walang kasalukuyang hamon para sa kuwentong ito.",
   "challenges.panel.start": "Magsimula ng hamon",
   "challenges.panel.chip": "{title}: {total, number} sa {goal, number} salita. Buksan ang panel sa gilid.",
-  "challenges.panel.perDayToFinish": "Bawat araw para matapos: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Bawat araw para matapos: {perDay, number}",
+  "challenges.daily.title": "Araw-araw na layunin sa salita",
+  "challenges.daily.success": "Mga araw na nagkita",
+  "challenges.daily.failure": "Mga araw na hindi napuntahan",
+  "challenges.daily.window": "Huling 30 araw",
+  "challenges.untilFinished": "Hanggang sa matapos ang kuwento",
+  "challenges.variation": "Hamunin",
+  "challenges.ending": "Wakas",
+  "challenges.duration": "Bilang ng mga araw",
+  "challenges.preset.custom": "Pasadyang target na salita",
+  "challenges.preset.daily": "Araw-araw na layunin sa salita",
+  "challenges.preset.daily750": "750 salita bawat araw",
+  "challenges.preset.everyDay": "Sumulat araw-araw.",
+  "challenges.preset.novel30": "50,000 salita sa loob ng 30 araw",
+  "challenges.preset.words30": "30,000 salita sa loob ng 30 araw",
+  "challenges.invalidSettings": "Ipasok ang isang positibong layunin para sa buong salita at isang wastong simula at wakas."
 }

@@ -54,5 +54,20 @@
   "challenges.panel.none": "ଏହି କାହାଣୀ ପାଇଁ କୌଣସି ଆହ୍ୱାନ ଚାଲୁ ନାହିଁ।",
   "challenges.panel.start": "ଆହ୍ୱାନ ଆରମ୍ଭ କରନ୍ତୁ",
   "challenges.panel.chip": "{title}: {goal, number} ଶବ୍ଦରୁ {total, number} ଶବ୍ଦ। ପାର୍ଶ୍ୱ ପ୍ୟାନେଲ୍ ଖୋଲନ୍ତୁ।",
-  "challenges.panel.perDayToFinish": "ଶେଷ କରିବା ପାଇଁ ପ୍ରତିଦିନ: {perDay, number}"
+  "challenges.panel.perDayToFinish": "ଶେଷ କରିବା ପାଇଁ ପ୍ରତିଦିନ: {perDay, number}",
+  "challenges.daily.title": "ଦୈନିକ ଶବ୍ଦ ଲକ୍ଷ୍ୟ",
+  "challenges.daily.success": "ଲକ୍ଷ୍ୟ ପୂରଣ ହୋଇଥିବା ଦିନ",
+  "challenges.daily.failure": "ଲକ୍ଷ୍ୟ ପୂରଣ ହୋଇନଥିବା ଦିନ",
+  "challenges.daily.window": "ଗତ ୩୦ ଦିନ",
+  "challenges.untilFinished": "ଗଳ୍ପ ଶେଷ ହେବା ପର୍ଯ୍ୟନ୍ତ",
+  "challenges.variation": "ଆହ୍ୱାନ",
+  "challenges.ending": "ଶେଷ",
+  "challenges.duration": "ଦିନ ସଂଖ୍ୟା",
+  "challenges.preset.custom": "ନିଜ ପସନ୍ଦର ଶବ୍ଦ ଲକ୍ଷ୍ୟ",
+  "challenges.preset.daily": "ଦୈନିକ ଶବ୍ଦ ଲକ୍ଷ୍ୟ",
+  "challenges.preset.daily750": "ଦିନକୁ ୭୫୦ ଶବ୍ଦ",
+  "challenges.preset.everyDay": "ପ୍ରତିଦିନ ଲେଖନ୍ତୁ",
+  "challenges.preset.novel30": "୩୦ ଦିନରେ ୫୦,୦୦୦ ଶବ୍ଦ",
+  "challenges.preset.words30": "୩୦ ଦିନରେ ୩୦,୦୦୦ ଶବ୍ଦ",
+  "challenges.invalidSettings": "ଏକ ଧନାତ୍ମକ ପୂର୍ଣ୍ଣସଂଖ୍ୟା ଶବ୍ଦ ଲକ୍ଷ୍ୟ ଏବଂ ବୈଧ ଆରମ୍ଭ ଓ ଶେଷ ଦିଅନ୍ତୁ।"
 }

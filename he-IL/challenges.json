@@ -54,5 +54,20 @@
   "challenges.panel.none": "אין אתגר פעיל עבור הסיפור הזה.",
   "challenges.panel.start": "התחלת אתגר",
   "challenges.panel.chip": "{title}: {total, number} מתוך {goal, number} מילים. פתיחת החלונית הצדדית.",
-  "challenges.panel.perDayToFinish": "ליום כדי לסיים: {perDay, number}"
+  "challenges.panel.perDayToFinish": "ליום כדי לסיים: {perDay, number}",
+  "challenges.daily.title": "יעד מילים יומי",
+  "challenges.daily.success": "ימים שנערכו",
+  "challenges.daily.failure": "ימים שלא נוכחו",
+  "challenges.daily.window": "30 הימים האחרונים",
+  "challenges.untilFinished": "עד שהסיפור יסתיים",
+  "challenges.variation": "אתגר",
+  "challenges.ending": "סוף",
+  "challenges.duration": "מספר הימים",
+  "challenges.preset.custom": "מילת יעד מותאמת אישית",
+  "challenges.preset.daily": "יעד מילים יומי",
+  "challenges.preset.daily750": "750 מילים ביום",
+  "challenges.preset.everyDay": "כתוב כל יום",
+  "challenges.preset.novel30": "50,000 מילים ב-30 ימים",
+  "challenges.preset.words30": "30,000 מילים ב-30 ימים",
+  "challenges.invalidSettings": "הזן מטרה המורכבת ממילה שלמה חיובית, וכן נקודת התחלה ונקודת סיום תקפות."
 }

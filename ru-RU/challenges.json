@@ -54,5 +54,20 @@
   "challenges.panel.none": "Для этой истории сейчас нет активных испытаний.",
   "challenges.panel.start": "Начать испытание",
   "challenges.panel.chip": "{title}: {total, number} из {goal, number} слов. Открыть боковую панель.",
-  "challenges.panel.perDayToFinish": "В день для завершения: {perDay, number}"
+  "challenges.panel.perDayToFinish": "В день для завершения: {perDay, number}",
+  "challenges.daily.title": "Ежедневная цель по количеству слов",
+  "challenges.daily.success": "Дни, проведённые вместе",
+  "challenges.daily.failure": "Пропущенные дни",
+  "challenges.daily.window": "За последние 30 дней",
+  "challenges.untilFinished": "Пока история не закончится",
+  "challenges.variation": "Задача",
+  "challenges.ending": "Конец",
+  "challenges.duration": "Количество дней",
+  "challenges.preset.custom": "Пользовательский целевой термин",
+  "challenges.preset.daily": "Ежедневная цель по количеству слов",
+  "challenges.preset.daily750": "750 слов в день",
+  "challenges.preset.everyDay": "Пишите каждый день",
+  "challenges.preset.novel30": "50 000 слов за 30 дней",
+  "challenges.preset.words30": "30 000 слов за 30 дней",
+  "challenges.invalidSettings": "Введите положительную цель, состоящую из целого слова, а также допустимые начало и конец."
 }

@@ -54,5 +54,20 @@
   "challenges.panel.none": "Daar is geen uitdaging aan die gang vir hierdie verhaal nie.",
   "challenges.panel.start": "Begin ’n uitdaging",
   "challenges.panel.chip": "{title}: {total, number} van {goal, number} woorde. Maak die sypaneel oop.",
-  "challenges.panel.perDayToFinish": "Per dag om klaar te maak: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Per dag om klaar te maak: {perDay, number}",
+  "challenges.daily.title": "Daaglikse woorddoelwit",
+  "challenges.daily.success": "Dae ontmoet",
+  "challenges.daily.failure": "Misdae",
+  "challenges.daily.window": "Laaste 30 dae",
+  "challenges.untilFinished": "Totdat die storie klaar is",
+  "challenges.variation": "Uitdaging",
+  "challenges.ending": "Eindes",
+  "challenges.duration": "Aantal dae",
+  "challenges.preset.custom": "Pasgemaakte woordteiken",
+  "challenges.preset.daily": "Daaglikse woorddoelwit",
+  "challenges.preset.daily750": "750 woorde per dag",
+  "challenges.preset.everyDay": "Skryf elke dag",
+  "challenges.preset.novel30": "50 000 woorde in 30 dae",
+  "challenges.preset.words30": "30 000 woorde in 30 dae",
+  "challenges.invalidSettings": "Voer 'n positiewe heelwoorddoelwit en 'n geldige begin en einde in."
 }

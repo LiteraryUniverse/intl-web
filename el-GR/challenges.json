@@ -54,5 +54,20 @@
   "challenges.panel.none": "Δεν υπάρχει ενεργή πρόκληση για αυτή την ιστορία.",
   "challenges.panel.start": "Έναρξη πρόκλησης",
   "challenges.panel.chip": "{title}: {total, number} από {goal, number} λέξεις. Άνοιγμα πλαϊνού πίνακα.",
-  "challenges.panel.perDayToFinish": "Ανά ημέρα για ολοκλήρωση: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Ανά ημέρα για ολοκλήρωση: {perDay, number}",
+  "challenges.daily.title": "Καθημερινός στόχος λέξεων",
+  "challenges.daily.success": "Ημέρες που συμπληρώθηκαν",
+  "challenges.daily.failure": "Απουσίες",
+  "challenges.daily.window": "Τελευταίες 30 ημέρες",
+  "challenges.untilFinished": "Μέχρι να ολοκληρωθεί η ιστορία",
+  "challenges.variation": "Πρόκληση",
+  "challenges.ending": "Τέλος",
+  "challenges.duration": "Αριθμός ημερών",
+  "challenges.preset.custom": "Προσαρμοσμένος στόχος λέξης",
+  "challenges.preset.daily": "Καθημερινός στόχος λέξεων",
+  "challenges.preset.daily750": "750 λέξεις την ημέρα",
+  "challenges.preset.everyDay": "Γράφε κάθε μέρα",
+  "challenges.preset.novel30": "50.000 λέξεις σε 30 ημέρες",
+  "challenges.preset.words30": "30.000 λέξεις σε 30 ημέρες",
+  "challenges.invalidSettings": "Εισάγετε έναν θετικό στόχο που να αποτελεί ολόκληρη λέξη, καθώς και μια έγκυρη αρχή και ένα έγκυρο τέλος."
 }

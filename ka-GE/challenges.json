@@ -54,5 +54,20 @@
   "challenges.panel.none": "ამ ამბისთვის მიმდინარე გამოწვევა არ არის.",
   "challenges.panel.start": "გამოწვევის დაწყება",
   "challenges.panel.chip": "{title}: {total, number} სიტყვა {goal, number}-დან. გვერდითი პანელის გახსნა.",
-  "challenges.panel.perDayToFinish": "დასასრულებლად დღეში: {perDay, number}"
+  "challenges.panel.perDayToFinish": "დასასრულებლად დღეში: {perDay, number}",
+  "challenges.daily.title": "საყოველდღიო სიტყვიანი მიზანი",
+  "challenges.daily.success": "დღეები შეხვდნენ",
+  "challenges.daily.failure": "გაცდენილი დღეები",
+  "challenges.daily.window": "ბოლო 30 დღე",
+  "challenges.untilFinished": "სანამ ამბავი არ დასრულდება",
+  "challenges.variation": "გამოწვევა",
+  "challenges.ending": "დასასრული",
+  "challenges.duration": "დღეების რაოდენობა",
+  "challenges.preset.custom": "მორგებული სიტყვის სამიზნე",
+  "challenges.preset.daily": "ყოველდღიური სიტყვის მიზანი",
+  "challenges.preset.daily750": "დღეში 750 სიტყვა",
+  "challenges.preset.everyDay": "წერე ყოველდღე",
+  "challenges.preset.novel30": "50,000 სიტყვა 30 დღეში",
+  "challenges.preset.words30": "30,000 სიტყვა 30 დღეში",
+  "challenges.invalidSettings": "შეიყვანეთ დადებითი მთლიანი სიტყვის მიზანი და ვალიდური დასაწყისი და დასასრული."
 }

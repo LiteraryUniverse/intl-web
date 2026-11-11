@@ -54,5 +54,20 @@
   "challenges.panel.none": "이 이야기에서 진행 중인 도전이 없습니다.",
   "challenges.panel.start": "도전 시작",
   "challenges.panel.chip": "{title}: 목표 {goal, number}단어 중 {total, number}단어. 사이드 패널 열기.",
-  "challenges.panel.perDayToFinish": "완료에 필요한 하루 단어 수 {perDay, number}단어"
+  "challenges.panel.perDayToFinish": "완료에 필요한 하루 단어 수 {perDay, number}단어",
+  "challenges.daily.title": "매일 단어 목표",
+  "challenges.daily.success": "만난 날들",
+  "challenges.daily.failure": "결석 일수",
+  "challenges.daily.window": "지난 30일",
+  "challenges.untilFinished": "이야기가 끝날 때까지",
+  "challenges.variation": "도전 과제",
+  "challenges.ending": "끝",
+  "challenges.duration": "일수",
+  "challenges.preset.custom": "사용자 지정 단어 목표",
+  "challenges.preset.daily": "매일 단어 목표",
+  "challenges.preset.daily750": "하루 750단어",
+  "challenges.preset.everyDay": "매일 글을 쓰세요",
+  "challenges.preset.novel30": "30일 동안 50,000단어",
+  "challenges.preset.words30": "30일 동안 30,000단어",
+  "challenges.invalidSettings": "양수의 전체 단어 목표와 유효한 시작 및 끝을 입력하세요."
 }

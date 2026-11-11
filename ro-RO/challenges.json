@@ -54,5 +54,20 @@
   "challenges.panel.none": "Nu există nicio provocare în desfășurare pentru această poveste.",
   "challenges.panel.start": "Începe o provocare",
   "challenges.panel.chip": "{title}: {total, number} din {goal, number} cuvinte. Deschide panoul lateral.",
-  "challenges.panel.perDayToFinish": "Pe zi pentru a termina: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Pe zi pentru a termina: {perDay, number}",
+  "challenges.daily.title": "Obiectivul zilnic de cuvinte",
+  "challenges.daily.success": "Zile îndeplinite",
+  "challenges.daily.failure": "Zile de absență",
+  "challenges.daily.window": "Ultimele 30 de zile",
+  "challenges.untilFinished": "Până când povestea se va încheia",
+  "challenges.variation": "Provocare",
+  "challenges.ending": "Sfârșit",
+  "challenges.duration": "Numărul de zile",
+  "challenges.preset.custom": "Cuvânt țintă personalizat",
+  "challenges.preset.daily": "Obiectivul zilnic de cuvinte",
+  "challenges.preset.daily750": "750 de cuvinte pe zi",
+  "challenges.preset.everyDay": "Scrie în fiecare zi",
+  "challenges.preset.novel30": "50.000 de cuvinte în 30 de zile",
+  "challenges.preset.words30": "30.000 de cuvinte în 30 de zile",
+  "challenges.invalidSettings": "Introduceți un obiectiv format dintr-un cuvânt întreg cu valoare pozitivă, precum și un punct de început și unul de sfârșit valide."
 }

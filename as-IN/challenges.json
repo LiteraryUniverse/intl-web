@@ -54,5 +54,20 @@
   "challenges.panel.none": "এই কাহিনীৰ বাবে কোনো প্ৰত্যাহ্বান চলি থকা নাই।",
   "challenges.panel.start": "প্ৰত্যাহ্বান আৰম্ভ কৰক",
   "challenges.panel.chip": "{title}: {goal, number} শব্দৰ ভিতৰত {total, number} শব্দ। কাষৰ পেনেল খোলক।",
-  "challenges.panel.perDayToFinish": "শেষ কৰিবলৈ প্ৰতিদিনে: {perDay, number}"
+  "challenges.panel.perDayToFinish": "শেষ কৰিবলৈ প্ৰতিদিনে: {perDay, number}",
+  "challenges.daily.title": "দৈনিক শব্দৰ লক্ষ্য",
+  "challenges.daily.success": "দিনবোৰ মিলিল",
+  "challenges.daily.failure": "বৰ্তমানৰ দিন",
+  "challenges.daily.window": "যোৱা ৩০ দিন",
+  "challenges.untilFinished": "গল্পটো শেষ নোহোৱালৈকে",
+  "challenges.variation": "প্ৰত্যাহ্বান",
+  "challenges.ending": "সমাপ্ত",
+  "challenges.duration": "দিনৰ সংখ্যা",
+  "challenges.preset.custom": "নিজৰ শব্দ লক্ষ্য",
+  "challenges.preset.daily": "দৈনিক শব্দৰ লক্ষ্য",
+  "challenges.preset.daily750": "দিনে ৭৫০ শব্দ",
+  "challenges.preset.everyDay": "প্ৰতিদিনে লিখক",
+  "challenges.preset.novel30": "৩০ দিনত ৫০,০০০ শব্দ",
+  "challenges.preset.words30": "৩০ দিনত ৩০,০০০ শব্দ",
+  "challenges.invalidSettings": "এটা ধনাত্মক সম্পূৰ্ণ-শব্দৰ লক্ষ্য আৰু এটা বৈধ আৰম্ভণি আৰু শেষ প্ৰবিষ্ট কৰক।"
 }

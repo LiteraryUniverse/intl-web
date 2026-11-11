@@ -54,5 +54,20 @@
   "challenges.panel.none": "No hi ha cap repte en curs per a aquesta història.",
   "challenges.panel.start": "Començar un repte",
   "challenges.panel.chip": "{title}: {total, number} de {goal, number} paraules. Obrir el tauler lateral.",
-  "challenges.panel.perDayToFinish": "Per dia per acabar: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Per dia per acabar: {perDay, number}",
+  "challenges.daily.title": "Objectiu diari de paraules",
+  "challenges.daily.success": "Dies coincidents",
+  "challenges.daily.failure": "Dies de baixa",
+  "challenges.daily.window": "Darrers 30 dies",
+  "challenges.untilFinished": "Fins que la història s'acabi",
+  "challenges.variation": "Repte",
+  "challenges.ending": "Fins",
+  "challenges.duration": "Nombre de dies",
+  "challenges.preset.custom": "Objectiu de paraula personalitzat",
+  "challenges.preset.daily": "Objectiu diari de paraules",
+  "challenges.preset.daily750": "750 paraules al dia",
+  "challenges.preset.everyDay": "Escriu cada dia",
+  "challenges.preset.novel30": "50.000 paraules en 30 dies",
+  "challenges.preset.words30": "30.000 paraules en 30 dies",
+  "challenges.invalidSettings": "Introdueix un objectiu positiu de paraula sencera i un començament i un final vàlids."
 }

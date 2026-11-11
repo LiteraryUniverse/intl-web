@@ -54,5 +54,20 @@
   "challenges.panel.none": "គ្មានការប្រកួតប្រជែងកំពុងដំណើរការសម្រាប់រឿងនេះទេ។",
   "challenges.panel.start": "ចាប់ផ្តើមការប្រកួតប្រជែង",
   "challenges.panel.chip": "{title}: បានសរសេរ {total, number} ក្នុងចំណោម {goal, number} ពាក្យ។ បើកផ្ទាំងចំហៀង។",
-  "challenges.panel.perDayToFinish": "ក្នុងមួយថ្ងៃដើម្បីបញ្ចប់ {perDay, number}"
+  "challenges.panel.perDayToFinish": "ក្នុងមួយថ្ងៃដើម្បីបញ្ចប់ {perDay, number}",
+  "challenges.daily.title": "គោលដៅចំនួនពាក្យប្រចាំថ្ងៃ",
+  "challenges.daily.success": "ចំនួនថ្ងៃដែលសម្រេចគោលដៅ",
+  "challenges.daily.failure": "ចំនួនថ្ងៃដែលមិនសម្រេចគោលដៅ",
+  "challenges.daily.window": "៣០ ថ្ងៃចុងក្រោយ",
+  "challenges.untilFinished": "រហូតដល់រឿងបានបញ្ចប់",
+  "challenges.variation": "ការប្រកួតប្រជែង",
+  "challenges.ending": "បញ្ចប់",
+  "challenges.duration": "ចំនួនថ្ងៃ",
+  "challenges.preset.custom": "គោលដៅចំនួនពាក្យផ្ទាល់ខ្លួន",
+  "challenges.preset.daily": "គោលដៅចំនួនពាក្យប្រចាំថ្ងៃ",
+  "challenges.preset.daily750": "៧៥០ ពាក្យក្នុងមួយថ្ងៃ",
+  "challenges.preset.everyDay": "សរសេរជារៀងរាល់ថ្ងៃ",
+  "challenges.preset.novel30": "៥០.០០០ ពាក្យក្នុងរយៈពេល ៣០ ថ្ងៃ",
+  "challenges.preset.words30": "៣០.០០០ ពាក្យក្នុងរយៈពេល ៣០ ថ្ងៃ",
+  "challenges.invalidSettings": "បញ្ចូលគោលដៅចំនួនពាក្យជាចំនួនគត់វិជ្ជមាន និងការចាប់ផ្តើមនិងការបញ្ចប់ដែលត្រឹមត្រូវ។"
 }

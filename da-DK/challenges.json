@@ -54,5 +54,20 @@
   "challenges.panel.none": "Der er ingen udfordring i gang for denne historie.",
   "challenges.panel.start": "Start en udfordring",
   "challenges.panel.chip": "{title}: {total, number} af {goal, number} ord. Åbn sidepanelet.",
-  "challenges.panel.perDayToFinish": "Pr. dag for at blive færdig: {perDay, number}"
+  "challenges.panel.perDayToFinish": "Pr. dag for at blive færdig: {perDay, number}",
+  "challenges.daily.title": "Dagligt ordmål",
+  "challenges.daily.success": "Dage opfyldt",
+  "challenges.daily.failure": "Udeblivelsesdage",
+  "challenges.daily.window": "De seneste 30 dage",
+  "challenges.untilFinished": "Indtil historien er færdig",
+  "challenges.variation": "Udfordring",
+  "challenges.ending": "Slut",
+  "challenges.duration": "Antal dage",
+  "challenges.preset.custom": "Brugerdefineret ordmål",
+  "challenges.preset.daily": "Dagligt ordmål",
+  "challenges.preset.daily750": "750 ord om dagen",
+  "challenges.preset.everyDay": "Skriv hver dag",
+  "challenges.preset.novel30": "50.000 ord på 30 dage",
+  "challenges.preset.words30": "30.000 ord på 30 dage",
+  "challenges.invalidSettings": "Indtast et positivt mål bestående af et helt ord samt en gyldig start og slutning."
 }

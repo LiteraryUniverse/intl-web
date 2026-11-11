@@ -54,5 +54,20 @@
   "challenges.panel.none": "この物語で進行中のチャレンジはありません。",
   "challenges.panel.start": "チャレンジを開始",
   "challenges.panel.chip": "{title}：目標 {goal, number} 語のうち {total, number} 語。サイドパネルを開く。",
-  "challenges.panel.perDayToFinish": "完了に必要な1日の語数 {perDay, number} 語"
+  "challenges.panel.perDayToFinish": "完了に必要な1日の語数 {perDay, number} 語",
+  "challenges.daily.title": "1日の単語目標",
+  "challenges.daily.success": "達成日数",
+  "challenges.daily.failure": "欠席日数",
+  "challenges.daily.window": "過去30日間",
+  "challenges.untilFinished": "物語が終わるまで",
+  "challenges.variation": "課題",
+  "challenges.ending": "終わり",
+  "challenges.duration": "日数",
+  "challenges.preset.custom": "カスタム単語の目標",
+  "challenges.preset.daily": "1日の単語目標",
+  "challenges.preset.daily750": "1日750語",
+  "challenges.preset.everyDay": "毎日書く",
+  "challenges.preset.novel30": "30日間で5万語",
+  "challenges.preset.words30": "30日間で30,000語",
+  "challenges.invalidSettings": "正の「単語単位」の目標と、有効な開始点および終了点を入力してください。"
 }

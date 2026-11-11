@@ -54,5 +54,20 @@
   "challenges.panel.none": "यस कथाका लागि कुनै चुनौती चलिरहेको छैन।",
   "challenges.panel.start": "चुनौती सुरु गर्नुहोस्",
   "challenges.panel.chip": "{title}: {goal, number} शब्दमध्ये {total, number} शब्द। छेउको प्यानल खोल्नुहोस्।",
-  "challenges.panel.perDayToFinish": "पूरा गर्न दैनिक: {perDay, number}"
+  "challenges.panel.perDayToFinish": "पूरा गर्न दैनिक: {perDay, number}",
+  "challenges.daily.title": "दैनिक शब्द लक्ष्य",
+  "challenges.daily.success": "दिनहरू भेटिए",
+  "challenges.daily.failure": "छुटेका दिनहरू",
+  "challenges.daily.window": "पछिल्ला ३० दिन",
+  "challenges.untilFinished": "कथा सकिँदासम्म",
+  "challenges.variation": "चुनौती",
+  "challenges.ending": "समाप्त",
+  "challenges.duration": "दिनहरूको संख्या",
+  "challenges.preset.custom": "अनुकूलित शब्द लक्ष्य",
+  "challenges.preset.daily": "दैनिक शब्द लक्ष्य",
+  "challenges.preset.daily750": "प्रति दिन ७५० शब्दहरू",
+  "challenges.preset.everyDay": "हरेक दिन लेख्नुहोस्",
+  "challenges.preset.novel30": "३० दिनमा ५०,००० शब्दहरू",
+  "challenges.preset.words30": "३० दिनमा ३०,००० शब्द",
+  "challenges.invalidSettings": "एक सकारात्मक पूर्ण-शब्द लक्ष्य र मान्य सुरुवात तथा अन्त्य प्रविष्ट गर्नुहोस्।"
 }
