@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit ડિસ્કનેક્ટ થયું છે. તમારા Kit ખાતામાં પહેલેથી રહેલા સબ્સ્ક્રાઇબર રહેશે.",
   "blog.mailingList.service.failed": "Kit કનેક્ટ થઈ શક્યું નથી. ફરી પ્રયાસ કરો.",
   "blog.mailingList.service.intro": "તમારાં ન્યૂઝલેટર Kit પરથી મોકલો. કનેક્ટ થયા પછી, અહીં જોડાતા વાચકો આ બ્લોગના ટેગ સાથે તમારા Kit ખાતામાં ઉમેરાય છે, છોડી જનારા દૂર થાય છે, અને Kit માં અનસબ્સ્ક્રાઇબ કરનાર આ લિસ્ટમાંથી પણ નીકળી જાય છે.",
+  "blog.mailingList.service.constantContactIntro": "તમારાં ન્યૂઝલેટર Constant Contact પરથી મોકલો. કનેક્ટ થયા પછી, અહીં જોડાતા વાચકો તમારા Constant Contact ખાતાના એક લિસ્ટમાં ઉમેરાય છે, છોડી જનારા તેમાંથી દૂર થાય છે, અને ત્યાં અનસબ્સ્ક્રાઇબ કરનાર આ લિસ્ટમાંથી પણ નીકળી જાય છે.",
   "blog.mailingList.service.justConnected": "Kit કનેક્ટ થયું છે. તમારા સબ્સ્ક્રાઇબર ત્યાં જઈ રહ્યા છે.",
   "blog.mailingList.service.reconnect": "ફરી કનેક્ટ કરો",
   "blog.mailingList.service.reconnectNeeded": "Kit એ કનેક્શન સ્વીકારવાનું બંધ કર્યું છે, તેથી ફેરફારો તમારા Kit ખાતા સુધી પહોંચતા નથી. બધું અપડેટ કરવા ફરી કનેક્ટ કરો.",

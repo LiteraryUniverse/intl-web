@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kitの接続を解除しました。Kitアカウントには、すでに登録済みの購読者がそのまま残ります。",
   "blog.mailingList.service.failed": "Kitに接続できませんでした。もう一度お試しください。",
   "blog.mailingList.service.intro": "ニュースレターをKitから送信できます。接続すると、ここで参加した読者はこのブログのタグ付きでKitアカウントに追加され、退会した読者は削除されます。Kitで配信停止した読者は、このリストからも外れます。",
+  "blog.mailingList.service.constantContactIntro": "ニュースレターをConstant Contactから送信できます。接続すると、ここで参加した読者はConstant Contactアカウントのリストに追加され、退会した読者はそこから削除されます。Constant Contactで配信停止した読者は、このリストからも外れます。",
   "blog.mailingList.service.justConnected": "Kitに接続しました。購読者をKitへ反映しています。",
   "blog.mailingList.service.reconnect": "再接続",
   "blog.mailingList.service.reconnectNeeded": "Kitが接続を受け付けなくなったため、変更がKitアカウントに届いていません。再接続すると、未反映の変更が追いつきます。",

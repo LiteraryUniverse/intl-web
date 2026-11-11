@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit je odpojen. Váš účet v Kitu si ponechá odběratele, které už má.",
   "blog.mailingList.service.failed": "Kit se nepodařilo připojit. Zkuste to znovu.",
   "blog.mailingList.service.intro": "Posílejte newslettery z Kitu. Po připojení se čtenáři, kteří se přihlásí zde, přidají do vašeho účtu v Kitu se štítkem pro tento blog, čtenáři, kteří odejdou, se odeberou a kdo se odhlásí v Kitu, opustí i tento seznam.",
+  "blog.mailingList.service.constantContactIntro": "Posílejte newslettery ze služby Constant Contact. Po připojení se čtenáři, kteří se přihlásí zde, přidají do seznamu ve vašem účtu Constant Contact, čtenáři, kteří odejdou, se z něj odeberou a kdo se tam odhlásí, opustí i tento seznam.",
   "blog.mailingList.service.justConnected": "Kit je připojen. Vaši odběratelé jsou na cestě.",
   "blog.mailingList.service.reconnect": "Připojit znovu",
   "blog.mailingList.service.reconnectNeeded": "Kit přestal připojení přijímat, takže změny nedorazí do vašeho účtu v Kitu. Připojte znovu, ať se vše dožene.",

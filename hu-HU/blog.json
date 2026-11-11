@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "A Kit le van választva. A Kit-fiókja megtartja a már benne lévő feliratkozókat.",
   "blog.mailingList.service.failed": "A Kit csatlakoztatása nem sikerült. Próbálja újra.",
   "blog.mailingList.service.intro": "Küldje a hírleveleit a Kitből. Csatlakoztatás után az itt feliratkozó olvasók ehhez a bloghoz tartozó címkével bekerülnek a Kit-fiókjába, a leiratkozók törlődnek onnan, és aki a Kitben iratkozik le, az erről a listáról is lekerül.",
+  "blog.mailingList.service.constantContactIntro": "Küldje a hírleveleit a Constant Contactból. Csatlakoztatás után az itt feliratkozó olvasók bekerülnek a Constant Contact-fiókja egyik listájára, a leiratkozók lekerülnek róla, és aki ott leiratkozik, az erről a listáról is lekerül.",
   "blog.mailingList.service.justConnected": "A Kit csatlakoztatva van. A feliratkozói úton vannak oda.",
   "blog.mailingList.service.reconnect": "Újracsatlakoztatás",
   "blog.mailingList.service.reconnectNeeded": "A Kit leállt a kapcsolat fogadásával, ezért a változások nem jutnak el a Kit-fiókjába. Csatlakoztassa újra a lemaradás pótlásához.",

@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit đã bị ngắt kết nối. Tài khoản Kit của bạn vẫn giữ những người đăng ký đã có.",
   "blog.mailingList.service.failed": "Không thể kết nối Kit. Vui lòng thử lại.",
   "blog.mailingList.service.intro": "Gửi bản tin của bạn từ Kit. Sau khi kết nối, độc giả tham gia tại đây sẽ được thêm vào tài khoản Kit của bạn kèm thẻ của blog này, độc giả rời đi sẽ bị gỡ, và ai hủy đăng ký trong Kit cũng sẽ rời khỏi danh sách này.",
+  "blog.mailingList.service.constantContactIntro": "Gửi bản tin của bạn từ Constant Contact. Sau khi kết nối, độc giả tham gia tại đây sẽ được thêm vào một danh sách trong tài khoản Constant Contact của bạn, độc giả rời đi sẽ bị gỡ khỏi danh sách đó, và ai hủy đăng ký ở đó cũng sẽ rời khỏi danh sách này.",
   "blog.mailingList.service.justConnected": "Kit đã được kết nối. Người đăng ký của bạn đang được chuyển sang đó.",
   "blog.mailingList.service.reconnect": "Kết nối lại",
   "blog.mailingList.service.reconnectNeeded": "Kit không còn chấp nhận kết nối, nên các thay đổi không đến được tài khoản Kit của bạn. Hãy kết nối lại để cập nhật đầy đủ.",

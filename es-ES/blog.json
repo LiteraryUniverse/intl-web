@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit se ha desconectado. Su cuenta de Kit conserva los suscriptores que ya tenía.",
   "blog.mailingList.service.failed": "No se ha podido conectar Kit. Inténtelo de nuevo.",
   "blog.mailingList.service.intro": "Envíe sus boletines desde Kit. Una vez conectado, los lectores que se apunten aquí se añaden a su cuenta de Kit con una etiqueta de este blog, los que se van se eliminan, y quien se dé de baja en Kit también deja esta lista.",
+  "blog.mailingList.service.constantContactIntro": "Envíe sus boletines desde Constant Contact. Una vez conectado, los lectores que se apunten aquí se añaden a una lista de su cuenta de Constant Contact, los que se van se eliminan de ella, y quien se dé de baja allí también deja esta lista.",
   "blog.mailingList.service.justConnected": "Kit está conectado. Sus suscriptores van de camino.",
   "blog.mailingList.service.reconnect": "Conectar de nuevo",
   "blog.mailingList.service.reconnectNeeded": "Kit ha dejado de aceptar la conexión, así que los cambios no llegan a su cuenta de Kit. Conecte de nuevo para ponerse al día.",

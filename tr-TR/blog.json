@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit'in bağlantısı kesildi. Kit hesabınız mevcut aboneleri korur.",
   "blog.mailingList.service.failed": "Kit bağlanamadı. Tekrar deneyin.",
   "blog.mailingList.service.intro": "Bültenlerinizi Kit'ten gönderin. Bağlandıktan sonra buraya katılan okurlar, bu blogun etiketiyle Kit hesabınıza eklenir, ayrılanlar çıkarılır ve Kit'te abonelikten çıkan herkes bu listeden de ayrılır.",
+  "blog.mailingList.service.constantContactIntro": "Bültenlerinizi Constant Contact'ten gönderin. Bağlandıktan sonra buraya katılan okurlar Constant Contact hesabınızdaki bir listeye eklenir, ayrılanlar bu listeden çıkarılır ve orada abonelikten çıkan herkes bu listeden de ayrılır.",
   "blog.mailingList.service.justConnected": "Kit bağlandı. Aboneleriniz oraya doğru yolda.",
   "blog.mailingList.service.reconnect": "Tekrar bağla",
   "blog.mailingList.service.reconnectNeeded": "Kit bağlantıyı kabul etmeyi bıraktı, bu yüzden değişiklikler Kit hesabınıza ulaşmıyor. Eksikleri tamamlamak için tekrar bağlayın.",

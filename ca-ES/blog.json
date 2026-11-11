@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit s'ha desconnectat. El teu compte de Kit conserva els subscriptors que ja tenia.",
   "blog.mailingList.service.failed": "No s'ha pogut connectar Kit. Torna-ho a provar.",
   "blog.mailingList.service.intro": "Envia els teus butlletins des de Kit. Un cop connectat, els lectors que s'hi apuntin aquí s'afegeixen al teu compte de Kit amb una etiqueta per a aquest blog, els que se'n vagin se'n treuen, i qui es doni de baixa a Kit també deixa aquesta llista.",
+  "blog.mailingList.service.constantContactIntro": "Envia els teus butlletins des de Constant Contact. Un cop connectat, els lectors que s'hi apuntin aquí s'afegeixen a una llista del teu compte de Constant Contact, els que se'n vagin se'n treuen, i qui es doni de baixa allà també deixa aquesta llista.",
   "blog.mailingList.service.justConnected": "Kit està connectat. Els teus subscriptors hi van de camí.",
   "blog.mailingList.service.reconnect": "Torna a connectar",
   "blog.mailingList.service.reconnectNeeded": "Kit ha deixat d'acceptar la connexió, per això els canvis no arriben al teu compte de Kit. Torna a connectar per posar-te al dia.",

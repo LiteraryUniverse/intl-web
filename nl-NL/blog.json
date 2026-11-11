@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit is ontkoppeld. Uw Kit-account behoudt de abonnees die er al in staan.",
   "blog.mailingList.service.failed": "Kit kon niet worden gekoppeld. Probeer het opnieuw.",
   "blog.mailingList.service.intro": "Verstuur uw nieuwsbrieven vanuit Kit. Zodra de koppeling actief is, worden lezers die zich hier aanmelden met een tag voor deze blog aan uw Kit-account toegevoegd, worden lezers die zich afmelden verwijderd en verdwijnt iedereen die zich in Kit uitschrijft ook van deze lijst.",
+  "blog.mailingList.service.constantContactIntro": "Verstuur uw nieuwsbrieven vanuit Constant Contact. Zodra de koppeling actief is, worden lezers die zich hier aanmelden toegevoegd aan een lijst in uw Constant Contact-account, worden lezers die zich afmelden ervan verwijderd en verdwijnt iedereen die zich daar uitschrijft ook van deze lijst.",
   "blog.mailingList.service.justConnected": "Kit is gekoppeld. Uw abonnees zijn onderweg.",
   "blog.mailingList.service.reconnect": "Opnieuw koppelen",
   "blog.mailingList.service.reconnectNeeded": "Kit accepteert de koppeling niet meer, dus wijzigingen bereiken uw Kit-account niet. Koppel opnieuw om bij te werken.",

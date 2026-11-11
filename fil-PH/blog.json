@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Naka-disconnect na ang Kit. Nananatili sa iyong Kit account ang mga subscriber na nandoon na.",
   "blog.mailingList.service.failed": "Hindi nakonekta ang Kit. Subukan muli.",
   "blog.mailingList.service.intro": "Ipadala ang iyong mga newsletter mula sa Kit. Kapag nakakonekta na, idinadagdag sa iyong Kit account ang mga mambabasang sumali rito, may tag para sa blog na ito; inaalis ang mga umalis; at ang sinumang mag-unsubscribe sa Kit ay aalis din sa listahang ito.",
+  "blog.mailingList.service.constantContactIntro": "Ipadala ang iyong mga newsletter mula sa Constant Contact. Kapag nakakonekta na, idinadagdag sa isang listahan sa iyong Constant Contact account ang mga mambabasang sumali rito; inaalis doon ang mga umalis; at ang sinumang mag-unsubscribe roon ay aalis din sa listahang ito.",
   "blog.mailingList.service.justConnected": "Nakakonekta na ang Kit. Papunta na roon ang iyong mga subscriber.",
   "blog.mailingList.service.reconnect": "Ikonekta muli",
   "blog.mailingList.service.reconnectNeeded": "Hindi na tinatanggap ng Kit ang koneksyon, kaya hindi umaabot sa iyong Kit account ang mga pagbabago. Ikonekta muli para makahabol.",

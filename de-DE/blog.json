@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit ist getrennt. Ihr Kit-Konto behält die Abonnenten, die es bereits hat.",
   "blog.mailingList.service.failed": "Kit konnte nicht verbunden werden. Versuchen Sie es erneut.",
   "blog.mailingList.service.intro": "Versenden Sie Ihre Newsletter über Kit. Sobald die Verbindung steht, werden Leser, die hier beitreten, mit einem Tag für diesen Blog zu Ihrem Kit-Konto hinzugefügt, Leser, die gehen, werden entfernt, und wer sich in Kit abmeldet, verlässt auch diese Liste.",
+  "blog.mailingList.service.constantContactIntro": "Versenden Sie Ihre Newsletter über Constant Contact. Sobald die Verbindung steht, werden Leser, die hier beitreten, einer Liste in Ihrem Konto bei Constant Contact hinzugefügt, Leser, die gehen, werden daraus entfernt, und wer sich dort abmeldet, verlässt auch diese Liste.",
   "blog.mailingList.service.justConnected": "Kit ist verbunden. Ihre Abonnenten sind auf dem Weg dorthin.",
   "blog.mailingList.service.reconnect": "Erneut verbinden",
   "blog.mailingList.service.reconnectNeeded": "Kit akzeptiert die Verbindung nicht mehr, daher kommen Änderungen nicht in Ihrem Kit-Konto an. Verbinden Sie erneut, um alles nachzuholen.",

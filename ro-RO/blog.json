@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit este deconectat. Contul tău Kit păstrează abonații pe care îi are deja.",
   "blog.mailingList.service.failed": "Kit nu a putut fi conectat. Încearcă din nou.",
   "blog.mailingList.service.intro": "Trimite-ți newsletterele din Kit. După conectare, cititorii care se alătură aici sunt adăugați în contul tău Kit cu o etichetă pentru acest blog, cei care pleacă sunt eliminați, iar cine se dezabonează în Kit iese și din această listă.",
+  "blog.mailingList.service.constantContactIntro": "Trimite-ți newsletterele din Constant Contact. După conectare, cititorii care se alătură aici sunt adăugați într-o listă din contul tău Constant Contact, cei care pleacă sunt eliminați din ea, iar cine se dezabonează acolo iese și din această listă.",
   "blog.mailingList.service.justConnected": "Kit este conectat. Abonații tăi sunt pe drum.",
   "blog.mailingList.service.reconnect": "Conectează din nou",
   "blog.mailingList.service.reconnectNeeded": "Kit a încetat să accepte conexiunea, așa că modificările nu ajung în contul tău Kit. Conectează din nou pentru a recupera diferența.",

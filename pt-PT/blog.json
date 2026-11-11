@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "O Kit foi desligado. A sua conta do Kit mantém os subscritores que já tem.",
   "blog.mailingList.service.failed": "Não foi possível ligar o Kit. Tente novamente.",
   "blog.mailingList.service.intro": "Envie as suas newsletters a partir do Kit. Depois de ligado, os leitores que aderirem aqui são adicionados à sua conta do Kit com uma etiqueta deste blogue, os que saírem são removidos, e quem cancelar a subscrição no Kit também sai desta lista.",
+  "blog.mailingList.service.constantContactIntro": "Envie as suas newsletters a partir do Constant Contact. Depois de ligado, os leitores que aderirem aqui são adicionados a uma lista na sua conta do Constant Contact, os que saírem são removidos dela, e quem cancelar a subscrição lá também sai desta lista.",
   "blog.mailingList.service.justConnected": "O Kit está ligado. Os seus subscritores estão a caminho.",
   "blog.mailingList.service.reconnect": "Ligar novamente",
   "blog.mailingList.service.reconnectNeeded": "O Kit deixou de aceitar a ligação, pelo que as alterações não estão a chegar à sua conta do Kit. Ligue novamente para ficar tudo em dia.",

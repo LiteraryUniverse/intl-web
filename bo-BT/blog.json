@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit is disconnected. Your Kit account keeps the subscribers it already has.",
   "blog.mailingList.service.failed": "Kit could not be connected. Try again.",
   "blog.mailingList.service.intro": "Send your newsletters from Kit. Once connected, readers who join here are added to your Kit account with a tag for this blog, readers who leave are taken off, and anyone who unsubscribes in Kit leaves this list too.",
+  "blog.mailingList.service.constantContactIntro": "ཁྱེད་ཀྱི་གསར་འགྱུར་ཡིག་ཆུང་ Constant Contact ནས་གཏོང་། སྦྲེལ་མཐུད་བྱས་རྗེས། འདིར་ཞུགས་པའི་ཀློག་མཁན་རྣམས་ཁྱེད་ཀྱི་ Constant Contact ཐོ་ཁོངས་ནང་གི་ཐོ་གཞུང་ཞིག་ཏུ་སྣོན་གྱི་ཡོད། ཕྱིར་ཐོན་པའི་ཀློག་མཁན་རྣམས་དེ་ནས་ཕྱིར་འདོན་བྱེད་ཅིང་། དེར་མངགས་ཉོ་མཚམས་འཇོག་བྱེད་མཁན་སུ་ཡིན་ཡང་ཐོ་གཞུང་འདི་ནས་ཀྱང་ཕྱིར་ཐོན་གྱི་ཡོད།",
   "blog.mailingList.service.justConnected": "Kit is connected. Your subscribers are on their way there.",
   "blog.mailingList.service.reconnect": "Connect again",
   "blog.mailingList.service.reconnectNeeded": "Kit stopped accepting the connection, so changes are not reaching your Kit account. Connect again to catch up.",

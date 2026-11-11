@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit 已中斷連結。您的 Kit 帳號會保留既有的訂閱者。",
   "blog.mailingList.service.failed": "無法連結 Kit，請再試一次。",
   "blog.mailingList.service.intro": "從 Kit 寄送您的電子報。連結後，加入此處的讀者會連同此部落格的標籤加入您的 Kit 帳號，離開的讀者會被移除，在 Kit 取消訂閱的人也會一併退出此名單。",
+  "blog.mailingList.service.constantContactIntro": "從 Constant Contact 寄送您的電子報。連結後，加入此處的讀者會加入您 Constant Contact 帳號中的一份名單，離開的讀者會從中移除，在那裡取消訂閱的人也會一併退出此名單。",
   "blog.mailingList.service.justConnected": "Kit 已連結，您的訂閱者正在同步過去。",
   "blog.mailingList.service.reconnect": "重新連結",
   "blog.mailingList.service.reconnectNeeded": "Kit 已不再接受此連結，因此變更無法同步到您的 Kit 帳號。請重新連結以補上進度。",

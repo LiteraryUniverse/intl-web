@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit er afbrudt. Din Kit-konto beholder de abonnenter, den allerede har.",
   "blog.mailingList.service.failed": "Kit kunne ikke forbindes. Prøv igen.",
   "blog.mailingList.service.intro": "Send dine nyhedsbreve fra Kit. Når den er forbundet, tilføjes læsere, der tilmelder sig her, til din Kit-konto med et tag for denne blog, læsere, der forlader listen, fjernes, og alle, der afmelder sig i Kit, forlader også denne liste.",
+  "blog.mailingList.service.constantContactIntro": "Send dine nyhedsbreve fra Constant Contact. Når den er forbundet, tilføjes læsere, der tilmelder sig her, til en liste på din Constant Contact-konto, læsere, der melder sig fra, fjernes fra den, og alle, der afmelder sig dér, forlader også denne liste.",
   "blog.mailingList.service.justConnected": "Kit er forbundet. Dine abonnenter er på vej derover.",
   "blog.mailingList.service.reconnect": "Forbind igen",
   "blog.mailingList.service.reconnectNeeded": "Kit holdt op med at acceptere forbindelsen, så ændringer når ikke din Kit-konto. Forbind igen for at hente det forsømte ind.",

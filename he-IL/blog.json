@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit מנותק. חשבון ה-Kit שלכם שומר על המנויים שכבר יש בו.",
   "blog.mailingList.service.failed": "לא ניתן היה לחבר את Kit. נסו שוב.",
   "blog.mailingList.service.intro": "שלחו את הניוזלטרים שלכם דרך Kit. לאחר החיבור, קוראים שמצטרפים כאן יתווספו לחשבון ה-Kit שלכם עם תג של הבלוג הזה, קוראים שעוזבים יוסרו, וכל מי שמבטל מנוי ב-Kit יוצא גם מהרשימה הזו.",
+  "blog.mailingList.service.constantContactIntro": "שלחו את הניוזלטרים שלכם דרך Constant Contact. לאחר החיבור, קוראים שמצטרפים כאן יתווספו לרשימה בחשבון ה-Constant Contact שלכם, קוראים שעוזבים יוסרו ממנה, וכל מי שמבטל שם מנוי יוצא גם מהרשימה הזו.",
   "blog.mailingList.service.justConnected": "Kit מחובר. המנויים שלכם בדרך לשם.",
   "blog.mailingList.service.reconnect": "חיבור מחדש",
   "blog.mailingList.service.reconnectNeeded": "Kit הפסיק לקבל את החיבור, ולכן השינויים לא מגיעים לחשבון ה-Kit שלכם. התחברו שוב כדי להשלים את הפער.",

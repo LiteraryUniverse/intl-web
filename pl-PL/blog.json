@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit został rozłączony. Twoje konto w Kit zachowuje subskrybentów, których już ma.",
   "blog.mailingList.service.failed": "Nie udało się połączyć z Kit. Spróbuj ponownie.",
   "blog.mailingList.service.intro": "Wysyłaj newslettery z Kit. Po połączeniu czytelnicy, którzy dołączą tutaj, zostaną dodani do Twojego konta w Kit z tagiem tego bloga, ci, którzy odejdą, zostaną usunięci, a każdy, kto zrezygnuje z subskrypcji w Kit, opuści też tę listę.",
+  "blog.mailingList.service.constantContactIntro": "Wysyłaj newslettery z Constant Contact. Po połączeniu czytelnicy, którzy dołączą tutaj, zostaną dodani do listy na Twoim koncie w Constant Contact, ci, którzy odejdą, zostaną z niej usunięci, a każdy, kto zrezygnuje tam z subskrypcji, opuści też tę listę.",
   "blog.mailingList.service.justConnected": "Kit jest połączony. Twoi subskrybenci są w drodze.",
   "blog.mailingList.service.reconnect": "Połącz ponownie",
   "blog.mailingList.service.reconnectNeeded": "Kit przestał akceptować połączenie, więc zmiany nie docierają do Twojego konta w Kit. Połącz ponownie, aby nadrobić zaległości.",

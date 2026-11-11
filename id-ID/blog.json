@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit diputuskan. Akun Kit Anda tetap menyimpan pelanggan yang sudah ada di sana.",
   "blog.mailingList.service.failed": "Kit tidak dapat dihubungkan. Coba lagi.",
   "blog.mailingList.service.intro": "Kirim buletin Anda dari Kit. Setelah terhubung, pembaca yang bergabung di sini ditambahkan ke akun Kit Anda dengan tag untuk blog ini, pembaca yang keluar dihapus, dan siapa pun yang berhenti berlangganan di Kit juga keluar dari milis ini.",
+  "blog.mailingList.service.constantContactIntro": "Kirim buletin Anda dari Constant Contact. Setelah terhubung, pembaca yang bergabung di sini ditambahkan ke sebuah daftar di akun Constant Contact Anda, pembaca yang keluar dihapus dari daftar itu, dan siapa pun yang berhenti berlangganan di sana juga keluar dari milis ini.",
   "blog.mailingList.service.justConnected": "Kit terhubung. Pelanggan Anda sedang dalam perjalanan ke sana.",
   "blog.mailingList.service.reconnect": "Hubungkan lagi",
   "blog.mailingList.service.reconnectNeeded": "Kit berhenti menerima koneksi, sehingga perubahan tidak sampai ke akun Kit Anda. Hubungkan lagi untuk menyusul.",

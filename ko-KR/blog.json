@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit 연결이 해제되었습니다. Kit 계정에는 이미 있던 구독자가 그대로 남습니다.",
   "blog.mailingList.service.failed": "Kit를 연결하지 못했습니다. 다시 시도해 주세요.",
   "blog.mailingList.service.intro": "뉴스레터를 Kit에서 보내세요. 연결하면 여기서 참여한 독자는 이 블로그 태그와 함께 Kit 계정에 추가되고, 탈퇴한 독자는 제거되며, Kit에서 구독을 해지한 독자는 이 리스트에서도 빠집니다.",
+  "blog.mailingList.service.constantContactIntro": "뉴스레터를 Constant Contact에서 보내세요. 연결하면 여기서 참여한 독자는 Constant Contact 계정의 리스트에 추가되고, 탈퇴한 독자는 그 리스트에서 제거되며, 그곳에서 구독을 해지한 독자는 이 리스트에서도 빠집니다.",
   "blog.mailingList.service.justConnected": "Kit가 연결되었습니다. 구독자를 Kit로 옮기는 중입니다.",
   "blog.mailingList.service.reconnect": "다시 연결",
   "blog.mailingList.service.reconnectNeeded": "Kit가 연결을 더 이상 받아들이지 않아 변경 사항이 Kit 계정에 반영되지 않고 있습니다. 다시 연결하면 밀린 변경 사항이 반영됩니다.",

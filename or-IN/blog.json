@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit is disconnected. Your Kit account keeps the subscribers it already has.",
   "blog.mailingList.service.failed": "Kit could not be connected. Try again.",
   "blog.mailingList.service.intro": "Send your newsletters from Kit. Once connected, readers who join here are added to your Kit account with a tag for this blog, readers who leave are taken off, and anyone who unsubscribes in Kit leaves this list too.",
+  "blog.mailingList.service.constantContactIntro": "Constant Contact ରୁ ଆପଣଙ୍କ ନ୍ୟୁଜଲେଟର ପଠାନ୍ତୁ। ସଂଯୋଗ ହେବା ପରେ, ଏଠାରେ ଯୋଗ ଦେଉଥିବା ପାଠକମାନେ ଆପଣଙ୍କ Constant Contact ଆକାଉଣ୍ଟର ଏକ ତାଲିକାରେ ଯୋଡ଼ାଯାଆନ୍ତି, ଛାଡ଼ି ଯାଉଥିବା ପାଠକମାନଙ୍କୁ ସେଥିରୁ ହଟାଯାଏ, ଏବଂ ସେଠାରେ ସଦସ୍ୟତା ବାତିଲ କରୁଥିବା ଯେକେହି ଏହି ତାଲିକାରୁ ମଧ୍ୟ ବାହାରିଯାଆନ୍ତି।",
   "blog.mailingList.service.justConnected": "Kit is connected. Your subscribers are on their way there.",
   "blog.mailingList.service.reconnect": "Connect again",
   "blog.mailingList.service.reconnectNeeded": "Kit stopped accepting the connection, so changes are not reaching your Kit account. Connect again to catch up.",

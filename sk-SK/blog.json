@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit je odpojený. Váš účet v Kit si ponecháva odberateľov, ktorých už má.",
   "blog.mailingList.service.failed": "Kit sa nepodarilo pripojiť. Skúste to znova.",
   "blog.mailingList.service.intro": "Posielajte svoje newslettery cez Kit. Po pripojení sa čitatelia, ktorí sa sem pridajú, pridajú do vášho účtu v Kit so štítkom tohto blogu, tí, ktorí odídu, sa odstránia a kto sa odhlási z odberu v Kit, opustí aj tento zoznam.",
+  "blog.mailingList.service.constantContactIntro": "Posielajte svoje newslettery cez Constant Contact. Po pripojení sa čitatelia, ktorí sa sem pridajú, pridajú do zoznamu vo vašom účte v Constant Contact, tí, ktorí odídu, sa z neho odstránia a kto sa tam odhlási z odberu, opustí aj tento zoznam.",
   "blog.mailingList.service.justConnected": "Kit je pripojený. Vaši odberatelia sú na ceste.",
   "blog.mailingList.service.reconnect": "Pripojiť znova",
   "blog.mailingList.service.reconnectNeeded": "Kit prestal prijímať pripojenie, takže zmeny sa nedostávajú do vášho účtu v Kit. Pripojte ho znova, aby sa všetko dohnalo.",

@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit atjungtas. Jūsų Kit paskyroje išlieka jau esami prenumeratoriai.",
   "blog.mailingList.service.failed": "Nepavyko prijungti Kit. Bandykite dar kartą.",
   "blog.mailingList.service.intro": "Siųskite naujienlaiškius iš Kit. Prijungus čia prisijungę skaitytojai įtraukiami į jūsų Kit paskyrą su šio tinklaraščio žyma, išėjusieji pašalinami, o kas atsisako prenumeratos Kit, išeina ir iš šio sąrašo.",
+  "blog.mailingList.service.constantContactIntro": "Siųskite naujienlaiškius iš Constant Contact. Prijungus čia prisijungę skaitytojai įtraukiami į sąrašą jūsų Constant Contact paskyroje, išėjusieji iš jo pašalinami, o kas ten atsisako prenumeratos, išeina ir iš šio sąrašo.",
   "blog.mailingList.service.justConnected": "Kit prijungtas. Jūsų prenumeratoriai jau pakeliui ten.",
   "blog.mailingList.service.reconnect": "Prijungti iš naujo",
   "blog.mailingList.service.reconnectNeeded": "Kit nebepriima ryšio, todėl pakeitimai nepasiekia jūsų Kit paskyros. Prijunkite iš naujo, kad viskas atsinaujintų.",

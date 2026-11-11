@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "Kit estas malkonektita. Via Kit-konto konservas la abonantojn, kiujn ĝi jam havas.",
   "blog.mailingList.service.failed": "Ne eblis konekti Kit. Provu denove.",
   "blog.mailingList.service.intro": "Sendu viajn novaĵleterojn el Kit. Post la konekto, legantoj, kiuj aliĝas ĉi tie, aldoniĝas al via Kit-konto kun etikedo por ĉi tiu blogo, legantoj, kiuj foriras, forigiĝas, kaj kiu malabonas en Kit, forlasas ankaŭ ĉi tiun liston.",
+  "blog.mailingList.service.constantContactIntro": "Sendu viajn novaĵleterojn el Constant Contact. Post la konekto, legantoj, kiuj aliĝas ĉi tie, aldoniĝas al listo en via Constant Contact-konto, legantoj, kiuj foriras, forigiĝas el ĝi, kaj kiu malabonas tie, forlasas ankaŭ ĉi tiun liston.",
   "blog.mailingList.service.justConnected": "Kit estas konektita. Viaj abonantoj survojas tien.",
   "blog.mailingList.service.reconnect": "Konekti denove",
   "blog.mailingList.service.reconnectNeeded": "Kit ĉesis akcepti la konekton, do ŝanĝoj ne atingas vian Kit-konton. Konektu denove por ĝisdatiĝi.",

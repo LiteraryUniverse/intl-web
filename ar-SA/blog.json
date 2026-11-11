@@ -805,6 +805,7 @@
   "blog.mailingList.service.disconnected": "تم فصل Kit. يحتفظ حسابك في Kit بالمشتركين الموجودين فيه.",
   "blog.mailingList.service.failed": "تعذّر ربط Kit. حاول مرة أخرى.",
   "blog.mailingList.service.intro": "أرسل نشراتك البريدية من Kit. بعد الربط يُضاف القراء الذين ينضمون هنا إلى حسابك في Kit مع وسم لهذه المدونة، ويُزالون عند مغادرتهم، ومن يلغي اشتراكه في Kit يغادر هذه القائمة أيضًا.",
+  "blog.mailingList.service.constantContactIntro": "أرسل نشراتك البريدية من Constant Contact. بعد الربط يُضاف القراء الذين ينضمون هنا إلى قائمة في حسابك في Constant Contact، ويُزالون منها عند مغادرتهم، ومن يلغي اشتراكه هناك يغادر هذه القائمة أيضًا.",
   "blog.mailingList.service.justConnected": "تم ربط Kit. مشتركوك في طريقهم إليه.",
   "blog.mailingList.service.reconnect": "اربط مجددًا",
   "blog.mailingList.service.reconnectNeeded": "توقف Kit عن قبول الربط، لذلك لا تصل التغييرات إلى حسابك في Kit. اربط مجددًا للحاق بالتغييرات.",
