@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "ទាញយកជាអត្ថបទ",
   "workshop.chapterExport.open": "បើក {site}",
   "workshop.chapterExport.linkHeading": "ភ្ជាប់រឿងរបស់អ្នក",
-  "workshop.chapterExport.link": "នៅពេលរឿងបានបង្ហោះហើយ សូមបន្ថែមតំណរបស់វានៅក្រោម ជម្រើសទិញក្រុមទំនិញក្រៅប្រទេស ដើម្បីឱ្យអ្នកអាននៅលើ Literary Universe អាចរកវាឃើញ។"
+  "workshop.chapterExport.link": "នៅពេលរឿងបានបង្ហោះហើយ សូមបន្ថែមតំណរបស់វានៅក្រោម ជម្រើសទិញក្រុមទំនិញក្រៅប្រទេស ដើម្បីឱ្យអ្នកអាននៅលើ Literary Universe អាចរកវាឃើញ។",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play សៀវភៅ"
 }

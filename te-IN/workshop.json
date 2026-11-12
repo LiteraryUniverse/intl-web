@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "టెక్స్ట్‌గా డౌన్‌లోడ్ చేయండి",
   "workshop.chapterExport.open": "{site}ను తెరవండి",
   "workshop.chapterExport.linkHeading": "మీ కథను లింక్ చేయండి",
-  "workshop.chapterExport.link": "కథ ప్రచురితమయ్యాక, Literary Universeలోని పాఠకులు దాన్ని కనుగొనేలా దాని లింక్‌ను బాహ్య కొనుగోలు ఎంపికలు కింద జోడించండి."
+  "workshop.chapterExport.link": "కథ ప్రచురితమయ్యాక, Literary Universeలోని పాఠకులు దాన్ని కనుగొనేలా దాని లింక్‌ను బాహ్య కొనుగోలు ఎంపికలు కింద జోడించండి.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play పుస్తకాలు"
 }

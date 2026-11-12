@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Muat turun sebagai teks",
   "workshop.chapterExport.open": "Buka {site}",
   "workshop.chapterExport.linkHeading": "Pautkan cerita anda",
-  "workshop.chapterExport.link": "Setelah cerita itu disiarkan, tambah pautannya di bawah Pilihan pembelian luar supaya pembaca di Literary Universe dapat menemuinya."
+  "workshop.chapterExport.link": "Setelah cerita itu disiarkan, tambah pautannya di bawah Pilihan pembelian luar supaya pembaca di Literary Universe dapat menemuinya.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Buku"
 }

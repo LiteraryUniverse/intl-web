@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "I-download bilang text",
   "workshop.chapterExport.open": "Buksan ang {site}",
   "workshop.chapterExport.linkHeading": "I-link ang iyong kwento",
-  "workshop.chapterExport.link": "Kapag naka-post na ang kwento, idagdag ang link nito sa ilalim ng \"Mga opsyon para sa panlabas na pagbili\" para mahanap ito ng mga mambabasa sa Literary Universe."
+  "workshop.chapterExport.link": "Kapag naka-post na ang kwento, idagdag ang link nito sa ilalim ng \"Mga opsyon para sa panlabas na pagbili\" para mahanap ito ng mga mambabasa sa Literary Universe.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Books"
 }

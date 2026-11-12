@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Ši istorija šiuo metu yra privati, todėl papildomų pirkimų atlikti nebegalima. Galite toliau skaityti jau įsigytus skyrius, tačiau šis skyrius į jūsų pirkinius neįeina.",
   "reader.printDisabled": "Tai licencijuotas turinys. Autorius išjungė istorijos teksto spausdinimą.",
   "reader.protection.devtoolsOpen": "Šis kūrinys paslėptas, kol atidaryti naršyklės kūrėjo įrankiai, nes jo licencija neleidžia kopijuoti. Uždarykite juos ir tęskite ten, kur baigėte.",
-  "reader.protection.unfocused": "Paslėpta, kol šis langas yra fone. Spustelėkite bet kur, kad vėl būtų rodoma."
+  "reader.protection.unfocused": "Paslėpta, kol šis langas yra fone. Spustelėkite bet kur, kad vėl būtų rodoma.",
+  "externalShopping.buyLink.apple": "Pirkti Apple Books",
+  "externalShopping.buyLink.google": "Pirkti Google Play knygose"
 }

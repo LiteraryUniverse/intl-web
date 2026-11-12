@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Den här berättelsen är för närvarande privat, så ytterligare köp är inte längre möjliga. Du kan fortsätta läsa de kapitel du redan har köpt, men det här kapitlet ingår inte i dina köp.",
   "reader.printDisabled": "Det här är licensierat innehåll. Författaren har inaktiverat utskrift av berättelsens text.",
   "reader.protection.devtoolsOpen": "Det här verket är dolt så länge webbläsarens utvecklarverktyg är öppna, eftersom licensen inte tillåter kopiering. Stäng dem för att fortsätta där du slutade.",
-  "reader.protection.unfocused": "Dolt så länge det här fönstret är i bakgrunden. Klicka var som helst för att visa det igen."
+  "reader.protection.unfocused": "Dolt så länge det här fönstret är i bakgrunden. Klicka var som helst för att visa det igen.",
+  "externalShopping.buyLink.apple": "Köp på Apple Books",
+  "externalShopping.buyLink.google": "Köp på Google Play Böcker"
 }

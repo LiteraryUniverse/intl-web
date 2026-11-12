@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Unduh pinaka teks",
   "workshop.chapterExport.open": "Buka {site}",
   "workshop.chapterExport.linkHeading": "Tautang satua ragané",
-  "workshop.chapterExport.link": "Sasampun satua puniki kaunggah, tambahang tautannyané ring \"External purchase options\" mangda para pangwacen ring Literary Universe prasida manggihin."
+  "workshop.chapterExport.link": "Sasampun satua puniki kaunggah, tambahang tautannyané ring \"External purchase options\" mangda para pangwacen ring Literary Universe prasida manggihin.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Books"
 }

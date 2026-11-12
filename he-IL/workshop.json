@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "הורדה כטקסט",
   "workshop.chapterExport.open": "פתיחת {site}",
   "workshop.chapterExport.linkHeading": "קישור לסיפור שלכם",
-  "workshop.chapterExport.link": "כשהסיפור עולה לאוויר, הוסיפו את הקישור שלו תחת אפשרויות רכישה חיצוניות כדי שקוראים ב־Literary Universe יוכלו למצוא אותו."
+  "workshop.chapterExport.link": "כשהסיפור עולה לאוויר, הוסיפו את הקישור שלו תחת אפשרויות רכישה חיצוניות כדי שקוראים ב־Literary Universe יוכלו למצוא אותו.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play ספרים"
 }

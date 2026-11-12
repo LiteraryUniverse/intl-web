@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "סיפור זה פרטי כרגע, ולכן רכישות נוספות אינן זמינות עוד. אפשר להמשיך לקרוא פרקים שכבר רכשת, אך פרק זה אינו כלול ברכישות שלך.",
   "reader.printDisabled": "זהו תוכן ברישיון. המחבר השבית את הדפסת טקסט הסיפור.",
   "reader.protection.devtoolsOpen": "היצירה מוסתרת כל עוד כלי המפתחים של הדפדפן פתוחים, מפני שהרישיון שלה אינו מתיר העתקה. סגור אותם כדי להמשיך מהמקום שבו עצרת.",
-  "reader.protection.unfocused": "מוסתר כל עוד החלון הזה ברקע. לחץ בכל מקום כדי להציג שוב."
+  "reader.protection.unfocused": "מוסתר כל עוד החלון הזה ברקע. לחץ בכל מקום כדי להציג שוב.",
+  "externalShopping.buyLink.apple": "קנה ב-Apple Books",
+  "externalShopping.buyLink.google": "קנה ב-Google Play ספרים"
 }

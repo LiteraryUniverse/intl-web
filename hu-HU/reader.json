@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Ez a történet jelenleg privát, ezért további vásárlásra már nincs lehetőség. A már megvásárolt fejezeteket tovább olvashatod, de ez a fejezet nem szerepel a vásárlásaid között.",
   "reader.printDisabled": "Ez licencelt tartalom. A szerző letiltotta a történet szövegének nyomtatását.",
   "reader.protection.devtoolsOpen": "Ez a mű rejtve marad, amíg a böngésző fejlesztői eszközei nyitva vannak, mert a licence nem engedi a másolást. Zárja be őket, és folytathatja ott, ahol abbahagyta.",
-  "reader.protection.unfocused": "Rejtve, amíg ez az ablak a háttérben van. Kattintson bárhová a megjelenítéshez."
+  "reader.protection.unfocused": "Rejtve, amíg ez az ablak a háttérben van. Kattintson bárhová a megjelenítéshez.",
+  "externalShopping.buyLink.apple": "Vásárlás az Apple Books oldalon",
+  "externalShopping.buyLink.google": "Vásárlás a Google Play Könyvek oldalon"
 }

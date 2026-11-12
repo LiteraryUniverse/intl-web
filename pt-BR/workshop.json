@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Baixar como texto",
   "workshop.chapterExport.open": "Abrir {site}",
   "workshop.chapterExport.linkHeading": "Vincule sua história",
-  "workshop.chapterExport.link": "Quando a história estiver no ar, adicione o link dela em Opções de compra externa para que os leitores do Literary Universe a encontrem."
+  "workshop.chapterExport.link": "Quando a história estiver no ar, adicione o link dela em Opções de compra externa para que os leitores do Literary Universe a encontrem.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Livros"
 }

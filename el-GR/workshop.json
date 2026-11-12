@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Λήψη ως κείμενο",
   "workshop.chapterExport.open": "Άνοιγμα {site}",
   "workshop.chapterExport.linkHeading": "Προσθέστε σύνδεσμο προς την ιστορία σας",
-  "workshop.chapterExport.link": "Μόλις ανέβει η ιστορία, προσθέστε τον σύνδεσμό της στις «Εξωτερικές επιλογές αγοράς» για να τη βρίσκουν οι αναγνώστες στο Literary Universe."
+  "workshop.chapterExport.link": "Μόλις ανέβει η ιστορία, προσθέστε τον σύνδεσμό της στις «Εξωτερικές επιλογές αγοράς» για να τη βρίσκουν οι αναγνώστες στο Literary Universe.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Βιβλία Google Play"
 }

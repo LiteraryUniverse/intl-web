@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Downloaden als tekst",
   "workshop.chapterExport.open": "{site} openen",
   "workshop.chapterExport.linkHeading": "Koppel je verhaal",
-  "workshop.chapterExport.link": "Zodra het verhaal online staat, voeg je de link toe onder Externe aankoopopties, zodat lezers op Literary Universe het kunnen vinden."
+  "workshop.chapterExport.link": "Zodra het verhaal online staat, voeg je de link toe onder Externe aankoopopties, zodat lezers op Literary Universe het kunnen vinden.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Boeken"
 }

@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
   "reader.protection.devtoolsOpen": "Karya iki didhelikake nalika piranti pangembang browser sampeyan mbukak, amarga lisènse ora ngidini nyalin. Tutup piranti kasebut kanggo nerusake saka panggonan sing wis sampeyan tinggalake.",
-  "reader.protection.unfocused": "Didhèlikaké nalika jendhela iki ana ing latar mburi. Klik ing endi waé kanggo mbalèkaké."
+  "reader.protection.unfocused": "Didhèlikaké nalika jendhela iki ana ing latar mburi. Klik ing endi waé kanggo mbalèkaké.",
+  "externalShopping.buyLink.apple": "Tuku ing Apple Books",
+  "externalShopping.buyLink.google": "Tuku ing Google Play Buku"
 }

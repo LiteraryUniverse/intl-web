@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Laai af as teks",
   "workshop.chapterExport.open": "Maak {site} oop",
   "workshop.chapterExport.linkHeading": "Skakel na jou storie",
-  "workshop.chapterExport.link": "Sodra die storie geplaas is, voeg sy skakel by onder “Eksterne koopopsies” sodat lesers op Literary Universe dit kan vind."
+  "workshop.chapterExport.link": "Sodra die storie geplaas is, voeg sy skakel by onder “Eksterne koopopsies” sodat lesers op Literary Universe dit kan vind.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Boeke"
 }

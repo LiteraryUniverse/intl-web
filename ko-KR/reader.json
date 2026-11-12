@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "이 스토리는 현재 비공개 상태이므로 추가 구매가 더 이상 불가능합니다. 이미 구매한 챕터는 계속 읽을 수 있지만, 이 챕터는 회원님의 구매 내역에 포함되어 있지 않습니다.",
   "reader.printDisabled": "라이선스가 적용된 콘텐츠입니다. 작가가 스토리 본문의 인쇄를 비활성화했습니다.",
   "reader.protection.devtoolsOpen": "브라우저의 개발자 도구가 열려 있는 동안에는 이 작품이 숨겨집니다. 라이선스에서 복사를 허용하지 않기 때문입니다. 개발자 도구를 닫으면 이어서 볼 수 있습니다.",
-  "reader.protection.unfocused": "이 창이 백그라운드에 있는 동안에는 숨겨집니다. 아무 곳이나 클릭하면 다시 표시됩니다."
+  "reader.protection.unfocused": "이 창이 백그라운드에 있는 동안에는 숨겨집니다. 아무 곳이나 클릭하면 다시 표시됩니다.",
+  "externalShopping.buyLink.apple": "Apple Books에서 구매",
+  "externalShopping.buyLink.google": "Google Play 북에서 구매"
 }

@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "ಪಠ್ಯವಾಗಿ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ",
   "workshop.chapterExport.open": "{site} ತೆರೆಯಿರಿ",
   "workshop.chapterExport.linkHeading": "ನಿಮ್ಮ ಕಥೆಯನ್ನು ಲಿಂಕ್ ಮಾಡಿ",
-  "workshop.chapterExport.link": "ಕಥೆ ಆನ್‌ಲೈನ್‌ಗೆ ಬಂದ ನಂತರ, Literary Universe ನ ಓದುಗರು ಅದನ್ನು ಹುಡುಕಲು ಸಾಧ್ಯವಾಗುವಂತೆ ಬಾಹ್ಯ ಖರೀದಿ ಆಯ್ಕೆಗಳು ಅಡಿಯಲ್ಲಿ ಅದರ ಲಿಂಕ್ ಸೇರಿಸಿ."
+  "workshop.chapterExport.link": "ಕಥೆ ಆನ್‌ಲೈನ್‌ಗೆ ಬಂದ ನಂತರ, Literary Universe ನ ಓದುಗರು ಅದನ್ನು ಹುಡುಕಲು ಸಾಧ್ಯವಾಗುವಂತೆ ಬಾಹ್ಯ ಖರೀದಿ ಆಯ್ಕೆಗಳು ಅಡಿಯಲ್ಲಿ ಅದರ ಲಿಂಕ್ ಸೇರಿಸಿ.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play ಪುಸ್ತಕಗಳು"
 }

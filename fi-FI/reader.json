@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Tämä tarina on tällä hetkellä yksityinen, joten lisäostot eivät ole enää mahdollisia. Voit jatkaa jo ostamiesi lukujen lukemista, mutta tämä luku ei sisälly ostoihisi.",
   "reader.printDisabled": "Tämä on lisensoitua sisältöä. Kirjoittaja on estänyt tarinan tekstin tulostamisen.",
   "reader.protection.devtoolsOpen": "Tämä teos on piilotettu niin kauan kuin selaimesi kehittäjätyökalut ovat auki, koska sen lisenssi ei salli kopiointia. Sulje ne, niin voit jatkaa siitä, mihin jäit.",
-  "reader.protection.unfocused": "Piilotettu, kun tämä ikkuna on taustalla. Napsauta mitä tahansa kohtaa, niin sisältö palaa näkyviin."
+  "reader.protection.unfocused": "Piilotettu, kun tämä ikkuna on taustalla. Napsauta mitä tahansa kohtaa, niin sisältö palaa näkyviin.",
+  "externalShopping.buyLink.apple": "Osta Apple Booksista",
+  "externalShopping.buyLink.google": "Osta Google Play Kirjoista"
 }

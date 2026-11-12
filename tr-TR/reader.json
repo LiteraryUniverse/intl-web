@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Bu hikaye şu anda özel olduğundan yeni satın alımlar artık yapılamıyor. Daha önce satın aldığınız bölümleri okumaya devam edebilirsiniz, ancak bu bölüm satın alımlarınıza dahil değil.",
   "reader.printDisabled": "Bu, lisanslı bir içeriktir. Yazar, hikaye metninin yazdırılmasını devre dışı bıraktı.",
   "reader.protection.devtoolsOpen": "Tarayıcınızın geliştirici araçları açıkken bu eser gizlenir, çünkü lisansı kopyalamaya izin vermiyor. Kaldığınız yerden devam etmek için araçları kapatın.",
-  "reader.protection.unfocused": "Bu pencere arka plandayken gizlenir. Geri getirmek için herhangi bir yere tıklayın."
+  "reader.protection.unfocused": "Bu pencere arka plandayken gizlenir. Geri getirmek için herhangi bir yere tıklayın.",
+  "externalShopping.buyLink.apple": "Apple Books'tan satın alın",
+  "externalShopping.buyLink.google": "Google Play Kitaplar'dan satın alın"
 }

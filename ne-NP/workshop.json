@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "पाठका रूपमा डाउनलोड गर्नुहोस्",
   "workshop.chapterExport.open": "{site} खोल्नुहोस्",
   "workshop.chapterExport.linkHeading": "आफ्नो कथा लिंक गर्नुहोस्",
-  "workshop.chapterExport.link": "कथा प्रकाशित भएपछि Literary Universe का पाठकहरूले भेट्टाउन सकून् भनेर यसको लिंक बाह्य खरिद विकल्पहरू अन्तर्गत थप्नुहोस्।"
+  "workshop.chapterExport.link": "कथा प्रकाशित भएपछि Literary Universe का पाठकहरूले भेट्टाउन सकून् भनेर यसको लिंक बाह्य खरिद विकल्पहरू अन्तर्गत थप्नुहोस्।",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play पुस्तकहरू"
 }

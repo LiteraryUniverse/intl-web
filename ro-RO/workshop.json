@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Descarcă în format text",
   "workshop.chapterExport.open": "Deschide {site}",
   "workshop.chapterExport.linkHeading": "Adaugă linkul poveștii",
-  "workshop.chapterExport.link": "După ce povestea apare pe site, adaugă linkul ei la Opțiuni de achiziție externe, ca cititorii de pe Literary Universe s-o poată găsi."
+  "workshop.chapterExport.link": "După ce povestea apare pe site, adaugă linkul ei la Opțiuni de achiziție externe, ca cititorii de pe Literary Universe s-o poată găsi.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Cărți"
 }

@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "পাঠ হিচাপে ডাউনলোড কৰক",
   "workshop.chapterExport.open": "{site} খোলক",
   "workshop.chapterExport.linkHeading": "আপোনাৰ গল্পৰ লিংক দিয়ক",
-  "workshop.chapterExport.link": "গল্পটো পোষ্ট হোৱাৰ পিছত \"বাহ্যিক ক্ৰয় বিকল্পসমূহ\"-ৰ অধীনত ইয়াৰ লিংক যোগ কৰক, যাতে Literary Universe-ৰ পাঠকে ইয়াক বিচাৰি পায়।"
+  "workshop.chapterExport.link": "গল্পটো পোষ্ট হোৱাৰ পিছত \"বাহ্যিক ক্ৰয় বিকল্পসমূহ\"-ৰ অধীনত ইয়াৰ লিংক যোগ কৰক, যাতে Literary Universe-ৰ পাঠকে ইয়াক বিচাৰি পায়।",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play কিতাপ"
 }

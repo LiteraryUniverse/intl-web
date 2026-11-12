@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "ჩამოტვირთვა ტექსტად",
   "workshop.chapterExport.open": "{site}-ის გახსნა",
   "workshop.chapterExport.linkHeading": "ისტორიის მიბმა",
-  "workshop.chapterExport.link": "როცა ისტორია გამოქვეყნდება, დაამატეთ მისი ბმული განყოფილებაში „გარე შესყიდვების ოფციები“, რათა Literary Universe-ის მკითხველებმა იპოვონ."
+  "workshop.chapterExport.link": "როცა ისტორია გამოქვეყნდება, დაამატეთ მისი ბმული განყოფილებაში „გარე შესყიდვების ოფციები“, რათა Literary Universe-ის მკითხველებმა იპოვონ.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play წიგნები"
 }

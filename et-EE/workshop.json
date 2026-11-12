@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Laadi alla tekstina",
   "workshop.chapterExport.open": "Ava {site}",
   "workshop.chapterExport.linkHeading": "Lisa oma loo link",
-  "workshop.chapterExport.link": "Kui lugu on üleval, lisa selle link jaotisesse „Välised ostuvõimalused“, et Literary Universe'i lugejad selle üles leiaksid."
+  "workshop.chapterExport.link": "Kui lugu on üleval, lisa selle link jaotisesse „Välised ostuvõimalused“, et Literary Universe'i lugejad selle üles leiaksid.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Raamatud"
 }

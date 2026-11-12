@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Metin olarak indir",
   "workshop.chapterExport.open": "{site} sitesini aç",
   "workshop.chapterExport.linkHeading": "Hikayenizin bağlantısını ekleyin",
-  "workshop.chapterExport.link": "Hikaye yayına girdiğinde, Literary Universe'teki okurların bulabilmesi için bağlantısını Harici satın alma seçenekleri bölümüne ekleyin."
+  "workshop.chapterExport.link": "Hikaye yayına girdiğinde, Literary Universe'teki okurların bulabilmesi için bağlantısını Harici satın alma seçenekleri bölümüne ekleyin.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Kitaplar"
 }

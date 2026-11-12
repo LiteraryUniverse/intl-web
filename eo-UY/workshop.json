@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Elŝuti kiel tekston",
   "workshop.chapterExport.open": "Malfermi {site}",
   "workshop.chapterExport.linkHeading": "Ligu vian rakonton",
-  "workshop.chapterExport.link": "Kiam la rakonto estos publikigita, aldonu ĝian ligilon sub „Eksteraj aĉetaj opcioj“, por ke legantoj en Literary Universe trovu ĝin."
+  "workshop.chapterExport.link": "Kiam la rakonto estos publikigita, aldonu ĝian ligilon sub „Eksteraj aĉetaj opcioj“, por ke legantoj en Literary Universe trovu ĝin.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Libroj"
 }

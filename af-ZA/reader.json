@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Hierdie storie is tans privaat, so bykomende aankope is nie meer beskikbaar nie. Jy kan aanhou om hoofstukke te lees wat jy reeds gekoop het, maar hierdie hoofstuk is nie by jou aankope ingesluit nie.",
   "reader.printDisabled": "Dit is gelisensieerde inhoud. Die outeur het die druk van die storieteks gedeaktiveer.",
   "reader.protection.devtoolsOpen": "Hierdie werk is versteek terwyl jou blaaier se ontwikkelaarnutsgoed oop is, omdat die lisensie nie kopiëring toelaat nie. Maak dit toe om voort te gaan waar jy opgehou het.",
-  "reader.protection.unfocused": "Versteek terwyl hierdie venster in die agtergrond is. Klik enige plek om dit terug te bring."
+  "reader.protection.unfocused": "Versteek terwyl hierdie venster in die agtergrond is. Klik enige plek om dit terug te bring.",
+  "externalShopping.buyLink.apple": "Koop by Apple Books",
+  "externalShopping.buyLink.google": "Koop by Google Play Boeke"
 }

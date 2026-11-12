@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Tải xuống dạng văn bản",
   "workshop.chapterExport.open": "Mở {site}",
   "workshop.chapterExport.linkHeading": "Liên kết câu chuyện của bạn",
-  "workshop.chapterExport.link": "Khi câu chuyện đã được đăng, hãy thêm liên kết trong Tùy chọn mua từ ngoài để độc giả trên Literary Universe có thể tìm thấy."
+  "workshop.chapterExport.link": "Khi câu chuyện đã được đăng, hãy thêm liên kết trong Tùy chọn mua từ ngoài để độc giả trên Literary Universe có thể tìm thấy.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Sách"
 }

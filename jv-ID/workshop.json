@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Undhuh minangka teks",
   "workshop.chapterExport.open": "Bukak {site}",
   "workshop.chapterExport.linkHeading": "Sambungake crita sampeyan",
-  "workshop.chapterExport.link": "Sawise crita wis tayang, tambahake link-e ing External purchase options supaya pamaca ing Literary Universe bisa nemokake."
+  "workshop.chapterExport.link": "Sawise crita wis tayang, tambahake link-e ing External purchase options supaya pamaca ing Literary Universe bisa nemokake.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Buku"
 }

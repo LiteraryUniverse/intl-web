@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "ดาวน์โหลดเป็นข้อความ",
   "workshop.chapterExport.open": "เปิด {site}",
   "workshop.chapterExport.linkHeading": "ลิงก์เรื่องของคุณ",
-  "workshop.chapterExport.link": "เมื่อเรื่องขึ้นเว็บแล้ว ให้เพิ่มลิงก์ในตัวเลือกการซื้อจากแหล่งอื่น เพื่อให้ผู้อ่านบน Literary Universe หาเจอ"
+  "workshop.chapterExport.link": "เมื่อเรื่องขึ้นเว็บแล้ว ให้เพิ่มลิงก์ในตัวเลือกการซื้อจากแหล่งอื่น เพื่อให้ผู้อ่านบน Literary Universe หาเจอ",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play หนังสือ"
 }

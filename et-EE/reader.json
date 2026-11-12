@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "See lugu on praegu privaatne, seega ei ole täiendavad ostud enam võimalikud. Saate jätkata juba ostetud peatükkide lugemist, kuid see peatükk ei kuulu teie ostude hulka.",
   "reader.printDisabled": "See on litsentsitud sisu. Autor on loo teksti printimise keelanud.",
   "reader.protection.devtoolsOpen": "See teos on peidetud seni, kuni brauseri arendaja tööriistad on avatud, sest selle litsents ei luba kopeerimist. Sulgege need, et jätkata sealt, kus pooleli jäite.",
-  "reader.protection.unfocused": "Peidetud seni, kuni see aken on taustal. Klõpsake ükskõik kuhu, et sisu uuesti kuvada."
+  "reader.protection.unfocused": "Peidetud seni, kuni see aken on taustal. Klõpsake ükskõik kuhu, et sisu uuesti kuvada.",
+  "externalShopping.buyLink.apple": "Osta Apple Booksist",
+  "externalShopping.buyLink.google": "Osta Google Play Raamatutest"
 }

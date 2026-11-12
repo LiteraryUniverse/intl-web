@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Aquesta història ara és privada, de manera que ja no es poden fer més compres. Pots continuar llegint els capítols que ja has comprat, però aquest capítol no està inclòs en les teves compres.",
   "reader.printDisabled": "Aquest contingut està sota llicència. L'autor ha desactivat la impressió del text de la història.",
   "reader.protection.devtoolsOpen": "Aquesta obra està amagada mentre les eines per a desenvolupadors del navegador estiguin obertes, perquè la seva llicència no en permet la còpia. Tanca-les per continuar on ho havies deixat.",
-  "reader.protection.unfocused": "Amagat mentre aquesta finestra sigui en segon pla. Fes clic a qualsevol lloc per tornar a mostrar-lo."
+  "reader.protection.unfocused": "Amagat mentre aquesta finestra sigui en segon pla. Fes clic a qualsevol lloc per tornar a mostrar-lo.",
+  "externalShopping.buyLink.apple": "Compra a Apple Books",
+  "externalShopping.buyLink.google": "Compra a Google Play Llibres"
 }

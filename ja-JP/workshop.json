@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "テキストでダウンロード",
   "workshop.chapterExport.open": "{site}を開く",
   "workshop.chapterExport.linkHeading": "物語をリンクする",
-  "workshop.chapterExport.link": "物語を公開したら、Literary Universeの読者が見つけられるように、外部購入オプションにそのリンクを追加してください。"
+  "workshop.chapterExport.link": "物語を公開したら、Literary Universeの読者が見つけられるように、外部購入オプションにそのリンクを追加してください。",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play ブックス"
 }

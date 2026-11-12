@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Stiahnuť ako text",
   "workshop.chapterExport.open": "Otvoriť {site}",
   "workshop.chapterExport.linkHeading": "Prepojte svoj príbeh",
-  "workshop.chapterExport.link": "Keď bude príbeh zverejnený, pridajte jeho odkaz v sekcii Externé možnosti nákupu, aby ho čitatelia na Literary Universe našli."
+  "workshop.chapterExport.link": "Keď bude príbeh zverejnený, pridajte jeho odkaz v sekcii Externé možnosti nákupu, aby ho čitatelia na Literary Universe našli.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Knihy"
 }

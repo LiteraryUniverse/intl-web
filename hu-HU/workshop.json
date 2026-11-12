@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Letöltés szövegként",
   "workshop.chapterExport.open": "{site} megnyitása",
   "workshop.chapterExport.linkHeading": "A történet összekapcsolása",
-  "workshop.chapterExport.link": "Amikor a történet fent van, add hozzá a linkjét a Külső vásárlási lehetőségek alatt, hogy a Literary Universe olvasói megtalálják."
+  "workshop.chapterExport.link": "Amikor a történet fent van, add hozzá a linkjét a Külső vásárlási lehetőségek alatt, hogy a Literary Universe olvasói megtalálják.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Könyvek"
 }

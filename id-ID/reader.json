@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Cerita ini saat ini bersifat pribadi, sehingga pembelian tambahan tidak lagi tersedia. Anda tetap dapat membaca bab yang sudah Anda beli, tetapi bab ini tidak termasuk dalam pembelian Anda.",
   "reader.printDisabled": "Ini adalah konten berlisensi. Penulis telah menonaktifkan pencetakan teks cerita.",
   "reader.protection.devtoolsOpen": "Karya ini disembunyikan selama alat pengembang di browser Anda terbuka, karena lisensinya tidak mengizinkan penyalinan. Tutup alat tersebut untuk melanjutkan dari bagian terakhir Anda.",
-  "reader.protection.unfocused": "Disembunyikan selama jendela ini berada di latar belakang. Klik di mana saja untuk menampilkannya kembali."
+  "reader.protection.unfocused": "Disembunyikan selama jendela ini berada di latar belakang. Klik di mana saja untuk menampilkannya kembali.",
+  "externalShopping.buyLink.apple": "Beli di Apple Books",
+  "externalShopping.buyLink.google": "Beli di Google Play Buku"
 }

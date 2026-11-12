@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "உரையாகப் பதிவிறக்கு",
   "workshop.chapterExport.open": "{site}-ஐத் திற",
   "workshop.chapterExport.linkHeading": "உங்கள் கதையை இணைக்கவும்",
-  "workshop.chapterExport.link": "கதை வெளியானதும், Literary Universe வாசகர்கள் அதைக் கண்டுபிடிக்க அதன் இணைப்பை வெளியிலிருந்து வாங்குவதற்கான விருப்பங்கள் பகுதியில் சேருங்கள்."
+  "workshop.chapterExport.link": "கதை வெளியானதும், Literary Universe வாசகர்கள் அதைக் கண்டுபிடிக்க அதன் இணைப்பை வெளியிலிருந்து வாங்குவதற்கான விருப்பங்கள் பகுதியில் சேருங்கள்.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play புத்தகங்கள்"
 }

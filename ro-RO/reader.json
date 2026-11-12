@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Această poveste este în prezent privată, așa că achizițiile suplimentare nu mai sunt disponibile. Poți citi în continuare capitolele pe care le-ai cumpărat deja, dar acest capitol nu este inclus în achizițiile tale.",
   "reader.printDisabled": "Acesta este conținut licențiat. Autorul a dezactivat tipărirea textului poveștii.",
   "reader.protection.devtoolsOpen": "Această operă este ascunsă cât timp instrumentele pentru dezvoltatori ale browserului sunt deschise, deoarece licența ei nu permite copierea. Închideți-le pentru a continua de unde ați rămas.",
-  "reader.protection.unfocused": "Ascuns cât timp această fereastră este în fundal. Faceți clic oriunde pentru a-l afișa din nou."
+  "reader.protection.unfocused": "Ascuns cât timp această fereastră este în fundal. Faceți clic oriunde pentru a-l afișa din nou.",
+  "externalShopping.buyLink.apple": "Cumpărați de pe Apple Books",
+  "externalShopping.buyLink.google": "Cumpărați de pe Google Play Cărți"
 }

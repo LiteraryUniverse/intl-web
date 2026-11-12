@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Denne historie er i øjeblikket privat, så yderligere køb er ikke længere mulige. Du kan fortsætte med at læse de kapitler, du allerede har købt, men dette kapitel er ikke omfattet af dine køb.",
   "reader.printDisabled": "Dette er licenseret indhold. Forfatteren har deaktiveret udskrivning af historiens tekst.",
   "reader.protection.devtoolsOpen": "Dette værk er skjult, så længe din browsers udviklerværktøjer er åbne, fordi licensen ikke tillader kopiering. Luk dem for at fortsætte, hvor du slap.",
-  "reader.protection.unfocused": "Skjult, så længe dette vindue er i baggrunden. Klik et vilkårligt sted for at få det frem igen."
+  "reader.protection.unfocused": "Skjult, så længe dette vindue er i baggrunden. Klik et vilkårligt sted for at få det frem igen.",
+  "externalShopping.buyLink.apple": "Køb på Apple Books",
+  "externalShopping.buyLink.google": "Køb på Google Play Bøger"
 }

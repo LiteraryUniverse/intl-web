@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "ਟੈਕਸਟ ਵਜੋਂ ਡਾਊਨਲੋਡ ਕਰੋ",
   "workshop.chapterExport.open": "{site} ਖੋਲ੍ਹੋ",
   "workshop.chapterExport.linkHeading": "ਆਪਣੀ ਕਹਾਣੀ ਦਾ ਲਿੰਕ ਜੋੜੋ",
-  "workshop.chapterExport.link": "ਕਹਾਣੀ ਪੋਸਟ ਹੋਣ ਤੋਂ ਬਾਅਦ, ਇਸ ਦਾ ਲਿੰਕ ਬਾਹਰੀ ਖਰੀਦਦਾਰੀ ਚੋਣਾਂ ਵਿੱਚ ਜੋੜੋ ਤਾਂ ਜੋ Literary Universe ਉੱਤੇ ਪਾਠਕ ਇਸ ਨੂੰ ਲੱਭ ਸਕਣ।"
+  "workshop.chapterExport.link": "ਕਹਾਣੀ ਪੋਸਟ ਹੋਣ ਤੋਂ ਬਾਅਦ, ਇਸ ਦਾ ਲਿੰਕ ਬਾਹਰੀ ਖਰੀਦਦਾਰੀ ਚੋਣਾਂ ਵਿੱਚ ਜੋੜੋ ਤਾਂ ਜੋ Literary Universe ਉੱਤੇ ਪਾਠਕ ਇਸ ਨੂੰ ਲੱਭ ਸਕਣ।",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play ਕਿਤਾਬਾਂ"
 }

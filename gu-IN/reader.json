@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "This story is currently private, so additional purchases are no longer available. You can keep reading chapters you already purchased, but this chapter is not included in your purchases.",
   "reader.printDisabled": "This is licensed content. The author has disabled printing of the story text.",
   "reader.protection.devtoolsOpen": "જ્યારે તમારું બ્રાઉઝર ડેવલપર ટૂલ્સ ખુલ્લું હોય છે, ત્યારે આ કાર્ય છુપાયેલું રહે છે, કારણ કે તેની લાઇસેન્સ નકલ કરવાની મંજૂરી આપતી નથી. જ્યાં તમે છોડી દીધું હતું ત્યાંથી આગળ વાંચવા માટે તેને બંધ કરો.",
-  "reader.protection.unfocused": "જ્યારે આ વિન્ડો પૃષ્ઠભૂમિમાં હોય ત્યારે છુપાયેલું. તેને પાછું લાવવા માટે કોઈપણ જગ્યાએ ક્લિક કરો."
+  "reader.protection.unfocused": "જ્યારે આ વિન્ડો પૃષ્ઠભૂમિમાં હોય ત્યારે છુપાયેલું. તેને પાછું લાવવા માટે કોઈપણ જગ્યાએ ક્લિક કરો.",
+  "externalShopping.buyLink.apple": "Apple Books પર ખરીદો",
+  "externalShopping.buyLink.google": "Google Play પુસ્તકો પર ખરીદો"
 }

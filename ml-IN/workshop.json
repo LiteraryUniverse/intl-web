@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "ടെക്സ്റ്റായി ഡൗൺലോഡ് ചെയ്യുക",
   "workshop.chapterExport.open": "{site} തുറക്കുക",
   "workshop.chapterExport.linkHeading": "നിങ്ങളുടെ കഥ ലിങ്ക് ചെയ്യുക",
-  "workshop.chapterExport.link": "കഥ ഓൺലൈനിൽ എത്തിയാൽ, Literary Universe-ലെ വായനക്കാർക്ക് കണ്ടെത്താനായി പുതിയതായി വാങ്ങിയിരിക്കുന്ന ഓപ്ഷനുകള്‍ എന്നതിന് കീഴിൽ അതിന്റെ ലിങ്ക് ചേർക്കുക."
+  "workshop.chapterExport.link": "കഥ ഓൺലൈനിൽ എത്തിയാൽ, Literary Universe-ലെ വായനക്കാർക്ക് കണ്ടെത്താനായി പുതിയതായി വാങ്ങിയിരിക്കുന്ന ഓപ്ഷനുകള്‍ എന്നതിന് കീഴിൽ അതിന്റെ ലിങ്ക് ചേർക്കുക.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play ബുക്സ്"
 }

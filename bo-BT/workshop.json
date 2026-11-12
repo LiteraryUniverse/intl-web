@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "ཡིག་རྐྱང་ལྟར་ཕབ་ལེན།",
   "workshop.chapterExport.open": "{site} ཁ་ཕྱེ།",
   "workshop.chapterExport.linkHeading": "ཁྱེད་ཀྱི་སྒྲུང་སྦྲེལ།",
-  "workshop.chapterExport.link": "སྒྲུང་འགྲེམས་སྤེལ་བྱས་རྗེས། Literary Universe ཐོག་གི་ཀློག་པ་པོས་རྙེད་ཐུབ་ཆེད་དེའི་སྦྲེལ་ཐག་ \"External purchase options\" འོག་ཏུ་ཁ་སྣོན་བྱོས།"
+  "workshop.chapterExport.link": "སྒྲུང་འགྲེམས་སྤེལ་བྱས་རྗེས། Literary Universe ཐོག་གི་ཀློག་པ་པོས་རྙེད་ཐུབ་ཆེད་དེའི་སྦྲེལ་ཐག་ \"External purchase options\" འོག་ཏུ་ཁ་སྣོན་བྱོས།",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Books"
 }

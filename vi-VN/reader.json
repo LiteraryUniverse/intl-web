@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "Câu chuyện này hiện ở chế độ riêng tư, nên không thể mua thêm nữa. Bạn vẫn có thể tiếp tục đọc các chương đã mua, nhưng chương này không nằm trong các giao dịch mua của bạn.",
   "reader.printDisabled": "Đây là nội dung được cấp phép. Tác giả đã tắt tính năng in văn bản câu chuyện.",
   "reader.protection.devtoolsOpen": "Tác phẩm này bị ẩn khi công cụ dành cho nhà phát triển của trình duyệt đang mở, vì giấy phép của tác phẩm không cho phép sao chép. Hãy đóng công cụ để tiếp tục từ chỗ bạn đã dừng.",
-  "reader.protection.unfocused": "Nội dung bị ẩn khi cửa sổ này ở chế độ nền. Nhấp vào bất kỳ đâu để hiển thị lại."
+  "reader.protection.unfocused": "Nội dung bị ẩn khi cửa sổ này ở chế độ nền. Nhấp vào bất kỳ đâu để hiển thị lại.",
+  "externalShopping.buyLink.apple": "Mua trên Apple Books",
+  "externalShopping.buyLink.google": "Mua trên Google Play Sách"
 }

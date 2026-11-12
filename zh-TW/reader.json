@@ -57,5 +57,7 @@
   "reader.privatePurchaseBlocked.message": "這個故事目前為私人狀態，因此已無法再購買。您可以繼續閱讀已購買的章節，但此章節不在您的購買範圍內。",
   "reader.printDisabled": "這是受授權保護的內容。作者已停用故事文字的列印功能。",
   "reader.protection.devtoolsOpen": "瀏覽器的開發人員工具開啟時，這部作品會被隱藏，因為其授權不允許複製。關閉開發人員工具即可從上次的位置繼續。",
-  "reader.protection.unfocused": "此視窗在背景時內容會隱藏。點按任意位置即可重新顯示。"
+  "reader.protection.unfocused": "此視窗在背景時內容會隱藏。點按任意位置即可重新顯示。",
+  "externalShopping.buyLink.apple": "在 Apple Books 購買",
+  "externalShopping.buyLink.google": "在 Google Play 圖書購買"
 }

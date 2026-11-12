@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Íoslódáil mar théacs",
   "workshop.chapterExport.open": "Oscail {site}",
   "workshop.chapterExport.linkHeading": "Nasc do scéal",
-  "workshop.chapterExport.link": "Nuair a bheidh an scéal suas, cuir a nasc faoi “Roghanna ceannaíochta seachtracha” ionas gur féidir le léitheoirí ar Literary Universe é a aimsiú."
+  "workshop.chapterExport.link": "Nuair a bheidh an scéal suas, cuir a nasc faoi “Roghanna ceannaíochta seachtracha” ionas gur féidir le léitheoirí ar Literary Universe é a aimsiú.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Books"
 }

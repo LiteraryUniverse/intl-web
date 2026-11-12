@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Lataa tekstinä",
   "workshop.chapterExport.open": "Avaa {site}",
   "workshop.chapterExport.linkHeading": "Linkitä tarinasi",
-  "workshop.chapterExport.link": "Kun tarina on julkaistu, lisää sen linkki kohtaan ”Ulkoiset ostovaihtoehdot”, jotta Literary Universen lukijat löytävät sen."
+  "workshop.chapterExport.link": "Kun tarina on julkaistu, lisää sen linkki kohtaan ”Ulkoiset ostovaihtoehdot”, jotta Literary Universen lukijat löytävät sen.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Kirjat"
 }

@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Завантажити як текст",
   "workshop.chapterExport.open": "Відкрити {site}",
   "workshop.chapterExport.linkHeading": "Додайте посилання на історію",
-  "workshop.chapterExport.link": "Коли історія з’явиться на сайті, додайте посилання на неї в розділі «Зовнішні варіанти покупки», щоб читачі на Literary Universe могли її знайти."
+  "workshop.chapterExport.link": "Коли історія з’явиться на сайті, додайте посилання на неї в розділі «Зовнішні варіанти покупки», щоб читачі на Literary Universe могли її знайти.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Книги"
 }

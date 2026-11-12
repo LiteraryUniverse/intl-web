@@ -1377,5 +1377,7 @@
   "workshop.chapterExport.download.text": "Last ned som tekst",
   "workshop.chapterExport.open": "Åpne {site}",
   "workshop.chapterExport.linkHeading": "Lenk til historien din",
-  "workshop.chapterExport.link": "Når historien er ute, legger du til lenken under Eksterne kjøpsalternativer, slik at lesere på Literary Universe kan finne den."
+  "workshop.chapterExport.link": "Når historien er ute, legger du til lenken under Eksterne kjøpsalternativer, slik at lesere på Literary Universe kan finne den.",
+  "workshop.shoppingExternal.apple": "Apple Books",
+  "workshop.shoppingExternal.google": "Google Play Bøker"
 }
