@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Marcar les teves notificacions com a llegides",
   "settings.integrations.mailer.summary": "Connecta les llistes de correu del teu blog.",
   "settings.integrations.mailer.description": "Envia els subscriptors confirmats al teu servei de correu. Les baixes es comproven cada hora.",
-  "settings.integrations.mailer.noBlogs": "Crea un blog per connectar-ne la llista de correu."
+  "settings.integrations.mailer.noBlogs": "Crea un blog per connectar-ne la llista de correu.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} ha deixat d'acceptar la connexió. Torna a connectar per sincronitzar els canvis."
 }

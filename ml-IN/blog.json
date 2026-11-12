@@ -822,5 +822,6 @@
   "blog.section.mailingList": "മെയിലിംഗ് ലിസ്റ്റ്",
   "blog.pages.templates.mailingList": "മെയിലിംഗ് ലിസ്റ്റ്",
   "blog.pages.templates.mailingList.hint": "നിങ്ങളുടെ മെയിലിംഗ് ലിസ്റ്റിനുള്ള ഒരു സൈൻ-അപ്പ് ഫോം.",
-  "blog.pages.starter.mailingList": "ഈ ബ്ലോഗിലെ വാർത്തകൾ ഇമെയിലിൽ ലഭിക്കാൻ മെയിലിംഗ് ലിസ്റ്റിൽ ചേരുക."
+  "blog.pages.starter.mailingList": "ഈ ബ്ലോഗിലെ വാർത്തകൾ ഇമെയിലിൽ ലഭിക്കാൻ മെയിലിംഗ് ലിസ്റ്റിൽ ചേരുക.",
+  "blog.mailingList.integration.add": "ഇന്റഗ്രേഷൻ ചേർക്കുക"
 }

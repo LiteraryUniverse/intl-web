@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Список рассылки",
   "blog.pages.templates.mailingList": "Список рассылки",
   "blog.pages.templates.mailingList.hint": "Форма подписки на ваш список рассылки.",
-  "blog.pages.starter.mailingList": "Подпишитесь на список рассылки, чтобы получать новости этого блога по почте."
+  "blog.pages.starter.mailingList": "Подпишитесь на список рассылки, чтобы получать новости этого блога по почте.",
+  "blog.mailingList.integration.add": "Добавить интеграцию"
 }

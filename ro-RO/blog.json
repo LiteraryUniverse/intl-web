@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Listă de corespondență",
   "blog.pages.templates.mailingList": "Listă de corespondență",
   "blog.pages.templates.mailingList.hint": "Un formular de abonare la lista ta de corespondență.",
-  "blog.pages.starter.mailingList": "Alătură-te listei de corespondență pentru a primi pe e-mail noutăți de pe acest blog."
+  "blog.pages.starter.mailingList": "Alătură-te listei de corespondență pentru a primi pe e-mail noutăți de pe acest blog.",
+  "blog.mailingList.integration.add": "Adaugă integrare"
 }

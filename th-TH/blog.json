@@ -822,5 +822,6 @@
   "blog.section.mailingList": "รายชื่ออีเมล",
   "blog.pages.templates.mailingList": "รายชื่ออีเมล",
   "blog.pages.templates.mailingList.hint": "แบบฟอร์มสมัครรายชื่ออีเมลของคุณ",
-  "blog.pages.starter.mailingList": "เข้าร่วมรายชื่ออีเมลเพื่อรับข่าวสารจากบล็อกนี้ทางอีเมล"
+  "blog.pages.starter.mailingList": "เข้าร่วมรายชื่ออีเมลเพื่อรับข่าวสารจากบล็อกนี้ทางอีเมล",
+  "blog.mailingList.integration.add": "เพิ่มการเชื่อมต่อ"
 }

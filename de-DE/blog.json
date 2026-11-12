@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Mailingliste",
   "blog.pages.templates.mailingList": "Mailingliste",
   "blog.pages.templates.mailingList.hint": "Ein Anmeldeformular für Ihre Mailingliste.",
-  "blog.pages.starter.mailingList": "Treten Sie der Mailingliste bei, um Neuigkeiten aus diesem Blog per E-Mail zu erhalten."
+  "blog.pages.starter.mailingList": "Treten Sie der Mailingliste bei, um Neuigkeiten aus diesem Blog per E-Mail zu erhalten.",
+  "blog.mailingList.integration.add": "Integration hinzufügen"
 }

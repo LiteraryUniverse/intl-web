@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Nandhani kabar sampeyan wis diwaca",
   "settings.integrations.mailer.summary": "Sambungake dhaptar email blog sampeyan.",
   "settings.integrations.mailer.description": "Kirim pelanggan sing wis dikonfirmasi menyang layanan email sampeyan. Pembatalan langganan dipriksa saben jam.",
-  "settings.integrations.mailer.noBlogs": "Gawe blog kanggo nyambungake dhaptar emaile."
+  "settings.integrations.mailer.noBlogs": "Gawe blog kanggo nyambungake dhaptar emaile.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} wis ora nampa sambungan. Sambungake maneh kanggo nyelarasake owah-owahan."
 }

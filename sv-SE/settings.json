@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Markera dina aviseringar som lästa",
   "settings.integrations.mailer.summary": "Anslut din bloggs e-postlistor.",
   "settings.integrations.mailer.description": "Skicka bekräftade prenumeranter till din e-posttjänst. Avregistreringar kontrolleras varje timme.",
-  "settings.integrations.mailer.noBlogs": "Skapa en blogg för att ansluta dess e-postlista."
+  "settings.integrations.mailer.noBlogs": "Skapa en blogg för att ansluta dess e-postlista.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} accepterar inte längre anslutningen. Anslut igen för att synkronisera ändringarna."
 }

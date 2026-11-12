@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Postiloend",
   "blog.pages.templates.mailingList": "Postiloend",
   "blog.pages.templates.mailingList.hint": "Liitumisvorm teie postiloendi jaoks.",
-  "blog.pages.starter.mailingList": "Liituge postiloendiga, et saada selle ajaveebi uudiseid e-postiga."
+  "blog.pages.starter.mailingList": "Liituge postiloendiga, et saada selle ajaveebi uudiseid e-postiga.",
+  "blog.mailingList.integration.add": "Lisa integratsioon"
 }

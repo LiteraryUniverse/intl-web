@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Merkitse ilmoituksesi luetuiksi",
   "settings.integrations.mailer.summary": "Yhdistä blogisi postituslistat.",
   "settings.integrations.mailer.description": "Lähetä vahvistetut tilaajat sähköpostipalveluusi. Peruutukset tarkistetaan tunnin välein.",
-  "settings.integrations.mailer.noBlogs": "Luo blogi yhdistääksesi sen postituslistan."
+  "settings.integrations.mailer.noBlogs": "Luo blogi yhdistääksesi sen postituslistan.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} ei enää hyväksy yhteyttä. Yhdistä uudelleen synkronoidaksesi muutokset."
 }

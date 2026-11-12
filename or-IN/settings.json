@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "ଆପଣଙ୍କ ବିଜ୍ଞପ୍ତିକୁ ପଠିତ ଭାବେ ଚିହ୍ନିତ କରନ୍ତୁ",
   "settings.integrations.mailer.summary": "ଆପଣଙ୍କ ବ୍ଲଗର ମେଲିଂ ତାଲିକା ସଂଯୋଗ କରନ୍ତୁ।",
   "settings.integrations.mailer.description": "ନିଶ୍ଚିତ ହୋଇଥିବା ସଦସ୍ୟମାନଙ୍କୁ ଆପଣଙ୍କ ଇମେଲ ସେବାକୁ ପଠାନ୍ତୁ। ପ୍ରତି ଘଣ୍ଟାରେ ସଦସ୍ୟତା ବାତିଲ ଯାଞ୍ଚ କରାଯାଏ।",
-  "settings.integrations.mailer.noBlogs": "ମେଲିଂ ତାଲିକା ସଂଯୋଗ କରିବାକୁ ଏକ ବ୍ଲଗ ତିଆରି କରନ୍ତୁ।"
+  "settings.integrations.mailer.noBlogs": "ମେଲିଂ ତାଲିକା ସଂଯୋଗ କରିବାକୁ ଏକ ବ୍ଲଗ ତିଆରି କରନ୍ତୁ।",
+  "settings.integrations.mailer.reconnectNeeded": "{service} ସଂଯୋଗ ଗ୍ରହଣ କରିବା ବନ୍ଦ କରିଛି। ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ସିଙ୍କ କରିବାକୁ ପୁଣି ସଂଯୋଗ କରନ୍ତୁ।"
 }

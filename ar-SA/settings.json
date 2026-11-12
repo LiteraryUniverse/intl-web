@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "وضع علامة مقروء على إشعاراتك",
   "settings.integrations.mailer.summary": "اربط قوائم بريد مدونتك.",
   "settings.integrations.mailer.description": "أرسل المشتركين المؤكدين إلى خدمة البريد لديك. نتحقق من إلغاء الاشتراك كل ساعة.",
-  "settings.integrations.mailer.noBlogs": "أنشئ مدونة لربط قائمتها البريدية."
+  "settings.integrations.mailer.noBlogs": "أنشئ مدونة لربط قائمتها البريدية.",
+  "settings.integrations.mailer.reconnectNeeded": "توقفت {service} عن قبول الاتصال. اتصل مجددًا لمزامنة التغييرات."
 }

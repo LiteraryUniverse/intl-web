@@ -822,5 +822,6 @@
   "blog.section.mailingList": "רשימת תפוצה",
   "blog.pages.templates.mailingList": "רשימת תפוצה",
   "blog.pages.templates.mailingList.hint": "טופס הרשמה לרשימת התפוצה שלכם.",
-  "blog.pages.starter.mailingList": "הצטרפו לרשימת התפוצה כדי לקבל חדשות מהבלוג הזה בדוא\"ל."
+  "blog.pages.starter.mailingList": "הצטרפו לרשימת התפוצה כדי לקבל חדשות מהבלוג הזה בדוא\"ל.",
+  "blog.mailingList.integration.add": "הוספת אינטגרציה"
 }

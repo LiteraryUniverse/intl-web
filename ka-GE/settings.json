@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "თქვენი შეტყობინებების წაკითხულად მონიშვნა",
   "settings.integrations.mailer.summary": "დააკავშირეთ თქვენი ბლოგის საფოსტო სიები.",
   "settings.integrations.mailer.description": "გაუგზავნეთ დადასტურებული გამომწერები თქვენს ელფოსტის სერვისს. გამოწერის გაუქმება ყოველ საათში მოწმდება.",
-  "settings.integrations.mailer.noBlogs": "შექმენით ბლოგი მისი საფოსტო სიის დასაკავშირებლად."
+  "settings.integrations.mailer.noBlogs": "შექმენით ბლოგი მისი საფოსტო სიის დასაკავშირებლად.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} აღარ იღებს კავშირს. ცვლილებების სინქრონიზაციისთვის ხელახლა დაუკავშირდით."
 }

@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Senarai mel",
   "blog.pages.templates.mailingList": "Senarai mel",
   "blog.pages.templates.mailingList.hint": "Borang pendaftaran untuk senarai mel anda.",
-  "blog.pages.starter.mailingList": "Sertai senarai mel untuk mendapat berita daripada blog ini melalui e-mel."
+  "blog.pages.starter.mailingList": "Sertai senarai mel untuk mendapat berita daripada blog ini melalui e-mel.",
+  "blog.mailingList.integration.add": "Tambah integrasi"
 }

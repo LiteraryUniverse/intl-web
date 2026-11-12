@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "ทำเครื่องหมายการแจ้งเตือนของคุณว่าอ่านแล้ว",
   "settings.integrations.mailer.summary": "เชื่อมต่อรายชื่ออีเมลของบล็อกคุณ",
   "settings.integrations.mailer.description": "ส่งผู้สมัครที่ยืนยันแล้วไปยังบริการอีเมลของคุณ ตรวจสอบการยกเลิกสมัครทุกชั่วโมง",
-  "settings.integrations.mailer.noBlogs": "สร้างบล็อกเพื่อเชื่อมต่อรายชื่ออีเมล"
+  "settings.integrations.mailer.noBlogs": "สร้างบล็อกเพื่อเชื่อมต่อรายชื่ออีเมล",
+  "settings.integrations.mailer.reconnectNeeded": "{service} ไม่ยอมรับการเชื่อมต่อแล้ว เชื่อมต่ออีกครั้งเพื่อซิงค์การเปลี่ยนแปลง"
 }

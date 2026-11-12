@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "將您的通知標記為已讀",
   "settings.integrations.mailer.summary": "連結部落格的郵件名單。",
   "settings.integrations.mailer.description": "將已確認的訂閱者傳送至您的郵件服務。每小時檢查一次取消訂閱的情況。",
-  "settings.integrations.mailer.noBlogs": "建立部落格以連結其郵件名單。"
+  "settings.integrations.mailer.noBlogs": "建立部落格以連結其郵件名單。",
+  "settings.integrations.mailer.reconnectNeeded": "{service} 已停止接受連線。請重新連線以同步變更。"
 }

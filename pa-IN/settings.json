@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "ਆਪਣੀਆਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਪੜ੍ਹੀਆਂ ਵਜੋਂ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ",
   "settings.integrations.mailer.summary": "ਆਪਣੇ ਬਲੌਗ ਦੀਆਂ ਮੇਲਿੰਗ ਸੂਚੀਆਂ ਜੋੜੋ।",
   "settings.integrations.mailer.description": "ਪੁਸ਼ਟੀ ਕੀਤੇ ਗਾਹਕਾਂ ਨੂੰ ਆਪਣੀ ਈਮੇਲ ਸੇਵਾ ਵਿੱਚ ਭੇਜੋ। ਰੱਦ ਕੀਤੀਆਂ ਗਾਹਕੀਆਂ ਹਰ ਘੰਟੇ ਜਾਂਚੀਆਂ ਜਾਂਦੀਆਂ ਹਨ।",
-  "settings.integrations.mailer.noBlogs": "ਮੇਲਿੰਗ ਸੂਚੀ ਜੋੜਨ ਲਈ ਬਲੌਗ ਬਣਾਓ।"
+  "settings.integrations.mailer.noBlogs": "ਮੇਲਿੰਗ ਸੂਚੀ ਜੋੜਨ ਲਈ ਬਲੌਗ ਬਣਾਓ।",
+  "settings.integrations.mailer.reconnectNeeded": "{service} ਨੇ ਕਨੈਕਸ਼ਨ ਸਵੀਕਾਰ ਕਰਨਾ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ। ਤਬਦੀਲੀਆਂ ਸਿੰਕ ਕਰਨ ਲਈ ਮੁੜ ਕਨੈਕਟ ਕਰੋ।"
 }

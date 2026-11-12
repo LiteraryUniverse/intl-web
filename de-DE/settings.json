@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Deine Benachrichtigungen als gelesen markieren",
   "settings.integrations.mailer.summary": "Verbinde die Mailinglisten deines Blogs.",
   "settings.integrations.mailer.description": "Übertrage bestätigte Abonnenten an deinen E-Mail-Dienst. Abmeldungen werden stündlich geprüft.",
-  "settings.integrations.mailer.noBlogs": "Erstelle einen Blog, um seine Mailingliste zu verbinden."
+  "settings.integrations.mailer.noBlogs": "Erstelle einen Blog, um seine Mailingliste zu verbinden.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} akzeptiert die Verbindung nicht mehr. Verbinde dich erneut, um die Änderungen zu synchronisieren."
 }

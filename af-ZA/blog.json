@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Possery",
   "blog.pages.templates.mailingList": "Possery",
   "blog.pages.templates.mailingList.hint": "'n Inskrywingsvorm vir jou possery.",
-  "blog.pages.starter.mailingList": "Sluit by die possery aan om nuus van hierdie blog per e-pos te kry."
+  "blog.pages.starter.mailingList": "Sluit by die possery aan om nuus van hierdie blog per e-pos te kry.",
+  "blog.mailingList.integration.add": "Voeg integrasie by"
 }

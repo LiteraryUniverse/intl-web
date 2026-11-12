@@ -822,5 +822,6 @@
   "blog.section.mailingList": "ਮੇਲਿੰਗ ਸੂਚੀ",
   "blog.pages.templates.mailingList": "ਮੇਲਿੰਗ ਸੂਚੀ",
   "blog.pages.templates.mailingList.hint": "ਤੁਹਾਡੀ ਮੇਲਿੰਗ ਸੂਚੀ ਲਈ ਇੱਕ ਸਾਈਨ-ਅੱਪ ਫਾਰਮ।",
-  "blog.pages.starter.mailingList": "ਇਸ ਬਲੌਗ ਦੀਆਂ ਖ਼ਬਰਾਂ ਈਮੇਲ ਰਾਹੀਂ ਪਾਉਣ ਲਈ ਮੇਲਿੰਗ ਸੂਚੀ ਵਿੱਚ ਜੁੜੋ।"
+  "blog.pages.starter.mailingList": "ਇਸ ਬਲੌਗ ਦੀਆਂ ਖ਼ਬਰਾਂ ਈਮੇਲ ਰਾਹੀਂ ਪਾਉਣ ਲਈ ਮੇਲਿੰਗ ਸੂਚੀ ਵਿੱਚ ਜੁੜੋ।",
+  "blog.mailingList.integration.add": "ਇੰਟੀਗ੍ਰੇਸ਼ਨ ਜੋੜੋ"
 }

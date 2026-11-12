@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Tandakan pemberitahuan anda sebagai telah dibaca",
   "settings.integrations.mailer.summary": "Sambungkan senarai mel blog anda.",
   "settings.integrations.mailer.description": "Hantar pelanggan yang disahkan ke perkhidmatan e-mel anda. Pembatalan langganan disemak setiap jam.",
-  "settings.integrations.mailer.noBlogs": "Cipta blog untuk menyambungkan senarai melnya."
+  "settings.integrations.mailer.noBlogs": "Cipta blog untuk menyambungkan senarai melnya.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} tidak lagi menerima sambungan. Sambung semula untuk menyegerakkan perubahan."
 }

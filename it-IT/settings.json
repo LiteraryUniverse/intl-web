@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Segnare le tue notifiche come lette",
   "settings.integrations.mailer.summary": "Collega le mailing list del tuo blog.",
   "settings.integrations.mailer.description": "Invia gli iscritti confermati al tuo servizio email. Le disiscrizioni vengono controllate ogni ora.",
-  "settings.integrations.mailer.noBlogs": "Crea un blog per collegare la sua mailing list."
+  "settings.integrations.mailer.noBlogs": "Crea un blog per collegare la sua mailing list.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} non accetta più la connessione. Riconnettiti per sincronizzare le modifiche."
 }

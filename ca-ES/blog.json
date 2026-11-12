@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Llista de correu",
   "blog.pages.templates.mailingList": "Llista de correu",
   "blog.pages.templates.mailingList.hint": "Un formulari de subscripció per a la teva llista de correu.",
-  "blog.pages.starter.mailingList": "Apunta't a la llista de correu per rebre per correu les novetats d'aquest blog."
+  "blog.pages.starter.mailingList": "Apunta't a la llista de correu per rebre per correu les novetats d'aquest blog.",
+  "blog.mailingList.integration.add": "Afegeix una integració"
 }

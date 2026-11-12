@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Levelezőlista",
   "blog.pages.templates.mailingList": "Levelezőlista",
   "blog.pages.templates.mailingList.hint": "Feliratkozási űrlap a levelezőlistájához.",
-  "blog.pages.starter.mailingList": "Csatlakozzon a levelezőlistához, hogy e-mailben kapja a blog híreit."
+  "blog.pages.starter.mailingList": "Csatlakozzon a levelezőlistához, hogy e-mailben kapja a blog híreit.",
+  "blog.mailingList.integration.add": "Integráció hozzáadása"
 }

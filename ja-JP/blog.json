@@ -822,5 +822,6 @@
   "blog.section.mailingList": "メーリングリスト",
   "blog.pages.templates.mailingList": "メーリングリスト",
   "blog.pages.templates.mailingList.hint": "メーリングリストの登録フォームです。",
-  "blog.pages.starter.mailingList": "メーリングリストに参加して、このブログのお知らせをメールで受け取りましょう。"
+  "blog.pages.starter.mailingList": "メーリングリストに参加して、このブログのお知らせをメールで受け取りましょう。",
+  "blog.mailingList.integration.add": "連携を追加"
 }

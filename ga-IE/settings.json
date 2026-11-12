@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Marcáil do chuid fógraí mar léite",
   "settings.integrations.mailer.summary": "Ceangail liostaí seoltaí do bhlag.",
   "settings.integrations.mailer.description": "Seol síntiúsóirí deimhnithe chuig do sheirbhís ríomhphoist. Déantar díliostálacha a sheiceáil gach uair an chloig.",
-  "settings.integrations.mailer.noBlogs": "Cruthaigh blag chun a liosta seoltaí a cheangal."
+  "settings.integrations.mailer.noBlogs": "Cruthaigh blag chun a liosta seoltaí a cheangal.",
+  "settings.integrations.mailer.reconnectNeeded": "Ní ghlacann {service} leis an nasc a thuilleadh. Ceangail arís chun na hathruithe a shioncronú."
 }

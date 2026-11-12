@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Marki viajn sciigojn kiel legitajn",
   "settings.integrations.mailer.summary": "Konektu la dissendolistojn de via blogo.",
   "settings.integrations.mailer.description": "Sendu konfirmitajn abonantojn al via retpoŝta servo. Malabonoj estas kontrolataj ĉiuhore.",
-  "settings.integrations.mailer.noBlogs": "Kreu blogon por konekti ĝian dissendoliston."
+  "settings.integrations.mailer.noBlogs": "Kreu blogon por konekti ĝian dissendoliston.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} ĉesis akcepti la konekton. Konektu denove por sinkronigi la ŝanĝojn."
 }

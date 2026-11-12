@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Nandain pawarah ragane sampun kawacen",
   "settings.integrations.mailer.summary": "Sambungang daftar email blog ragane.",
   "settings.integrations.mailer.description": "Kirim pelanggan sane sampun mastikayang ka layanan email ragane. Pembatalan langganan kapariksa saben jam.",
-  "settings.integrations.mailer.noBlogs": "Damel blog anggen nyambungang daftar emailnyane."
+  "settings.integrations.mailer.noBlogs": "Damel blog anggen nyambungang daftar emailnyane.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} sampun nénten nrima sambungan. Sambung malih mangda owah-owahan kasinkronang."
 }

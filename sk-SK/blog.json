@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Zoznam adresátov",
   "blog.pages.templates.mailingList": "Zoznam adresátov",
   "blog.pages.templates.mailingList.hint": "Prihlasovací formulár do vášho zoznamu adresátov.",
-  "blog.pages.starter.mailingList": "Pridajte sa do zoznamu adresátov a dostávajte novinky z tohto blogu e-mailom."
+  "blog.pages.starter.mailingList": "Pridajte sa do zoznamu adresátov a dostávajte novinky z tohto blogu e-mailom.",
+  "blog.mailingList.integration.add": "Pridať integráciu"
 }

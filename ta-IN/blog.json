@@ -822,5 +822,6 @@
   "blog.section.mailingList": "அஞ்சல் பட்டியல்",
   "blog.pages.templates.mailingList": "அஞ்சல் பட்டியல்",
   "blog.pages.templates.mailingList.hint": "உங்கள் அஞ்சல் பட்டியலுக்கான பதிவுப் படிவம்.",
-  "blog.pages.starter.mailingList": "இந்த வலைப்பதிவின் செய்திகளை மின்னஞ்சலில் பெற அஞ்சல் பட்டியலில் இணையுங்கள்."
+  "blog.pages.starter.mailingList": "இந்த வலைப்பதிவின் செய்திகளை மின்னஞ்சலில் பெற அஞ்சல் பட்டியலில் இணையுங்கள்.",
+  "blog.mailingList.integration.add": "ஒருங்கிணைப்பைச் சேர்"
 }

@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Oznaczanie Twoich powiadomień jako przeczytanych",
   "settings.integrations.mailer.summary": "Połącz listy mailingowe swojego bloga.",
   "settings.integrations.mailer.description": "Przesyłaj potwierdzonych subskrybentów do swojej usługi e-mail. Rezygnacje z subskrypcji są sprawdzane co godzinę.",
-  "settings.integrations.mailer.noBlogs": "Utwórz blog, aby połączyć jego listę mailingową."
+  "settings.integrations.mailer.noBlogs": "Utwórz blog, aby połączyć jego listę mailingową.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} nie akceptuje już połączenia. Połącz ponownie, aby zsynchronizować zmiany."
 }

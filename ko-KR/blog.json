@@ -822,5 +822,6 @@
   "blog.section.mailingList": "메일링 리스트",
   "blog.pages.templates.mailingList": "메일링 리스트",
   "blog.pages.templates.mailingList.hint": "메일링 리스트 가입 양식입니다.",
-  "blog.pages.starter.mailingList": "메일링 리스트에 참여하고 이 블로그의 소식을 이메일로 받아 보세요."
+  "blog.pages.starter.mailingList": "메일링 리스트에 참여하고 이 블로그의 소식을 이메일로 받아 보세요.",
+  "blog.mailingList.integration.add": "연동 추가"
 }

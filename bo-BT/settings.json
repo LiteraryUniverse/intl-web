@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "ཁྱེད་ཀྱི་བརྡ་ཐོ་ཀློག་ཟིན་པར་རྟགས་རྒྱག་པ།",
   "settings.integrations.mailer.summary": "ཁྱོད་ཀྱི་བློག་གི་གློག་འཕྲིན་ཐོ་ཡིག་མཐུད།",
   "settings.integrations.mailer.description": "ངོས་ལེན་འབད་མི་མངགས་ཉོ་བ་ཚུ་ཁྱོད་ཀྱི་གློག་འཕྲིན་ཞབས་ཏོག་ལུ་གཏང་། མངགས་ཉོ་ཆ་མེད་ཚུ་ཆུ་ཚོད་རེ་ལུ་ཞིབ་དཔྱད་འབདཝ་ཨིན།",
-  "settings.integrations.mailer.noBlogs": "གློག་འཕྲིན་ཐོ་ཡིག་མཐུད་ནི་ལུ་བློག་ཅིག་བཟོ།"
+  "settings.integrations.mailer.noBlogs": "གློག་འཕྲིན་ཐོ་ཡིག་མཐུད་ནི་ལུ་བློག་ཅིག་བཟོ།",
+  "settings.integrations.mailer.reconnectNeeded": "{service} གིས་མཐུད་ལམ་དང་ལེན་འབད་ནི་བཀག་ཡོད། བསྒྱུར་བཅོས་མཐུན་སྒྲིག་འབད་ནི་ལུ་ལོག་མཐུད།"
 }

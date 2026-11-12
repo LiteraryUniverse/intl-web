@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Отмечать ваши уведомления как прочитанные",
   "settings.integrations.mailer.summary": "Подключите рассылки своего блога.",
   "settings.integrations.mailer.description": "Передавайте подтвержденных подписчиков в свой почтовый сервис. Отписки проверяются каждый час.",
-  "settings.integrations.mailer.noBlogs": "Создайте блог, чтобы подключить его рассылку."
+  "settings.integrations.mailer.noBlogs": "Создайте блог, чтобы подключить его рассылку.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} больше не принимает подключение. Подключитесь снова, чтобы синхронизировать изменения."
 }

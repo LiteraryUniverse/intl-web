@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Označovať vaše oznámenia ako prečítané",
   "settings.integrations.mailer.summary": "Prepojte e-mailové zoznamy svojho blogu.",
   "settings.integrations.mailer.description": "Odosielajte potvrdených odberateľov do svojej e-mailovej služby. Odhlásenia kontrolujeme každú hodinu.",
-  "settings.integrations.mailer.noBlogs": "Vytvorte blog a prepojte jeho e-mailový zoznam."
+  "settings.integrations.mailer.noBlogs": "Vytvorte blog a prepojte jeho e-mailový zoznam.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} prestal prijímať pripojenie. Pripojte sa znova, aby sa zmeny synchronizovali."
 }

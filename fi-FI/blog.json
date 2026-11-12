@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Postituslista",
   "blog.pages.templates.mailingList": "Postituslista",
   "blog.pages.templates.mailingList.hint": "Liittymislomake postituslistallesi.",
-  "blog.pages.starter.mailingList": "Liity postituslistalle saadaksesi tämän blogin uutiset sähköpostitse."
+  "blog.pages.starter.mailingList": "Liity postituslistalle saadaksesi tämän blogin uutiset sähköpostitse.",
+  "blog.mailingList.integration.add": "Lisää integraatio"
 }

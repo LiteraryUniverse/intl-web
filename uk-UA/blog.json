@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Список розсилки",
   "blog.pages.templates.mailingList": "Список розсилки",
   "blog.pages.templates.mailingList.hint": "Форма підписки на ваш список розсилки.",
-  "blog.pages.starter.mailingList": "Підпишіться на список розсилки, щоб отримувати новини цього блогу поштою."
+  "blog.pages.starter.mailingList": "Підпишіться на список розсилки, щоб отримувати новини цього блогу поштою.",
+  "blog.mailingList.integration.add": "Додати інтеграцію"
 }

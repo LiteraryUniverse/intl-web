@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Позначати ваші сповіщення як прочитані",
   "settings.integrations.mailer.summary": "Підключіть розсилки свого блогу.",
   "settings.integrations.mailer.description": "Передавайте підтверджених підписників до свого поштового сервісу. Відписки перевіряються щогодини.",
-  "settings.integrations.mailer.noBlogs": "Створіть блог, щоб підключити його розсилку."
+  "settings.integrations.mailer.noBlogs": "Створіть блог, щоб підключити його розсилку.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} більше не приймає підключення. Підключіться знову, щоб синхронізувати зміни."
 }

@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Tandai notifikasi Anda sebagai dibaca",
   "settings.integrations.mailer.summary": "Hubungkan milis blog Anda.",
   "settings.integrations.mailer.description": "Kirim pelanggan terkonfirmasi ke layanan email Anda. Pembatalan langganan diperiksa setiap jam.",
-  "settings.integrations.mailer.noBlogs": "Buat blog untuk menghubungkan milisnya."
+  "settings.integrations.mailer.noBlogs": "Buat blog untuk menghubungkan milisnya.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} tidak lagi menerima koneksi. Hubungkan kembali untuk menyinkronkan perubahan."
 }

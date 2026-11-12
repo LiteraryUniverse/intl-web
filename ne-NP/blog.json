@@ -822,5 +822,6 @@
   "blog.section.mailingList": "मेलिङ लिस्ट",
   "blog.pages.templates.mailingList": "मेलिङ लिस्ट",
   "blog.pages.templates.mailingList.hint": "तपाईंको मेलिङ लिस्टका लागि साइन-अप फारम।",
-  "blog.pages.starter.mailingList": "यो ब्लगका समाचार इमेलमा पाउन मेलिङ लिस्टमा जोडिनुहोस्।"
+  "blog.pages.starter.mailingList": "यो ब्लगका समाचार इमेलमा पाउन मेलिङ लिस्टमा जोडिनुहोस्।",
+  "blog.mailingList.integration.add": "एकीकरण थप्नुहोस्"
 }

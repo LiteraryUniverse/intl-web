@@ -822,5 +822,6 @@
   "blog.section.mailingList": "E-postliste",
   "blog.pages.templates.mailingList": "E-postliste",
   "blog.pages.templates.mailingList.hint": "Et påmeldingsskjema for e-postlisten din.",
-  "blog.pages.starter.mailingList": "Bli med på e-postlisten for å få nyheter fra denne bloggen på e-post."
+  "blog.pages.starter.mailingList": "Bli med på e-postlisten for å få nyheter fra denne bloggen på e-post.",
+  "blog.mailingList.integration.add": "Legg til integrasjon"
 }

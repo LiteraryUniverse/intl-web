@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Merk varslene dine som lest",
   "settings.integrations.mailer.summary": "Koble til bloggens e-postlister.",
   "settings.integrations.mailer.description": "Send bekreftede abonnenter til e-posttjenesten din. Avmeldinger kontrolleres hver time.",
-  "settings.integrations.mailer.noBlogs": "Opprett en blogg for å koble til e-postlisten."
+  "settings.integrations.mailer.noBlogs": "Opprett en blogg for å koble til e-postlisten.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} godtar ikke lenger tilkoblingen. Koble til på nytt for å synkronisere endringene."
 }

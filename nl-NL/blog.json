@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Mailinglijst",
   "blog.pages.templates.mailingList": "Mailinglijst",
   "blog.pages.templates.mailingList.hint": "Een aanmeldformulier voor uw mailinglijst.",
-  "blog.pages.starter.mailingList": "Meld u aan voor de mailinglijst en ontvang nieuws van deze blog per e-mail."
+  "blog.pages.starter.mailingList": "Meld u aan voor de mailinglijst en ontvang nieuws van deze blog per e-mail.",
+  "blog.mailingList.integration.add": "Integratie toevoegen"
 }

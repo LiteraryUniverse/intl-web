@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "通知を既読にします",
   "settings.integrations.mailer.summary": "ブログのメーリングリストを連携します。",
   "settings.integrations.mailer.description": "登録確認済みの購読者をメール配信サービスに送信します。配信停止は毎時確認されます。",
-  "settings.integrations.mailer.noBlogs": "メーリングリストを連携するにはブログを作成してください。"
+  "settings.integrations.mailer.noBlogs": "メーリングリストを連携するにはブログを作成してください。",
+  "settings.integrations.mailer.reconnectNeeded": "{service} が接続を受け付けなくなりました。変更を同期するには、再接続してください。"
 }

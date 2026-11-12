@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Liste de diffusion",
   "blog.pages.templates.mailingList": "Liste de diffusion",
   "blog.pages.templates.mailingList.hint": "Un formulaire d'inscription à votre liste de diffusion.",
-  "blog.pages.starter.mailingList": "Inscrivez-vous à la liste de diffusion pour recevoir par e-mail les actualités de ce blog."
+  "blog.pages.starter.mailingList": "Inscrivez-vous à la liste de diffusion pour recevoir par e-mail les actualités de ce blog.",
+  "blog.mailingList.integration.add": "Ajouter une intégration"
 }

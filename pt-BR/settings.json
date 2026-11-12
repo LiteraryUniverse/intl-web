@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Marcar suas notificações como lidas",
   "settings.integrations.mailer.summary": "Conecte as listas de e-mail do seu blog.",
   "settings.integrations.mailer.description": "Envie os assinantes confirmados ao seu serviço de e-mail. Os cancelamentos de inscrição são verificados a cada hora.",
-  "settings.integrations.mailer.noBlogs": "Crie um blog para conectar sua lista de e-mail."
+  "settings.integrations.mailer.noBlogs": "Crie um blog para conectar sua lista de e-mail.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} parou de aceitar a conexão. Conecte novamente para sincronizar as alterações."
 }

@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Märgi oma teavitused loetuks",
   "settings.integrations.mailer.summary": "Ühenda oma ajaveebi meililistid.",
   "settings.integrations.mailer.description": "Saada kinnitatud tellijad oma meiliteenusesse. Loobumisi kontrollitakse iga tund.",
-  "settings.integrations.mailer.noBlogs": "Loo ajaveeb, et ühendada selle meililist."
+  "settings.integrations.mailer.noBlogs": "Loo ajaveeb, et ühendada selle meililist.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} ei võta enam ühendust vastu. Muudatuste sünkroonimiseks ühenda uuesti."
 }

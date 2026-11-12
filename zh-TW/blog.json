@@ -822,5 +822,6 @@
   "blog.section.mailingList": "郵寄名單",
   "blog.pages.templates.mailingList": "郵寄名單",
   "blog.pages.templates.mailingList.hint": "您的郵寄名單訂閱表單。",
-  "blog.pages.starter.mailingList": "加入郵寄名單，透過電子郵件收到此部落格的消息。"
+  "blog.pages.starter.mailingList": "加入郵寄名單，透過電子郵件收到此部落格的消息。",
+  "blog.mailingList.integration.add": "新增整合"
 }

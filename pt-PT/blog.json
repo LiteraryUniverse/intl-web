@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Lista de correio",
   "blog.pages.templates.mailingList": "Lista de correio",
   "blog.pages.templates.mailingList.hint": "Um formulário de subscrição para a sua lista de correio.",
-  "blog.pages.starter.mailingList": "Adira à lista de correio para receber novidades deste blogue por e-mail."
+  "blog.pages.starter.mailingList": "Adira à lista de correio para receber novidades deste blogue por e-mail.",
+  "blog.mailingList.integration.add": "Adicionar integração"
 }

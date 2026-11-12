@@ -822,5 +822,6 @@
   "blog.section.mailingList": "E-posta listesi",
   "blog.pages.templates.mailingList": "E-posta listesi",
   "blog.pages.templates.mailingList.hint": "E-posta listeniz için bir kayıt formu.",
-  "blog.pages.starter.mailingList": "Bu blogdaki haberleri e-postayla almak için e-posta listesine katılın."
+  "blog.pages.starter.mailingList": "Bu blogdaki haberleri e-postayla almak için e-posta listesine katılın.",
+  "blog.mailingList.integration.add": "Entegrasyon ekle"
 }

@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Milis",
   "blog.pages.templates.mailingList": "Milis",
   "blog.pages.templates.mailingList.hint": "Formulir pendaftaran untuk milis Anda.",
-  "blog.pages.starter.mailingList": "Bergabunglah di milis untuk mendapatkan kabar dari blog ini lewat email."
+  "blog.pages.starter.mailingList": "Bergabunglah di milis untuk mendapatkan kabar dari blog ini lewat email.",
+  "blog.mailingList.integration.add": "Tambahkan integrasi"
 }

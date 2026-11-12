@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Je meldingen als gelezen markeren",
   "settings.integrations.mailer.summary": "Koppel de mailinglijsten van je blog.",
   "settings.integrations.mailer.description": "Stuur bevestigde abonnees naar je e-maildienst. Uitschrijvingen worden elk uur gecontroleerd.",
-  "settings.integrations.mailer.noBlogs": "Maak een blog om de mailinglijst te koppelen."
+  "settings.integrations.mailer.noBlogs": "Maak een blog om de mailinglijst te koppelen.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} accepteert de verbinding niet meer. Maak opnieuw verbinding om de wijzigingen te synchroniseren."
 }

@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "உங்கள் அறிவிப்புகளைப் படித்ததாகக் குறித்தல்",
   "settings.integrations.mailer.summary": "உங்கள் வலைப்பதிவின் அஞ்சல் பட்டியல்களை இணைக்கவும்.",
   "settings.integrations.mailer.description": "உறுதிப்படுத்திய சந்தாதாரர்களை உங்கள் மின்னஞ்சல் சேவைக்கு அனுப்பவும். சந்தா விலகல்கள் ஒவ்வொரு மணிநேரமும் சரிபார்க்கப்படும்.",
-  "settings.integrations.mailer.noBlogs": "அஞ்சல் பட்டியலை இணைக்க ஒரு வலைப்பதிவை உருவாக்கவும்."
+  "settings.integrations.mailer.noBlogs": "அஞ்சல் பட்டியலை இணைக்க ஒரு வலைப்பதிவை உருவாக்கவும்.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} இணைப்பை ஏற்றுக்கொள்வதை நிறுத்திவிட்டது. மாற்றங்களை ஒத்திசைக்க மீண்டும் இணைக்கவும்."
 }

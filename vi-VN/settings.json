@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Đánh dấu các thông báo của bạn là đã đọc",
   "settings.integrations.mailer.summary": "Kết nối các danh sách gửi thư của blog.",
   "settings.integrations.mailer.description": "Gửi người đăng ký đã xác nhận đến dịch vụ email của bạn. Việc hủy đăng ký được kiểm tra mỗi giờ.",
-  "settings.integrations.mailer.noBlogs": "Tạo blog để kết nối danh sách gửi thư của blog đó."
+  "settings.integrations.mailer.noBlogs": "Tạo blog để kết nối danh sách gửi thư của blog đó.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} không còn chấp nhận kết nối. Kết nối lại để đồng bộ các thay đổi."
 }

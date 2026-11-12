@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Marquer vos notifications comme lues",
   "settings.integrations.mailer.summary": "Connectez les listes de diffusion de votre blog.",
   "settings.integrations.mailer.description": "Envoyez les abonnés confirmés à votre service de messagerie. Les désabonnements sont vérifiés chaque heure.",
-  "settings.integrations.mailer.noBlogs": "Créez un blog pour connecter sa liste de diffusion."
+  "settings.integrations.mailer.noBlogs": "Créez un blog pour connecter sa liste de diffusion.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} n'accepte plus la connexion. Reconnectez-vous pour synchroniser les modifications."
 }

@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Marcar as tuas notificações como lidas",
   "settings.integrations.mailer.summary": "Ligue as listas de correio do seu blogue.",
   "settings.integrations.mailer.description": "Envie os subscritores confirmados para o seu serviço de correio. Os cancelamentos de subscrição são verificados de hora a hora.",
-  "settings.integrations.mailer.noBlogs": "Crie um blogue para ligar a sua lista de correio."
+  "settings.integrations.mailer.noBlogs": "Crie um blogue para ligar a sua lista de correio.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} deixou de aceitar a ligação. Volte a ligar para sincronizar as alterações."
 }

@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Mailing list",
   "blog.pages.templates.mailingList": "Mailing list",
   "blog.pages.templates.mailingList.hint": "Isang sign-up form para sa iyong mailing list.",
-  "blog.pages.starter.mailingList": "Sumali sa mailing list para makatanggap ng balita mula sa blog na ito sa email."
+  "blog.pages.starter.mailingList": "Sumali sa mailing list para makatanggap ng balita mula sa blog na ito sa email.",
+  "blog.mailingList.integration.add": "Magdagdag ng integrasyon"
 }

@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Danh sách gửi thư",
   "blog.pages.templates.mailingList": "Danh sách gửi thư",
   "blog.pages.templates.mailingList.hint": "Biểu mẫu đăng ký vào danh sách gửi thư của bạn.",
-  "blog.pages.starter.mailingList": "Tham gia danh sách gửi thư để nhận tin tức từ blog này qua email."
+  "blog.pages.starter.mailingList": "Tham gia danh sách gửi thư để nhận tin tức từ blog này qua email.",
+  "blog.mailingList.integration.add": "Thêm tích hợp"
 }

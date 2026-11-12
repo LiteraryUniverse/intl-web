@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Pašto sąrašas",
   "blog.pages.templates.mailingList": "Pašto sąrašas",
   "blog.pages.templates.mailingList.hint": "Jūsų pašto sąrašo registracijos forma.",
-  "blog.pages.starter.mailingList": "Prisijunkite prie pašto sąrašo ir gaukite šio tinklaraščio naujienas el. paštu."
+  "blog.pages.starter.mailingList": "Prisijunkite prie pašto sąrašo ir gaukite šio tinklaraščio naujienas el. paštu.",
+  "blog.mailingList.integration.add": "Pridėti integraciją"
 }

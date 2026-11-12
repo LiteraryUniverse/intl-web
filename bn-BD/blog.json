@@ -822,5 +822,6 @@
   "blog.section.mailingList": "মেইলিং লিস্ট",
   "blog.pages.templates.mailingList": "মেইলিং লিস্ট",
   "blog.pages.templates.mailingList.hint": "আপনার মেইলিং লিস্টের জন্য একটি সাইন-আপ ফর্ম।",
-  "blog.pages.starter.mailingList": "এই ব্লগের খবর ইমেইলে পেতে মেইলিং লিস্টে যোগ দিন।"
+  "blog.pages.starter.mailingList": "এই ব্লগের খবর ইমেইলে পেতে মেইলিং লিস্টে যোগ দিন।",
+  "blog.mailingList.integration.add": "ইন্টিগ্রেশন যোগ করুন"
 }

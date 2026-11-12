@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Dissendolisto",
   "blog.pages.templates.mailingList": "Dissendolisto",
   "blog.pages.templates.mailingList.hint": "Aliĝilo por via dissendolisto.",
-  "blog.pages.starter.mailingList": "Aliĝu al la dissendolisto por ricevi novaĵojn de ĉi tiu blogo per retpoŝto."
+  "blog.pages.starter.mailingList": "Aliĝu al la dissendolisto por ricevi novaĵojn de ĉi tiu blogo per retpoŝto.",
+  "blog.mailingList.integration.add": "Aldoni integriĝon"
 }

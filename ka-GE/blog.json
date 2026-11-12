@@ -822,5 +822,6 @@
   "blog.section.mailingList": "საფოსტო სია",
   "blog.pages.templates.mailingList": "საფოსტო სია",
   "blog.pages.templates.mailingList.hint": "რეგისტრაციის ფორმა თქვენი საფოსტო სიისთვის.",
-  "blog.pages.starter.mailingList": "შეუერთდით საფოსტო სიას, რომ ამ ბლოგის სიახლეები ელფოსტით მიიღოთ."
+  "blog.pages.starter.mailingList": "შეუერთდით საფოსტო სიას, რომ ამ ბლოგის სიახლეები ელფოსტით მიიღოთ.",
+  "blog.mailingList.integration.add": "ინტეგრაციის დამატება"
 }

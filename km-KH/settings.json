@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "សម្គាល់ការជូនដំណឹងរបស់អ្នកថាបានអាន",
   "settings.integrations.mailer.summary": "ភ្ជាប់បញ្ជីអ៊ីមែលរបស់ប្លុកអ្នក។",
   "settings.integrations.mailer.description": "ផ្ញើអ្នកជាវដែលបានបញ្ជាក់ទៅសេវាអ៊ីមែលរបស់អ្នក។ ការឈប់ជាវត្រូវបានពិនិត្យរៀងរាល់ម៉ោង។",
-  "settings.integrations.mailer.noBlogs": "បង្កើតប្លុកដើម្បីភ្ជាប់បញ្ជីអ៊ីមែលរបស់វា។"
+  "settings.integrations.mailer.noBlogs": "បង្កើតប្លុកដើម្បីភ្ជាប់បញ្ជីអ៊ីមែលរបស់វា។",
+  "settings.integrations.mailer.reconnectNeeded": "{service} លែងទទួលយកការតភ្ជាប់ហើយ។ សូមភ្ជាប់ម្ដងទៀតដើម្បីធ្វើសមកាលកម្មការផ្លាស់ប្ដូរ។"
 }

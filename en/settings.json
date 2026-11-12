@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Mark your notifications as read",
   "settings.integrations.mailer.summary": "Connect your blog mailing lists.",
   "settings.integrations.mailer.description": "Send confirmed subscribers to your mail service. Unsubscribes are checked hourly.",
-  "settings.integrations.mailer.noBlogs": "Create a blog to connect its mailing list."
+  "settings.integrations.mailer.noBlogs": "Create a blog to connect its mailing list.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} stopped accepting the connection. Connect again to catch up."
 }

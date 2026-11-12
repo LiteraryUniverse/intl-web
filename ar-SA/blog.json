@@ -822,5 +822,6 @@
   "blog.section.mailingList": "القائمة البريدية",
   "blog.pages.templates.mailingList": "القائمة البريدية",
   "blog.pages.templates.mailingList.hint": "نموذج اشتراك للقائمة البريدية الخاصة بك.",
-  "blog.pages.starter.mailingList": "انضم إلى القائمة البريدية لتصلك أخبار هذه المدونة بالبريد الإلكتروني."
+  "blog.pages.starter.mailingList": "انضم إلى القائمة البريدية لتصلك أخبار هذه المدونة بالبريد الإلكتروني.",
+  "blog.mailingList.integration.add": "إضافة تكامل"
 }

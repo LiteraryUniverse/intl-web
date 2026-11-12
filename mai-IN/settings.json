@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "अपन सूचनाकेँ पढ़ल चिह्नित करू",
   "settings.integrations.mailer.summary": "अपन ब्लॉगक मेलिंग सूची जोड़ू।",
   "settings.integrations.mailer.description": "पुष्टि कएल सदस्यसभकेँ अपन ईमेल सेवामे पठाउ। सदस्यता रद्द करबाक जाँच प्रत्येक घंटा होइत अछि।",
-  "settings.integrations.mailer.noBlogs": "मेलिंग सूची जोड़बाक लेल ब्लॉग बनाउ।"
+  "settings.integrations.mailer.noBlogs": "मेलिंग सूची जोड़बाक लेल ब्लॉग बनाउ।",
+  "settings.integrations.mailer.reconnectNeeded": "{service} कनेक्शन स्वीकार करब बन्द कऽ देलक अछि। बदलाव सिंक करबाक लेल फेर सँ कनेक्ट करू।"
 }

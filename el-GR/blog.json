@@ -822,5 +822,6 @@
   "blog.section.mailingList": "Λίστα αλληλογραφίας",
   "blog.pages.templates.mailingList": "Λίστα αλληλογραφίας",
   "blog.pages.templates.mailingList.hint": "Μια φόρμα εγγραφής για τη λίστα αλληλογραφίας σας.",
-  "blog.pages.starter.mailingList": "Εγγραφείτε στη λίστα αλληλογραφίας για να λαμβάνετε νέα από αυτό το ιστολόγιο με email."
+  "blog.pages.starter.mailingList": "Εγγραφείτε στη λίστα αλληλογραφίας για να λαμβάνετε νέα από αυτό το ιστολόγιο με email.",
+  "blog.mailingList.integration.add": "Προσθήκη ενσωμάτωσης"
 }

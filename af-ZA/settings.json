@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "Merk jou kennisgewings as gelees",
   "settings.integrations.mailer.summary": "Koppel jou blog se poslyste.",
   "settings.integrations.mailer.description": "Stuur bevestigde intekenare na jou e-posdiens. Uitskrywings word uurliks nagegaan.",
-  "settings.integrations.mailer.noBlogs": "Skep 'n blog om sy poslys te koppel."
+  "settings.integrations.mailer.noBlogs": "Skep 'n blog om sy poslys te koppel.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} aanvaar nie meer die verbinding nie. Koppel weer om op te dateer."
 }

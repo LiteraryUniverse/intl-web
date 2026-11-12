@@ -566,5 +566,6 @@
   "settings.apiKeys.scope.notifications.write.desc": "మీ నోటిఫికేషన్లను చదివినట్లుగా గుర్తించండి",
   "settings.integrations.mailer.summary": "మీ బ్లాగ్ మెయిలింగ్ జాబితాలను అనుసంధానించండి.",
   "settings.integrations.mailer.description": "ధృవీకరించిన చందాదారులను మీ ఇమెయిల్ సేవకు పంపండి. చందా రద్దులను ప్రతి గంటకు తనిఖీ చేస్తాము.",
-  "settings.integrations.mailer.noBlogs": "మెయిలింగ్ జాబితాను అనుసంధానించడానికి బ్లాగును సృష్టించండి."
+  "settings.integrations.mailer.noBlogs": "మెయిలింగ్ జాబితాను అనుసంధానించడానికి బ్లాగును సృష్టించండి.",
+  "settings.integrations.mailer.reconnectNeeded": "{service} కనెక్షన్‌ను అంగీకరించడం ఆపివేసింది. మార్పులను సింక్ చేయడానికి మళ్లీ కనెక్ట్ చేయండి."
 }

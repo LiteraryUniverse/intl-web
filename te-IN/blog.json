@@ -822,5 +822,6 @@
   "blog.section.mailingList": "మెయిలింగ్ జాబితా",
   "blog.pages.templates.mailingList": "మెయిలింగ్ జాబితా",
   "blog.pages.templates.mailingList.hint": "మీ మెయిలింగ్ జాబితా కోసం సైన్-అప్ ఫారమ్.",
-  "blog.pages.starter.mailingList": "ఈ బ్లాగ్ వార్తలను ఇమెయిల్‌లో పొందడానికి మెయిలింగ్ జాబితాలో చేరండి."
+  "blog.pages.starter.mailingList": "ఈ బ్లాగ్ వార్తలను ఇమెయిల్‌లో పొందడానికి మెయిలింగ్ జాబితాలో చేరండి.",
+  "blog.mailingList.integration.add": "ఇంటిగ్రేషన్ జోడించండి"
 }
