@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Zatím nemáte k dispozici žádný stávající vesmír. Vytvořte nový z této relace Universe Cards.",
   "workshop.universe.forgeImportNotice": "Vaše hodnoty a poznámky z Universe Cards se k tomuto vesmíru připojí, jakmile ho uložíte.",
   "workshop.universe.notes.tile": "Poznámky k vesmíru",
+  "workshop.universe.importExport.worldAnvil": "<export>Vyexportujte svůj svět</export> z World Anvil a nahrajte sem zip. Z článků se stanou koncepty záznamů v kategoriích, které zvolíte, a každou změnu uvidíte dřív, než se cokoli zapíše. Členové Grandmaster mohou také <connect>propojit svůj účet World Anvil</connect>, importovat přímo z něj a posílat úpravy zpět.",
+  "workshop.universe.importExport.title": "Import a export",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

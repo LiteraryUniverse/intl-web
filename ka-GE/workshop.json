@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": "<export>გააკეთეთ თქვენი სამყაროს ექსპორტი</export> World Anvil-დან და ატვირთეთ zip აქ. სტატიები იქცევა ჩანაწერების მონახაზებად თქვენ მიერ არჩეულ კატეგორიებში, და ყოველ ცვლილებას ხედავთ, სანამ რამე ჩაიწერება. Grandmaster-ის წევრებს ასევე შეუძლიათ <connect>თავიანთი World Anvil-ის ანგარიშის დაკავშირება</connect>, რომ პირდაპირ იქიდან მოახდინონ იმპორტი და ცვლილებები უკან გაგზავნონ.",
+  "workshop.universe.importExport.title": "იმპორტი და ექსპორტი",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

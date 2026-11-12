@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "У вас ще немає доступних наявних всесвітів. Створіть новий із цього сеансу Universe Cards.",
   "workshop.universe.forgeImportNotice": "Ваші значення та нотатки Universe Cards буде приєднано до цього всесвіту, коли ви його збережете.",
   "workshop.universe.notes.tile": "Нотатки всесвіту",
+  "workshop.universe.importExport.worldAnvil": "<export>Експортуйте свій світ</export> із World Anvil і завантажте zip-архів сюди. Статті стануть чернетками записів у вибраних вами категоріях, і ви побачите кожну зміну, перш ніж щось буде збережено. Учасники Grandmaster також можуть <connect>підключити свій акаунт World Anvil</connect>, щоб імпортувати безпосередньо з нього й надсилати зміни назад.",
+  "workshop.universe.importExport.title": "Імпорт і експорт",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

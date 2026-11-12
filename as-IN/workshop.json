@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": "World Anvilৰ পৰা <export>আপোনাৰ জগত ৰপ্তানি কৰক</export> আৰু zip ফাইলটো ইয়াত আপলোড কৰক। প্ৰবন্ধসমূহ আপুনি বাছনি কৰা শ্ৰেণীসমূহত খচৰা প্ৰৱিষ্টি হৈ পৰে, আৰু একো লিখাৰ আগতে আপুনি প্ৰতিটো সলনি দেখিবলৈ পায়। Grandmaster সদস্যসকলে <connect>তেওঁলোকৰ World Anvil একাউণ্ট সংযোগ</connect> কৰি তাৰ পৰা পোনপটীয়াকৈ আমদানি কৰিব আৰু সম্পাদনাসমূহ ঘূৰাই পঠিয়াবও পাৰে।",
+  "workshop.universe.importExport.title": "আমদানি আৰু ৰপ্তানি",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

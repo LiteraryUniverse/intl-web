@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "您目前還沒有可用的現有宇宙。請用這次的 Universe Cards 工作階段建立一個新的宇宙。",
   "workshop.universe.forgeImportNotice": "儲存這個宇宙時，您的 Universe Cards 內容與筆記會附加到這個宇宙。",
   "workshop.universe.notes.tile": "宇宙筆記",
+  "workshop.universe.importExport.worldAnvil": "從 World Anvil <export>匯出您的世界</export>，並將 zip 檔上傳至此。文章會成為您所選分類中的草稿條目，且在寫入任何內容前，您都能看到每一項變更。Grandmaster 會員也可以<connect>連結他們的 World Anvil 帳號</connect>，直接從中匯入並將編輯送回。",
+  "workshop.universe.importExport.title": "匯入與匯出",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Még nincs elérhető meglévő univerzumod. Hozz létre egy újat ebből a Universe Cards munkamenetből.",
   "workshop.universe.forgeImportNotice": "A Universe Cards értékeid és jegyzeteid a mentéskor csatolódnak ehhez az univerzumhoz.",
   "workshop.universe.notes.tile": "Univerzumjegyzetek",
+  "workshop.universe.importExport.worldAnvil": "<export>Exportáld a világodat</export> a World Anvilből, és töltsd fel ide a zip-fájlt. A cikkekből vázlat bejegyzések lesznek az általad választott kategóriákban, és minden változást látsz, mielőtt bármi mentésre kerülne. A Grandmaster-tagok <connect>World Anvil-fiókjukat is összekapcsolhatják</connect>, hogy közvetlenül onnan importáljanak, és visszaküldjék a módosításokat.",
+  "workshop.universe.importExport.title": "Importálás és exportálás",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

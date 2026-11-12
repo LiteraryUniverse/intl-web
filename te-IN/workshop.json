@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": "World Anvil నుండి <export>మీ ప్రపంచాన్ని ఎగుమతి చేసి</export> zipని ఇక్కడ అప్‌లోడ్ చేయండి. వ్యాసాలు మీరు ఎంచుకున్న వర్గాలలో డ్రాఫ్ట్ ఎంట్రీలుగా మారతాయి, ఏదైనా రాయబడే ముందు ప్రతి మార్పును మీరు చూస్తారు. Grandmaster సభ్యులు <connect>తమ World Anvil ఖాతాను కనెక్ట్ చేసి</connect> దాని నుండి నేరుగా దిగుమతి చేయవచ్చు, సవరణలను తిరిగి పంపవచ్చు కూడా.",
+  "workshop.universe.importExport.title": "దిగుమతి మరియు ఎగుమతి",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

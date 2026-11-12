@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Du har ingen eksisterende universer tilgjengelig ennå. Opprett et nytt fra denne Universe Cards-økten.",
   "workshop.universe.forgeImportNotice": "Universe Cards-verdiene og notatene dine knyttes til dette universet når du lagrer det.",
   "workshop.universe.notes.tile": "Universnotater",
+  "workshop.universe.importExport.worldAnvil": "<export>Eksporter verdenen din</export> fra World Anvil og last opp zip-filen her. Artikler blir utkast til oppføringer i kategoriene du velger, og du ser hver endring før noe blir lagret. Grandmaster-medlemmer kan også <connect>koble til World Anvil-kontoen sin</connect> for å importere direkte fra den og sende endringer tilbake.",
+  "workshop.universe.importExport.title": "Import og eksport",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

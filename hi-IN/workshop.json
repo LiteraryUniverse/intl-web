@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "आपके पास अभी कोई मौजूदा ब्रह्मांड उपलब्ध नहीं है। इस Universe Cards सत्र से नया बनाएँ।",
   "workshop.universe.forgeImportNotice": "सहेजने पर आपके Universe Cards के मान और नोट्स इस ब्रह्मांड से जुड़ जाएँगे।",
   "workshop.universe.notes.tile": "ब्रह्मांड नोट्स",
+  "workshop.universe.importExport.worldAnvil": "World Anvil से <export>अपनी दुनिया एक्सपोर्ट करें</export> और zip यहाँ अपलोड करें। लेख आपकी चुनी हुई श्रेणियों में ड्राफ़्ट प्रविष्टियाँ बन जाते हैं, और कुछ भी लिखे जाने से पहले आप हर बदलाव देख लेते हैं। Grandmaster सदस्य <connect>अपना World Anvil खाता जोड़कर</connect> सीधे उससे इम्पोर्ट भी कर सकते हैं और बदलाव वापस भेज सकते हैं।",
+  "workshop.universe.importExport.title": "इम्पोर्ट और एक्सपोर्ट",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

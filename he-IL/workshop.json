@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "עדיין אין לכם יקומים קיימים זמינים. צרו יקום חדש מסשן Universe Cards הזה.",
   "workshop.universe.forgeImportNotice": "הערכים וההערות שלכם מ־Universe Cards יצורפו ליקום הזה כשתשמרו אותו.",
   "workshop.universe.notes.tile": "הערות היקום",
+  "workshop.universe.importExport.worldAnvil": "<export>ייצאו את העולם שלכם</export> מ-World Anvil והעלו את קובץ ה-zip כאן. המאמרים הופכים לטיוטות של ערכים בקטגוריות שתבחרו, ואתם רואים כל שינוי לפני שמשהו נכתב. חברי Grandmaster יכולים גם <connect>לחבר את חשבון ה-World Anvil שלהם</connect> כדי לייבא ישירות ממנו ולשלוח עריכות בחזרה.",
+  "workshop.universe.importExport.title": "ייבוא וייצוא",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

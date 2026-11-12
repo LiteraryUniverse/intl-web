@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Sinulla ei ole vielä yhtään olemassa olevaa universumia käytettävissä. Luo uusi tästä Universe Cards -istunnosta.",
   "workshop.universe.forgeImportNotice": "Universe Cards -arvosi ja muistiinpanosi liitetään tähän universumiin, kun tallennat sen.",
   "workshop.universe.notes.tile": "Universumin muistiinpanot",
+  "workshop.universe.importExport.worldAnvil": "<export>Vie maailmasi</export> World Anvilista ja lataa zip-tiedosto tänne. Artikkeleista tulee luonnosmerkintöjä valitsemiisi kategorioihin, ja näet jokaisen muutoksen ennen kuin mitään kirjoitetaan. Grandmaster-jäsenet voivat myös <connect>yhdistää World Anvil -tilinsä</connect> ja tuoda suoraan sieltä sekä lähettää muokkaukset takaisin.",
+  "workshop.universe.importExport.title": "Tuonti ja vienti",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

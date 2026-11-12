@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Jy het nog geen bestaande heelalle beskikbaar nie. Skep 'n nuwe een uit hierdie Universe Cards-sessie.",
   "workshop.universe.forgeImportNotice": "Jou Universe Cards-waardes en -notas sal aan hierdie heelal gekoppel word wanneer jy dit stoor.",
   "workshop.universe.notes.tile": "Heelalnotas",
+  "workshop.universe.importExport.worldAnvil": "<export>Voer jou wêreld uit</export> uit World Anvil en laai die zip-lêer hier op. Artikels word konsepinskrywings in die kategorieë wat jy kies, en jy sien elke verandering voordat enigiets geskryf word. Grandmaster-lede kan ook <connect>hul World Anvil-rekening koppel</connect> om direk daaruit in te voer en wysigings terug te stuur.",
+  "workshop.universe.importExport.title": "Invoer en uitvoer",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

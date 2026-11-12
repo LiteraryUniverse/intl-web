@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "คุณยังไม่มีจักรวาลที่มีอยู่ให้เลือก สร้างจักรวาลใหม่จากเซสชัน Universe Cards นี้",
   "workshop.universe.forgeImportNotice": "ค่าและบันทึกจาก Universe Cards ของคุณจะถูกผูกกับจักรวาลนี้เมื่อคุณบันทึก",
   "workshop.universe.notes.tile": "บันทึกจักรวาล",
+  "workshop.universe.importExport.worldAnvil": "<export>ส่งออกโลกของคุณ</export>จาก World Anvil แล้วอัปโหลดไฟล์ zip ที่นี่ บทความจะกลายเป็นรายการฉบับร่างในหมวดหมู่ที่คุณเลือก และคุณจะเห็นทุกการเปลี่ยนแปลงก่อนที่จะมีการบันทึกใด ๆ สมาชิก Grandmaster ยังสามารถ<connect>เชื่อมต่อบัญชี World Anvil ของตน</connect>เพื่อนำเข้าโดยตรงและส่งการแก้ไขกลับไปได้ด้วย",
+  "workshop.universe.importExport.title": "นำเข้าและส่งออก",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

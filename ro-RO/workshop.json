@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Nu ai încă niciun univers existent disponibil. Creează unul nou din această sesiune Universe Cards.",
   "workshop.universe.forgeImportNotice": "Valorile și notițele tale Universe Cards vor fi atașate acestui univers când îl salvezi.",
   "workshop.universe.notes.tile": "Notițele universului",
+  "workshop.universe.importExport.worldAnvil": "<export>Exportă-ți lumea</export> din World Anvil și încarcă arhiva zip aici. Articolele devin intrări ciornă în categoriile pe care le alegi și vezi fiecare modificare înainte să se scrie ceva. Membrii Grandmaster își pot și <connect>conecta contul World Anvil</connect> ca să importe direct din el și să trimită modificările înapoi.",
+  "workshop.universe.importExport.title": "Import și export",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

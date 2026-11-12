@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": ".i ko <export>barbevri lo do terdi</export> fo la'o zoi World Anvil zoi gi'e benji lo zip datnyvei ti .i lo notci cu binxo lo cfari vreji poi cmima lo klesi poi do cuxna .i do viska ro lo nu galfi pu lo nu da se ciska .i lo cmima be la'o zoi Grandmaster zoi cu ka'e ji'a <connect>jorgau lo ri jaspu be la'o zoi World Anvil zoi</connect> mu'i lo nu nerbei fo ri gi'e xruti benji lo nu galfi",
+  "workshop.universe.importExport.title": "nerbei .e barbevri",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

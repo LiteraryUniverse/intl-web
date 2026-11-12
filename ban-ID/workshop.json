@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": "<export>Ekspor gumi ragané</export> saking World Anvil tur unggahang zip-nyané iriki. Artikel dados entri draf ring kategori sane kapilih olih ragané, tur ragané nyingakin sami pikobahan sadurung wenten sane kasurat. Anggota Grandmaster taler prasida <connect>nyambungang akun World Anvil ipun</connect> anggen ngimpor langsung saking akun punika tur ngirim pikobahan malih.",
+  "workshop.universe.importExport.title": "Impor miwah ekspor",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

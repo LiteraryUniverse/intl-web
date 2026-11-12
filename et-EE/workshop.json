@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Sul ei ole veel ühtegi olemasolevat universumit. Loo uus sellest Universe Cardsi seansist.",
   "workshop.universe.forgeImportNotice": "Sinu Universe Cardsi väärtused ja märkmed seotakse selle universumiga, kui selle salvestad.",
   "workshop.universe.notes.tile": "Universumi märkmed",
+  "workshop.universe.importExport.worldAnvil": "<export>Ekspordi oma maailm</export> World Anvilist ja laadi zip-fail siia üles. Artiklitest saavad kirjete mustandid sinu valitud kategooriates ja sa näed iga muudatust enne, kui midagi kirjutatakse. Grandmasteri liikmed saavad ka <connect>oma World Anvili konto ühendada</connect>, et importida otse sealt ja saata muudatused tagasi.",
+  "workshop.universe.importExport.title": "Import ja eksport",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

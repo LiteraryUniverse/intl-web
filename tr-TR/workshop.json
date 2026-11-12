@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Henüz kullanabileceğiniz mevcut bir evreniniz yok. Bu Universe Cards oturumundan yeni bir tane oluşturun.",
   "workshop.universe.forgeImportNotice": "Universe Cards değerleriniz ve notlarınız, kaydettiğinizde bu evrene eklenecek.",
   "workshop.universe.notes.tile": "Evren notları",
+  "workshop.universe.importExport.worldAnvil": "World Anvil’den <export>dünyanızı dışa aktarın</export> ve zip dosyasını buraya yükleyin. Makaleler, seçtiğiniz kategorilerde taslak girişlere dönüşür ve herhangi bir şey yazılmadan önce her değişikliği görürsünüz. Grandmaster üyeleri ayrıca doğrudan içe aktarmak ve düzenlemeleri geri göndermek için <connect>World Anvil hesaplarını bağlayabilir</connect>.",
+  "workshop.universe.importExport.title": "İçe ve dışa aktarma",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

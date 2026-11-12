@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Δεν έχετε ακόμη διαθέσιμα υπάρχοντα σύμπαντα. Δημιουργήστε ένα νέο από αυτή τη συνεδρία Universe Cards.",
   "workshop.universe.forgeImportNotice": "Οι τιμές και οι σημειώσεις σας από το Universe Cards θα συνδεθούν με αυτό το σύμπαν όταν το αποθηκεύσετε.",
   "workshop.universe.notes.tile": "Σημειώσεις σύμπαντος",
+  "workshop.universe.importExport.worldAnvil": "<export>Εξαγάγετε τον κόσμο σας</export> από το World Anvil και ανεβάστε το zip εδώ. Τα άρθρα γίνονται πρόχειρες καταχωρίσεις στις κατηγορίες που επιλέγετε, και βλέπετε κάθε αλλαγή πριν γραφτεί οτιδήποτε. Τα μέλη Grandmaster μπορούν επίσης να <connect>συνδέσουν τον λογαριασμό τους στο World Anvil</connect> για να κάνουν εισαγωγή απευθείας από αυτόν και να στέλνουν πίσω τις αλλαγές.",
+  "workshop.universe.importExport.title": "Εισαγωγή και εξαγωγή",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

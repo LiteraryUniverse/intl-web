@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": "World Anvil मधून <export>तुमचे जग एक्सपोर्ट करा</export> आणि zip येथे अपलोड करा. लेख तुम्ही निवडलेल्या श्रेणींमध्ये मसुदा प्रविष्टी बनतात, आणि काहीही लिहिले जाण्यापूर्वी तुम्ही प्रत्येक बदल पाहता. Grandmaster सदस्य <connect>त्यांचे World Anvil खाते जोडून</connect> त्यातून थेट इम्पोर्टही करू शकतात आणि बदल परत पाठवू शकतात.",
+  "workshop.universe.importExport.title": "इम्पोर्ट आणि एक्सपोर्ट",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

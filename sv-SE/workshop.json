@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Du har inga befintliga universum tillgängliga ännu. Skapa ett nytt utifrån den här Universe Cards-sessionen.",
   "workshop.universe.forgeImportNotice": "Dina värden och anteckningar från Universe Cards kopplas till det här universumet när du sparar det.",
   "workshop.universe.notes.tile": "Universumanteckningar",
+  "workshop.universe.importExport.worldAnvil": "<export>Exportera din värld</export> från World Anvil och ladda upp zip-filen här. Artiklar blir utkast till poster i de kategorier du väljer, och du ser varje ändring innan något sparas. Grandmaster-medlemmar kan också <connect>koppla sitt World Anvil-konto</connect> för att importera direkt från det och skicka tillbaka ändringar.",
+  "workshop.universe.importExport.title": "Import och export",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

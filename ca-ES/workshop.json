@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Encara no tens cap univers existent disponible. Crea'n un de nou a partir d'aquesta sessió d'Universe Cards.",
   "workshop.universe.forgeImportNotice": "Els teus valors i notes d'Universe Cards es vincularan a aquest univers quan el desis.",
   "workshop.universe.notes.tile": "Notes de l'univers",
+  "workshop.universe.importExport.worldAnvil": "<export>Exporta el teu món</export> de World Anvil i puja el zip aquí. Els articles es converteixen en entrades en esborrany a les categories que triïs, i veus cada canvi abans que s'escrigui res. Els membres Grandmaster també poden <connect>connectar el seu compte de World Anvil</connect> per importar-ne directament i enviar-hi les edicions.",
+  "workshop.universe.importExport.title": "Importació i exportació",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

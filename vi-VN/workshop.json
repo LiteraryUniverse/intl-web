@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Bạn chưa có vũ trụ hiện có nào khả dụng. Hãy tạo một vũ trụ mới từ phiên Universe Cards này.",
   "workshop.universe.forgeImportNotice": "Các giá trị và ghi chú Universe Cards của bạn sẽ được gắn vào vũ trụ này khi bạn lưu.",
   "workshop.universe.notes.tile": "Ghi chú vũ trụ",
+  "workshop.universe.importExport.worldAnvil": "<export>Xuất thế giới của bạn</export> từ World Anvil và tải tệp zip lên tại đây. Các bài viết trở thành mục nháp trong những danh mục bạn chọn, và bạn xem được mọi thay đổi trước khi có gì được ghi. Thành viên Grandmaster cũng có thể <connect>kết nối tài khoản World Anvil của họ</connect> để nhập trực tiếp từ đó và gửi chỉnh sửa trở lại.",
+  "workshop.universe.importExport.title": "Nhập và xuất",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

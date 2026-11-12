@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": "World Anvil ནས་ <export>ཁྱེད་ཀྱི་འཛམ་གླིང་ཕྱིར་འདྲེན</export> ནས་ zip དེ་འདིར་ཡར་འཇོག་གྱིས། རྩོམ་ཡིག་རྣམས་ཁྱེད་ཀྱིས་འདེམས་པའི་སྡེ་ཚན་ནང་ཟིན་འགོད་ནང་འཇུག་ཏུ་འགྱུར་ཞིང་། ཅི་ཡང་མ་འབྲི་གོང་བསྒྱུར་བཅོས་རེ་རེ་མཐོང་ཐུབ། Grandmaster ཚོགས་མིས་ <connect>རང་གི་ World Anvil རྩིས་ཐོ་མཐུད</connect> ནས་དེ་ནས་ཐད་ཀར་ནང་འདྲེན་དང་རྩོམ་སྒྲིག་ཕྱིར་གཏོང་ཡང་ཆོག",
+  "workshop.universe.importExport.title": "ནང་འདྲེན་དང་ཕྱིར་འདྲེན།",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

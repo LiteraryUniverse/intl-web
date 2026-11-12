@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "利用できる既存の宇宙がまだありません。このUniverse Cardsセッションから新しい宇宙を作成してください。",
   "workshop.universe.forgeImportNotice": "Universe Cardsの値とノートは、保存時にこの宇宙に紐付けられます。",
   "workshop.universe.notes.tile": "宇宙ノート",
+  "workshop.universe.importExport.worldAnvil": "World Anvil から<export>ワールドをエクスポート</export>し、zip をここにアップロードしてください。記事は選んだカテゴリーの下書き項目になり、何かが書き込まれる前にすべての変更を確認できます。Grandmaster メンバーは<connect>World Anvil アカウントを接続</connect>して、そこから直接インポートし、編集を送り返すこともできます。",
+  "workshop.universe.importExport.title": "インポートとエクスポート",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

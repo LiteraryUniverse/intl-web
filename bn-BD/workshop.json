@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "আপনার এখনো কোনো বিদ্যমান বিশ্ব নেই। এই Universe Cards সেশন থেকে একটি নতুন বিশ্ব তৈরি করুন।",
   "workshop.universe.forgeImportNotice": "সংরক্ষণ করলে আপনার Universe Cards-এর মান ও নোটগুলি এই বিশ্বের সাথে যুক্ত হবে।",
   "workshop.universe.notes.tile": "বিশ্ব নোট",
+  "workshop.universe.importExport.worldAnvil": "World Anvil থেকে <export>আপনার জগৎ এক্সপোর্ট করুন</export> এবং zip ফাইলটি এখানে আপলোড করুন। নিবন্ধগুলো আপনার বেছে নেওয়া বিভাগে খসড়া এন্ট্রি হয়ে যায়, এবং কিছু লেখার আগে আপনি প্রতিটি পরিবর্তন দেখতে পান। Grandmaster সদস্যরা <connect>তাদের World Anvil অ্যাকাউন্ট সংযুক্ত</connect> করে সরাসরি সেখান থেকে ইমপোর্ট করতে এবং সম্পাদনা ফেরত পাঠাতেও পারেন।",
+  "workshop.universe.importExport.title": "আমদানি ও রপ্তানি",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

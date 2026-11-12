@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Kol kas neturite jokių esamų visatų. Sukurkite naują iš šios Universe Cards sesijos.",
   "workshop.universe.forgeImportNotice": "Jūsų Universe Cards reikšmės ir užrašai bus pridėti prie šios visatos, kai ją išsaugosite.",
   "workshop.universe.notes.tile": "Visatos užrašai",
+  "workshop.universe.importExport.worldAnvil": "<export>Eksportuokite savo pasaulį</export> iš World Anvil ir įkelkite zip failą čia. Straipsniai tampa įrašų juodraščiais Jūsų pasirinktose kategorijose, ir matote kiekvieną pakeitimą, kol dar niekas neįrašyta. Grandmaster nariai taip pat gali <connect>susieti savo World Anvil paskyrą</connect>, kad importuotų tiesiai iš jos ir siųstų pakeitimus atgal.",
+  "workshop.universe.importExport.title": "Importas ir eksportas",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

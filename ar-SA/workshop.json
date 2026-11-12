@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "ليس لديك بعد أي أكوان حالية متاحة. أنشئ كونًا جديدًا من جلسة Universe Cards هذه.",
   "workshop.universe.forgeImportNotice": "قيم Universe Cards وملاحظاتك ستُرفَق بهذا الكون عند حفظه.",
   "workshop.universe.notes.tile": "ملاحظات الكون",
+  "workshop.universe.importExport.worldAnvil": "<export>صدِّر عالمك</export> من World Anvil وارفع ملف zip هنا. تصبح المقالات إدخالات مسودة في التصنيفات التي تختارها، وترى كل تغيير قبل كتابة أي شيء. يمكن لأعضاء Grandmaster أيضًا <connect>ربط حساباتهم على World Anvil</connect> للاستيراد منها مباشرة وإرسال التعديلات إليها.",
+  "workshop.universe.importExport.title": "الاستيراد والتصدير",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

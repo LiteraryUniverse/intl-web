@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": "World Anvil-இலிருந்து <export>உங்கள் புனைவுலகத்தை ஏற்றுமதி செய்து</export> zip-ஐ இங்கே பதிவேற்றுங்கள். கட்டுரைகள் நீங்கள் தேர்ந்தெடுக்கும் வகைகளில் வரைவுப் பதிவுகளாக மாறும்; எதுவும் எழுதப்படுவதற்கு முன் ஒவ்வொரு மாற்றத்தையும் நீங்கள் பார்க்கலாம். Grandmaster உறுப்பினர்கள் நேரடியாக இறக்குமதி செய்யவும் திருத்தங்களைத் திரும்ப அனுப்பவும் <connect>தங்கள் World Anvil கணக்கை இணைக்கலாம்</connect>.",
+  "workshop.universe.importExport.title": "இறக்குமதி மற்றும் ஏற்றுமதி",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

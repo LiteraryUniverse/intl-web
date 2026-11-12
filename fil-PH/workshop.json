@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "Wala ka pang anumang kasalukuyang unibersong available. Lumikha ng bago mula sa session na ito ng Universe Cards.",
   "workshop.universe.forgeImportNotice": "Ikakabit sa unibersong ito ang iyong mga halaga at tala sa Universe Cards kapag na-save mo ito.",
   "workshop.universe.notes.tile": "Mga tala ng uniberso",
+  "workshop.universe.importExport.worldAnvil": "<export>I-export ang mundo mo</export> mula sa World Anvil at i-upload dito ang zip. Nagiging draft na entry ang mga artikulo sa mga kategoryang pipiliin mo, at makikita mo ang bawat pagbabago bago may maisulat. Puwede ring <connect>ikonekta ng mga miyembrong Grandmaster ang kanilang World Anvil account</connect> para direktang mag-import mula rito at magpadala pabalik ng mga edit.",
+  "workshop.universe.importExport.title": "Pag-import at pag-export",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",

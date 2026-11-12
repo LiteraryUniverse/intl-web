@@ -908,6 +908,8 @@
   "forgeUniverse.connect.noUniverses": "You do not have any existing universes available yet. Create a new one from this Universe Cards session.",
   "workshop.universe.forgeImportNotice": "Your Universe Cards values and notes will be attached to this universe when you save it.",
   "workshop.universe.notes.tile": "Universe notes",
+  "workshop.universe.importExport.worldAnvil": "<export>Ekspor donya sampeyan</export> saka World Anvil lan unggah zip-e ing kene. Artikel dadi draf entri ing kategori sing sampeyan pilih, lan sampeyan bisa ndeleng saben owah-owahan sadurunge ana sing ditulis. Anggota Grandmaster uga bisa <connect>nyambungake akun World Anvil-e</connect> kanggo ngimpor langsung saka kono lan ngirim suntingan bali.",
+  "workshop.universe.importExport.title": "Impor lan ekspor",
   "universe.notes.overview": "Overview",
   "universe.notes.foundation": "Foundation",
   "universe.notes.society": "Society & Culture",
