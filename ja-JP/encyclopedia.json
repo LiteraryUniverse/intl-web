@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "インポート（{count, number}）",
   "encyclopedia.import.result": "作成：{created, number}。すでにあり変更なし：{skipped, number}。",
   "encyclopedia.import.notesField": "メモ",
+  "encyclopedia.import.experimental": "試験運用",
+  "encyclopedia.import.experimentalNote": "これらのインポート機能は試験運用中で、すべてのツールのエクスポートはまだ試していません。いずれかのツールから世界を取り込みたい場合は、できればサンプルのエクスポートを添えて <a>{email}</a> までご連絡ください。そのインポート機能を完全に使えるようにします。",
   "encyclopedia.templateCopy.finished": "コピーが完了しました",
   "encyclopedia.templateCreateUniverse.modalTitle": "テンプレートからユニバースを作成",
   "encyclopedia.templateCreateUniverse.description": "このテンプレートから、あらかじめシードされた百科事典のコンテンツを使って、新しいユニバースを作成してください。あなたが公開すると決めるまで、あなたの宇宙は非公開のままです。",

@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "ഇമ്പോർട്ട് ({count, number})",
   "encyclopedia.import.result": "സൃഷ്ടിച്ചവ: {created, number}. ഇതിനകം ഉണ്ടായിരുന്നതും മാറ്റാത്തതും: {skipped, number}.",
   "encyclopedia.import.notesField": "കുറിപ്പുകൾ",
+  "encyclopedia.import.experimental": "പരീക്ഷണാത്മകം",
+  "encyclopedia.import.experimentalNote": "ഈ ഇംപോർട്ടറുകൾ പരീക്ഷണാത്മകമാണ്, എല്ലാ ടൂളുകളുടെയും എക്സ്പോർട്ടുകൾ ഞങ്ങൾ ഇതുവരെ പരീക്ഷിച്ചിട്ടില്ല. അവയിൽ ഒന്നിൽ നിന്ന് ഒരു ലോകം കൊണ്ടുവരണമെങ്കിൽ, <a>{email}</a> എന്ന വിലാസത്തിൽ ഞങ്ങൾക്ക് എഴുതുക, കഴിയുമെങ്കിൽ ഒരു സാമ്പിൾ എക്സ്പോർട്ടോടെ, അതിന്റെ ഇംപോർട്ടർ ഞങ്ങൾ പൂർണ്ണമായി പ്രവർത്തനക്ഷമമാക്കും.",
   "encyclopedia.templateCopy.finished": "പകർപ്പിച്ചു കഴിഞ്ഞു",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

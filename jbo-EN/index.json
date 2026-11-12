@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Import ({count, number})",
   "encyclopedia.import.result": "Created: {created, number}. Already here and left unchanged: {skipped, number}.",
   "encyclopedia.import.notesField": "Notes",
+  "encyclopedia.import.experimental": "cipra",
+  "encyclopedia.import.experimentalNote": "le vi nerbei tutci cu cipra .i mi'a na pu'o cipra le barbei datnyvei be ro tutci .i ganai do djica lo nu nerbei lo munje lo pa le go'i gi ko ciska fi mi'a fo la'o zoi <a>{email}</a> zoi .i e'u do mapti lo mupli barbei datnyvei .i mi'a ba gasnu lo nu lo nerbei tutci cu mulno pilno",
   "encyclopedia.templateCopy.finished": "Kopiranje klāstu",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

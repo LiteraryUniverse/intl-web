@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "ଆମଦାନି ({count, number})",
   "encyclopedia.import.result": "ତିଆରି ହେଲା: {created, number}। ଆଗରୁ ଥିଲା ଏବଂ ବଦଳାଗଲା ନାହିଁ: {skipped, number}।",
   "encyclopedia.import.notesField": "ନୋଟ",
+  "encyclopedia.import.experimental": "ପରୀକ୍ଷାମୂଳକ",
+  "encyclopedia.import.experimentalNote": "ଏହି ଇମ୍ପୋର୍ଟରଗୁଡ଼ିକ ପରୀକ୍ଷାମୂଳକ, ଏବଂ ଆମେ ଏପର୍ଯ୍ୟନ୍ତ ପ୍ରତ୍ୟେକ ଟୁଲ୍‌ର ଏକ୍ସପୋର୍ଟ ପରୀକ୍ଷା କରିନାହୁଁ। ଏଗୁଡ଼ିକ ମଧ୍ୟରୁ କୌଣସି ଗୋଟିଏରୁ ଏକ ଜଗତ ଆଣିବାକୁ ଚାହିଁଲେ ଆମକୁ <a>{email}</a> ରେ ଲେଖନ୍ତୁ, ସମ୍ଭବ ହେଲେ ଏକ ନମୁନା ଏକ୍ସପୋର୍ଟ ସହିତ, ଏବଂ ଆମେ ଏହାର ଇମ୍ପୋର୍ଟର ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ କାର୍ଯ୍ୟକ୍ଷମ କରିବୁ।",
   "encyclopedia.templateCopy.finished": "ପ୍ରତିଲେପଣା କିଣ୍ତିଶୁଣ୍ଯ୍ୟାକୁ ଶେଷ ହେଲା",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

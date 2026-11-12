@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Tuo ({count, number})",
   "encyclopedia.import.result": "Luotu: {created, number}. Oli jo olemassa ja jätettiin ennalleen: {skipped, number}.",
   "encyclopedia.import.notesField": "Muistiinpanot",
+  "encyclopedia.import.experimental": "Kokeellinen",
+  "encyclopedia.import.experimentalNote": "Nämä tuonnit ovat kokeellisia, emmekä ole vielä kokeilleet jokaisen työkalun vientejä. Jos haluat tuoda maailman jostakin niistä, kirjoita meille osoitteeseen <a>{email}</a>, mieluiten esimerkkiviennin kanssa, niin saamme sen tuonnin toimimaan kunnolla.",
   "encyclopedia.templateCopy.finished": "Kopiointi valmis",
   "encyclopedia.templateCreateUniverse.modalTitle": "Luo universumi mallista",
   "encyclopedia.templateCreateUniverse.description": "Luo uusi maailmankaikkeus, jossa on valmiiksi kylvetty tietosanakirjan sisältö tästä mallista. Maailmankaikkeutesi pysyy yksityisenä, kunnes päätät tehdä siitä julkisen.",

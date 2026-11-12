@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "आयात गर्नुहोस् ({count, number})",
   "encyclopedia.import.result": "बनाइयो: {created, number}। पहिल्यै थियो र परिवर्तन गरिएन: {skipped, number}।",
   "encyclopedia.import.notesField": "नोटहरू",
+  "encyclopedia.import.experimental": "प्रायोगिक",
+  "encyclopedia.import.experimentalNote": "यी इम्पोर्टरहरू प्रायोगिक हुन्, र हामीले अझै हरेक टुलका एक्सपोर्टहरू परीक्षण गरेका छैनौँ। यीमध्ये कुनै एकबाट संसार ल्याउन चाहनुहुन्छ भने हामीलाई <a>{email}</a> मा लेख्नुहोस्, सम्भव भए नमुना एक्सपोर्टसहित, र हामी त्यसको इम्पोर्टर पूर्ण रूपमा चालु गर्नेछौँ।",
   "encyclopedia.templateCopy.finished": "प्रतिलिपि अद्यावधिक गरियो",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Impordi ({count, number})",
   "encyclopedia.import.result": "Loodud: {created, number}. Olid juba olemas ja jäid muutmata: {skipped, number}.",
   "encyclopedia.import.notesField": "Märkmed",
+  "encyclopedia.import.experimental": "Katseline",
+  "encyclopedia.import.experimentalNote": "Need importijad on katselised ja me pole veel iga tööriista eksporte proovinud. Kui soovid mõnest neist maailma üle tuua, kirjuta meile aadressil <a>{email}</a>, soovitatavalt koos näidiseksportiga, ja me teeme selle importija täielikult töökorda.",
   "encyclopedia.templateCopy.finished": "Kopeerimine lõpetatud",
   "encyclopedia.templateCreateUniverse.modalTitle": "Universumi loomine mallist",
   "encyclopedia.templateCreateUniverse.description": "Looge uus universum selle malli eelkülastatud entsüklopeedia sisuga. Teie universum jääb privaatseks, kuni otsustate selle avalikustada.",

@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Importeren ({count, number})",
   "encyclopedia.import.result": "Aangemaakt: {created, number}. Al aanwezig en ongewijzigd: {skipped, number}.",
   "encyclopedia.import.notesField": "Notities",
+  "encyclopedia.import.experimental": "Experimenteel",
+  "encyclopedia.import.experimentalNote": "Deze importfuncties zijn experimenteel en we hebben nog niet de exports van elk hulpmiddel geprobeerd. Wil je een wereld uit een van deze overzetten, mail ons dan op <a>{email}</a>, het liefst met een voorbeeldexport, en we zorgen dat de import volledig werkt.",
   "encyclopedia.templateCopy.finished": "Kopiëren voltooid",
   "encyclopedia.templateCreateUniverse.modalTitle": "Universum maken van sjabloon",
   "encyclopedia.templateCreateUniverse.description": "Creëer een nieuw universum met voorgezaaide encyclopedie-inhoud van deze sjabloon. Uw universum blijft privé totdat u besluit het openbaar te maken.",

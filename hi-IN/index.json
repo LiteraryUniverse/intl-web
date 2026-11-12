@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "आयात करें ({count, number})",
   "encyclopedia.import.result": "बनाई गईं: {created, number}। पहले से थीं और नहीं बदलीं: {skipped, number}।",
   "encyclopedia.import.notesField": "नोट्स",
+  "encyclopedia.import.experimental": "प्रायोगिक",
+  "encyclopedia.import.experimentalNote": "ये इम्पोर्टर प्रायोगिक हैं, और हमने अभी हर टूल के एक्सपोर्ट नहीं आज़माए हैं। अगर आप इनमें से किसी से कोई दुनिया लाना चाहते हैं, तो हमें <a>{email}</a> पर लिखें, हो सके तो एक नमूना एक्सपोर्ट के साथ, और हम उसका इम्पोर्टर पूरी तरह चालू कर देंगे।",
   "encyclopedia.templateCopy.finished": "कॉपी करना समाप्त हुआ",
   "encyclopedia.templateCreateUniverse.modalTitle": "टेम्पलेट से ब्रह्मांड बनाएँ",
   "encyclopedia.templateCreateUniverse.description": "इस टेम्पलेट से पहले से भरी हुई ज्ञानकोश सामग्री के साथ एक नया ब्रह्मांड बनाएँ। जब तक आप इसे सार्वजनिक करने का निर्णय नहीं लेते, आपका ब्रह्मांड निजी रहेगा।",

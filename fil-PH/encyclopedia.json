@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Mag-import ({count, number})",
   "encyclopedia.import.result": "Nagawa: {created, number}. Nandito na at hindi binago: {skipped, number}.",
   "encyclopedia.import.notesField": "Mga tala",
+  "encyclopedia.import.experimental": "Eksperimental",
+  "encyclopedia.import.experimentalNote": "Eksperimental pa ang mga importer na ito, at hindi pa namin nasusubukan ang mga export ng bawat tool. Kung gusto mong magdala ng mundo mula sa isa sa mga ito, sumulat sa amin sa <a>{email}</a>, mas mabuti kung may kasamang sample na export, at gagawin naming ganap na gumagana ang importer nito.",
   "encyclopedia.templateCopy.finished": "Pagkopya natapos",
   "encyclopedia.templateCreateUniverse.modalTitle": "Gumawa ng uniberso mula sa template",
   "encyclopedia.templateCreateUniverse.description": "Gumawa ng bagong uniberso na may nakahandang nilalaman ng ensiklopedya mula sa template na ito. Mananatiling pribado ang iyong uniberso hanggang sa magpasya kang gawin itong pampubliko.",

@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "នាំចូល ({count, number})",
   "encyclopedia.import.result": "បានបង្កើត៖ {created, number}។ មានរួចហើយ ហើយទុកដដែល៖ {skipped, number}។",
   "encyclopedia.import.notesField": "កំណត់ចំណាំ",
+  "encyclopedia.import.experimental": "សាកល្បង",
+  "encyclopedia.import.experimentalNote": "កម្មវិធីនាំចូលទាំងនេះនៅជាការសាកល្បង ហើយយើងមិនទាន់បានសាកល្បងការនាំចេញពីឧបករណ៍នីមួយៗនៅឡើយទេ។ ប្រសិនបើអ្នកចង់នាំពិភពលោកមួយចូលពីឧបករណ៍ណាមួយក្នុងចំណោមនោះ សូមសរសេរមកយើងតាម <a>{email}</a> ល្អបំផុតគឺភ្ជាប់ឯកសារនាំចេញគំរូ ហើយយើងនឹងធ្វើឱ្យកម្មវិធីនាំចូលរបស់វាដំណើរការពេញលេញ។",
   "encyclopedia.templateCopy.finished": "ការចម្លងបានបញ្ចប់",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "ਆਯਾਤ ਕਰੋ ({count, number})",
   "encyclopedia.import.result": "ਬਣਾਏ ਗਏ: {created, number}। ਪਹਿਲਾਂ ਤੋਂ ਸਨ ਅਤੇ ਬਦਲੇ ਨਹੀਂ ਗਏ: {skipped, number}।",
   "encyclopedia.import.notesField": "ਨੋਟ",
+  "encyclopedia.import.experimental": "ਪ੍ਰਯੋਗਾਤਮਕ",
+  "encyclopedia.import.experimentalNote": "ਇਹ ਇੰਪੋਰਟਰ ਪ੍ਰਯੋਗਾਤਮਕ ਹਨ, ਅਤੇ ਅਸੀਂ ਅਜੇ ਹਰ ਟੂਲ ਦੇ ਐਕਸਪੋਰਟ ਨਹੀਂ ਅਜ਼ਮਾਏ। ਜੇ ਤੁਸੀਂ ਇਨ੍ਹਾਂ ਵਿੱਚੋਂ ਕਿਸੇ ਤੋਂ ਕੋਈ ਸੰਸਾਰ ਲਿਆਉਣਾ ਚਾਹੁੰਦੇ ਹੋ, ਤਾਂ ਸਾਨੂੰ <a>{email}</a> 'ਤੇ ਲਿਖੋ, ਹੋ ਸਕੇ ਤਾਂ ਇੱਕ ਨਮੂਨਾ ਐਕਸਪੋਰਟ ਨਾਲ, ਅਤੇ ਅਸੀਂ ਉਸਦਾ ਇੰਪੋਰਟਰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਚਾਲੂ ਕਰ ਦੇਵਾਂਗੇ।",
   "encyclopedia.templateCopy.finished": "ਕਾਪੀ ਮੁਕੰਮਲ ਹੋ ਗਈ ਹੈ",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

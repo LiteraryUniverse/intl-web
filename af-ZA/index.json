@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Voer in ({count, number})",
   "encyclopedia.import.result": "Geskep: {created, number}. Reeds hier en onveranderd gelaat: {skipped, number}.",
   "encyclopedia.import.notesField": "Notas",
+  "encyclopedia.import.experimental": "Eksperimenteel",
+  "encyclopedia.import.experimentalNote": "Hierdie invoerders is eksperimenteel, en ons het nog nie elke hulpmiddel se uitvoere getoets nie. As jy 'n wêreld uit een daarvan wil inbring, skryf aan ons by <a>{email}</a>, verkieslik met 'n voorbeelduitvoer, en ons sal die invoerder ten volle laat werk.",
   "encyclopedia.templateCopy.finished": "Kopiëring voltooi",
   "encyclopedia.templateCreateUniverse.modalTitle": "Skep heelal vanaf sjabloon",
   "encyclopedia.templateCreateUniverse.description": "Skep 'n nuwe heelal met vooraf gevulde ensiklopedie-inhoud uit hierdie sjabloon. Jou heelal bly privaat totdat jy besluit om dit openbaar te maak.",

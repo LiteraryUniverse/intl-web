@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "దిగుమతి ({count, number})",
   "encyclopedia.import.result": "సృష్టించినవి: {created, number}. ఇప్పటికే ఉండి మార్చనివి: {skipped, number}.",
   "encyclopedia.import.notesField": "నోట్‌లు",
+  "encyclopedia.import.experimental": "ప్రయోగాత్మకం",
+  "encyclopedia.import.experimentalNote": "ఈ ఇంపోర్టర్‌లు ప్రయోగాత్మకమైనవి, ప్రతి టూల్ ఎగుమతులను మేము ఇంకా పరీక్షించలేదు. వాటిలో ఒకదాని నుండి ఒక ప్రపంచాన్ని తీసుకురావాలనుకుంటే, <a>{email}</a> కు మాకు రాయండి, వీలైతే ఒక నమూనా ఎగుమతితో, దాని ఇంపోర్టర్‌ను మేము పూర్తిగా పనిచేసేలా చేస్తాము.",
   "encyclopedia.templateCopy.finished": "నకలు ముగింపు చేయబడింది",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

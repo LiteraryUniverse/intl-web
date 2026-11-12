@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Importer ({count, number})",
   "encyclopedia.import.result": "Opprettet: {created, number}. Fantes allerede og ble ikke endret: {skipped, number}.",
   "encyclopedia.import.notesField": "Notater",
+  "encyclopedia.import.experimental": "Eksperimentell",
+  "encyclopedia.import.experimentalNote": "Disse importfunksjonene er eksperimentelle, og vi har ennå ikke prøvd eksportene fra alle verktøy. Hvis du vil hente inn en verden fra ett av dem, skriv til oss på <a>{email}</a>, gjerne med en eksempeleksport, så får vi importen til å fungere fullt ut.",
   "encyclopedia.templateCopy.finished": "Kopiering fullført",
   "encyclopedia.templateCreateUniverse.modalTitle": "Opprett univers fra mal",
   "encyclopedia.templateCreateUniverse.description": "Opprett et nytt univers med forhåndsutfylt leksikoninnhold fra denne malen. Universet ditt forblir privat til du bestemmer deg for å gjøre det offentlig.",

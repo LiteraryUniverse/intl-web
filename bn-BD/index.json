@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "ইমপোর্ট ({count, number})",
   "encyclopedia.import.result": "তৈরি হয়েছে: {created, number}। আগে থেকেই ছিল, বদলানো হয়নি: {skipped, number}।",
   "encyclopedia.import.notesField": "নোট",
+  "encyclopedia.import.experimental": "পরীক্ষামূলক",
+  "encyclopedia.import.experimentalNote": "এই ইম্পোর্টারগুলো পরীক্ষামূলক, এবং আমরা এখনও প্রতিটি টুলের এক্সপোর্ট পরীক্ষা করিনি। এগুলোর কোনোটি থেকে একটি জগৎ আনতে চাইলে <a>{email}</a>-এ আমাদের লিখুন, সম্ভব হলে একটি নমুনা এক্সপোর্টসহ, আর আমরা সেটির ইম্পোর্টার পুরোপুরি কার্যকর করে দেব।",
   "encyclopedia.templateCopy.finished": "অনুলিপি সম্পন্ন হয়েছে",
   "encyclopedia.templateCreateUniverse.modalTitle": "টেমপ্লেট থেকে বিশ্ব তৈরি করুন",
   "encyclopedia.templateCreateUniverse.description": "এই টেমপ্লেট থেকে আগে থেকে ভরা এনসাইক্লোপিডিয়া কনটেন্টসহ একটি নতুন বিশ্ব তৈরি করুন। আপনি সর্বজনীন করার সিদ্ধান্ত না নেওয়া পর্যন্ত আপনার বিশ্ব ব্যক্তিগত থাকবে।",

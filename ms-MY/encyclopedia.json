@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Import ({count, number})",
   "encyclopedia.import.result": "Dicipta: {created, number}. Sudah ada dan tidak diubah: {skipped, number}.",
   "encyclopedia.import.notesField": "Nota",
+  "encyclopedia.import.experimental": "Eksperimen",
+  "encyclopedia.import.experimentalNote": "Pengimport ini masih eksperimen, dan kami belum mencuba eksport daripada setiap alat. Jika anda ingin membawa masuk dunia daripada salah satunya, tulis kepada kami di <a>{email}</a>, sebaik-baiknya dengan contoh eksport, dan kami akan menjadikan pengimportnya berfungsi sepenuhnya.",
   "encyclopedia.templateCopy.finished": "Penyalinan selesai",
   "encyclopedia.templateCreateUniverse.modalTitle": "Cipta univers daripada templat",
   "encyclopedia.templateCreateUniverse.description": "Cipta univers baharu dengan kandungan ensiklopedia yang telah diisi awal daripada templat ini. Univers anda akan kekal peribadi sehingga anda memutuskan untuk menjadikannya awam.",

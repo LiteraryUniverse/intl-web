@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Importi ({count, number})",
   "encyclopedia.import.result": "Kreitaj: {created, number}. Jam ĉi tie kaj lasitaj senŝanĝaj: {skipped, number}.",
   "encyclopedia.import.notesField": "Notoj",
+  "encyclopedia.import.experimental": "Eksperimenta",
+  "encyclopedia.import.experimentalNote": "Ĉi tiuj importiloj estas eksperimentaj, kaj ni ankoraŭ ne provis la eksportaĵojn de ĉiu ilo. Se vi volas enporti mondon el unu el ili, skribu al ni ĉe <a>{email}</a>, prefere kun ekzempla eksportaĵo, kaj ni plene funkciigos ĝian importilon.",
   "encyclopedia.templateCopy.finished": "Kopii finiĝis",
   "encyclopedia.templateCreateUniverse.modalTitle": "Krei universon el ŝablono",
   "encyclopedia.templateCreateUniverse.description": "Kreu novan universon kun antaŭplenigita enciklopedia enhavo el ĉi tiu ŝablono. Via universo restos privata, ĝis vi decidos publikigi ĝin.",

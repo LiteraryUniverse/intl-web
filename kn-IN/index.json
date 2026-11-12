@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "ಆಮದು ({count, number})",
   "encyclopedia.import.result": "ರಚಿಸಲಾಗಿದೆ: {created, number}. ಈಗಾಗಲೇ ಇದ್ದು ಬದಲಾಗದವು: {skipped, number}.",
   "encyclopedia.import.notesField": "ಟಿಪ್ಪಣಿಗಳು",
+  "encyclopedia.import.experimental": "ಪ್ರಾಯೋಗಿಕ",
+  "encyclopedia.import.experimentalNote": "ಈ ಆಮದುಕಾರಕಗಳು ಪ್ರಾಯೋಗಿಕವಾಗಿವೆ, ಮತ್ತು ನಾವು ಇನ್ನೂ ಪ್ರತಿಯೊಂದು ಉಪಕರಣದ ರಫ್ತುಗಳನ್ನು ಪರೀಕ್ಷಿಸಿಲ್ಲ. ಅವುಗಳಲ್ಲಿ ಒಂದರಿಂದ ಜಗತ್ತನ್ನು ತರಲು ಬಯಸಿದರೆ, <a>{email}</a> ಗೆ ನಮಗೆ ಬರೆಯಿರಿ, ಸಾಧ್ಯವಾದರೆ ಮಾದರಿ ರಫ್ತಿನೊಂದಿಗೆ, ಮತ್ತು ನಾವು ಅದರ ಆಮದುಕಾರಕವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವಂತೆ ಮಾಡುತ್ತೇವೆ.",
   "encyclopedia.templateCopy.finished": "ನಕಲಿ ಮುಗಿಯಿತು",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

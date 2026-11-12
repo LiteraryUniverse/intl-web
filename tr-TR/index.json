@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "İçe aktar ({count, number})",
   "encyclopedia.import.result": "Oluşturulan: {created, number}. Zaten vardı, değiştirilmedi: {skipped, number}.",
   "encyclopedia.import.notesField": "Notlar",
+  "encyclopedia.import.experimental": "Deneysel",
+  "encyclopedia.import.experimentalNote": "Bu içe aktarıcılar deneyseldir ve henüz her aracın dışa aktarımlarını denemedik. Bunlardan birinden bir dünya getirmek istersen, mümkünse örnek bir dışa aktarımla birlikte <a>{email}</a> adresinden bize yaz; içe aktarıcısını tam olarak çalışır hâle getirelim.",
   "encyclopedia.templateCopy.finished": "Kopyalama tamamlandı",
   "encyclopedia.templateCreateUniverse.modalTitle": "Şablondan evren oluşturma",
   "encyclopedia.templateCreateUniverse.description": "Bu şablondan önceden tohumlanmış ansiklopedi içeriğiyle yeni bir evren oluşturun. Evreniniz, siz onu herkese açık hale getirmeye karar verene kadar gizli kalacaktır.",

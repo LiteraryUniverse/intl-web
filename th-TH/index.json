@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "นำเข้า ({count, number})",
   "encyclopedia.import.result": "สร้างแล้ว: {created, number} มีอยู่แล้วและไม่เปลี่ยนแปลง: {skipped, number}",
   "encyclopedia.import.notesField": "โน้ต",
+  "encyclopedia.import.experimental": "ทดลอง",
+  "encyclopedia.import.experimentalNote": "เครื่องมือนำเข้าเหล่านี้ยังอยู่ในขั้นทดลอง และเรายังไม่ได้ทดสอบไฟล์ส่งออกของทุกเครื่องมือ หากคุณต้องการนำโลกจากเครื่องมือใดเครื่องมือหนึ่งเข้ามา โปรดเขียนถึงเราที่ <a>{email}</a> หากเป็นไปได้ให้แนบไฟล์ส่งออกตัวอย่าง แล้วเราจะทำให้ตัวนำเข้านั้นใช้งานได้อย่างสมบูรณ์",
   "encyclopedia.templateCopy.finished": "การคัดลอกเสร็จสิ้น",
   "encyclopedia.templateCreateUniverse.modalTitle": "สร้างจักรวาลจากแม่แบบ",
   "encyclopedia.templateCreateUniverse.description": "สร้างจักรวาลใหม่ด้วยเนื้อหาสารานุกรมที่เตรียมไว้ล่วงหน้าจากเทมเพลตนี้ จักรวาลของคุณจะยังคงเป็นส่วนตัวจนกว่าคุณจะตัดสินใจเปิดเผยต่อสาธารณะ",

@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Importuj ({count, number})",
   "encyclopedia.import.result": "Utworzono: {created, number}. Już istniały i pozostały bez zmian: {skipped, number}.",
   "encyclopedia.import.notesField": "Notatki",
+  "encyclopedia.import.experimental": "Eksperymentalne",
+  "encyclopedia.import.experimentalNote": "Te importery są eksperymentalne i nie wypróbowaliśmy jeszcze eksportów z każdego narzędzia. Jeśli chcesz przenieść świat z któregoś z nich, napisz do nas na <a>{email}</a>, najlepiej z przykładowym eksportem, a doprowadzimy jego importer do pełnego działania.",
   "encyclopedia.templateCopy.finished": "Kopiowanie zakończone",
   "encyclopedia.templateCreateUniverse.modalTitle": "Tworzenie wszechświata z szablonu",
   "encyclopedia.templateCreateUniverse.description": "Proszę utworzyć nowy wszechświat ze wstępnie zasianą zawartością encyklopedii z tego szablonu. Państwa wszechświat pozostanie prywatny, dopóki nie zdecydują się Państwo go upublicznić.",

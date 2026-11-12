@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Importera ({count, number})",
   "encyclopedia.import.result": "Skapade: {created, number}. Fanns redan och lämnades orörda: {skipped, number}.",
   "encyclopedia.import.notesField": "Anteckningar",
+  "encyclopedia.import.experimental": "Experimentell",
+  "encyclopedia.import.experimentalNote": "De här importfunktionerna är experimentella och vi har ännu inte provat exporterna från alla verktyg. Om du vill hämta in en värld från något av dem, skriv till oss på <a>{email}</a>, gärna med en exempelexport, så får vi importen att fungera fullt ut.",
   "encyclopedia.templateCopy.finished": "Kopiering klar",
   "encyclopedia.templateCreateUniverse.modalTitle": "Skapa universum från mall",
   "encyclopedia.templateCreateUniverse.description": "Skapa ett nytt universum med förinställt encyklopedi-innehåll från den här mallen. Ditt universum kommer att förbli privat tills du bestämmer dig för att göra det offentligt.",

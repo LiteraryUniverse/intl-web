@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Импортировать ({count, number})",
   "encyclopedia.import.result": "Создано: {created, number}. Уже были и остались без изменений: {skipped, number}.",
   "encyclopedia.import.notesField": "Заметки",
+  "encyclopedia.import.experimental": "Экспериментально",
+  "encyclopedia.import.experimentalNote": "Эти импортёры экспериментальные, и мы ещё не проверили экспорт из каждого инструмента. Если вы хотите перенести мир из одного из них, напишите нам на <a>{email}</a>, лучше с примером экспорта, и мы доведём его импорт до полной работоспособности.",
   "encyclopedia.templateCopy.finished": "Копирование завершено",
   "encyclopedia.templateCreateUniverse.modalTitle": "Создайте вселенную из шаблона",
   "encyclopedia.templateCreateUniverse.description": "Создайте новую вселенную с предварительно загруженным содержимым энциклопедии из этого шаблона. Ваша вселенная будет оставаться приватной до тех пор, пока Вы не решите сделать ее публичной.",

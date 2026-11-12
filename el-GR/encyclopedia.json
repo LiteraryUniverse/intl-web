@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Εισαγωγή ({count, number})",
   "encyclopedia.import.result": "Δημιουργήθηκαν: {created, number}. Υπήρχαν ήδη και έμειναν ως είχαν: {skipped, number}.",
   "encyclopedia.import.notesField": "Σημειώσεις",
+  "encyclopedia.import.experimental": "Πειραματικό",
+  "encyclopedia.import.experimentalNote": "Αυτά τα εργαλεία εισαγωγής είναι πειραματικά και δεν έχουμε δοκιμάσει ακόμη τις εξαγωγές κάθε εργαλείου. Αν θέλεις να φέρεις έναν κόσμο από κάποιο από αυτά, γράψε μας στο <a>{email}</a>, ιδανικά με ένα δείγμα εξαγωγής, και θα κάνουμε την εισαγωγή του να λειτουργεί πλήρως.",
   "encyclopedia.templateCopy.finished": "Ολοκληρώθηκε η αντιγραφή",
   "encyclopedia.templateCreateUniverse.modalTitle": "Δημιουργία σύμπαντος από πρότυπο",
   "encyclopedia.templateCreateUniverse.description": "Δημιουργήστε ένα νέο σύμπαν με περιεχόμενο εγκυκλοπαίδειας με προ-σπορά από αυτό το πρότυπο. Το σύμπαν σας θα παραμείνει ιδιωτικό μέχρι να αποφασίσετε να το δημοσιοποιήσετε.",

@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Impor ({count, number})",
   "encyclopedia.import.result": "Digawe: {created, number}. Wis ana lan ora diowahi: {skipped, number}.",
   "encyclopedia.import.notesField": "Cathetan",
+  "encyclopedia.import.experimental": "Eksperimental",
+  "encyclopedia.import.experimentalNote": "Pangimpor iki isih eksperimental, lan kita durung nyoba ekspor saka saben piranti. Yen sampeyan pengin nggawa donya saka salah sijine, kirimi kita layang ing <a>{email}</a>, luwih becik nganggo conto ekspor, lan kita bakal nggawe pangimpore mlaku kanthi sampurna.",
   "encyclopedia.templateCopy.finished": "Copying finished",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

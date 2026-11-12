@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Import ({count, number})",
   "encyclopedia.import.result": "Created: {created, number}. Already here and left unchanged: {skipped, number}.",
   "encyclopedia.import.notesField": "Notes",
+  "encyclopedia.import.experimental": "Experimental",
+  "encyclopedia.import.experimentalNote": "These importers are experimental, and we haven't tried every tool's exports yet. If you want to bring in a world from one of them, write to us at <a>{email}</a>, ideally with a sample export, and we'll get its importer fully working.",
   "encyclopedia.templateCopy.finished": "Copying finished",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

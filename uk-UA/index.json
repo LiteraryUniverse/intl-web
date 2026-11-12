@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Імпортувати ({count, number})",
   "encyclopedia.import.result": "Створено: {created, number}. Уже були й залишилися без змін: {skipped, number}.",
   "encyclopedia.import.notesField": "Нотатки",
+  "encyclopedia.import.experimental": "Експериментально",
+  "encyclopedia.import.experimentalNote": "Ці імпортери експериментальні, і ми ще не перевірили експорт з кожного інструмента. Якщо ви хочете перенести світ з одного з них, напишіть нам на <a>{email}</a>, бажано з прикладом експорту, і ми доведемо його імпорт до повної роботи.",
   "encyclopedia.templateCopy.finished": "Копіювання завершено",
   "encyclopedia.templateCreateUniverse.modalTitle": "Створіть всесвіт з шаблону",
   "encyclopedia.templateCreateUniverse.description": "Створіть новий всесвіт з попередньо завантаженим вмістом енциклопедії з цього шаблону. Ваш всесвіт залишатиметься приватним, доки ви не вирішите зробити його публічним.",

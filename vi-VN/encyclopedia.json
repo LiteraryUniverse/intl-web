@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Nhập ({count, number})",
   "encyclopedia.import.result": "Đã tạo: {created, number}. Đã có sẵn và giữ nguyên: {skipped, number}.",
   "encyclopedia.import.notesField": "Ghi chú",
+  "encyclopedia.import.experimental": "Thử nghiệm",
+  "encyclopedia.import.experimentalNote": "Các công cụ nhập này đang ở giai đoạn thử nghiệm và chúng tôi chưa thử bản xuất của mọi công cụ. Nếu bạn muốn đưa một thế giới từ một trong số đó vào, hãy viết cho chúng tôi tại <a>{email}</a>, tốt nhất kèm một bản xuất mẫu, và chúng tôi sẽ làm cho công cụ nhập của nó hoạt động hoàn chỉnh.",
   "encyclopedia.templateCopy.finished": "Hoàn thành sao chép",
   "encyclopedia.templateCreateUniverse.modalTitle": "Tạo vũ trụ từ mẫu",
   "encyclopedia.templateCreateUniverse.description": "Tạo một vũ trụ mới với nội dung bách khoa toàn thư đã được cài đặt sẵn từ mẫu này. Vũ trụ của bạn sẽ được giữ riêng tư cho đến khi bạn quyết định công khai nó.",

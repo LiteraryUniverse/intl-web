@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "आयात करू ({count, number})",
   "encyclopedia.import.result": "बनाओल गेल: {created, number}। पहिनेसँ छल आ नहि बदलल: {skipped, number}।",
   "encyclopedia.import.notesField": "नोट",
+  "encyclopedia.import.experimental": "प्रायोगिक",
+  "encyclopedia.import.experimentalNote": "ई इम्पोर्टर सभ प्रायोगिक अछि, आ हम सभ एखन धरि सभ टूलक एक्सपोर्ट नहि जाँचलहुँ अछि। जँ अहाँ एहिमे सँ कोनो एकटा सँ कोनो दुनिया आनए चाहैत छी तँ हमरा सभकेँ <a>{email}</a> पर लिखू, संभव हो तँ एकटा नमूना एक्सपोर्टक संग, आ हम सभ ओकर इम्पोर्टर पूर्ण रूपसँ चालू कऽ देब।",
   "encyclopedia.templateCopy.finished": "प्रतिलिपि अंतिमित हो गइल",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

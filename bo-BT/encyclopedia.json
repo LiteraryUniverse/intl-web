@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "ནང་འདྲེན། ({count, number})",
   "encyclopedia.import.result": "བཟོས་ཟིན། {created, number}། ཡོད་ཟིན་པས་མ་བསྒྱུར། {skipped, number}།",
   "encyclopedia.import.notesField": "ཟིན་བྲིས།",
+  "encyclopedia.import.experimental": "ཚོད་ལྟའི་རྣམ་པ།",
+  "encyclopedia.import.experimentalNote": "ནང་འདྲེན་ཡོ་བྱད་འདི་དག་ཚོད་ལྟའི་རྣམ་པ་ཡིན་ལ། ང་ཚོས་ཡོ་བྱད་རེ་རེའི་ཕྱིར་འདྲེན་ཚང་མ་ད་དུང་ཚོད་ལྟ་བྱས་མེད། དེ་དག་གང་རུང་ནས་འཇིག་རྟེན་ཞིག་ནང་འདྲེན་བྱེད་འདོད་ན། <a>{email}</a> ལ་ཡི་གེ་བཏང་རོགས། དཔེ་མཚོན་ཕྱིར་འདྲེན་ཞིག་མཉམ་དུ་བཏང་ན་ལེགས། ང་ཚོས་དེའི་ནང་འདྲེན་ཡོ་བྱད་ཆ་ཚང་ལས་ཀ་བྱེད་ཐུབ་པ་བཟོ་ངེས།",
   "encyclopedia.templateCopy.finished": "ཚེག་གི་བསྐྱར་འཇུག་བཀོད་པའི་འཛུལ་སྤྱོད་བསྐུལ།",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

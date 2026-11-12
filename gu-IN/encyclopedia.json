@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "આયાત કરો ({count, number})",
   "encyclopedia.import.result": "બનાવી: {created, number}. પહેલેથી હતી અને બદલાઈ નહીં: {skipped, number}.",
   "encyclopedia.import.notesField": "નોંધો",
+  "encyclopedia.import.experimental": "પ્રાયોગિક",
+  "encyclopedia.import.experimentalNote": "આ ઇમ્પોર્ટર પ્રાયોગિક છે, અને અમે હજી દરેક ટૂલના એક્સપોર્ટ અજમાવ્યા નથી. જો તમે તેમાંથી કોઈ એકમાંથી દુનિયા લાવવા માંગતા હો, તો અમને <a>{email}</a> પર લખો, શક્ય હોય તો નમૂના એક્સપોર્ટ સાથે, અને અમે તેનો ઇમ્પોર્ટર સંપૂર્ણ રીતે કાર્યરત કરીશું.",
   "encyclopedia.templateCopy.finished": "કોપીંગ પૂર્ણ થઈ ગઈ",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

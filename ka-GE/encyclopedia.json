@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "იმპორტი ({count, number})",
   "encyclopedia.import.result": "შეიქმნა: {created, number}. უკვე იყო და უცვლელი დარჩა: {skipped, number}.",
   "encyclopedia.import.notesField": "ჩანაწერები",
+  "encyclopedia.import.experimental": "ექსპერიმენტული",
+  "encyclopedia.import.experimentalNote": "ეს იმპორტის ხელსაწყოები ექსპერიმენტულია და ჯერ ყველა ხელსაწყოს ექსპორტი არ გამოგვიცდია. თუ გსურთ რომელიმე მათგანიდან სამყაროს გადმოტანა, მოგვწერეთ <a>{email}</a>-ზე, სასურველია ექსპორტის ნიმუშით, და მის იმპორტს სრულად ავამუშავებთ.",
   "encyclopedia.templateCopy.finished": "კოპირება დასრულებულია",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

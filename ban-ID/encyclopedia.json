@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Impor ({count, number})",
   "encyclopedia.import.result": "Kakaryanin: {created, number}. Sampun wénten tur nénten kaobah: {skipped, number}.",
   "encyclopedia.import.notesField": "Cathetan",
+  "encyclopedia.import.experimental": "Eksperimental",
+  "encyclopedia.import.experimentalNote": "Pangimpor puniki kantun eksperimental, tur tiang durung nyobain ekspor saking sami piranti. Yening ragane jagi ngaranjing jagat saking silih tunggil piranti punika, sinahang ring <a>{email}</a>, becikne sareng conto ekspor, tur tiang jagi ngardiang pangimpor ipun mamargi becik.",
   "encyclopedia.templateCopy.finished": "Copying finished",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

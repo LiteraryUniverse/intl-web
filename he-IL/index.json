@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "ייבוא ({count, number})",
   "encyclopedia.import.result": "נוצרו: {created, number}. כבר היו ונשארו ללא שינוי: {skipped, number}.",
   "encyclopedia.import.notesField": "הערות",
+  "encyclopedia.import.experimental": "ניסיוני",
+  "encyclopedia.import.experimentalNote": "כלי הייבוא האלה ניסיוניים, ועוד לא בדקנו את הייצוא של כל כלי. אם תרצו להביא עולם מאחד מהם, כתבו לנו ל־<a>{email}</a>, רצוי עם קובץ ייצוא לדוגמה, ונדאג שהייבוא שלו יעבוד במלואו.",
   "encyclopedia.templateCopy.finished": "העתקה הושלמה",
   "encyclopedia.templateCreateUniverse.modalTitle": "צור יקום מתבנית",
   "encyclopedia.templateCreateUniverse.description": "צור יקום חדש עם תוכן אנציקלופדי מוכן מראש מתוך תבנית זו. היקום שלך יישאר פרטי עד שתחליט לפרסם אותו.",

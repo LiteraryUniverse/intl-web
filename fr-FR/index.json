@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Importer ({count, number})",
   "encyclopedia.import.result": "Créées : {created, number}. Déjà présentes et inchangées : {skipped, number}.",
   "encyclopedia.import.notesField": "Notes",
+  "encyclopedia.import.experimental": "Expérimental",
+  "encyclopedia.import.experimentalNote": "Ces imports sont expérimentaux et nous n'avons pas encore essayé les exports de chaque outil. Si vous voulez importer un monde depuis l'un d'eux, écrivez-nous à <a>{email}</a>, idéalement avec un exemple d'export, et nous rendrons son import pleinement fonctionnel.",
   "encyclopedia.templateCopy.finished": "Copie terminée",
   "encyclopedia.templateCreateUniverse.modalTitle": "Créer un univers à partir d'un modèle",
   "encyclopedia.templateCreateUniverse.description": "Créez un nouvel univers avec du contenu encyclopédique pré-sélectionné à partir de ce modèle. Votre univers restera privé jusqu'à ce que vous décidiez de le rendre public.",

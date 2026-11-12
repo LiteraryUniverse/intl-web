@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "匯入（{count, number}）",
   "encyclopedia.import.result": "已建立：{created, number}。已存在而未變更：{skipped, number}。",
   "encyclopedia.import.notesField": "筆記",
+  "encyclopedia.import.experimental": "實驗性",
+  "encyclopedia.import.experimentalNote": "這些匯入工具仍屬實驗性質，我們尚未試過每個工具的匯出檔。如果你想從其中某個工具匯入世界，請寫信到 <a>{email}</a>，最好附上一份範例匯出檔，我們會讓它的匯入功能完整運作。",
   "encyclopedia.templateCopy.finished": "複製完成",
   "encyclopedia.templateCreateUniverse.modalTitle": "從範本建立宇宙",
   "encyclopedia.templateCreateUniverse.description": "使用本範本中預先播入的百科全書內容建立新的宇宙。在您決定公開之前，您的宇宙將保持隱私。",

@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Importovať ({count, number})",
   "encyclopedia.import.result": "Vytvorené: {created, number}. Už existovalo a zostalo bez zmeny: {skipped, number}.",
   "encyclopedia.import.notesField": "Poznámky",
+  "encyclopedia.import.experimental": "Experimentálne",
+  "encyclopedia.import.experimentalNote": "Tieto importy sú experimentálne a exporty všetkých nástrojov sme zatiaľ nevyskúšali. Ak chcete preniesť svet z niektorého z nich, napíšte nám na <a>{email}</a>, ideálne s ukážkovým exportom, a jeho import sprevádzkujeme naplno.",
   "encyclopedia.templateCopy.finished": "Kopírovanie dokončené",
   "encyclopedia.templateCreateUniverse.modalTitle": "Vytvorenie vesmíru zo šablóny",
   "encyclopedia.templateCreateUniverse.description": "Vytvorte nový vesmír s vopred nasadeným obsahom encyklopédie z tejto šablóny. Váš vesmír zostane súkromný, kým sa ho nerozhodnete zverejniť.",

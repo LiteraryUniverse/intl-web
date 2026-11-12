@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Iompórtáil ({count, number})",
   "encyclopedia.import.result": "Cruthaithe: {created, number}. Anseo cheana agus fágtha gan athrú: {skipped, number}.",
   "encyclopedia.import.notesField": "Nótaí",
+  "encyclopedia.import.experimental": "Turgnamhach",
+  "encyclopedia.import.experimentalNote": "Is turgnamhach iad na hiompórtálaithe seo, agus níor thriail muid easpórtálacha gach uirlise fós. Más mian leat domhan a thabhairt isteach ó cheann acu, scríobh chugainn ag <a>{email}</a>, le heaspórtáil samplach más féidir, agus cuirfimid a iompórtálaí ag obair go hiomlán.",
   "encyclopedia.templateCopy.finished": "Críochnaithe cóipeáil",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

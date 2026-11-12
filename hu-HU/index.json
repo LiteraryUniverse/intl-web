@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "Importálás ({count, number})",
   "encyclopedia.import.result": "Létrehozva: {created, number}. Már létezett, változatlan maradt: {skipped, number}.",
   "encyclopedia.import.notesField": "Jegyzetek",
+  "encyclopedia.import.experimental": "Kísérleti",
+  "encyclopedia.import.experimentalNote": "Ezek az importálók kísérletiek, és még nem próbáltuk ki minden eszköz exportját. Ha valamelyikből szeretnél áthozni egy világot, írj nekünk a(z) <a>{email}</a> címre, lehetőleg egy minta exporttal, és teljesen működőképessé tesszük az importálóját.",
   "encyclopedia.templateCopy.finished": "A másolás befejeződött",
   "encyclopedia.templateCreateUniverse.modalTitle": "Univerzum létrehozása sablonból",
   "encyclopedia.templateCreateUniverse.description": "Hozzon létre egy új univerzumot előre beültetett enciklopédia-tartalommal ebből a sablonból. Az univerzumod mindaddig privát marad, amíg úgy nem döntesz, hogy nyilvánossá teszed.",

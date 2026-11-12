@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Importă ({count, number})",
   "encyclopedia.import.result": "Create: {created, number}. Existau deja și au rămas neschimbate: {skipped, number}.",
   "encyclopedia.import.notesField": "Note",
+  "encyclopedia.import.experimental": "Experimental",
+  "encyclopedia.import.experimentalNote": "Aceste importuri sunt experimentale și nu am încercat încă exporturile fiecărui instrument. Dacă vrei să aduci o lume din unul dintre ele, scrie-ne la <a>{email}</a>, ideal cu un export de probă, și vom face importul să funcționeze pe deplin.",
   "encyclopedia.templateCopy.finished": "Copierea s-a încheiat",
   "encyclopedia.templateCreateUniverse.modalTitle": "Crearea universului din șablon",
   "encyclopedia.templateCreateUniverse.description": "Creați un univers nou cu conținut enciclopedic preînsămânțat din acest șablon. Universul dvs. va rămâne privat până când decideți să îl faceți public.",

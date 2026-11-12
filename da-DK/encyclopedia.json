@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "Importér ({count, number})",
   "encyclopedia.import.result": "Oprettet: {created, number}. Fandtes allerede og blev ikke ændret: {skipped, number}.",
   "encyclopedia.import.notesField": "Noter",
+  "encyclopedia.import.experimental": "Eksperimentel",
+  "encyclopedia.import.experimentalNote": "Disse importfunktioner er eksperimentelle, og vi har endnu ikke prøvet alle værktøjers eksporter. Hvis du vil hente en verden ind fra et af dem, så skriv til os på <a>{email}</a>, gerne med en eksempeleksport, så får vi importen til at virke fuldt ud.",
   "encyclopedia.templateCopy.finished": "Kopiering afsluttet",
   "encyclopedia.templateCreateUniverse.modalTitle": "Opret univers fra skabelon",
   "encyclopedia.templateCreateUniverse.description": "Opret et nyt univers med forudinstalleret encyklopædiindhold fra denne skabelon. Dit univers forbliver privat, indtil du beslutter dig for at gøre det offentligt.",

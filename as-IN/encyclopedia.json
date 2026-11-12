@@ -212,6 +212,8 @@
   "encyclopedia.import.submit": "আমদানি ({count, number})",
   "encyclopedia.import.result": "সৃষ্টি কৰা হ'ল: {created, number}। আগৰে পৰা আছিল আৰু সলনি কৰা নহ'ল: {skipped, number}।",
   "encyclopedia.import.notesField": "টোকা",
+  "encyclopedia.import.experimental": "পৰীক্ষামূলক",
+  "encyclopedia.import.experimentalNote": "এই আমদানিকাৰীসমূহ পৰীক্ষামূলক, আৰু আমি এতিয়াও প্ৰতিটো সঁজুলিৰ ৰপ্তানি পৰীক্ষা কৰা নাই। যদি আপুনি ইয়াৰে কোনো এটাৰ পৰা এখন জগত আনিব বিচাৰে, তেন্তে <a>{email}</a> ত আমাক লিখক, সম্ভৱ হ'লে এটা নমুনা ৰপ্তানিৰ সৈতে, আৰু আমি তাৰ আমদানিকাৰী সম্পূৰ্ণৰূপে কাৰ্যক্ষম কৰিম।",
   "encyclopedia.templateCopy.finished": "প্ৰতিলিপি সম্পূৰ্ণ কৰা হ'ল",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",

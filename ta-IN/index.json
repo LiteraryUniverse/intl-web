@@ -2819,6 +2819,8 @@
   "encyclopedia.import.submit": "இறக்குமதி ({count, number})",
   "encyclopedia.import.result": "உருவாக்கப்பட்டவை: {created, number}. ஏற்கெனவே இருந்து மாற்றப்படாதவை: {skipped, number}.",
   "encyclopedia.import.notesField": "குறிப்புகள்",
+  "encyclopedia.import.experimental": "சோதனை நிலை",
+  "encyclopedia.import.experimentalNote": "இந்த இறக்குமதி கருவிகள் சோதனை நிலையில் உள்ளன, ஒவ்வொரு கருவியின் ஏற்றுமதிகளையும் நாங்கள் இன்னும் சோதிக்கவில்லை. அவற்றில் ஒன்றிலிருந்து ஒரு உலகைக் கொண்டுவர விரும்பினால், <a>{email}</a> என்ற முகவரியில் எங்களுக்கு எழுதுங்கள், முடிந்தால் ஒரு மாதிரி ஏற்றுமதியுடன், அதன் இறக்குமதியை நாங்கள் முழுமையாகச் செயல்பட வைப்போம்.",
   "encyclopedia.templateCopy.finished": "நகலெடுக்கல் முடிந்தது",
   "encyclopedia.templateCreateUniverse.modalTitle": "Create universe from template",
   "encyclopedia.templateCreateUniverse.description": "Create a new universe with pre-seeded encyclopedia content from this template. Your universe will remain private until you decide to make it public.",
