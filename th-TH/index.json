@@ -4385,6 +4385,7 @@
   "notifications.workflow.view-milestone": "หลักไมล์ยอดเข้าชม",
   "notifications.workflow.roadmap-update": "ความคืบหน้าของแผนงาน",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "ข่าวจากนักพัฒนา",
   "notifications.workflow.fan-club-post": "โพสต์เฉพาะสมาชิกจากแฟนคลับของคุณ",
   "notifications.workflow.fan-club-early-chapter": "ตอนก่อนใครจากแฟนคลับของคุณ",
   "notifications.event.author-blog": "ผู้เขียนที่คุณติดตามเผยแพร่โพสต์บล็อก",

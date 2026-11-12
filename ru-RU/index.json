@@ -4385,6 +4385,7 @@
   "notifications.workflow.view-milestone": "Рубежи просмотров",
   "notifications.workflow.roadmap-update": "Обновления дорожной карты",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "Новости от разработчиков",
   "notifications.workflow.fan-club-post": "Записи только для участников ваших фан-клубов",
   "notifications.workflow.fan-club-early-chapter": "Ранние главы из ваших фан-клубов",
   "notifications.event.author-blog": "Автор, на которого вы подписаны, опубликовал запись в блоге.",

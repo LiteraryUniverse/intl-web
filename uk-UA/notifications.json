@@ -210,6 +210,7 @@
   "notifications.workflow.view-milestone": "Віхи переглядів",
   "notifications.workflow.roadmap-update": "Оновлення дорожньої карти",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "Новини від розробників",
   "notifications.workflow.fan-club-post": "Записи лише для учасників ваших фан-клубів",
   "notifications.workflow.fan-club-early-chapter": "Ранні розділи з ваших фан-клубів",
   "notifications.event.author-blog": "Автор, за яким ви стежите, опублікував запис у блозі.",

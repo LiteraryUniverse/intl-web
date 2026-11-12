@@ -210,6 +210,7 @@
   "notifications.workflow.view-milestone": "Míľniky zobrazení",
   "notifications.workflow.roadmap-update": "Aktualizácie plánu vývoja",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "Novinky od vývojárov",
   "notifications.workflow.fan-club-post": "Príspevky len pre členov vašich fanklubov",
   "notifications.workflow.fan-club-early-chapter": "Skoré kapitoly z vašich fanklubov",
   "notifications.event.author-blog": "Autor, ktorého sledujete, zverejnil príspevok na blogu.",

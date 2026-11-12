@@ -4385,6 +4385,7 @@
   "notifications.workflow.view-milestone": "Milepæle for visninger",
   "notifications.workflow.roadmap-update": "Opdateringer til køreplanen",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "Nyt fra udviklerne",
   "notifications.workflow.fan-club-post": "Indlæg kun for medlemmer fra dine fanklubber",
   "notifications.workflow.fan-club-early-chapter": "Tidlige kapitler fra dine fanklubber",
   "notifications.event.author-blog": "En forfatter, du følger, har udgivet et blogindlæg.",

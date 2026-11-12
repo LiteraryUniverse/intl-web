@@ -4385,6 +4385,7 @@
   "notifications.workflow.view-milestone": "Hitos de visualizaciones",
   "notifications.workflow.roadmap-update": "Novedades de la hoja de ruta",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "Novedades de los desarrolladores",
   "notifications.workflow.fan-club-post": "Publicaciones solo para miembros de tus clubes de fans",
   "notifications.workflow.fan-club-early-chapter": "Capítulos anticipados de tus clubes de fans",
   "notifications.event.author-blog": "Un autor al que sigues ha publicado una entrada de blog.",

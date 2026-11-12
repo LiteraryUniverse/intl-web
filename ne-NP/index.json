@@ -4385,6 +4385,7 @@
   "notifications.workflow.view-milestone": "View milestones",
   "notifications.workflow.roadmap-update": "Roadmap updates",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "विकासकर्ताका अपडेटहरू",
   "notifications.workflow.fan-club-post": "तपाईंका फ्यान क्लबबाट सदस्यहरूका लागि मात्र पोस्टहरू",
   "notifications.workflow.fan-club-early-chapter": "तपाईंका फ्यान क्लबबाट अग्रिम अध्यायहरू",
   "notifications.event.author-blog": "An author you follow published a blog post.",

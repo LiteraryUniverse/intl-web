@@ -210,6 +210,7 @@
   "notifications.workflow.view-milestone": "Fites de visualitzacions",
   "notifications.workflow.roadmap-update": "Novetats del full de ruta",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "Novetats dels desenvolupadors",
   "notifications.workflow.fan-club-post": "Entrades només per a membres dels teus clubs de fans",
   "notifications.workflow.fan-club-early-chapter": "Capítols anticipats dels teus clubs de fans",
   "notifications.event.author-blog": "Un autor que segueixes ha publicat una entrada al blog.",

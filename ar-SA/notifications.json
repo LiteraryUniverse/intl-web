@@ -210,6 +210,7 @@
   "notifications.workflow.view-milestone": "محطات المشاهدات",
   "notifications.workflow.roadmap-update": "تحديثات خارطة الطريق",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "تحديثات المطوّرين",
   "notifications.workflow.fan-club-post": "منشورات الأعضاء فقط من نوادي المعجبين الخاصة بك",
   "notifications.workflow.fan-club-early-chapter": "فصول مبكرة من نوادي المعجبين الخاصة بك",
   "notifications.event.author-blog": "نشر مؤلف تتابعه منشور مدونة.",

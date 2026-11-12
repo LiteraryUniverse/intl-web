@@ -210,6 +210,7 @@
   "notifications.workflow.view-milestone": "Milstolpar för visningar",
   "notifications.workflow.roadmap-update": "Uppdateringar av färdplanen",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "Nytt från utvecklarna",
   "notifications.workflow.fan-club-post": "Inlägg enbart för medlemmar i dina fanklubbar",
   "notifications.workflow.fan-club-early-chapter": "Tidiga kapitel från dina fanklubbar",
   "notifications.event.author-blog": "En författare du följer har publicerat ett blogginlägg.",

@@ -210,6 +210,7 @@
   "notifications.workflow.view-milestone": "조회수 마일스톤",
   "notifications.workflow.roadmap-update": "로드맵 업데이트",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "개발자 소식",
   "notifications.workflow.fan-club-post": "내 팬클럽의 회원 전용 게시물",
   "notifications.workflow.fan-club-early-chapter": "내 팬클럽의 얼리 액세스 챕터",
   "notifications.event.author-blog": "팔로우하는 작가가 블로그 게시물을 게시했습니다.",

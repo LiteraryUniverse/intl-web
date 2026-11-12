@@ -4385,6 +4385,7 @@
   "notifications.workflow.view-milestone": "Megtekintési mérföldkövek",
   "notifications.workflow.roadmap-update": "Az ütemterv frissítései",
   "notifications.workflow.changelog": "Changelog",
+  "notifications.workflow.development-update": "Hírek a fejlesztőktől",
   "notifications.workflow.fan-club-post": "Tagoknak szóló bejegyzések a rajongói klubjaidtól",
   "notifications.workflow.fan-club-early-chapter": "Korai fejezetek a rajongói klubjaidtól",
   "notifications.event.author-blog": "Egy általad követett szerző blogbejegyzést tett közzé.",
