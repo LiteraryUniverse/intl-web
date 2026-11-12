@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "თუ ეს თქვენ არ იყავით, უგულებელყავით ეს წერილი და არ დაგამატებთ.",
   "email.mailingList.confirm.subject": "დაადასტურეთ, რომ გსურთ {blogName}-ს შეუერთდეთ",
   "email.mailingList.confirm.title": "შეუერთდით {blogName}-ის საფოსტო სიას",
-  "email.mailingList.unsubscribe": "ამ საფოსტო სიის გამოწერის გაუქმება"
+  "email.mailingList.unsubscribe": "ამ საფოსტო სიის გამოწერის გაუქმება",
+  "email.notifications.eventMessage.subject": "{host}-მა გამოგზავნა შეტყობინება ღონისძიებაზე {event}",
+  "email.notifications.eventMessage.note": "ამას იღებთ, რადგან მიუთითეთ, რომ ღონისძიებას {event} დაესწრებით ან შესაძლოა დაესწროთ. ამ შეტყობინებების შესაწყვეტად შეცვალეთ პასუხი ღონისძიების გვერდზე.",
+  "email.notifications.eventMessage.cta": "ღონისძიების ნახვა"
 }

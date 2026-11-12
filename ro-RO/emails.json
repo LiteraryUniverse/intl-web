@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Dacă nu ai fost tu, ignoră acest e-mail și nu vei fi adăugat.",
   "email.mailingList.confirm.subject": "Confirmă că vrei să te alături {blogName}",
   "email.mailingList.confirm.title": "Alătură-te listei de corespondență {blogName}",
-  "email.mailingList.unsubscribe": "Dezabonează-te de la această listă de corespondență"
+  "email.mailingList.unsubscribe": "Dezabonează-te de la această listă de corespondență",
+  "email.notifications.eventMessage.subject": "{host} a trimis un mesaj despre {event}",
+  "email.notifications.eventMessage.note": "Primești acest mesaj pentru că ai spus că vei participa sau că poate vei participa la {event}. Schimbă-ți răspunsul pe pagina evenimentului pentru a nu mai primi aceste mesaje.",
+  "email.notifications.eventMessage.cta": "Vezi evenimentul"
 }

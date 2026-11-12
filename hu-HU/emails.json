@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Ha nem Ön volt, hagyja figyelmen kívül ezt az e-mailt, és nem kerül fel a listára.",
   "email.mailingList.confirm.subject": "Erősítse meg, hogy csatlakozni szeretne a(z) {blogName} listájához",
   "email.mailingList.confirm.title": "Csatlakozzon a(z) {blogName} levelezőlistájához",
-  "email.mailingList.unsubscribe": "Leiratkozás erről a levelezőlistáról"
+  "email.mailingList.unsubscribe": "Leiratkozás erről a levelezőlistáról",
+  "email.notifications.eventMessage.subject": "{host} üzenetet küldött a(z) {event} eseménnyel kapcsolatban",
+  "email.notifications.eventMessage.note": "Azért kapja ezt, mert jelezte, hogy részt vesz, vagy talán részt vesz a(z) {event} eseményen. Az üzenetek leállításához módosítsa válaszát az esemény oldalán.",
+  "email.notifications.eventMessage.cta": "Esemény megtekintése"
 }

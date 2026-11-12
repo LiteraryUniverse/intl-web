@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "అది మీరు కాకపోతే, ఈ ఇమెయిల్‌ను విస్మరించండి, మీరు జోడించబడరు.",
   "email.mailingList.confirm.subject": "మీరు {blogName}లో చేరాలనుకుంటున్నారని నిర్ధారించండి",
   "email.mailingList.confirm.title": "{blogName} మెయిలింగ్ జాబితాలో చేరండి",
-  "email.mailingList.unsubscribe": "ఈ మెయిలింగ్ జాబితా నుండి చందా రద్దు చేయండి"
+  "email.mailingList.unsubscribe": "ఈ మెయిలింగ్ జాబితా నుండి చందా రద్దు చేయండి",
+  "email.notifications.eventMessage.subject": "{event} గురించి {host} సందేశం పంపారు",
+  "email.notifications.eventMessage.note": "మీరు {event}కు వస్తానని లేదా రావచ్చని చెప్పినందున మీకు ఇది వచ్చింది. ఈ సందేశాలు ఆపడానికి ఈవెంట్ పేజీలో మీ సమాధానాన్ని మార్చండి.",
+  "email.notifications.eventMessage.cta": "ఈవెంట్ చూడండి"
 }

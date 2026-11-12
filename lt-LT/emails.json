@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Jei tai buvote ne jūs, nepaisykite šio laiško ir nebūsite pridėti.",
   "email.mailingList.confirm.subject": "Patvirtinkite, kad norite prisijungti prie {blogName}",
   "email.mailingList.confirm.title": "Prisijunkite prie {blogName} pašto sąrašo",
-  "email.mailingList.unsubscribe": "Atsisakyti šio pašto sąrašo prenumeratos"
+  "email.mailingList.unsubscribe": "Atsisakyti šio pašto sąrašo prenumeratos",
+  "email.notifications.eventMessage.subject": "{host} atsiuntė žinutę apie „{event}“",
+  "email.notifications.eventMessage.note": "Gaunate tai, nes nurodėte, kad dalyvausite ar galbūt dalyvausite renginyje „{event}“. Norėdami nebegauti tokių žinučių, pakeiskite atsakymą renginio puslapyje.",
+  "email.notifications.eventMessage.cta": "Peržiūrėti renginį"
 }

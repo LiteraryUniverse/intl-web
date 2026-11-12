@@ -81,5 +81,22 @@
   "events.helpers.username": "Käyttäjänimi",
   "events.helpers.notFound": "Kukaan ei käytä tuota käyttäjänimeä.",
   "events.helpers.limit": "Tapahtumalla voi olla enintään 20 avustajaa.",
-  "events.badges.title": "Tapahtumamerkit"
+  "events.badges.title": "Tapahtumamerkit",
+  "events.badge.title": "Merkki",
+  "events.badge.intro": "Valitse kuvake tai lataa neliönmuotoinen kuva, joka näytetään tapahtuman nimen vieressä osallistujien profiileissa.",
+  "events.badge.icon": "Kuvake",
+  "events.badge.none": "Vain nimi",
+  "events.badge.image": "Tai lataa kuva",
+  "events.badge.icon.star": "Tähti",
+  "events.badge.icon.quill": "Sulkakynä",
+  "events.badge.icon.scroll": "Kääröt",
+  "events.badge.icon.campfire": "Nuotio",
+  "events.badge.icon.castle": "Linna",
+  "events.badge.icon.wizardHat": "Velhonhattu",
+  "events.badge.icon.magic": "Taika",
+  "events.badge.icon.rocket": "Raketti",
+  "events.badge.icon.planet": "Planeetta",
+  "events.badge.icon.torch": "Soihtu",
+  "events.badge.icon.mic": "Kuulokemikrofoni",
+  "events.badge.icon.heart": "Sydän"
 }

@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Als u dit niet was, negeer dan deze e-mail en u wordt niet toegevoegd.",
   "email.mailingList.confirm.subject": "Bevestig dat u zich wilt aanmelden voor {blogName}",
   "email.mailingList.confirm.title": "Meld u aan voor de mailinglijst van {blogName}",
-  "email.mailingList.unsubscribe": "Afmelden voor deze mailinglijst"
+  "email.mailingList.unsubscribe": "Afmelden voor deze mailinglijst",
+  "email.notifications.eventMessage.subject": "{host} heeft een bericht gestuurd over {event}",
+  "email.notifications.eventMessage.note": "Je ontvangt dit omdat je hebt aangegeven dat je naar {event} komt of misschien komt. Wijzig je antwoord op de evenementpagina om deze berichten te stoppen.",
+  "email.notifications.eventMessage.cta": "Evenement bekijken"
 }

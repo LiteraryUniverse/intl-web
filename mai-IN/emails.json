@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "If it was not you, ignore this email and you will not be added.",
   "email.mailingList.confirm.subject": "Confirm that you want to join {blogName}",
   "email.mailingList.confirm.title": "Join the {blogName} mailing list",
-  "email.mailingList.unsubscribe": "Unsubscribe from this mailing list"
+  "email.mailingList.unsubscribe": "Unsubscribe from this mailing list",
+  "email.notifications.eventMessage.subject": "{host} sent a message about {event}",
+  "email.notifications.eventMessage.note": "You get this because you said you will or might come to {event}. Change your reply on the event page to stop these messages.",
+  "email.notifications.eventMessage.cta": "View event"
 }

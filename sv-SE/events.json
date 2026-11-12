@@ -81,5 +81,22 @@
   "events.helpers.username": "Användarnamn",
   "events.helpers.notFound": "Ingen har det användarnamnet.",
   "events.helpers.limit": "Ett evenemang kan ha upp till 20 hjälpare.",
-  "events.badges.title": "Evenemangsbadgar"
+  "events.badges.title": "Evenemangsbadgar",
+  "events.badge.title": "Badge",
+  "events.badge.intro": "Välj en ikon eller ladda upp en kvadratisk bild som visas bredvid evenemangets namn på deltagarnas profiler.",
+  "events.badge.icon": "Ikon",
+  "events.badge.none": "Bara namnet",
+  "events.badge.image": "Eller ladda upp en bild",
+  "events.badge.icon.star": "Stjärna",
+  "events.badge.icon.quill": "Fjäderpenna",
+  "events.badge.icon.scroll": "Skriftrulle",
+  "events.badge.icon.campfire": "Lägereld",
+  "events.badge.icon.castle": "Slott",
+  "events.badge.icon.wizardHat": "Trollkarlshatt",
+  "events.badge.icon.magic": "Magi",
+  "events.badge.icon.rocket": "Raket",
+  "events.badge.icon.planet": "Planet",
+  "events.badge.icon.torch": "Fackla",
+  "events.badge.icon.mic": "Headset",
+  "events.badge.icon.heart": "Hjärta"
 }

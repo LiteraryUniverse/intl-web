@@ -81,5 +81,22 @@
   "events.helpers.username": "사용자 이름",
   "events.helpers.notFound": "해당 사용자 이름을 가진 사람이 없습니다.",
   "events.helpers.limit": "이벤트당 도우미는 최대 20명까지 둘 수 있습니다.",
-  "events.badges.title": "이벤트 배지"
+  "events.badges.title": "이벤트 배지",
+  "events.badge.title": "배지",
+  "events.badge.intro": "참석자 프로필에서 이벤트 이름 옆에 표시할 아이콘을 고르거나 정사각형 이미지를 업로드하세요.",
+  "events.badge.icon": "아이콘",
+  "events.badge.none": "이름만",
+  "events.badge.image": "또는 이미지 업로드",
+  "events.badge.icon.star": "별",
+  "events.badge.icon.quill": "깃펜",
+  "events.badge.icon.scroll": "두루마리",
+  "events.badge.icon.campfire": "모닥불",
+  "events.badge.icon.castle": "성",
+  "events.badge.icon.wizardHat": "마법사 모자",
+  "events.badge.icon.magic": "마법",
+  "events.badge.icon.rocket": "로켓",
+  "events.badge.icon.planet": "행성",
+  "events.badge.icon.torch": "횃불",
+  "events.badge.icon.mic": "헤드셋",
+  "events.badge.icon.heart": "하트"
 }

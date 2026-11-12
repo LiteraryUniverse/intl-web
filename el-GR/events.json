@@ -81,5 +81,22 @@
   "events.helpers.username": "Όνομα χρήστη",
   "events.helpers.notFound": "Κανείς δεν έχει αυτό το όνομα χρήστη.",
   "events.helpers.limit": "Μια εκδήλωση μπορεί να έχει έως και 20 βοηθούς.",
-  "events.badges.title": "Σήματα εκδηλώσεων"
+  "events.badges.title": "Σήματα εκδηλώσεων",
+  "events.badge.title": "Σήμα",
+  "events.badge.intro": "Επιλέξτε ένα εικονίδιο ή ανεβάστε μια τετράγωνη εικόνα που θα εμφανίζεται δίπλα στο όνομα της εκδήλωσης στα προφίλ των συμμετεχόντων.",
+  "events.badge.icon": "Εικονίδιο",
+  "events.badge.none": "Μόνο όνομα",
+  "events.badge.image": "Ή ανεβάστε μια εικόνα",
+  "events.badge.icon.star": "Αστέρι",
+  "events.badge.icon.quill": "Πένα",
+  "events.badge.icon.scroll": "Πάπυρος",
+  "events.badge.icon.campfire": "Φωτιά",
+  "events.badge.icon.castle": "Κάστρο",
+  "events.badge.icon.wizardHat": "Καπέλο μάγου",
+  "events.badge.icon.magic": "Μαγεία",
+  "events.badge.icon.rocket": "Πύραυλος",
+  "events.badge.icon.planet": "Πλανήτης",
+  "events.badge.icon.torch": "Δάδα",
+  "events.badge.icon.mic": "Ακουστικά",
+  "events.badge.icon.heart": "Καρδιά"
 }

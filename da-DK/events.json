@@ -81,5 +81,22 @@
   "events.helpers.username": "Brugernavn",
   "events.helpers.notFound": "Ingen har det brugernavn.",
   "events.helpers.limit": "Et arrangement kan have op til 20 hjælpere.",
-  "events.badges.title": "Arrangementsbadges"
+  "events.badges.title": "Arrangementsbadges",
+  "events.badge.title": "Badge",
+  "events.badge.intro": "Vælg et ikon, eller upload et kvadratisk billede, der skal vises ved siden af arrangementets navn på deltagernes profiler.",
+  "events.badge.icon": "Ikon",
+  "events.badge.none": "Kun navn",
+  "events.badge.image": "Eller upload et billede",
+  "events.badge.icon.star": "Stjerne",
+  "events.badge.icon.quill": "Fjerpen",
+  "events.badge.icon.scroll": "Skriftrulle",
+  "events.badge.icon.campfire": "Bål",
+  "events.badge.icon.castle": "Slot",
+  "events.badge.icon.wizardHat": "Troldmandshat",
+  "events.badge.icon.magic": "Magi",
+  "events.badge.icon.rocket": "Raket",
+  "events.badge.icon.planet": "Planet",
+  "events.badge.icon.torch": "Fakkel",
+  "events.badge.icon.mic": "Headset",
+  "events.badge.icon.heart": "Hjerte"
 }

@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "אם זה לא היה אתם, התעלמו מהדוא\"ל הזה ולא תתווספו.",
   "email.mailingList.confirm.subject": "אשרו שאתם רוצים להצטרף אל {blogName}",
   "email.mailingList.confirm.title": "הצטרפו לרשימת התפוצה של {blogName}",
-  "email.mailingList.unsubscribe": "ביטול המנוי לרשימת התפוצה הזו"
+  "email.mailingList.unsubscribe": "ביטול המנוי לרשימת התפוצה הזו",
+  "email.notifications.eventMessage.subject": "{host} שלח/ה הודעה על {event}",
+  "email.notifications.eventMessage.note": "קיבלתם הודעה זו כי ציינתם שתגיעו או שאולי תגיעו אל {event}. כדי להפסיק לקבל הודעות כאלה, שנו את התשובה שלכם בעמוד האירוע.",
+  "email.notifications.eventMessage.cta": "הצגת האירוע"
 }

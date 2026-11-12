@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "心当たりがない場合は、このメールを無視してください。登録されることはありません。",
   "email.mailingList.confirm.subject": "{blogName}への参加を確認してください",
   "email.mailingList.confirm.title": "{blogName}のメーリングリストに参加",
-  "email.mailingList.unsubscribe": "このメーリングリストの登録を解除"
+  "email.mailingList.unsubscribe": "このメーリングリストの登録を解除",
+  "email.notifications.eventMessage.subject": "{host}さんから{event}についてのメッセージ",
+  "email.notifications.eventMessage.note": "{event}に出席または仮出席と回答されたため、このメールをお送りしています。今後受け取らない場合は、イベントページで回答を変更してください。",
+  "email.notifications.eventMessage.cta": "イベントを見る"
 }

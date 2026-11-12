@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Jika itu bukan Anda, abaikan email ini dan Anda tidak akan ditambahkan.",
   "email.mailingList.confirm.subject": "Konfirmasi bahwa Anda ingin bergabung di {blogName}",
   "email.mailingList.confirm.title": "Bergabunglah di milis {blogName}",
-  "email.mailingList.unsubscribe": "Berhenti berlangganan milis ini"
+  "email.mailingList.unsubscribe": "Berhenti berlangganan milis ini",
+  "email.notifications.eventMessage.subject": "{host} mengirim pesan tentang {event}",
+  "email.notifications.eventMessage.note": "Anda menerima ini karena Anda menyatakan akan atau mungkin hadir di {event}. Ubah balasan Anda di halaman acara untuk berhenti menerima pesan ini.",
+  "email.notifications.eventMessage.cta": "Lihat acara"
 }

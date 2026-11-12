@@ -81,5 +81,22 @@
   "events.helpers.username": "ชื่อผู้ใช้",
   "events.helpers.notFound": "ไม่มีใครใช้ชื่อผู้ใช้นี้",
   "events.helpers.limit": "กิจกรรมหนึ่งมีผู้ช่วยได้สูงสุด 20 คน",
-  "events.badges.title": "เหรียญตรากิจกรรม"
+  "events.badges.title": "เหรียญตรากิจกรรม",
+  "events.badge.title": "เหรียญตรา",
+  "events.badge.intro": "เลือกไอคอนหรืออัปโหลดรูปภาพสี่เหลี่ยมจัตุรัสเพื่อแสดงข้างชื่อกิจกรรมในโปรไฟล์ของผู้เข้าร่วม",
+  "events.badge.icon": "ไอคอน",
+  "events.badge.none": "ชื่ออย่างเดียว",
+  "events.badge.image": "หรืออัปโหลดรูปภาพ",
+  "events.badge.icon.star": "ดาว",
+  "events.badge.icon.quill": "ปากกาขนนก",
+  "events.badge.icon.scroll": "ม้วนกระดาษ",
+  "events.badge.icon.campfire": "กองไฟ",
+  "events.badge.icon.castle": "ปราสาท",
+  "events.badge.icon.wizardHat": "หมวกพ่อมด",
+  "events.badge.icon.magic": "เวทมนตร์",
+  "events.badge.icon.rocket": "จรวด",
+  "events.badge.icon.planet": "ดาวเคราะห์",
+  "events.badge.icon.torch": "คบเพลิง",
+  "events.badge.icon.mic": "ชุดหูฟัง",
+  "events.badge.icon.heart": "หัวใจ"
 }

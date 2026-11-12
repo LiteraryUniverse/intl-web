@@ -81,5 +81,22 @@
   "events.helpers.username": "Nazwa użytkownika",
   "events.helpers.notFound": "Nikt nie ma takiej nazwy użytkownika.",
   "events.helpers.limit": "Wydarzenie może mieć do 20 pomocników.",
-  "events.badges.title": "Odznaki wydarzeń"
+  "events.badges.title": "Odznaki wydarzeń",
+  "events.badge.title": "Odznaka",
+  "events.badge.intro": "Wybierz ikonę lub prześlij kwadratowy obraz, który będzie wyświetlany obok nazwy wydarzenia w profilach uczestników.",
+  "events.badge.icon": "Ikona",
+  "events.badge.none": "Tylko nazwa",
+  "events.badge.image": "Lub prześlij obraz",
+  "events.badge.icon.star": "Gwiazda",
+  "events.badge.icon.quill": "Pióro",
+  "events.badge.icon.scroll": "Zwój",
+  "events.badge.icon.campfire": "Ognisko",
+  "events.badge.icon.castle": "Zamek",
+  "events.badge.icon.wizardHat": "Kapelusz czarodzieja",
+  "events.badge.icon.magic": "Magia",
+  "events.badge.icon.rocket": "Rakieta",
+  "events.badge.icon.planet": "Planeta",
+  "events.badge.icon.torch": "Pochodnia",
+  "events.badge.icon.mic": "Zestaw słuchawkowy",
+  "events.badge.icon.heart": "Serce"
 }

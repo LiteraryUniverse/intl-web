@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Jeśli to nie Ty, zignoruj tę wiadomość, a nie zostaniesz dodany(-a).",
   "email.mailingList.confirm.subject": "Potwierdź, że chcesz dołączyć do {blogName}",
   "email.mailingList.confirm.title": "Dołącz do listy mailingowej {blogName}",
-  "email.mailingList.unsubscribe": "Zrezygnuj z tej listy mailingowej"
+  "email.mailingList.unsubscribe": "Zrezygnuj z tej listy mailingowej",
+  "email.notifications.eventMessage.subject": "{host} wysłał(a) wiadomość o wydarzeniu {event}",
+  "email.notifications.eventMessage.note": "Otrzymujesz tę wiadomość, ponieważ zadeklarowałeś(-aś), że weźmiesz lub możesz wziąć udział w wydarzeniu {event}. Zmień swoją odpowiedź na stronie wydarzenia, aby przestać otrzymywać te wiadomości.",
+  "email.notifications.eventMessage.cta": "Zobacz wydarzenie"
 }

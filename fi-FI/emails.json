@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Jos et pyytänyt tätä itse, jätä tämä viesti huomiotta, niin sinua ei lisätä.",
   "email.mailingList.confirm.subject": "Vahvista, että haluat liittyä blogiin {blogName}",
   "email.mailingList.confirm.title": "Liity blogin {blogName} postituslistalle",
-  "email.mailingList.unsubscribe": "Lopeta tämän postituslistan tilaus"
+  "email.mailingList.unsubscribe": "Lopeta tämän postituslistan tilaus",
+  "email.notifications.eventMessage.subject": "{host} lähetti viestin tapahtumasta {event}",
+  "email.notifications.eventMessage.note": "Saat tämän viestin, koska ilmoitit tulevasi tapahtumaan {event} tai ehkä tulevasi. Lopeta nämä viestit muuttamalla vastaustasi tapahtumasivulla.",
+  "email.notifications.eventMessage.cta": "Näytä tapahtuma"
 }

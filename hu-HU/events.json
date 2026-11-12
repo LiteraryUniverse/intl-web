@@ -81,5 +81,22 @@
   "events.helpers.username": "Felhasználónév",
   "events.helpers.notFound": "Nincs ilyen felhasználónevű felhasználó.",
   "events.helpers.limit": "Egy eseménynek legfeljebb 20 segítője lehet.",
-  "events.badges.title": "Eseményjelvények"
+  "events.badges.title": "Eseményjelvények",
+  "events.badge.title": "Jelvény",
+  "events.badge.intro": "Válasszon ikont, vagy töltsön fel négyzet alakú képet, amely az esemény neve mellett jelenik meg a résztvevők profilján.",
+  "events.badge.icon": "Ikon",
+  "events.badge.none": "Csak a név",
+  "events.badge.image": "Vagy töltsön fel egy képet",
+  "events.badge.icon.star": "Csillag",
+  "events.badge.icon.quill": "Lúdtoll",
+  "events.badge.icon.scroll": "Tekercs",
+  "events.badge.icon.campfire": "Tábortűz",
+  "events.badge.icon.castle": "Kastély",
+  "events.badge.icon.wizardHat": "Varázslósapka",
+  "events.badge.icon.magic": "Varázslat",
+  "events.badge.icon.rocket": "Rakéta",
+  "events.badge.icon.planet": "Bolygó",
+  "events.badge.icon.torch": "Fáklya",
+  "events.badge.icon.mic": "Headset",
+  "events.badge.icon.heart": "Szív"
 }

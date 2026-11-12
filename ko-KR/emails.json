@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "본인이 아니라면 이 메일을 무시하세요. 가입되지 않습니다.",
   "email.mailingList.confirm.subject": "{blogName} 참여를 확인해 주세요",
   "email.mailingList.confirm.title": "{blogName} 메일링 리스트에 참여하세요",
-  "email.mailingList.unsubscribe": "이 메일링 리스트 구독 취소"
+  "email.mailingList.unsubscribe": "이 메일링 리스트 구독 취소",
+  "email.notifications.eventMessage.subject": "{host}님이 {event}에 관한 메시지를 보냈습니다",
+  "email.notifications.eventMessage.note": "{event}에 참석하거나 참석할 수도 있다고 응답하셔서 받으신 메일입니다. 이 메시지를 더 받지 않으려면 이벤트 페이지에서 응답을 변경하세요.",
+  "email.notifications.eventMessage.cta": "이벤트 보기"
 }

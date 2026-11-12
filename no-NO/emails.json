@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Hvis det ikke var deg, kan du ignorere denne e-posten, så blir du ikke lagt til.",
   "email.mailingList.confirm.subject": "Bekreft at du vil bli med på {blogName}",
   "email.mailingList.confirm.title": "Bli med på e-postlisten til {blogName}",
-  "email.mailingList.unsubscribe": "Meld av denne e-postlisten"
+  "email.mailingList.unsubscribe": "Meld av denne e-postlisten",
+  "email.notifications.eventMessage.subject": "{host} sendte en melding om {event}",
+  "email.notifications.eventMessage.note": "Du får dette fordi du har svart at du kommer, eller kanskje kommer, til {event}. Endre svaret ditt på arrangementssiden for å slutte å få disse meldingene.",
+  "email.notifications.eventMessage.cta": "Vis arrangement"
 }

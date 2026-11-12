@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Si no has estat tu, ignora aquest correu i no t'afegirem.",
   "email.mailingList.confirm.subject": "Confirma que vols apuntar-te a {blogName}",
   "email.mailingList.confirm.title": "Apunta't a la llista de correu de {blogName}",
-  "email.mailingList.unsubscribe": "Dona't de baixa d'aquesta llista de correu"
+  "email.mailingList.unsubscribe": "Dona't de baixa d'aquesta llista de correu",
+  "email.notifications.eventMessage.subject": "{host} ha enviat un missatge sobre {event}",
+  "email.notifications.eventMessage.note": "Reps aquest correu perquè has dit que assistiràs a {event} o que potser hi assistiràs. Canvia la teva resposta a la pàgina de l'esdeveniment per deixar de rebre aquests missatges.",
+  "email.notifications.eventMessage.cta": "Mostra l'esdeveniment"
 }

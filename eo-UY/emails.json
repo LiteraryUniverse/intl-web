@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Se ne estis vi, ignoru ĉi tiun retpoŝton kaj vi ne estos aldonita.",
   "email.mailingList.confirm.subject": "Konfirmu, ke vi volas aliĝi al {blogName}",
   "email.mailingList.confirm.title": "Aliĝu al la dissendolisto de {blogName}",
-  "email.mailingList.unsubscribe": "Malaboni ĉi tiun dissendoliston"
+  "email.mailingList.unsubscribe": "Malaboni ĉi tiun dissendoliston",
+  "email.notifications.eventMessage.subject": "{host} sendis mesaĝon pri {event}",
+  "email.notifications.eventMessage.note": "Vi ricevas ĉi tion, ĉar vi diris, ke vi venos aŭ eble venos al {event}. Ŝanĝu vian respondon en la paĝo de la evento por ĉesigi tiujn mesaĝojn.",
+  "email.notifications.eventMessage.cta": "Vidi la eventon"
 }

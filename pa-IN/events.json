@@ -81,5 +81,22 @@
   "events.helpers.username": "ਯੂਜ਼ਰਨੇਮ",
   "events.helpers.notFound": "ਇਹ ਯੂਜ਼ਰਨੇਮ ਕਿਸੇ ਕੋਲ ਨਹੀਂ ਹੈ।",
   "events.helpers.limit": "ਇੱਕ ਸਮਾਗਮ ਦੇ 20 ਤੱਕ ਸਹਾਇਕ ਹੋ ਸਕਦੇ ਹਨ।",
-  "events.badges.title": "ਸਮਾਗਮ ਬੈਜ"
+  "events.badges.title": "ਸਮਾਗਮ ਬੈਜ",
+  "events.badge.title": "ਬੈਜ",
+  "events.badge.intro": "ਆਈਕਨ ਚੁਣੋ ਜਾਂ ਵਰਗਾਕਾਰ ਤਸਵੀਰ ਅੱਪਲੋਡ ਕਰੋ, ਜੋ ਹਾਜ਼ਰ ਹੋਣ ਵਾਲਿਆਂ ਦੀਆਂ ਪ੍ਰੋਫ਼ਾਈਲਾਂ ਉੱਤੇ ਸਮਾਗਮ ਦੇ ਨਾਮ ਕੋਲ ਦਿਖਾਈ ਜਾਵੇਗੀ।",
+  "events.badge.icon": "ਆਈਕਨ",
+  "events.badge.none": "ਸਿਰਫ਼ ਨਾਮ",
+  "events.badge.image": "ਜਾਂ ਤਸਵੀਰ ਅੱਪਲੋਡ ਕਰੋ",
+  "events.badge.icon.star": "ਤਾਰਾ",
+  "events.badge.icon.quill": "ਕਲਮ",
+  "events.badge.icon.scroll": "ਪੋਥੀ",
+  "events.badge.icon.campfire": "ਅਲਾਵ",
+  "events.badge.icon.castle": "ਕਿਲ੍ਹਾ",
+  "events.badge.icon.wizardHat": "ਜਾਦੂਗਰ ਦੀ ਟੋਪੀ",
+  "events.badge.icon.magic": "ਜਾਦੂ",
+  "events.badge.icon.rocket": "ਰਾਕੇਟ",
+  "events.badge.icon.planet": "ਗ੍ਰਹਿ",
+  "events.badge.icon.torch": "ਮਸ਼ਾਲ",
+  "events.badge.icon.mic": "ਹੈੱਡਸੈੱਟ",
+  "events.badge.icon.heart": "ਦਿਲ"
 }

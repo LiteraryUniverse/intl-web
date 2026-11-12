@@ -81,5 +81,22 @@
   "events.helpers.username": "اسم المستخدم",
   "events.helpers.notFound": "لا يوجد أحد بهذا الاسم.",
   "events.helpers.limit": "يمكن أن يكون للفعالية ما يصل إلى 20 مساعدًا.",
-  "events.badges.title": "شارات الفعاليات"
+  "events.badges.title": "شارات الفعاليات",
+  "events.badge.title": "الشارة",
+  "events.badge.intro": "اختر أيقونة أو ارفع صورة مربعة لتظهر بجانب اسم الفعالية في ملفات المشاركين الشخصية.",
+  "events.badge.icon": "الأيقونة",
+  "events.badge.none": "الاسم فقط",
+  "events.badge.image": "أو ارفع صورة",
+  "events.badge.icon.star": "نجمة",
+  "events.badge.icon.quill": "ريشة",
+  "events.badge.icon.scroll": "مخطوطة",
+  "events.badge.icon.campfire": "نار المخيم",
+  "events.badge.icon.castle": "قلعة",
+  "events.badge.icon.wizardHat": "قبعة ساحر",
+  "events.badge.icon.magic": "سحر",
+  "events.badge.icon.rocket": "صاروخ",
+  "events.badge.icon.planet": "كوكب",
+  "events.badge.icon.torch": "شعلة",
+  "events.badge.icon.mic": "سماعة رأس",
+  "events.badge.icon.heart": "قلب"
 }

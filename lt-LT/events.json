@@ -81,5 +81,22 @@
   "events.helpers.username": "Vartotojo vardas",
   "events.helpers.notFound": "Tokio vartotojo vardo niekas neturi.",
   "events.helpers.limit": "Renginys gali turėti iki 20 padėjėjų.",
-  "events.badges.title": "Renginių ženkleliai"
+  "events.badges.title": "Renginių ženkleliai",
+  "events.badge.title": "Ženklelis",
+  "events.badge.intro": "Pasirinkite piktogramą arba įkelkite kvadratinį paveikslėlį, kuris bus rodomas šalia renginio pavadinimo dalyvių profiliuose.",
+  "events.badge.icon": "Piktograma",
+  "events.badge.none": "Tik pavadinimas",
+  "events.badge.image": "Arba įkelkite paveikslėlį",
+  "events.badge.icon.star": "Žvaigždė",
+  "events.badge.icon.quill": "Plunksna",
+  "events.badge.icon.scroll": "Ritinys",
+  "events.badge.icon.campfire": "Laužas",
+  "events.badge.icon.castle": "Pilis",
+  "events.badge.icon.wizardHat": "Burtininko skrybėlė",
+  "events.badge.icon.magic": "Magija",
+  "events.badge.icon.rocket": "Raketa",
+  "events.badge.icon.planet": "Planeta",
+  "events.badge.icon.torch": "Deglas",
+  "events.badge.icon.mic": "Ausinės",
+  "events.badge.icon.heart": "Širdis"
 }

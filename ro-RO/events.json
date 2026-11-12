@@ -81,5 +81,22 @@
   "events.helpers.username": "Nume de utilizator",
   "events.helpers.notFound": "Nimeni nu are acest nume de utilizator.",
   "events.helpers.limit": "Un eveniment poate avea cel mult 20 de ajutoare.",
-  "events.badges.title": "Insigne de eveniment"
+  "events.badges.title": "Insigne de eveniment",
+  "events.badge.title": "Insignă",
+  "events.badge.intro": "Alege o pictogramă sau încarcă o imagine pătrată care să apară lângă numele evenimentului în profilurile participanților.",
+  "events.badge.icon": "Pictogramă",
+  "events.badge.none": "Doar numele",
+  "events.badge.image": "Sau încarcă o imagine",
+  "events.badge.icon.star": "Stea",
+  "events.badge.icon.quill": "Pană",
+  "events.badge.icon.scroll": "Sul",
+  "events.badge.icon.campfire": "Foc de tabără",
+  "events.badge.icon.castle": "Castel",
+  "events.badge.icon.wizardHat": "Pălărie de vrăjitor",
+  "events.badge.icon.magic": "Magie",
+  "events.badge.icon.rocket": "Rachetă",
+  "events.badge.icon.planet": "Planetă",
+  "events.badge.icon.torch": "Torță",
+  "events.badge.icon.mic": "Căști cu microfon",
+  "events.badge.icon.heart": "Inimă"
 }

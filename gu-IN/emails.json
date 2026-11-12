@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "જો તે તમે ન હતા, તો આ ઇમેઇલ અવગણો અને તમને ઉમેરવામાં આવશે નહીં.",
   "email.mailingList.confirm.subject": "{blogName}માં જોડાવા માંગો છો તેની પુષ્ટિ કરો",
   "email.mailingList.confirm.title": "{blogName} મેઇલિંગ લિસ્ટમાં જોડાઓ",
-  "email.mailingList.unsubscribe": "આ મેઇલિંગ લિસ્ટમાંથી અનસબ્સ્ક્રાઇબ કરો"
+  "email.mailingList.unsubscribe": "આ મેઇલિંગ લિસ્ટમાંથી અનસબ્સ્ક્રાઇબ કરો",
+  "email.notifications.eventMessage.subject": "{host} એ {event} વિશે સંદેશ મોકલ્યો",
+  "email.notifications.eventMessage.note": "તમને આ મળ્યું છે કારણ કે તમે કહ્યું હતું કે તમે {event} માં આવશો અથવા આવી શકો છો. આ સંદેશાઓ બંધ કરવા માટે ઇવેન્ટ પેજ પર તમારો જવાબ બદલો.",
+  "email.notifications.eventMessage.cta": "ઇવેન્ટ જુઓ"
 }

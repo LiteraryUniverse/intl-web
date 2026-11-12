@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Kui see polnud teie, eirake seda kirja ja teid ei lisata.",
   "email.mailingList.confirm.subject": "Kinnitage, et soovite liituda ajaveebiga {blogName}",
   "email.mailingList.confirm.title": "Liituge ajaveebi {blogName} postiloendiga",
-  "email.mailingList.unsubscribe": "Lõpeta selle postiloendi tellimus"
+  "email.mailingList.unsubscribe": "Lõpeta selle postiloendi tellimus",
+  "email.notifications.eventMessage.subject": "{host} saatis sõnumi ürituse {event} kohta",
+  "email.notifications.eventMessage.note": "Saad selle sõnumi, kuna andsid teada, et tuled üritusele {event} või võib-olla tuled. Nende sõnumite lõpetamiseks muuda oma vastust ürituse lehel.",
+  "email.notifications.eventMessage.cta": "Vaata üritust"
 }

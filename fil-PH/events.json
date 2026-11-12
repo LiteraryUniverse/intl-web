@@ -81,5 +81,22 @@
   "events.helpers.username": "Username",
   "events.helpers.notFound": "Walang may ganitong username.",
   "events.helpers.limit": "Ang isang event ay maaaring magkaroon ng hanggang 20 katulong.",
-  "events.badges.title": "Mga badge ng event"
+  "events.badges.title": "Mga badge ng event",
+  "events.badge.title": "Badge",
+  "events.badge.intro": "Pumili ng icon o mag-upload ng parisukat na larawan na ipapakita sa tabi ng pangalan ng event sa mga profile ng mga dadalo.",
+  "events.badge.icon": "Icon",
+  "events.badge.none": "Pangalan lang",
+  "events.badge.image": "O mag-upload ng larawan",
+  "events.badge.icon.star": "Bituin",
+  "events.badge.icon.quill": "Pluma",
+  "events.badge.icon.scroll": "Balumbon",
+  "events.badge.icon.campfire": "Siga",
+  "events.badge.icon.castle": "Kastilyo",
+  "events.badge.icon.wizardHat": "Sumbrero ng wizard",
+  "events.badge.icon.magic": "Mahika",
+  "events.badge.icon.rocket": "Rocket",
+  "events.badge.icon.planet": "Planeta",
+  "events.badge.icon.torch": "Sulo",
+  "events.badge.icon.mic": "Headset",
+  "events.badge.icon.heart": "Puso"
 }

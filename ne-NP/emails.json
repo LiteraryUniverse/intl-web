@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "यो तपाईं हुनुहुन्नथ्यो भने यो इमेललाई वास्ता नगर्नुहोस्; तपाईंलाई थपिनेछैन।",
   "email.mailingList.confirm.subject": "तपाईं {blogName} मा जोडिन चाहनुहुन्छ भनेर पुष्टि गर्नुहोस्",
   "email.mailingList.confirm.title": "{blogName} को मेलिङ लिस्टमा जोडिनुहोस्",
-  "email.mailingList.unsubscribe": "यो मेलिङ लिस्टको सदस्यता रद्द गर्नुहोस्"
+  "email.mailingList.unsubscribe": "यो मेलिङ लिस्टको सदस्यता रद्द गर्नुहोस्",
+  "email.notifications.eventMessage.subject": "{host} ले {event} बारे सन्देश पठाउनुभयो",
+  "email.notifications.eventMessage.note": "तपाईंले {event} मा आउने वा आउन सक्ने बताउनुभएकाले यो सन्देश पाउनुभएको हो। यस्ता सन्देश रोक्न कार्यक्रम पृष्ठमा आफ्नो जवाफ परिवर्तन गर्नुहोस्।",
+  "email.notifications.eventMessage.cta": "कार्यक्रम हेर्नुहोस्"
 }

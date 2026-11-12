@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Se não foi você, ignore este e-mail e não será adicionado.",
   "email.mailingList.confirm.subject": "Confirme que quer aderir a {blogName}",
   "email.mailingList.confirm.title": "Adira à lista de correio de {blogName}",
-  "email.mailingList.unsubscribe": "Cancelar a subscrição desta lista de correio"
+  "email.mailingList.unsubscribe": "Cancelar a subscrição desta lista de correio",
+  "email.notifications.eventMessage.subject": "{host} enviou uma mensagem sobre {event}",
+  "email.notifications.eventMessage.note": "Recebeu esta mensagem porque indicou que vai ou talvez vá ao evento {event}. Altere a sua resposta na página do evento para deixar de receber estas mensagens.",
+  "email.notifications.eventMessage.cta": "Ver evento"
 }

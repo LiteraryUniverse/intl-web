@@ -81,5 +81,22 @@
   "events.helpers.username": "Tên người dùng",
   "events.helpers.notFound": "Không ai có tên người dùng này.",
   "events.helpers.limit": "Mỗi sự kiện có tối đa 20 người hỗ trợ.",
-  "events.badges.title": "Huy hiệu sự kiện"
+  "events.badges.title": "Huy hiệu sự kiện",
+  "events.badge.title": "Huy hiệu",
+  "events.badge.intro": "Chọn một biểu tượng hoặc tải lên ảnh vuông để hiển thị cạnh tên sự kiện trên hồ sơ của người tham dự.",
+  "events.badge.icon": "Biểu tượng",
+  "events.badge.none": "Chỉ tên",
+  "events.badge.image": "Hoặc tải ảnh lên",
+  "events.badge.icon.star": "Ngôi sao",
+  "events.badge.icon.quill": "Bút lông",
+  "events.badge.icon.scroll": "Cuộn giấy",
+  "events.badge.icon.campfire": "Lửa trại",
+  "events.badge.icon.castle": "Lâu đài",
+  "events.badge.icon.wizardHat": "Mũ phù thủy",
+  "events.badge.icon.magic": "Phép thuật",
+  "events.badge.icon.rocket": "Tên lửa",
+  "events.badge.icon.planet": "Hành tinh",
+  "events.badge.icon.torch": "Đuốc",
+  "events.badge.icon.mic": "Tai nghe",
+  "events.badge.icon.heart": "Trái tim"
 }

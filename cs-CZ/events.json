@@ -81,5 +81,22 @@
   "events.helpers.username": "Uživatelské jméno",
   "events.helpers.notFound": "Takové uživatelské jméno nikdo nemá.",
   "events.helpers.limit": "Událost může mít nejvýše 20 pomocníků.",
-  "events.badges.title": "Odznaky z událostí"
+  "events.badges.title": "Odznaky z událostí",
+  "events.badge.title": "Odznak",
+  "events.badge.intro": "Vyberte ikonu nebo nahrajte čtvercový obrázek, který se zobrazí vedle názvu události na profilech účastníků.",
+  "events.badge.icon": "Ikona",
+  "events.badge.none": "Pouze název",
+  "events.badge.image": "Nebo nahrajte obrázek",
+  "events.badge.icon.star": "Hvězda",
+  "events.badge.icon.quill": "Brk",
+  "events.badge.icon.scroll": "Svitek",
+  "events.badge.icon.campfire": "Táborák",
+  "events.badge.icon.castle": "Hrad",
+  "events.badge.icon.wizardHat": "Kouzelnický klobouk",
+  "events.badge.icon.magic": "Kouzlo",
+  "events.badge.icon.rocket": "Raketa",
+  "events.badge.icon.planet": "Planeta",
+  "events.badge.icon.torch": "Pochodeň",
+  "events.badge.icon.mic": "Headset",
+  "events.badge.icon.heart": "Srdce"
 }

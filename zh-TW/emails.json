@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "若不是您本人，請忽略這封郵件，您不會被加入。",
   "email.mailingList.confirm.subject": "確認您要加入 {blogName}",
   "email.mailingList.confirm.title": "加入 {blogName} 郵寄名單",
-  "email.mailingList.unsubscribe": "取消訂閱此郵寄名單"
+  "email.mailingList.unsubscribe": "取消訂閱此郵寄名單",
+  "email.notifications.eventMessage.subject": "{host} 傳送了關於 {event} 的訊息",
+  "email.notifications.eventMessage.note": "您收到此信，是因為您表示會或可能會參加 {event}。若不想再收到這類訊息，請在活動頁面變更您的回覆。",
+  "email.notifications.eventMessage.cta": "檢視活動"
 }

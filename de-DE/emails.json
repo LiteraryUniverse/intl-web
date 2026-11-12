@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Falls Sie das nicht waren, ignorieren Sie diese E-Mail, dann werden Sie nicht hinzugefügt.",
   "email.mailingList.confirm.subject": "Bestätigen Sie, dass Sie {blogName} beitreten möchten",
   "email.mailingList.confirm.title": "Der Mailingliste von {blogName} beitreten",
-  "email.mailingList.unsubscribe": "Von dieser Mailingliste abmelden"
+  "email.mailingList.unsubscribe": "Von dieser Mailingliste abmelden",
+  "email.notifications.eventMessage.subject": "{host} hat eine Nachricht zu {event} gesendet",
+  "email.notifications.eventMessage.note": "Sie erhalten diese Nachricht, weil Sie für {event} zugesagt oder vielleicht zugesagt haben. Ändern Sie Ihre Antwort auf der Veranstaltungsseite, um keine weiteren Nachrichten zu erhalten.",
+  "email.notifications.eventMessage.cta": "Veranstaltung ansehen"
 }

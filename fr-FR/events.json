@@ -81,5 +81,22 @@
   "events.helpers.username": "Nom d'utilisateur",
   "events.helpers.notFound": "Aucun utilisateur ne porte ce nom.",
   "events.helpers.limit": "Un événement peut avoir jusqu'à 20 assistants.",
-  "events.badges.title": "Badges d'événements"
+  "events.badges.title": "Badges d'événements",
+  "events.badge.title": "Badge",
+  "events.badge.intro": "Choisissez une icône ou importez une image carrée à afficher à côté du nom de l'événement sur le profil des participants.",
+  "events.badge.icon": "Icône",
+  "events.badge.none": "Nom seulement",
+  "events.badge.image": "Ou importez une image",
+  "events.badge.icon.star": "Étoile",
+  "events.badge.icon.quill": "Plume",
+  "events.badge.icon.scroll": "Parchemin",
+  "events.badge.icon.campfire": "Feu de camp",
+  "events.badge.icon.castle": "Château",
+  "events.badge.icon.wizardHat": "Chapeau de sorcier",
+  "events.badge.icon.magic": "Magie",
+  "events.badge.icon.rocket": "Fusée",
+  "events.badge.icon.planet": "Planète",
+  "events.badge.icon.torch": "Torche",
+  "events.badge.icon.mic": "Casque audio",
+  "events.badge.icon.heart": "Cœur"
 }

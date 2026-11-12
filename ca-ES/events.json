@@ -81,5 +81,22 @@
   "events.helpers.username": "Nom d'usuari",
   "events.helpers.notFound": "Ningú té aquest nom d'usuari.",
   "events.helpers.limit": "Un esdeveniment pot tenir fins a 20 ajudants.",
-  "events.badges.title": "Insígnies d'esdeveniments"
+  "events.badges.title": "Insígnies d'esdeveniments",
+  "events.badge.title": "Insígnia",
+  "events.badge.intro": "Tria una icona o puja una imatge quadrada per mostrar-la al costat del nom de l'esdeveniment als perfils dels assistents.",
+  "events.badge.icon": "Icona",
+  "events.badge.none": "Només el nom",
+  "events.badge.image": "O puja una imatge",
+  "events.badge.icon.star": "Estrella",
+  "events.badge.icon.quill": "Ploma",
+  "events.badge.icon.scroll": "Pergamí",
+  "events.badge.icon.campfire": "Foguera",
+  "events.badge.icon.castle": "Castell",
+  "events.badge.icon.wizardHat": "Barret de mag",
+  "events.badge.icon.magic": "Màgia",
+  "events.badge.icon.rocket": "Coet",
+  "events.badge.icon.planet": "Planeta",
+  "events.badge.icon.torch": "Torxa",
+  "events.badge.icon.mic": "Auricular",
+  "events.badge.icon.heart": "Cor"
 }

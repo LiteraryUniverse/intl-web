@@ -81,5 +81,22 @@
   "events.helpers.username": "વપરાશકર્તાનામ",
   "events.helpers.notFound": "આ વપરાશકર્તાનામ કોઈનું નથી.",
   "events.helpers.limit": "એક ઇવેન્ટમાં વધુમાં વધુ 20 સહાયકો હોઈ શકે છે.",
-  "events.badges.title": "ઇવેન્ટ બેજ"
+  "events.badges.title": "ઇવેન્ટ બેજ",
+  "events.badge.title": "બેજ",
+  "events.badge.intro": "સહભાગીઓની પ્રોફાઇલ પર ઇવેન્ટના નામની બાજુમાં બતાવવા માટે એક આઇકન પસંદ કરો અથવા ચોરસ છબી અપલોડ કરો.",
+  "events.badge.icon": "આઇકન",
+  "events.badge.none": "ફક્ત નામ",
+  "events.badge.image": "અથવા છબી અપલોડ કરો",
+  "events.badge.icon.star": "તારો",
+  "events.badge.icon.quill": "પીંછી કલમ",
+  "events.badge.icon.scroll": "ચર્મપત્ર",
+  "events.badge.icon.campfire": "કેમ્પફાયર",
+  "events.badge.icon.castle": "કિલ્લો",
+  "events.badge.icon.wizardHat": "જાદુગરની ટોપી",
+  "events.badge.icon.magic": "જાદુ",
+  "events.badge.icon.rocket": "રોકેટ",
+  "events.badge.icon.planet": "ગ્રહ",
+  "events.badge.icon.torch": "મશાલ",
+  "events.badge.icon.mic": "હેડસેટ",
+  "events.badge.icon.heart": "હૃદય"
 }

@@ -81,5 +81,22 @@
   "events.helpers.username": "Nome de usuário",
   "events.helpers.notFound": "Ninguém tem esse nome de usuário.",
   "events.helpers.limit": "Um evento pode ter até 20 ajudantes.",
-  "events.badges.title": "Selos de eventos"
+  "events.badges.title": "Selos de eventos",
+  "events.badge.title": "Selo",
+  "events.badge.intro": "Escolha um ícone ou envie uma imagem quadrada para aparecer ao lado do nome do evento nos perfis dos participantes.",
+  "events.badge.icon": "Ícone",
+  "events.badge.none": "Só o nome",
+  "events.badge.image": "Ou envie uma imagem",
+  "events.badge.icon.star": "Estrela",
+  "events.badge.icon.quill": "Pena",
+  "events.badge.icon.scroll": "Pergaminho",
+  "events.badge.icon.campfire": "Fogueira",
+  "events.badge.icon.castle": "Castelo",
+  "events.badge.icon.wizardHat": "Chapéu de mago",
+  "events.badge.icon.magic": "Magia",
+  "events.badge.icon.rocket": "Foguete",
+  "events.badge.icon.planet": "Planeta",
+  "events.badge.icon.torch": "Tocha",
+  "events.badge.icon.mic": "Headset",
+  "events.badge.icon.heart": "Coração"
 }

@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "ഇത് നിങ്ങളല്ലെങ്കിൽ, ഈ ഇമെയിൽ അവഗണിക്കുക; നിങ്ങളെ ചേർക്കില്ല.",
   "email.mailingList.confirm.subject": "{blogName}-ൽ ചേരാൻ താൽപ്പര്യമുണ്ടെന്ന് സ്ഥിരീകരിക്കുക",
   "email.mailingList.confirm.title": "{blogName} മെയിലിംഗ് ലിസ്റ്റിൽ ചേരുക",
-  "email.mailingList.unsubscribe": "ഈ മെയിലിംഗ് ലിസ്റ്റിലെ സബ്സ്ക്രിപ്ഷൻ റദ്ദാക്കുക"
+  "email.mailingList.unsubscribe": "ഈ മെയിലിംഗ് ലിസ്റ്റിലെ സബ്സ്ക്രിപ്ഷൻ റദ്ദാക്കുക",
+  "email.notifications.eventMessage.subject": "{event}-നെക്കുറിച്ച് {host} ഒരു സന്ദേശം അയച്ചു",
+  "email.notifications.eventMessage.note": "{event}-ൽ പങ്കെടുക്കുമെന്നോ പങ്കെടുത്തേക്കുമെന്നോ നിങ്ങൾ അറിയിച്ചതിനാലാണ് ഇത് ലഭിച്ചത്. ഈ സന്ദേശങ്ങൾ നിർത്താൻ ഇവന്റ് പേജിൽ നിങ്ങളുടെ മറുപടി മാറ്റുക.",
+  "email.notifications.eventMessage.cta": "ഇവന്റ് കാണുക"
 }

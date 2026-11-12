@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "As dit nie jy was nie, ignoreer hierdie e-pos en jy sal nie bygevoeg word nie.",
   "email.mailingList.confirm.subject": "Bevestig dat jy by {blogName} wil aansluit",
   "email.mailingList.confirm.title": "Sluit by die {blogName}-possery aan",
-  "email.mailingList.unsubscribe": "Skryf uit van hierdie possery"
+  "email.mailingList.unsubscribe": "Skryf uit van hierdie possery",
+  "email.notifications.eventMessage.subject": "{host} het 'n boodskap oor {event} gestuur",
+  "email.notifications.eventMessage.note": "Jy kry dit omdat jy gesê het jy sal of mag dalk na {event} kom. Verander jou antwoord op die geleentheidbladsy om hierdie boodskappe te stop.",
+  "email.notifications.eventMessage.cta": "Bekyk geleentheid"
 }

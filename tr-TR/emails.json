@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Siz değilseniz bu e-postayı yok sayın, listeye eklenmezsiniz.",
   "email.mailingList.confirm.subject": "{blogName} listesine katılmak istediğinizi onaylayın",
   "email.mailingList.confirm.title": "{blogName} e-posta listesine katılın",
-  "email.mailingList.unsubscribe": "Bu e-posta listesinden abonelikten çık"
+  "email.mailingList.unsubscribe": "Bu e-posta listesinden abonelikten çık",
+  "email.notifications.eventMessage.subject": "{host}, {event} hakkında bir mesaj gönderdi",
+  "email.notifications.eventMessage.note": "Bunu, {event} etkinliğine katılacağınızı veya katılabileceğinizi belirttiğiniz için alıyorsunuz. Bu mesajları almayı durdurmak için etkinlik sayfasında yanıtınızı değiştirin.",
+  "email.notifications.eventMessage.cta": "Etkinliği görüntüle"
 }

@@ -81,5 +81,22 @@
   "events.helpers.username": "వాడుకరి పేరు",
   "events.helpers.notFound": "ఆ వాడుకరి పేరు ఎవరికీ లేదు.",
   "events.helpers.limit": "ఒక ఈవెంట్‌కు 20 మంది వరకు సహాయకులు ఉండవచ్చు.",
-  "events.badges.title": "ఈవెంట్ బ్యాడ్జ్‌లు"
+  "events.badges.title": "ఈవెంట్ బ్యాడ్జ్‌లు",
+  "events.badge.title": "బ్యాడ్జ్",
+  "events.badge.intro": "హాజరయ్యేవారి ప్రొఫైల్‌లలో ఈవెంట్ పేరు పక్కన చూపడానికి ఒక ఐకాన్‌ను ఎంచుకోండి లేదా చతురస్రాకార చిత్రాన్ని అప్‌లోడ్ చేయండి.",
+  "events.badge.icon": "ఐకాన్",
+  "events.badge.none": "పేరు మాత్రమే",
+  "events.badge.image": "లేదా చిత్రాన్ని అప్‌లోడ్ చేయండి",
+  "events.badge.icon.star": "నక్షత్రం",
+  "events.badge.icon.quill": "ఈకకలం",
+  "events.badge.icon.scroll": "చుట్ట",
+  "events.badge.icon.campfire": "క్యాంప్‌ఫైర్",
+  "events.badge.icon.castle": "కోట",
+  "events.badge.icon.wizardHat": "మాంత్రికుడి టోపీ",
+  "events.badge.icon.magic": "మాయ",
+  "events.badge.icon.rocket": "రాకెట్",
+  "events.badge.icon.planet": "గ్రహం",
+  "events.badge.icon.torch": "కాగడా",
+  "events.badge.icon.mic": "హెడ్‌సెట్",
+  "events.badge.icon.heart": "హృదయం"
 }

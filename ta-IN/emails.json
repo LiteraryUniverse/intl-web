@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "நீங்கள் இல்லையென்றால், இந்த மின்னஞ்சலைப் புறக்கணிக்கவும்; நீங்கள் சேர்க்கப்பட மாட்டீர்கள்.",
   "email.mailingList.confirm.subject": "{blogName} பட்டியலில் இணைய விரும்புவதை உறுதிப்படுத்துங்கள்",
   "email.mailingList.confirm.title": "{blogName} அஞ்சல் பட்டியலில் இணையுங்கள்",
-  "email.mailingList.unsubscribe": "இந்த அஞ்சல் பட்டியலின் சந்தாவை நிறுத்து"
+  "email.mailingList.unsubscribe": "இந்த அஞ்சல் பட்டியலின் சந்தாவை நிறுத்து",
+  "email.notifications.eventMessage.subject": "{event} பற்றி {host} ஒரு செய்தி அனுப்பியுள்ளார்",
+  "email.notifications.eventMessage.note": "நீங்கள் {event} நிகழ்வுக்கு வருவதாக அல்லது வரக்கூடும் எனத் தெரிவித்ததால் இது உங்களுக்கு வந்துள்ளது. இந்தச் செய்திகள் வருவதை நிறுத்த, நிகழ்வுப் பக்கத்தில் உங்கள் பதிலை மாற்றவும்.",
+  "email.notifications.eventMessage.cta": "நிகழ்வைக் காண்க"
 }

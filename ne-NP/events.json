@@ -81,5 +81,22 @@
   "events.helpers.username": "प्रयोगकर्ता नाम",
   "events.helpers.notFound": "त्यो प्रयोगकर्ता नाम कसैको पनि छैन।",
   "events.helpers.limit": "एउटा कार्यक्रममा २० जनासम्म सहयोगी हुन सक्छन्।",
-  "events.badges.title": "कार्यक्रम ब्याजहरू"
+  "events.badges.title": "कार्यक्रम ब्याजहरू",
+  "events.badge.title": "ब्याज",
+  "events.badge.intro": "सहभागीहरूको प्रोफाइलमा कार्यक्रमको नामसँगै देखाउन आइकन छान्नुहोस् वा वर्गाकार तस्बिर अपलोड गर्नुहोस्।",
+  "events.badge.icon": "आइकन",
+  "events.badge.none": "नाम मात्र",
+  "events.badge.image": "वा तस्बिर अपलोड गर्नुहोस्",
+  "events.badge.icon.star": "तारा",
+  "events.badge.icon.quill": "प्वाँखको कलम",
+  "events.badge.icon.scroll": "पाण्डुलिपि",
+  "events.badge.icon.campfire": "आगोको कुण्ड",
+  "events.badge.icon.castle": "किल्ला",
+  "events.badge.icon.wizardHat": "जादूगरको टोपी",
+  "events.badge.icon.magic": "जादू",
+  "events.badge.icon.rocket": "रकेट",
+  "events.badge.icon.planet": "ग्रह",
+  "events.badge.icon.torch": "मशाल",
+  "events.badge.icon.mic": "हेडसेट",
+  "events.badge.icon.heart": "मुटु"
 }

@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "ਜੇ ਇਹ ਤੁਸੀਂ ਨਹੀਂ ਸੀ, ਤਾਂ ਇਸ ਈਮੇਲ ਨੂੰ ਅਣਡਿੱਠ ਕਰੋ ਅਤੇ ਤੁਹਾਨੂੰ ਜੋੜਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।",
   "email.mailingList.confirm.subject": "ਪੁਸ਼ਟੀ ਕਰੋ ਕਿ ਤੁਸੀਂ {blogName} ਵਿੱਚ ਜੁੜਨਾ ਚਾਹੁੰਦੇ ਹੋ",
   "email.mailingList.confirm.title": "{blogName} ਦੀ ਮੇਲਿੰਗ ਸੂਚੀ ਵਿੱਚ ਜੁੜੋ",
-  "email.mailingList.unsubscribe": "ਇਸ ਮੇਲਿੰਗ ਸੂਚੀ ਤੋਂ ਅਨਸਬਸਕ੍ਰਾਈਬ ਕਰੋ"
+  "email.mailingList.unsubscribe": "ਇਸ ਮੇਲਿੰਗ ਸੂਚੀ ਤੋਂ ਅਨਸਬਸਕ੍ਰਾਈਬ ਕਰੋ",
+  "email.notifications.eventMessage.subject": "{host} ਨੇ {event} ਬਾਰੇ ਸੁਨੇਹਾ ਭੇਜਿਆ",
+  "email.notifications.eventMessage.note": "ਤੁਹਾਨੂੰ ਇਹ ਇਸ ਲਈ ਮਿਲਿਆ ਹੈ ਕਿਉਂਕਿ ਤੁਸੀਂ ਕਿਹਾ ਸੀ ਕਿ ਤੁਸੀਂ {event} ਵਿੱਚ ਆਵੋਗੇ ਜਾਂ ਆ ਸਕਦੇ ਹੋ। ਇਹ ਸੁਨੇਹੇ ਬੰਦ ਕਰਨ ਲਈ ਸਮਾਗਮ ਪੰਨੇ ਉੱਤੇ ਆਪਣਾ ਜਵਾਬ ਬਦਲੋ।",
+  "email.notifications.eventMessage.cta": "ਸਮਾਗਮ ਵੇਖੋ"
 }

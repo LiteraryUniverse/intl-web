@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Om det inte var du ignorerar du bara det här mejlet, så läggs du inte till.",
   "email.mailingList.confirm.subject": "Bekräfta att du vill gå med i {blogName}",
   "email.mailingList.confirm.title": "Gå med i e-postlistan för {blogName}",
-  "email.mailingList.unsubscribe": "Avsluta prenumerationen på den här e-postlistan"
+  "email.mailingList.unsubscribe": "Avsluta prenumerationen på den här e-postlistan",
+  "email.notifications.eventMessage.subject": "{host} har skickat ett meddelande om {event}",
+  "email.notifications.eventMessage.note": "Du får det här eftersom du har svarat att du kommer eller kanske kommer till {event}. Ändra ditt svar på evenemangssidan om du inte vill få fler sådana meddelanden.",
+  "email.notifications.eventMessage.cta": "Visa evenemang"
 }

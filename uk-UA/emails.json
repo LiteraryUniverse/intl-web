@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Якщо це були не ви, проігноруйте лист, і вас не буде підписано.",
   "email.mailingList.confirm.subject": "Підтвердьте підписку на {blogName}",
   "email.mailingList.confirm.title": "Підпишіться на розсилку {blogName}",
-  "email.mailingList.unsubscribe": "Відписатися від цього списку розсилки"
+  "email.mailingList.unsubscribe": "Відписатися від цього списку розсилки",
+  "email.notifications.eventMessage.subject": "{host} надсилає повідомлення про подію {event}",
+  "email.notifications.eventMessage.note": "Ви отримали це, бо повідомили, що прийдете або, можливо, прийдете на подію {event}. Щоб більше не отримувати таких повідомлень, змініть свою відповідь на сторінці події.",
+  "email.notifications.eventMessage.cta": "Переглянути подію"
 }

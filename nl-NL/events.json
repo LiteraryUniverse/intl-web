@@ -81,5 +81,22 @@
   "events.helpers.username": "Gebruikersnaam",
   "events.helpers.notFound": "Niemand heeft die gebruikersnaam.",
   "events.helpers.limit": "Een evenement kan maximaal 20 hulpen hebben.",
-  "events.badges.title": "Evenementbadges"
+  "events.badges.title": "Evenementbadges",
+  "events.badge.title": "Badge",
+  "events.badge.intro": "Kies een pictogram of upload een vierkante afbeelding die naast de naam van het evenement op de profielen van deelnemers wordt getoond.",
+  "events.badge.icon": "Pictogram",
+  "events.badge.none": "Alleen naam",
+  "events.badge.image": "Of upload een afbeelding",
+  "events.badge.icon.star": "Ster",
+  "events.badge.icon.quill": "Veer",
+  "events.badge.icon.scroll": "Perkament",
+  "events.badge.icon.campfire": "Kampvuur",
+  "events.badge.icon.castle": "Kasteel",
+  "events.badge.icon.wizardHat": "Tovenaarshoed",
+  "events.badge.icon.magic": "Magie",
+  "events.badge.icon.rocket": "Raket",
+  "events.badge.icon.planet": "Planeet",
+  "events.badge.icon.torch": "Fakkel",
+  "events.badge.icon.mic": "Headset",
+  "events.badge.icon.heart": "Hart"
 }

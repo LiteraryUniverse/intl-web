@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Nếu không phải bạn, hãy bỏ qua email này và bạn sẽ không bị thêm vào.",
   "email.mailingList.confirm.subject": "Xác nhận bạn muốn tham gia {blogName}",
   "email.mailingList.confirm.title": "Tham gia danh sách gửi thư của {blogName}",
-  "email.mailingList.unsubscribe": "Hủy đăng ký danh sách gửi thư này"
+  "email.mailingList.unsubscribe": "Hủy đăng ký danh sách gửi thư này",
+  "email.notifications.eventMessage.subject": "{host} đã gửi tin nhắn về {event}",
+  "email.notifications.eventMessage.note": "Bạn nhận được tin này vì bạn đã cho biết sẽ hoặc có thể tham dự {event}. Hãy đổi câu trả lời của bạn trên trang sự kiện để không nhận các tin nhắn này nữa.",
+  "email.notifications.eventMessage.cta": "Xem sự kiện"
 }

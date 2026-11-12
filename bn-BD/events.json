@@ -81,5 +81,22 @@
   "events.helpers.username": "ব্যবহারকারীর নাম",
   "events.helpers.notFound": "এই ব্যবহারকারীর নামে কেউ নেই।",
   "events.helpers.limit": "একটি ইভেন্টে সর্বোচ্চ 20 জন সহায়ক থাকতে পারেন।",
-  "events.badges.title": "ইভেন্ট ব্যাজ"
+  "events.badges.title": "ইভেন্ট ব্যাজ",
+  "events.badge.title": "ব্যাজ",
+  "events.badge.intro": "অংশগ্রহণকারীদের প্রোফাইলে ইভেন্টের নামের পাশে দেখানোর জন্য একটি আইকন বেছে নিন বা একটি বর্গাকার ছবি আপলোড করুন।",
+  "events.badge.icon": "আইকন",
+  "events.badge.none": "শুধু নাম",
+  "events.badge.image": "অথবা একটি ছবি আপলোড করুন",
+  "events.badge.icon.star": "তারা",
+  "events.badge.icon.quill": "কলম",
+  "events.badge.icon.scroll": "পুঁথি",
+  "events.badge.icon.campfire": "ক্যাম্পফায়ার",
+  "events.badge.icon.castle": "দুর্গ",
+  "events.badge.icon.wizardHat": "জাদুকরের টুপি",
+  "events.badge.icon.magic": "জাদু",
+  "events.badge.icon.rocket": "রকেট",
+  "events.badge.icon.planet": "গ্রহ",
+  "events.badge.icon.torch": "মশাল",
+  "events.badge.icon.mic": "হেডসেট",
+  "events.badge.icon.heart": "হৃদয়"
 }

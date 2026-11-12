@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Kung hindi ikaw iyon, huwag pansinin ang email na ito at hindi ka idaragdag.",
   "email.mailingList.confirm.subject": "Kumpirmahin na gusto mong sumali sa {blogName}",
   "email.mailingList.confirm.title": "Sumali sa mailing list ng {blogName}",
-  "email.mailingList.unsubscribe": "Mag-unsubscribe sa mailing list na ito"
+  "email.mailingList.unsubscribe": "Mag-unsubscribe sa mailing list na ito",
+  "email.notifications.eventMessage.subject": "Nagpadala si {host} ng mensahe tungkol sa {event}",
+  "email.notifications.eventMessage.note": "Natanggap mo ito dahil sinabi mong dadalo ka o baka dumalo sa {event}. Baguhin ang sagot mo sa pahina ng event para tumigil ang mga mensaheng ito.",
+  "email.notifications.eventMessage.cta": "Tingnan ang event"
 }

@@ -81,5 +81,22 @@
   "events.helpers.username": "Имя пользователя",
   "events.helpers.notFound": "Пользователя с таким именем нет.",
   "events.helpers.limit": "У мероприятия может быть до 20 помощников.",
-  "events.badges.title": "Значки мероприятий"
+  "events.badges.title": "Значки мероприятий",
+  "events.badge.title": "Значок",
+  "events.badge.intro": "Выберите иконку или загрузите квадратное изображение, которое будет отображаться рядом с названием мероприятия в профилях участников.",
+  "events.badge.icon": "Иконка",
+  "events.badge.none": "Только название",
+  "events.badge.image": "Или загрузите изображение",
+  "events.badge.icon.star": "Звезда",
+  "events.badge.icon.quill": "Перо",
+  "events.badge.icon.scroll": "Свиток",
+  "events.badge.icon.campfire": "Костёр",
+  "events.badge.icon.castle": "Замок",
+  "events.badge.icon.wizardHat": "Шляпа волшебника",
+  "events.badge.icon.magic": "Магия",
+  "events.badge.icon.rocket": "Ракета",
+  "events.badge.icon.planet": "Планета",
+  "events.badge.icon.torch": "Факел",
+  "events.badge.icon.mic": "Гарнитура",
+  "events.badge.icon.heart": "Сердце"
 }

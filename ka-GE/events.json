@@ -81,5 +81,22 @@
   "events.helpers.username": "მომხმარებლის სახელი",
   "events.helpers.notFound": "ასეთი მომხმარებლის სახელი არავის აქვს.",
   "events.helpers.limit": "ღონისძიებას შეიძლება ჰყავდეს 20-მდე დამხმარე.",
-  "events.badges.title": "ღონისძიების ბეჯები"
+  "events.badges.title": "ღონისძიების ბეჯები",
+  "events.badge.title": "ბეჯი",
+  "events.badge.intro": "აირჩიეთ ხატულა ან ატვირთეთ კვადრატული სურათი, რომელიც მონაწილეთა პროფილებზე ღონისძიების სახელის გვერდით გამოჩნდება.",
+  "events.badge.icon": "ხატულა",
+  "events.badge.none": "მხოლოდ სახელი",
+  "events.badge.image": "ან ატვირთეთ სურათი",
+  "events.badge.icon.star": "ვარსკვლავი",
+  "events.badge.icon.quill": "ბუმბულის კალამი",
+  "events.badge.icon.scroll": "გრაგნილი",
+  "events.badge.icon.campfire": "კოცონი",
+  "events.badge.icon.castle": "ციხესიმაგრე",
+  "events.badge.icon.wizardHat": "ჯადოქრის ქუდი",
+  "events.badge.icon.magic": "მაგია",
+  "events.badge.icon.rocket": "რაკეტა",
+  "events.badge.icon.planet": "პლანეტა",
+  "events.badge.icon.torch": "ჩირაღდანი",
+  "events.badge.icon.mic": "ყურსასმენი",
+  "events.badge.icon.heart": "გული"
 }

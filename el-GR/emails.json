@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Αν δεν ήσασταν εσείς, αγνοήστε αυτό το email και δεν θα προστεθείτε.",
   "email.mailingList.confirm.subject": "Επιβεβαιώστε ότι θέλετε να εγγραφείτε στο {blogName}",
   "email.mailingList.confirm.title": "Εγγραφή στη λίστα αλληλογραφίας του {blogName}",
-  "email.mailingList.unsubscribe": "Διαγραφή από αυτή τη λίστα αλληλογραφίας"
+  "email.mailingList.unsubscribe": "Διαγραφή από αυτή τη λίστα αλληλογραφίας",
+  "email.notifications.eventMessage.subject": "Ο/Η {host} έστειλε μήνυμα για την εκδήλωση {event}",
+  "email.notifications.eventMessage.note": "Λαμβάνετε αυτό το μήνυμα επειδή δηλώσατε ότι θα έρθετε ή ίσως έρθετε στην εκδήλωση {event}. Αλλάξτε την απάντησή σας στη σελίδα της εκδήλωσης για να σταματήσετε αυτά τα μηνύματα.",
+  "email.notifications.eventMessage.cta": "Προβολή εκδήλωσης"
 }

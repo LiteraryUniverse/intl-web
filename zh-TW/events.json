@@ -81,5 +81,22 @@
   "events.helpers.username": "使用者名稱",
   "events.helpers.notFound": "沒有人使用這個使用者名稱。",
   "events.helpers.limit": "一個活動最多可有 20 位協助者。",
-  "events.badges.title": "活動徽章"
+  "events.badges.title": "活動徽章",
+  "events.badge.title": "徽章",
+  "events.badge.intro": "選擇圖示或上傳方形圖片，顯示在參加者個人檔案中活動名稱的旁邊。",
+  "events.badge.icon": "圖示",
+  "events.badge.none": "僅名稱",
+  "events.badge.image": "或上傳圖片",
+  "events.badge.icon.star": "星星",
+  "events.badge.icon.quill": "羽毛筆",
+  "events.badge.icon.scroll": "卷軸",
+  "events.badge.icon.campfire": "營火",
+  "events.badge.icon.castle": "城堡",
+  "events.badge.icon.wizardHat": "巫師帽",
+  "events.badge.icon.magic": "魔法",
+  "events.badge.icon.rocket": "火箭",
+  "events.badge.icon.planet": "行星",
+  "events.badge.icon.torch": "火炬",
+  "events.badge.icon.mic": "耳機麥克風",
+  "events.badge.icon.heart": "愛心"
 }

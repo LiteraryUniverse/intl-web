@@ -81,5 +81,22 @@
   "events.helpers.username": "Kasutajanimi",
   "events.helpers.notFound": "Sellist kasutajanime pole kellelgi.",
   "events.helpers.limit": "Üritusel võib olla kuni 20 abilist.",
-  "events.badges.title": "Ürituse märgid"
+  "events.badges.title": "Ürituse märgid",
+  "events.badge.title": "Märk",
+  "events.badge.intro": "Vali ikoon või laadi üles ruudukujuline pilt, mis kuvatakse osalejate profiilidel ürituse nime kõrval.",
+  "events.badge.icon": "Ikoon",
+  "events.badge.none": "Ainult nimi",
+  "events.badge.image": "Või laadi üles pilt",
+  "events.badge.icon.star": "Täht",
+  "events.badge.icon.quill": "Sulepea",
+  "events.badge.icon.scroll": "Rull",
+  "events.badge.icon.campfire": "Lõke",
+  "events.badge.icon.castle": "Loss",
+  "events.badge.icon.wizardHat": "Võlurimüts",
+  "events.badge.icon.magic": "Maagia",
+  "events.badge.icon.rocket": "Rakett",
+  "events.badge.icon.planet": "Planeet",
+  "events.badge.icon.torch": "Tõrvik",
+  "events.badge.icon.mic": "Peakomplekt",
+  "events.badge.icon.heart": "Süda"
 }

@@ -81,5 +81,22 @@
   "events.helpers.username": "பயனர்பெயர்",
   "events.helpers.notFound": "அந்தப் பயனர்பெயரில் யாரும் இல்லை.",
   "events.helpers.limit": "ஒரு நிகழ்வுக்கு அதிகபட்சம் 20 உதவியாளர்கள் இருக்கலாம்.",
-  "events.badges.title": "நிகழ்வு பேட்ஜ்கள்"
+  "events.badges.title": "நிகழ்வு பேட்ஜ்கள்",
+  "events.badge.title": "பேட்ஜ்",
+  "events.badge.intro": "ஒரு ஐகானைத் தேர்ந்தெடுக்கவும் அல்லது சதுர வடிவப் படத்தைப் பதிவேற்றவும்; இது பங்கேற்பாளர்களின் சுயவிவரங்களில் நிகழ்வின் பெயருக்கு அருகில் காட்டப்படும்.",
+  "events.badge.icon": "ஐகான்",
+  "events.badge.none": "பெயர் மட்டும்",
+  "events.badge.image": "அல்லது படத்தைப் பதிவேற்றவும்",
+  "events.badge.icon.star": "நட்சத்திரம்",
+  "events.badge.icon.quill": "இறகுப் பேனா",
+  "events.badge.icon.scroll": "சுருள்",
+  "events.badge.icon.campfire": "முகாம் தீ",
+  "events.badge.icon.castle": "கோட்டை",
+  "events.badge.icon.wizardHat": "மந்திரவாதி தொப்பி",
+  "events.badge.icon.magic": "மாயம்",
+  "events.badge.icon.rocket": "ராக்கெட்",
+  "events.badge.icon.planet": "கிரகம்",
+  "events.badge.icon.torch": "தீப்பந்தம்",
+  "events.badge.icon.mic": "ஹெட்செட்",
+  "events.badge.icon.heart": "இதயம்"
 }

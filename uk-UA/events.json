@@ -81,5 +81,22 @@
   "events.helpers.username": "Ім'я користувача",
   "events.helpers.notFound": "Ніхто не має такого імені користувача.",
   "events.helpers.limit": "Подія може мати до 20 помічників.",
-  "events.badges.title": "Значки подій"
+  "events.badges.title": "Значки подій",
+  "events.badge.title": "Значок",
+  "events.badge.intro": "Виберіть іконку або завантажте квадратне зображення, яке показуватиметься поруч із назвою події в профілях учасників.",
+  "events.badge.icon": "Іконка",
+  "events.badge.none": "Лише назва",
+  "events.badge.image": "Або завантажте зображення",
+  "events.badge.icon.star": "Зірка",
+  "events.badge.icon.quill": "Перо",
+  "events.badge.icon.scroll": "Сувій",
+  "events.badge.icon.campfire": "Багаття",
+  "events.badge.icon.castle": "Замок",
+  "events.badge.icon.wizardHat": "Капелюх чарівника",
+  "events.badge.icon.magic": "Магія",
+  "events.badge.icon.rocket": "Ракета",
+  "events.badge.icon.planet": "Планета",
+  "events.badge.icon.torch": "Смолоскип",
+  "events.badge.icon.mic": "Гарнітура",
+  "events.badge.icon.heart": "Серце"
 }

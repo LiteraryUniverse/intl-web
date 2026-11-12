@@ -81,5 +81,22 @@
   "events.helpers.username": "Uzantnomo",
   "events.helpers.notFound": "Neniu havas tiun uzantnomon.",
   "events.helpers.limit": "Evento povas havi ĝis 20 helpantojn.",
-  "events.badges.title": "Eventaj insignoj"
+  "events.badges.title": "Eventaj insignoj",
+  "events.badge.title": "Insigno",
+  "events.badge.intro": "Elektu bildsimbolon aŭ alŝutu kvadratan bildon, kiu montriĝu apud la evento-nomo en la profiloj de la partoprenantoj.",
+  "events.badge.icon": "Bildsimbolo",
+  "events.badge.none": "Nur nomo",
+  "events.badge.image": "Aŭ alŝutu bildon",
+  "events.badge.icon.star": "Stelo",
+  "events.badge.icon.quill": "Plumo",
+  "events.badge.icon.scroll": "Rulaĵo",
+  "events.badge.icon.campfire": "Tendarfajro",
+  "events.badge.icon.castle": "Kastelo",
+  "events.badge.icon.wizardHat": "Sorĉista ĉapelo",
+  "events.badge.icon.magic": "Magio",
+  "events.badge.icon.rocket": "Raketo",
+  "events.badge.icon.planet": "Planedo",
+  "events.badge.icon.torch": "Torĉo",
+  "events.badge.icon.mic": "Kapaŭdilo",
+  "events.badge.icon.heart": "Koro"
 }

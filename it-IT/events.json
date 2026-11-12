@@ -81,5 +81,22 @@
   "events.helpers.username": "Nome utente",
   "events.helpers.notFound": "Nessuno ha questo nome utente.",
   "events.helpers.limit": "Un evento può avere fino a 20 aiutanti.",
-  "events.badges.title": "Badge degli eventi"
+  "events.badges.title": "Badge degli eventi",
+  "events.badge.title": "Badge",
+  "events.badge.intro": "Scegli un'icona o carica un'immagine quadrata da mostrare accanto al nome dell'evento sui profili dei partecipanti.",
+  "events.badge.icon": "Icona",
+  "events.badge.none": "Solo il nome",
+  "events.badge.image": "Oppure carica un'immagine",
+  "events.badge.icon.star": "Stella",
+  "events.badge.icon.quill": "Penna d'oca",
+  "events.badge.icon.scroll": "Pergamena",
+  "events.badge.icon.campfire": "Falò",
+  "events.badge.icon.castle": "Castello",
+  "events.badge.icon.wizardHat": "Cappello da mago",
+  "events.badge.icon.magic": "Magia",
+  "events.badge.icon.rocket": "Razzo",
+  "events.badge.icon.planet": "Pianeta",
+  "events.badge.icon.torch": "Torcia",
+  "events.badge.icon.mic": "Cuffia",
+  "events.badge.icon.heart": "Cuore"
 }

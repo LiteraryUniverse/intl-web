@@ -81,5 +81,22 @@
   "events.helpers.username": "Nama pengguna",
   "events.helpers.notFound": "Tidak ada yang memiliki nama pengguna itu.",
   "events.helpers.limit": "Satu acara dapat memiliki hingga 20 pembantu.",
-  "events.badges.title": "Lencana acara"
+  "events.badges.title": "Lencana acara",
+  "events.badge.title": "Lencana",
+  "events.badge.intro": "Pilih ikon atau unggah gambar persegi untuk ditampilkan di samping nama acara pada profil peserta.",
+  "events.badge.icon": "Ikon",
+  "events.badge.none": "Nama saja",
+  "events.badge.image": "Atau unggah gambar",
+  "events.badge.icon.star": "Bintang",
+  "events.badge.icon.quill": "Pena bulu",
+  "events.badge.icon.scroll": "Gulungan",
+  "events.badge.icon.campfire": "Api unggun",
+  "events.badge.icon.castle": "Kastil",
+  "events.badge.icon.wizardHat": "Topi penyihir",
+  "events.badge.icon.magic": "Sihir",
+  "events.badge.icon.rocket": "Roket",
+  "events.badge.icon.planet": "Planet",
+  "events.badge.icon.torch": "Obor",
+  "events.badge.icon.mic": "Headset",
+  "events.badge.icon.heart": "Hati"
 }

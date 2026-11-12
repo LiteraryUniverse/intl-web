@@ -81,5 +81,22 @@
   "events.helpers.username": "यूज़रनेम",
   "events.helpers.notFound": "इस यूज़रनेम वाला कोई नहीं है।",
   "events.helpers.limit": "एक इवेंट में अधिकतम 20 सहायक हो सकते हैं।",
-  "events.badges.title": "इवेंट बैज"
+  "events.badges.title": "इवेंट बैज",
+  "events.badge.title": "बैज",
+  "events.badge.intro": "इवेंट के नाम के साथ उपस्थित लोगों की प्रोफ़ाइल पर दिखाने के लिए कोई आइकन चुनें या वर्गाकार छवि अपलोड करें।",
+  "events.badge.icon": "आइकन",
+  "events.badge.none": "सिर्फ़ नाम",
+  "events.badge.image": "या कोई छवि अपलोड करें",
+  "events.badge.icon.star": "सितारा",
+  "events.badge.icon.quill": "कलम",
+  "events.badge.icon.scroll": "पांडुलिपि",
+  "events.badge.icon.campfire": "अलाव",
+  "events.badge.icon.castle": "क़िला",
+  "events.badge.icon.wizardHat": "जादूगर की टोपी",
+  "events.badge.icon.magic": "जादू",
+  "events.badge.icon.rocket": "रॉकेट",
+  "events.badge.icon.planet": "ग्रह",
+  "events.badge.icon.torch": "मशाल",
+  "events.badge.icon.mic": "हेडसेट",
+  "events.badge.icon.heart": "दिल"
 }

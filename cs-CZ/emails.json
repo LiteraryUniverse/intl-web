@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "Pokud jste to nebyli vy, tento e-mail ignorujte a nebudete přidáni.",
   "email.mailingList.confirm.subject": "Potvrďte, že se chcete připojit k blogu {blogName}",
   "email.mailingList.confirm.title": "Připojte se k seznamu odběratelů blogu {blogName}",
-  "email.mailingList.unsubscribe": "Odhlásit odběr tohoto seznamu"
+  "email.mailingList.unsubscribe": "Odhlásit odběr tohoto seznamu",
+  "email.notifications.eventMessage.subject": "{host} poslal(a) zprávu k události {event}",
+  "email.notifications.eventMessage.note": "Tuto zprávu dostáváte, protože jste uvedli, že se události {event} zúčastníte nebo možná zúčastníte. Pokud je už nechcete dostávat, změňte svou odpověď na stránce události.",
+  "email.notifications.eventMessage.cta": "Zobrazit událost"
 }

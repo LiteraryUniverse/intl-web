@@ -81,5 +81,22 @@
   "events.helpers.username": "ഉപയോക്തൃനാമം",
   "events.helpers.notFound": "ആ ഉപയോക്തൃനാമമുള്ള ആരുമില്ല.",
   "events.helpers.limit": "ഒരു ഇവന്റിന് 20 സഹായികൾ വരെ ഉണ്ടാകാം.",
-  "events.badges.title": "ഇവന്റ് ബാഡ്ജുകൾ"
+  "events.badges.title": "ഇവന്റ് ബാഡ്ജുകൾ",
+  "events.badge.title": "ബാഡ്ജ്",
+  "events.badge.intro": "പങ്കെടുക്കുന്നവരുടെ പ്രൊഫൈലിൽ ഇവന്റിന്റെ പേരിനൊപ്പം കാണിക്കാൻ ഒരു ഐക്കൺ തിരഞ്ഞെടുക്കുക, അല്ലെങ്കിൽ ചതുരാകൃതിയിലുള്ള ചിത്രം അപ്‌ലോഡ് ചെയ്യുക.",
+  "events.badge.icon": "ഐക്കൺ",
+  "events.badge.none": "പേര് മാത്രം",
+  "events.badge.image": "അല്ലെങ്കിൽ ചിത്രം അപ്‌ലോഡ് ചെയ്യുക",
+  "events.badge.icon.star": "നക്ഷത്രം",
+  "events.badge.icon.quill": "തൂവൽപേന",
+  "events.badge.icon.scroll": "ചുരുൾ",
+  "events.badge.icon.campfire": "തീകൂട്ടൽ",
+  "events.badge.icon.castle": "കോട്ട",
+  "events.badge.icon.wizardHat": "മന്ത്രവാദിയുടെ തൊപ്പി",
+  "events.badge.icon.magic": "മാജിക്",
+  "events.badge.icon.rocket": "റോക്കറ്റ്",
+  "events.badge.icon.planet": "ഗ്രഹം",
+  "events.badge.icon.torch": "പന്തം",
+  "events.badge.icon.mic": "ഹെഡ്സെറ്റ്",
+  "events.badge.icon.heart": "ഹൃദയം"
 }

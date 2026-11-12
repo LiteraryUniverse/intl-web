@@ -261,5 +261,8 @@
   "email.mailingList.confirm.ignore": "إذا لم يكن الطلب منك، فتجاهل هذه الرسالة ولن تتم إضافتك.",
   "email.mailingList.confirm.subject": "أكّد رغبتك في الانضمام إلى {blogName}",
   "email.mailingList.confirm.title": "انضم إلى القائمة البريدية لـ {blogName}",
-  "email.mailingList.unsubscribe": "إلغاء الاشتراك في هذه القائمة البريدية"
+  "email.mailingList.unsubscribe": "إلغاء الاشتراك في هذه القائمة البريدية",
+  "email.notifications.eventMessage.subject": "أرسل {host} رسالة بخصوص {event}",
+  "email.notifications.eventMessage.note": "وصلتك هذه الرسالة لأنك أخبرتنا أنك ستحضر {event} أو قد تحضره. غيّر ردك في صفحة الفعالية لإيقاف هذه الرسائل.",
+  "email.notifications.eventMessage.cta": "عرض الفعالية"
 }
