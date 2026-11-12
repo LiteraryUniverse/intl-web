@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Παρουσία καταγράφηκε",
   "events.checkIn.checkPerson": "Καταγραφή παρουσίας: {name}",
   "events.message.title": "Μήνυμα στους συμμετέχοντες",
-  "events.message.intro": "Όποιος δήλωσε ότι θα έρθει ή ότι ίσως έρθει λαμβάνει αυτό το μήνυμα ως ειδοποίηση και email.",
+  "events.message.intro": "Όποιος δήλωσε ότι θα έρθει ή ότι ίσως έρθει βλέπει αυτό το μήνυμα στη σελίδα της εκδήλωσης. Όποιος δεν το έχει δει εκεί λαμβάνει ειδοποίηση και έπειτα email.",
   "events.message.send": "Αποστολή",
   "events.message.sent": "Στάλθηκε.",
   "events.message.limit": "Μια εκδήλωση μπορεί να στείλει έως και {count, number} μηνύματα την ημέρα.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Πλανήτης",
   "events.badge.icon.torch": "Δάδα",
   "events.badge.icon.mic": "Ακουστικά",
-  "events.badge.icon.heart": "Καρδιά"
+  "events.badge.icon.heart": "Καρδιά",
+  "events.messages.title": "Μηνύματα από τον διοργανωτή"
 }

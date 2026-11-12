@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Obecny",
   "events.checkIn.checkPerson": "Zaznacz obecność: {name}",
   "events.message.title": "Wiadomość do uczestników",
-  "events.message.intro": "Każdy, kto zapowiedział, że przyjdzie lub że może przyjść, dostaje ją jako powiadomienie i e-mail.",
+  "events.message.intro": "Każdy, kto zapowiedział, że przyjdzie lub że może przyjść, widzi ją na stronie wydarzenia. Kto nie zobaczył jej tam, dostaje powiadomienie, a potem e-mail.",
   "events.message.send": "Wyślij",
   "events.message.sent": "Wysłano.",
   "events.message.limit": "Limit wiadomości dla jednego wydarzenia: {count, number} dziennie.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planeta",
   "events.badge.icon.torch": "Pochodnia",
   "events.badge.icon.mic": "Zestaw słuchawkowy",
-  "events.badge.icon.heart": "Serce"
+  "events.badge.icon.heart": "Serce",
+  "events.messages.title": "Wiadomości od organizatora"
 }

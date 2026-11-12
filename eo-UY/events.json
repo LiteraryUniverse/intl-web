@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Enregistrita",
   "events.checkIn.checkPerson": "Enregistri {name}",
   "events.message.title": "Mesaĝi la partoprenantojn",
-  "events.message.intro": "Ĉiu, kiu diris, ke li venos aŭ eble venos, ricevas ĉi tion kiel sciigon kaj retmesaĝon.",
+  "events.message.intro": "Ĉiu, kiu diris, ke li venos aŭ eble venos, vidas ĉi tion en la paĝo de la evento. Kiu ne vidis ĝin tie, ricevas sciigon, poste retmesaĝon.",
   "events.message.send": "Sendi",
   "events.message.sent": "Sendita.",
   "events.message.limit": "Unu evento povas sendi ĝis {count, number} mesaĝojn tage.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planedo",
   "events.badge.icon.torch": "Torĉo",
   "events.badge.icon.mic": "Kapaŭdilo",
-  "events.badge.icon.heart": "Koro"
+  "events.badge.icon.heart": "Koro",
+  "events.messages.title": "Mesaĝoj de la aranĝanto"
 }

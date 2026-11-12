@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Sjekket inn",
   "events.checkIn.checkPerson": "Sjekk inn {name}",
   "events.message.title": "Send melding til deltakerne",
-  "events.message.intro": "Alle som har sagt at de kommer eller kanskje kommer, får dette som et varsel og en e-post.",
+  "events.message.intro": "Alle som har sagt at de kommer eller kanskje kommer, ser dette på arrangementssiden. De som ikke har sett det der, får et varsel og deretter en e-post.",
   "events.message.send": "Send",
   "events.message.sent": "Sendt.",
   "events.message.limit": "Et arrangement kan sende opptil {count, number} meldinger per dag.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planet",
   "events.badge.icon.torch": "Fakkel",
   "events.badge.icon.mic": "Headset",
-  "events.badge.icon.heart": "Hjerte"
+  "events.badge.icon.heart": "Hjerte",
+  "events.messages.title": "Meldinger fra verten"
 }

@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "வருகைப் பதிவு செய்யப்பட்டது",
   "events.checkIn.checkPerson": "{name} வருகையைப் பதிவு செய்",
   "events.message.title": "பங்கேற்பாளர்களுக்குச் செய்தி",
-  "events.message.intro": "வருவதாக அல்லது வரக்கூடும் எனத் தெரிவித்த அனைவருக்கும் இது அறிவிப்பாகவும் மின்னஞ்சலாகவும் செல்லும்.",
+  "events.message.intro": "வருவதாக அல்லது வரக்கூடும் எனத் தெரிவித்த அனைவரும் இதை நிகழ்வுப் பக்கத்தில் காண்பார்கள். அங்கே பார்க்காதவர்களுக்கு அறிவிப்பும், பின்னர் மின்னஞ்சலும் செல்லும்.",
   "events.message.send": "அனுப்பு",
   "events.message.sent": "அனுப்பப்பட்டது.",
   "events.message.limit": "ஒரு நிகழ்வு ஒரு நாளில் அதிகபட்சம் {count, number} செய்திகளை அனுப்பலாம்.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "கிரகம்",
   "events.badge.icon.torch": "தீப்பந்தம்",
   "events.badge.icon.mic": "ஹெட்செட்",
-  "events.badge.icon.heart": "இதயம்"
+  "events.badge.icon.heart": "இதயம்",
+  "events.messages.title": "ஹோஸ்டின் செய்திகள்"
 }

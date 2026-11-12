@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "ਚੈੱਕ-ਇਨ ਕੀਤਾ",
   "events.checkIn.checkPerson": "{name} ਨੂੰ ਚੈੱਕ-ਇਨ ਕਰੋ",
   "events.message.title": "ਹਾਜ਼ਰ ਹੋਣ ਵਾਲਿਆਂ ਨੂੰ ਸੁਨੇਹਾ ਭੇਜੋ",
-  "events.message.intro": "ਜਿਨ੍ਹਾਂ ਨੇ ਕਿਹਾ ਹੈ ਕਿ ਉਹ ਆਉਣਗੇ ਜਾਂ ਆ ਸਕਦੇ ਹਨ, ਉਨ੍ਹਾਂ ਸਾਰਿਆਂ ਨੂੰ ਇਹ ਸੂਚਨਾ ਅਤੇ ਈਮੇਲ ਵਜੋਂ ਮਿਲਦਾ ਹੈ।",
+  "events.message.intro": "ਜਿਨ੍ਹਾਂ ਨੇ ਕਿਹਾ ਹੈ ਕਿ ਉਹ ਆਉਣਗੇ ਜਾਂ ਆ ਸਕਦੇ ਹਨ, ਉਹ ਸਾਰੇ ਇਸਨੂੰ ਇਵੈਂਟ ਪੰਨੇ 'ਤੇ ਦੇਖਦੇ ਹਨ। ਜਿਨ੍ਹਾਂ ਨੇ ਇਹ ਉੱਥੇ ਨਹੀਂ ਦੇਖਿਆ, ਉਨ੍ਹਾਂ ਨੂੰ ਸੂਚਨਾ ਮਿਲਦੀ ਹੈ, ਫਿਰ ਈਮੇਲ।",
   "events.message.send": "ਭੇਜੋ",
   "events.message.sent": "ਭੇਜ ਦਿੱਤਾ ਗਿਆ।",
   "events.message.limit": "ਇੱਕ ਸਮਾਗਮ ਇੱਕ ਦਿਨ ਵਿੱਚ {count, number} ਸੁਨੇਹੇ ਤੱਕ ਭੇਜ ਸਕਦਾ ਹੈ।",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "ਗ੍ਰਹਿ",
   "events.badge.icon.torch": "ਮਸ਼ਾਲ",
   "events.badge.icon.mic": "ਹੈੱਡਸੈੱਟ",
-  "events.badge.icon.heart": "ਦਿਲ"
+  "events.badge.icon.heart": "ਦਿਲ",
+  "events.messages.title": "ਮੇਜ਼ਬਾਨ ਦੇ ਸੁਨੇਹੇ"
 }

@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Incheckad",
   "events.checkIn.checkPerson": "Checka in {name}",
   "events.message.title": "Meddela deltagare",
-  "events.message.intro": "Alla som har sagt att de kommer eller kanske kommer får detta som avisering och e-post.",
+  "events.message.intro": "Alla som har sagt att de kommer eller kanske kommer ser detta på evenemangssidan. De som inte har sett det där får en avisering och därefter ett e-postmeddelande.",
   "events.message.send": "Skicka",
   "events.message.sent": "Skickat.",
   "events.message.limit": "Ett evenemang kan skicka upp till {count, number} meddelanden per dag.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planet",
   "events.badge.icon.torch": "Fackla",
   "events.badge.icon.mic": "Headset",
-  "events.badge.icon.heart": "Hjärta"
+  "events.badge.icon.heart": "Hjärta",
+  "events.messages.title": "Meddelanden från värden"
 }

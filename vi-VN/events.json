@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Đã điểm danh",
   "events.checkIn.checkPerson": "Điểm danh {name}",
   "events.message.title": "Nhắn tin cho người tham dự",
-  "events.message.intro": "Mọi người đã trả lời sẽ đến hoặc có thể đến sẽ nhận tin nhắn này dưới dạng thông báo và email.",
+  "events.message.intro": "Mọi người đã trả lời sẽ đến hoặc có thể đến sẽ thấy tin nhắn này trên trang sự kiện. Ai chưa thấy ở đó sẽ nhận thông báo, rồi đến email.",
   "events.message.send": "Gửi",
   "events.message.sent": "Đã gửi.",
   "events.message.limit": "Mỗi sự kiện được gửi tối đa {count, number} tin nhắn mỗi ngày.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Hành tinh",
   "events.badge.icon.torch": "Đuốc",
   "events.badge.icon.mic": "Tai nghe",
-  "events.badge.icon.heart": "Trái tim"
+  "events.badge.icon.heart": "Trái tim",
+  "events.messages.title": "Tin nhắn từ người tổ chức"
 }

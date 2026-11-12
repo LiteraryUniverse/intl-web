@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Kirjautunut paikalle",
   "events.checkIn.checkPerson": "Kirjaa {name} paikalle",
   "events.message.title": "Viesti osallistujille",
-  "events.message.intro": "Kaikki, jotka ilmoittivat tulevansa tai ehkä tulevansa, saavat tämän ilmoituksena ja sähköpostina.",
+  "events.message.intro": "Kaikki, jotka ilmoittivat tulevansa tai ehkä tulevansa, näkevät tämän tapahtumasivulla. Jos et ole nähnyt sitä siellä, saat ilmoituksen ja sen jälkeen sähköpostin.",
   "events.message.send": "Lähetä",
   "events.message.sent": "Lähetetty.",
   "events.message.limit": "Yksi tapahtuma voi lähettää enintään {count, number} viestiä päivässä.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planeetta",
   "events.badge.icon.torch": "Soihtu",
   "events.badge.icon.mic": "Kuulokemikrofoni",
-  "events.badge.icon.heart": "Sydän"
+  "events.badge.icon.heart": "Sydän",
+  "events.messages.title": "Isännän viestit"
 }

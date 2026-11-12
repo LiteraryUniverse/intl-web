@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "체크인 완료",
   "events.checkIn.checkPerson": "{name} 체크인",
   "events.message.title": "참석자에게 메시지 보내기",
-  "events.message.intro": "참석 또는 미정이라고 답한 모든 사람이 이 메시지를 알림과 이메일로 받습니다.",
+  "events.message.intro": "참석 또는 미정이라고 답한 모든 사람이 이벤트 페이지에서 이 메시지를 봅니다. 거기서 확인하지 않은 사람에게는 알림이, 그다음 이메일이 전송됩니다.",
   "events.message.send": "보내기",
   "events.message.sent": "전송했습니다.",
   "events.message.limit": "이벤트 하나당 하루에 최대 {count, number}개의 메시지를 보낼 수 있습니다.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "행성",
   "events.badge.icon.torch": "횃불",
   "events.badge.icon.mic": "헤드셋",
-  "events.badge.icon.heart": "하트"
+  "events.badge.icon.heart": "하트",
+  "events.messages.title": "호스트의 메시지"
 }

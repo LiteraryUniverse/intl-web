@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "เช็กอินแล้ว",
   "events.checkIn.checkPerson": "เช็กอิน {name}",
   "events.message.title": "ส่งข้อความถึงผู้เข้าร่วม",
-  "events.message.intro": "ทุกคนที่ตอบว่าจะมาหรืออาจจะมาจะได้รับข้อความนี้เป็นการแจ้งเตือนและอีเมล",
+  "events.message.intro": "ทุกคนที่ตอบว่าจะมาหรืออาจจะมาจะเห็นข้อความนี้ในหน้ากิจกรรม ส่วนคนที่ยังไม่เห็นในหน้านั้นจะได้รับการแจ้งเตือน แล้วตามด้วยอีเมล",
   "events.message.send": "ส่ง",
   "events.message.sent": "ส่งแล้ว",
   "events.message.limit": "กิจกรรมหนึ่งส่งข้อความได้สูงสุด {count, number} ข้อความต่อวัน",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "ดาวเคราะห์",
   "events.badge.icon.torch": "คบเพลิง",
   "events.badge.icon.mic": "ชุดหูฟัง",
-  "events.badge.icon.heart": "หัวใจ"
+  "events.badge.icon.heart": "หัวใจ",
+  "events.messages.title": "ข้อความจากผู้จัด"
 }

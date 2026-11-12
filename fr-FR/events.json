@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Enregistré",
   "events.checkIn.checkPerson": "Enregistrer {name}",
   "events.message.title": "Écrire aux participants",
-  "events.message.intro": "Toute personne ayant répondu qu'elle viendra ou qu'elle viendra peut-être reçoit ce message sous forme de notification et d'e-mail.",
+  "events.message.intro": "Toute personne ayant répondu qu'elle viendra ou qu'elle viendra peut-être voit ce message sur la page de l'événement. Celle qui ne l'y a pas vu reçoit une notification, puis un e-mail.",
   "events.message.send": "Envoyer",
   "events.message.sent": "Envoyé.",
   "events.message.limit": "Un événement peut envoyer jusqu'à {count, number} messages par jour.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planète",
   "events.badge.icon.torch": "Torche",
   "events.badge.icon.mic": "Casque audio",
-  "events.badge.icon.heart": "Cœur"
+  "events.badge.icon.heart": "Cœur",
+  "events.messages.title": "Messages de l'organisateur"
 }

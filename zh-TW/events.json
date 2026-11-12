@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "已報到",
   "events.checkIn.checkPerson": "為 {name} 報到",
   "events.message.title": "訊息通知參加者",
-  "events.message.intro": "所有表示會參加或可能參加的人，都會收到通知和電子郵件。",
+  "events.message.intro": "所有表示會參加或可能參加的人，都會在活動頁面看到這則訊息。尚未在該處看到的人會收到通知，接著收到電子郵件。",
   "events.message.send": "傳送",
   "events.message.sent": "已傳送。",
   "events.message.limit": "單一活動每天最多可傳送 {count, number} 則訊息。",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "行星",
   "events.badge.icon.torch": "火炬",
   "events.badge.icon.mic": "耳機麥克風",
-  "events.badge.icon.heart": "愛心"
+  "events.badge.icon.heart": "愛心",
+  "events.messages.title": "主辦人的訊息"
 }

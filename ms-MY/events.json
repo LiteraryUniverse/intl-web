@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Telah daftar masuk",
   "events.checkIn.checkPerson": "Daftar masuk {name}",
   "events.message.title": "Mesej kepada peserta",
-  "events.message.intro": "Semua yang memaklumkan akan hadir atau mungkin hadir menerima ini sebagai pemberitahuan dan e-mel.",
+  "events.message.intro": "Semua yang memaklumkan akan hadir atau mungkin hadir melihat ini di halaman acara. Yang belum melihatnya di sana akan menerima pemberitahuan, kemudian e-mel.",
   "events.message.send": "Hantar",
   "events.message.sent": "Dihantar.",
   "events.message.limit": "Satu acara boleh menghantar sehingga {count, number} mesej sehari.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planet",
   "events.badge.icon.torch": "Jamung",
   "events.badge.icon.mic": "Set kepala",
-  "events.badge.icon.heart": "Hati"
+  "events.badge.icon.heart": "Hati",
+  "events.messages.title": "Mesej daripada penganjur"
 }

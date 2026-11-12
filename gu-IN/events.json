@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "ચેક-ઇન થયું",
   "events.checkIn.checkPerson": "{name} ને ચેક-ઇન કરો",
   "events.message.title": "હાજર રહેનારાઓને સંદેશ મોકલો",
-  "events.message.intro": "જેમણે આવવાનું અથવા કદાચ આવવાનું જણાવ્યું છે તે બધાને આ સૂચના અને ઇમેઇલ તરીકે મળે છે.",
+  "events.message.intro": "જેમણે આવવાનું અથવા કદાચ આવવાનું જણાવ્યું છે તે બધા આ ઇવેન્ટ પેજ પર જુએ છે. જેમણે તે ત્યાં જોયું નથી તેમને સૂચના મળે છે, પછી ઇમેઇલ.",
   "events.message.send": "મોકલો",
   "events.message.sent": "મોકલાયું.",
   "events.message.limit": "એક ઇવેન્ટ દિવસમાં વધુમાં વધુ {count, number} સંદેશ મોકલી શકે છે.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "ગ્રહ",
   "events.badge.icon.torch": "મશાલ",
   "events.badge.icon.mic": "હેડસેટ",
-  "events.badge.icon.heart": "હૃદય"
+  "events.badge.icon.heart": "હૃદય",
+  "events.messages.title": "યજમાનના સંદેશા"
 }

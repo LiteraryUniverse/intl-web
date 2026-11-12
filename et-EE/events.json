@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Registreeritud",
   "events.checkIn.checkPerson": "Registreeri {name}",
   "events.message.title": "Teata osalejatele",
-  "events.message.intro": "Kõik, kes lubasid tulla või ehk tulevad, saavad selle teavituse ja e-kirjana.",
+  "events.message.intro": "Kõik, kes lubasid tulla või ehk tulevad, näevad seda ürituse lehel. Kes seda seal ei näinud, saab teavituse ja seejärel e-kirja.",
   "events.message.send": "Saada",
   "events.message.sent": "Saadetud.",
   "events.message.limit": "Ühest üritusest saab päevas saata kuni {count, number} sõnumit.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planeet",
   "events.badge.icon.torch": "Tõrvik",
   "events.badge.icon.mic": "Peakomplekt",
-  "events.badge.icon.heart": "Süda"
+  "events.badge.icon.heart": "Süda",
+  "events.messages.title": "Korraldaja sõnumid"
 }

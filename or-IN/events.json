@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Checked in",
   "events.checkIn.checkPerson": "Check in {name}",
   "events.message.title": "Message attendees",
-  "events.message.intro": "Everyone who said they will or might come gets this as a notification and an email.",
+  "events.message.intro": "Everyone who said they will or might come sees this on the event page. Whoever hasn't seen it there gets a notification, then an email.",
   "events.message.send": "Send",
   "events.message.sent": "Sent.",
   "events.message.limit": "One event can send up to {count, number} messages a day.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planet",
   "events.badge.icon.torch": "Torch",
   "events.badge.icon.mic": "Headset",
-  "events.badge.icon.heart": "Heart"
+  "events.badge.icon.heart": "Heart",
+  "events.messages.title": "Messages from the host"
 }

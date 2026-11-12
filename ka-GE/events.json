@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "დარეგისტრირდა",
   "events.checkIn.checkPerson": "{name}-ის რეგისტრაცია შესვლისას",
   "events.message.title": "შეტყობინება მონაწილეებს",
-  "events.message.intro": "ყველა, ვინც თქვა, რომ მოვა ან შეიძლება მოვიდეს, მიიღებს ამას შეტყობინებისა და ელფოსტის სახით.",
+  "events.message.intro": "ყველა, ვინც თქვა, რომ მოვა ან შეიძლება მოვიდეს, ამას ხედავს ღონისძიების გვერდზე. ვინც იქ ვერ ნახა, მიიღებს შეტყობინებას, შემდეგ კი ელფოსტას.",
   "events.message.send": "გაგზავნა",
   "events.message.sent": "გაიგზავნა.",
   "events.message.limit": "ერთ ღონისძიებას დღეში {count, number} შეტყობინებამდე შეუძლია გაგზავნოს.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "პლანეტა",
   "events.badge.icon.torch": "ჩირაღდანი",
   "events.badge.icon.mic": "ყურსასმენი",
-  "events.badge.icon.heart": "გული"
+  "events.badge.icon.heart": "გული",
+  "events.messages.title": "შეტყობინებები ორგანიზატორისგან"
 }

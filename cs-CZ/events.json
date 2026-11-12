@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Přítomnost",
   "events.checkIn.checkPerson": "Zapsat přítomnost: {name}",
   "events.message.title": "Zpráva účastníkům",
-  "events.message.intro": "Každý, kdo potvrdil účast nebo možná přijde, dostane tuto zprávu jako oznámení a e-mail.",
+  "events.message.intro": "Každý, kdo potvrdil účast nebo možná přijde, to uvidí na stránce akce. Kdo to tam neviděl, dostane oznámení a potom e-mail.",
   "events.message.send": "Odeslat",
   "events.message.sent": "Odesláno.",
   "events.message.limit": "Limit zpráv na jednu událost za den: {count, number}.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planeta",
   "events.badge.icon.torch": "Pochodeň",
   "events.badge.icon.mic": "Headset",
-  "events.badge.icon.heart": "Srdce"
+  "events.badge.icon.heart": "Srdce",
+  "events.messages.title": "Zprávy od pořadatele"
 }

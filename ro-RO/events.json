@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Check-in efectuat",
   "events.checkIn.checkPerson": "Check-in pentru {name}",
   "events.message.title": "Mesaj către participanți",
-  "events.message.intro": "Toți cei care au spus că vin sau că poate vin primesc acest mesaj ca notificare și e-mail.",
+  "events.message.intro": "Toți cei care au spus că vin sau că poate vin văd acest mesaj pe pagina evenimentului. Cine nu l-a văzut acolo primește o notificare, apoi un e-mail.",
   "events.message.send": "Trimite",
   "events.message.sent": "Trimis.",
   "events.message.limit": "Un eveniment poate trimite cel mult {count, number} mesaje pe zi.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planetă",
   "events.badge.icon.torch": "Torță",
   "events.badge.icon.mic": "Căști cu microfon",
-  "events.badge.icon.heart": "Inimă"
+  "events.badge.icon.heart": "Inimă",
+  "events.messages.title": "Mesaje de la gazdă"
 }

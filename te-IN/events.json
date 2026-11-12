@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "చెక్ ఇన్ అయ్యారు",
   "events.checkIn.checkPerson": "{name}ను చెక్ ఇన్ చేయండి",
   "events.message.title": "హాజరయ్యేవారికి సందేశం పంపండి",
-  "events.message.intro": "వస్తామని లేదా రావచ్చని చెప్పిన ప్రతి ఒక్కరికి ఇది నోటిఫికేషన్‌గా మరియు ఇమెయిల్‌గా అందుతుంది.",
+  "events.message.intro": "వస్తామని లేదా రావచ్చని చెప్పిన ప్రతి ఒక్కరూ దీన్ని ఈవెంట్ పేజీలో చూస్తారు. అక్కడ చూడని వారికి నోటిఫికేషన్ వస్తుంది, ఆ తర్వాత ఇమెయిల్.",
   "events.message.send": "పంపండి",
   "events.message.sent": "పంపబడింది.",
   "events.message.limit": "ఒక ఈవెంట్ రోజుకు {count, number} సందేశాల వరకు పంపవచ్చు.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "గ్రహం",
   "events.badge.icon.torch": "కాగడా",
   "events.badge.icon.mic": "హెడ్‌సెట్",
-  "events.badge.icon.heart": "హృదయం"
+  "events.badge.icon.heart": "హృదయం",
+  "events.messages.title": "హోస్ట్ సందేశాలు"
 }

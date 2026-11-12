@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Registrat",
   "events.checkIn.checkPerson": "Registra l'arribada de {name}",
   "events.message.title": "Envia un missatge als assistents",
-  "events.message.intro": "Tothom qui ha dit que vindrà o que potser vindrà rep això com a notificació i correu electrònic.",
+  "events.message.intro": "Tothom qui ha dit que vindrà o que potser vindrà ho veu a la pàgina de l'esdeveniment. Qui no ho ha vist allà rep una notificació i, després, un correu electrònic.",
   "events.message.send": "Envia",
   "events.message.sent": "Enviat.",
   "events.message.limit": "Un esdeveniment pot enviar fins a {count, number} missatges al dia.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planeta",
   "events.badge.icon.torch": "Torxa",
   "events.badge.icon.mic": "Auricular",
-  "events.badge.icon.heart": "Cor"
+  "events.badge.icon.heart": "Cor",
+  "events.messages.title": "Missatges de l'amfitrió"
 }

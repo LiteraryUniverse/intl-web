@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Ingecheckt",
   "events.checkIn.checkPerson": "{name} inchecken",
   "events.message.title": "Deelnemers een bericht sturen",
-  "events.message.intro": "Iedereen die heeft aangegeven te komen of misschien te komen, krijgt dit als melding en e-mail.",
+  "events.message.intro": "Iedereen die heeft aangegeven te komen of misschien te komen, ziet dit op de evenementpagina. Wie het daar niet heeft gezien, krijgt een melding en daarna een e-mail.",
   "events.message.send": "Verzenden",
   "events.message.sent": "Verzonden.",
   "events.message.limit": "Per evenement kunnen er maximaal {count, number} berichten per dag worden verzonden.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planeet",
   "events.badge.icon.torch": "Fakkel",
   "events.badge.icon.mic": "Headset",
-  "events.badge.icon.heart": "Hart"
+  "events.badge.icon.heart": "Hart",
+  "events.messages.title": "Berichten van de organisator"
 }

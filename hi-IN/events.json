@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "चेक-इन किया",
   "events.checkIn.checkPerson": "{name} को चेक-इन करें",
   "events.message.title": "उपस्थित लोगों को संदेश",
-  "events.message.intro": "जिसने आने या शायद आने की बात कही है, उसे यह संदेश नोटिफ़िकेशन और ईमेल के रूप में मिलता है।",
+  "events.message.intro": "जिसने आने या शायद आने की बात कही है, वह इसे इवेंट पेज पर देखता है। जिसने इसे वहाँ नहीं देखा, उसे नोटिफ़िकेशन मिलता है, फिर ईमेल।",
   "events.message.send": "भेजें",
   "events.message.sent": "भेज दिया गया।",
   "events.message.limit": "एक इवेंट से एक दिन में अधिकतम {count, number} संदेश भेजे जा सकते हैं।",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "ग्रह",
   "events.badge.icon.torch": "मशाल",
   "events.badge.icon.mic": "हेडसेट",
-  "events.badge.icon.heart": "दिल"
+  "events.badge.icon.heart": "दिल",
+  "events.messages.title": "आयोजक के संदेश"
 }

@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Bejelentkezett",
   "events.checkIn.checkPerson": "{name} bejelentkeztetése",
   "events.message.title": "Üzenet a résztvevőknek",
-  "events.message.intro": "Mindenki, aki jelezte, hogy jön vagy talán jön, értesítésként és e-mailben megkapja ezt.",
+  "events.message.intro": "Mindenki, aki jelezte, hogy jön vagy talán jön, látja ezt az esemény oldalán. Aki ott nem látta, értesítést kap, majd e-mailt.",
   "events.message.send": "Küldés",
   "events.message.sent": "Elküldve.",
   "events.message.limit": "Egy esemény naponta legfeljebb {count, number} üzenetet küldhet.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Bolygó",
   "events.badge.icon.torch": "Fáklya",
   "events.badge.icon.mic": "Headset",
-  "events.badge.icon.heart": "Szív"
+  "events.badge.icon.heart": "Szív",
+  "events.messages.title": "A házigazda üzenetei"
 }

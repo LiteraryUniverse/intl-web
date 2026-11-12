@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Na-check in",
   "events.checkIn.checkPerson": "I-check in si {name}",
   "events.message.title": "Magpadala ng mensahe sa mga dadalo",
-  "events.message.intro": "Lahat ng nagsabing pupunta o baka pumunta ay makakatanggap nito bilang notification at email.",
+  "events.message.intro": "Makikita ito ng lahat ng nagsabing pupunta o baka pumunta sa pahina ng event. Ang hindi pa nakakakita nito roon ay makakatanggap ng notification, at pagkatapos ay email.",
   "events.message.send": "Ipadala",
   "events.message.sent": "Naipadala na.",
   "events.message.limit": "Ang isang event ay maaaring magpadala ng hanggang {count, number} mensahe bawat araw.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planeta",
   "events.badge.icon.torch": "Sulo",
   "events.badge.icon.mic": "Headset",
-  "events.badge.icon.heart": "Puso"
+  "events.badge.icon.heart": "Puso",
+  "events.messages.title": "Mga mensahe mula sa host"
 }

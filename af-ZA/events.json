@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Ingeteken",
   "events.checkIn.checkPerson": "Teken {name} in",
   "events.message.title": "Stuur boodskap aan bywoners",
-  "events.message.intro": "Almal wat gesê het hulle sal of dalk sal kom, kry dit as 'n kennisgewing en 'n e-pos.",
+  "events.message.intro": "Almal wat gesê het hulle sal of dalk sal kom, sien dit op die geleentheidsbladsy. Wie dit nie daar gesien het nie, kry 'n kennisgewing en dan 'n e-pos.",
   "events.message.send": "Stuur",
   "events.message.sent": "Gestuur.",
   "events.message.limit": "Een geleentheid kan tot {count, number} boodskappe per dag stuur.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planeet",
   "events.badge.icon.torch": "Fakkel",
   "events.badge.icon.mic": "Kopstuk",
-  "events.badge.icon.heart": "Hart"
+  "events.badge.icon.heart": "Hart",
+  "events.messages.title": "Boodskappe van die gasheer"
 }

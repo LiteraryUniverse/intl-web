@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "נרשם בכניסה",
   "events.checkIn.checkPerson": "רישום כניסה של {name}",
   "events.message.title": "שליחת הודעה למשתתפים",
-  "events.message.intro": "כל מי שאישר הגעה או אולי יגיע יקבל זאת כהתראה וכאימייל.",
+  "events.message.intro": "כל מי שאישר הגעה או אולי יגיע רואה זאת בדף האירוע. מי שלא ראה זאת שם יקבל התראה ואחריה אימייל.",
   "events.message.send": "שליחה",
   "events.message.sent": "נשלח.",
   "events.message.limit": "אירוע אחד יכול לשלוח עד {count, number} הודעות ביום.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "כוכב לכת",
   "events.badge.icon.torch": "לפיד",
   "events.badge.icon.mic": "אוזניות",
-  "events.badge.icon.heart": "לב"
+  "events.badge.icon.heart": "לב",
+  "events.messages.title": "הודעות מהמארח"
 }

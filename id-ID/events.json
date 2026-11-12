@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "Sudah check-in",
   "events.checkIn.checkPerson": "Check-in {name}",
   "events.message.title": "Kirim pesan ke peserta",
-  "events.message.intro": "Semua yang menyatakan akan atau mungkin hadir akan menerima ini sebagai notifikasi dan email.",
+  "events.message.intro": "Semua yang menyatakan akan atau mungkin hadir melihat ini di halaman acara. Yang belum melihatnya di sana akan menerima notifikasi, lalu email.",
   "events.message.send": "Kirim",
   "events.message.sent": "Terkirim.",
   "events.message.limit": "Satu acara dapat mengirim hingga {count, number} pesan per hari.",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "Planet",
   "events.badge.icon.torch": "Obor",
   "events.badge.icon.mic": "Headset",
-  "events.badge.icon.heart": "Hati"
+  "events.badge.icon.heart": "Hati",
+  "events.messages.title": "Pesan dari penyelenggara"
 }

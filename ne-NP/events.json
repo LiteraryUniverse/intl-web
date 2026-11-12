@@ -71,7 +71,7 @@
   "events.checkIn.checkedIn": "चेक इन गरियो",
   "events.checkIn.checkPerson": "{name} लाई चेक इन गर्नुहोस्",
   "events.message.title": "सहभागीहरूलाई सन्देश पठाउनुहोस्",
-  "events.message.intro": "आउँछु वा आउन सक्छु भन्ने सबैले यसलाई सूचना र इमेलका रूपमा पाउँछन्।",
+  "events.message.intro": "आउँछु वा आउन सक्छु भन्ने सबैले यो कार्यक्रमको पेजमा देख्छन्। त्यहाँ नदेख्नेले सूचना पाउँछन्, त्यसपछि इमेल।",
   "events.message.send": "पठाउनुहोस्",
   "events.message.sent": "पठाइयो।",
   "events.message.limit": "एउटा कार्यक्रमले दिनमा {count, number} वटासम्म सन्देश पठाउन सक्छ।",
@@ -98,5 +98,6 @@
   "events.badge.icon.planet": "ग्रह",
   "events.badge.icon.torch": "मशाल",
   "events.badge.icon.mic": "हेडसेट",
-  "events.badge.icon.heart": "मुटु"
+  "events.badge.icon.heart": "मुटु",
+  "events.messages.title": "आयोजकका सन्देशहरू"
 }
