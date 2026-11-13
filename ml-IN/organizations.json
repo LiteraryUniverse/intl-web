@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "ഉടമസ്ഥത കൈമാറുക",
   "org.permissions.workshop.viewAll": "എല്ലാ ശിൽപശാല സൃഷ്ടികളും കാണുക",
   "org.permissions.forum.manager": "ഫോറങ്ങൾ കൈകാര്യം ചെയ്യുക",
+  "org.permissions.workshop.translate": "സൃഷ്ടികൾ വിവർത്തനം ചെയ്യുക",
   "org.permissions.blog.manage": "ബ്ലോഗ് കൈകാര്യം ചെയ്യുക",
   "org.permissions.blog.post": "ബ്ലോഗ് പോസ്റ്റുകൾ ഉണ്ടാക്കുക",
   "org.members.emailInvited": "Invited by email",

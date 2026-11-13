@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Aistrigh úinéireacht",
   "org.permissions.workshop.viewAll": "Féach ar gach mír cheardlainne",
   "org.permissions.forum.manager": "Bainistigh fóraim",
+  "org.permissions.workshop.translate": "Aistrigh saothair",
   "org.permissions.blog.manage": "Bainistigh an blag",
   "org.permissions.blog.post": "Cruthaigh postálacha blag",
   "org.members.emailInvited": "Cuireadh faighte trí ríomhphost",

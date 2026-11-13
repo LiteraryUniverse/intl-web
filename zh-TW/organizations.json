@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "所有權轉移",
   "org.permissions.workshop.viewAll": "檢視所有工作坊項目",
   "org.permissions.forum.manager": "管理論壇",
+  "org.permissions.workshop.translate": "翻譯作品",
   "org.permissions.blog.manage": "管理部落格",
   "org.permissions.blog.post": "建立部落格文章",
   "org.members.emailInvited": "透過電子郵件邀請",

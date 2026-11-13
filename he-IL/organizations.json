@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "העברת בעלות",
   "org.permissions.workshop.viewAll": "צפייה בכל פריטי הסדנה",
   "org.permissions.forum.manager": "ניהול פורומים",
+  "org.permissions.workshop.translate": "תרגום יצירות",
   "org.permissions.blog.manage": "ניהול הבלוג",
   "org.permissions.blog.post": "יצירת פוסטים בבלוג",
   "org.members.emailInvited": "הוזמן בדוא\"ל",

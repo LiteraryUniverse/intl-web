@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "བདག་དབང་སྤོ་བ།",
   "org.permissions.workshop.viewAll": "ལས་གྲྭའི་བརྩམས་ཆོས་ཚང་མ་ལྟ།",
   "org.permissions.forum.manager": "གྲོས་སྟེགས་དོ་དམ།",
+  "org.permissions.workshop.translate": "བརྩམས་ཆོས་ཡིག་སྒྱུར།",
   "org.permissions.blog.manage": "དྲ་ཚིགས་དོ་དམ།",
   "org.permissions.blog.post": "དྲ་ཚིགས་རྩོམ་ཡིག་གསར་བཟོ།",
   "org.members.emailInvited": "Invited by email",

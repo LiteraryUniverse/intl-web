@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "ផ្ទេរភាពជាម្ចាស់",
   "org.permissions.workshop.viewAll": "មើលស្នាដៃទាំងអស់ក្នុងសិក្ខាសាលា",
   "org.permissions.forum.manager": "គ្រប់គ្រងវេទិកា",
+  "org.permissions.workshop.translate": "បកប្រែស្នាដៃ",
   "org.permissions.blog.manage": "គ្រប់គ្រងប្លុក",
   "org.permissions.blog.post": "បង្កើតអត្ថបទប្លុក",
   "org.members.emailInvited": "Invited by email",

@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Omandiõiguse üleandmine",
   "org.permissions.workshop.viewAll": "Vaadake kõiki töötoa objekte",
   "org.permissions.forum.manager": "Foorumite haldamine",
+  "org.permissions.workshop.translate": "Teoste tõlkimine",
   "org.permissions.blog.manage": "Halda blogi",
   "org.permissions.blog.post": "Blogipostituste loomine",
   "org.members.emailInvited": "Kutsutud e-posti teel",

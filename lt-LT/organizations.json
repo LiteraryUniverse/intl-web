@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Nuosavybės teisės perdavimas",
   "org.permissions.workshop.viewAll": "Peržiūrėti visas dirbtuvių prekes",
   "org.permissions.forum.manager": "Tvarkyti forumus",
+  "org.permissions.workshop.translate": "Versti kūrinius",
   "org.permissions.blog.manage": "Tvarkyti tinklaraštį",
   "org.permissions.blog.post": "Sukurti tinklaraščio įrašus",
   "org.members.emailInvited": "Kviečiama el. paštu",

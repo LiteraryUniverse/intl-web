@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Trasferimento di proprietà",
   "org.permissions.workshop.viewAll": "Visualizza tutti gli articoli del workshop",
   "org.permissions.forum.manager": "Gestire i forum",
+  "org.permissions.workshop.translate": "Tradurre opere",
   "org.permissions.blog.manage": "Gestire il blog",
   "org.permissions.blog.post": "Creare post sul blog",
   "org.members.emailInvited": "Invitato via e-mail",

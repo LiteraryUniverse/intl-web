@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "मालकी हस्तांतरित करा",
   "org.permissions.workshop.viewAll": "सर्व कार्यशाळा कलाकृती पहा",
   "org.permissions.forum.manager": "मंच व्यवस्थापित करा",
+  "org.permissions.workshop.translate": "कलाकृतींचे भाषांतर करा",
   "org.permissions.blog.manage": "ब्लॉग व्यवस्थापित करा",
   "org.permissions.blog.post": "ब्लॉग पोस्ट तयार करा",
   "org.members.emailInvited": "Invited by email",

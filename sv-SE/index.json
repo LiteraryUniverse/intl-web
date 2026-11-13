@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Överlåtelse av äganderätt",
   "org.permissions.workshop.viewAll": "Se alla workshopartiklar",
   "org.permissions.forum.manager": "Hantera forum",
+  "org.permissions.workshop.translate": "Översätt verk",
   "org.permissions.blog.manage": "Hantera blogg",
   "org.permissions.blog.post": "Skapa blogginlägg",
   "org.members.emailInvited": "Inbjuden via e-post",

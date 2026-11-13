@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "মালিকীস্বত্ব হস্তান্তৰ কৰক",
   "org.permissions.workshop.viewAll": "সকলো কৰ্মশালাৰ সৃষ্টি চাওক",
   "org.permissions.forum.manager": "মঞ্চ পৰিচালনা কৰক",
+  "org.permissions.workshop.translate": "কৃতি অনুবাদ কৰক",
   "org.permissions.blog.manage": "ব্লগ পৰিচালনা কৰক",
   "org.permissions.blog.post": "ব্লগ পোষ্ট বনাওক",
   "org.members.emailInvited": "Invited by email",

@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "所有権の移転",
   "org.permissions.workshop.viewAll": "ワークショップの全項目を見る",
   "org.permissions.forum.manager": "フォーラムの管理",
+  "org.permissions.workshop.translate": "作品の翻訳",
   "org.permissions.blog.manage": "ブログ管理",
   "org.permissions.blog.post": "ブログ記事の作成",
   "org.members.emailInvited": "電子メールによる招待",

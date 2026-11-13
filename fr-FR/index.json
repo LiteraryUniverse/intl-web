@@ -4618,6 +4618,7 @@
   "org.permissions.workshop.transfer": "Transfert de propriété",
   "org.permissions.workshop.viewAll": "Voir tous les articles de l'atelier",
   "org.permissions.forum.manager": "Gérer les forums",
+  "org.permissions.workshop.translate": "Traduire des œuvres",
   "org.permissions.blog.manage": "Gérer le blog",
   "org.permissions.blog.post": "Créer des articles de blog",
   "org.members.emailInvited": "Invités par courriel",

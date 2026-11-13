@@ -105,6 +105,7 @@
   "org.permissions.workshop.transfer": "ಮಾಲೀಕತ್ವ ವರ್ಗಾಯಿಸಿ",
   "org.permissions.workshop.viewAll": "ಎಲ್ಲ ಕಾರ್ಯಾಗಾರದ ಕೃತಿಗಳನ್ನು ನೋಡಿ",
   "org.permissions.forum.manager": "ವೇದಿಕೆಗಳನ್ನು ನಿರ್ವಹಿಸಿ",
+  "org.permissions.workshop.translate": "ಕೃತಿಗಳನ್ನು ಅನುವಾದಿಸಿ",
   "org.permissions.blog.manage": "ಬ್ಲಾಗ್ ನಿರ್ವಹಿಸಿ",
   "org.permissions.blog.post": "ಬ್ಲಾಗ್ ಪೋಸ್ಟ್‌ಗಳನ್ನು ರಚಿಸಿ",
   "org.members.emailInvited": "Invited by email",

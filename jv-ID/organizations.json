@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Mindhah kepemilikan",
   "org.permissions.workshop.viewAll": "Ndeleng kabeh item bengkel",
   "org.permissions.forum.manager": "Ngatur forum",
+  "org.permissions.workshop.translate": "Nerjemahake karya",
   "org.permissions.blog.manage": "Ngatur blog",
   "org.permissions.blog.post": "Nggawe kiriman blog",
   "org.members.emailInvited": "Invited by email",

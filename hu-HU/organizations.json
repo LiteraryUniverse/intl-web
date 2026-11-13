@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Tulajdonjog átruházása",
   "org.permissions.workshop.viewAll": "Minden műhelytárgy megtekintése",
   "org.permissions.forum.manager": "Fórumok kezelése",
+  "org.permissions.workshop.translate": "Művek fordítása",
   "org.permissions.blog.manage": "Blog kezelése",
   "org.permissions.blog.post": "Blogbejegyzések létrehozása",
   "org.members.emailInvited": "Meghívás e-mailben",

@@ -4618,6 +4618,7 @@
   "org.permissions.workshop.transfer": "نقل الملكية",
   "org.permissions.workshop.viewAll": "عرض جميع عناصر ورشة العمل",
   "org.permissions.forum.manager": "إدارة المنتديات",
+  "org.permissions.workshop.translate": "ترجمة الأعمال",
   "org.permissions.blog.manage": "إدارة المدونة",
   "org.permissions.blog.post": "إنشاء منشورات المدونة",
   "org.members.emailInvited": "دُعيت عبر البريد الإلكتروني",

@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "মালিকানা হস্তান্তর করুন",
   "org.permissions.workshop.viewAll": "সব কর্মশালার কাজ দেখুন",
   "org.permissions.forum.manager": "ফোরাম পরিচালনা করুন",
+  "org.permissions.workshop.translate": "কাজ অনুবাদ করুন",
   "org.permissions.blog.manage": "ব্লগ পরিচালনা করুন",
   "org.permissions.blog.post": "ব্লগ পোস্ট তৈরি করুন",
   "org.members.emailInvited": "ইমেইলের মাধ্যমে আমন্ত্রণ জানানো হয়েছে",

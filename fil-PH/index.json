@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Ilipat ang pagmamay-ari",
   "org.permissions.workshop.viewAll": "Tingnan ang lahat ng item sa workshop",
   "org.permissions.forum.manager": "Pamahalaan ang mga forum",
+  "org.permissions.workshop.translate": "Isalin ang mga akda",
   "org.permissions.blog.manage": "Pamahalaan ang blog",
   "org.permissions.blog.post": "Gumawa ng mga post sa blog",
   "org.members.emailInvited": "Invited by email",

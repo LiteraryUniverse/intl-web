@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Передача прав собственности",
   "org.permissions.workshop.viewAll": "Посмотреть все товары для семинаров",
   "org.permissions.forum.manager": "Управляйте форумами",
+  "org.permissions.workshop.translate": "Перевод произведений",
   "org.permissions.blog.manage": "Управляйте блогом",
   "org.permissions.blog.post": "Создавайте посты в блоге",
   "org.members.emailInvited": "Приглашение по электронной почте",

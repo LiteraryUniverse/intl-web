@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Pindah hak milik",
   "org.permissions.workshop.viewAll": "Lihat semua item bengkel",
   "org.permissions.forum.manager": "Urus forum",
+  "org.permissions.workshop.translate": "Terjemah karya",
   "org.permissions.blog.manage": "Urus blog",
   "org.permissions.blog.post": "Cipta catatan blog",
   "org.members.emailInvited": "Dijemput melalui e-mel",

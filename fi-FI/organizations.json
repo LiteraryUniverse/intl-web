@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Omistusoikeuden siirto",
   "org.permissions.workshop.viewAll": "Näytä kaikki työpajatuotteet",
   "org.permissions.forum.manager": "Hallitse foorumeita",
+  "org.permissions.workshop.translate": "Käännä teoksia",
   "org.permissions.blog.manage": "Hallitse blogia",
   "org.permissions.blog.post": "Luo blogikirjoituksia",
   "org.members.emailInvited": "Kutsuttu sähköpostitse",

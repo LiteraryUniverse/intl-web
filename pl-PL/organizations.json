@@ -105,6 +105,7 @@
   "org.permissions.workshop.transfer": "Przeniesienie własności",
   "org.permissions.workshop.viewAll": "Proszę zobaczyć wszystkie elementy warsztatu",
   "org.permissions.forum.manager": "Zarządzanie forami",
+  "org.permissions.workshop.translate": "Tłumaczenie utworów",
   "org.permissions.blog.manage": "Zarządzanie blogiem",
   "org.permissions.blog.post": "Tworzenie wpisów na blogu",
   "org.members.emailInvited": "Zaproszeni przez e-mail",

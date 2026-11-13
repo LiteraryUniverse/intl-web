@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Chuyển quyền sở hữu",
   "org.permissions.workshop.viewAll": "Xem tất cả mục trong xưởng sáng tác",
   "org.permissions.forum.manager": "Quản lý diễn đàn",
+  "org.permissions.workshop.translate": "Dịch tác phẩm",
   "org.permissions.blog.manage": "Quản lý blog",
   "org.permissions.blog.post": "Tạo bài viết blog",
   "org.members.emailInvited": "Được mời qua email",

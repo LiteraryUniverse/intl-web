@@ -105,6 +105,7 @@
   "org.permissions.workshop.transfer": "యాజమాన్యాన్ని బదిలీ చేయి",
   "org.permissions.workshop.viewAll": "అన్ని వర్క్‌షాప్ రచనలను చూడు",
   "org.permissions.forum.manager": "ఫోరమ్‌లను నిర్వహించు",
+  "org.permissions.workshop.translate": "రచనలను అనువదించు",
   "org.permissions.blog.manage": "బ్లాగును నిర్వహించు",
   "org.permissions.blog.post": "బ్లాగు పోస్టులను సృష్టించు",
   "org.members.emailInvited": "Invited by email",

@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Transferir la propietat",
   "org.permissions.workshop.viewAll": "Veure tots els elements del taller",
   "org.permissions.forum.manager": "Gestionar els fòrums",
+  "org.permissions.workshop.translate": "Traduir obres",
   "org.permissions.blog.manage": "Gestionar el blog",
   "org.permissions.blog.post": "Crear entrades al blog",
   "org.members.emailInvited": "Invited by email",

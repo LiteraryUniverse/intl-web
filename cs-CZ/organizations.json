@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Převod vlastnictví",
   "org.permissions.workshop.viewAll": "Zobrazit všechny položky z dílny",
   "org.permissions.forum.manager": "Správa fór",
+  "org.permissions.workshop.translate": "Překládat díla",
   "org.permissions.blog.manage": "Správa blogu",
   "org.permissions.blog.post": "Vytváření příspěvků na blogu",
   "org.members.emailInvited": "Pozváno e-mailem",

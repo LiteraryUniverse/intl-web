@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "მფლობელობის გადაცემა",
   "org.permissions.workshop.viewAll": "სახელოსნოს ყველა ერთეულის ნახვა",
   "org.permissions.forum.manager": "ფორუმების მართვა",
+  "org.permissions.workshop.translate": "ნაწარმოებების თარგმნა",
   "org.permissions.blog.manage": "ბლოგის მართვა",
   "org.permissions.blog.post": "ბლოგის ჩანაწერების შექმნა",
   "org.members.emailInvited": "დაპატიჟებული ელფოსტით",

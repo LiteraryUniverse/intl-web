@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Mengalihkan kepemilikan",
   "org.permissions.workshop.viewAll": "Lihat semua item bengkel",
   "org.permissions.forum.manager": "Mengelola forum",
+  "org.permissions.workshop.translate": "Menerjemahkan karya",
   "org.permissions.blog.manage": "Kelola blog",
   "org.permissions.blog.post": "Membuat postingan blog",
   "org.members.emailInvited": "Diundang melalui email",

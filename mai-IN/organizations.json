@@ -105,6 +105,7 @@
   "org.permissions.workshop.transfer": "स्वामित्व हस्तांतरित करू",
   "org.permissions.workshop.viewAll": "सभ कार्यशाला रचना देखू",
   "org.permissions.forum.manager": "फोरम प्रबंधित करू",
+  "org.permissions.workshop.translate": "रचनाक अनुवाद करू",
   "org.permissions.blog.manage": "ब्लॉग प्रबंधित करू",
   "org.permissions.blog.post": "ब्लॉग पोस्ट बनाबू",
   "org.members.emailInvited": "Invited by email",

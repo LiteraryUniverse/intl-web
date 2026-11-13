@@ -105,6 +105,7 @@
   "org.permissions.workshop.transfer": "स्वामित्व हस्तान्तरण गर्नुहोस्",
   "org.permissions.workshop.viewAll": "सबै कार्यशाला कृति हेर्नुहोस्",
   "org.permissions.forum.manager": "फोरम व्यवस्थापन गर्नुहोस्",
+  "org.permissions.workshop.translate": "कृतिहरू अनुवाद गर्नुहोस्",
   "org.permissions.blog.manage": "ब्लग व्यवस्थापन गर्नुहोस्",
   "org.permissions.blog.post": "ब्लग पोस्ट सिर्जना गर्नुहोस्",
   "org.members.emailInvited": "इमेलद्वारा निमन्त्रणा गरिएको",

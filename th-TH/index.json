@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "โอนความเป็นเจ้าของ",
   "org.permissions.workshop.viewAll": "ดูรายการทั้งหมดในเวิร์กชอป",
   "org.permissions.forum.manager": "จัดการฟอรัม",
+  "org.permissions.workshop.translate": "แปลผลงาน",
   "org.permissions.blog.manage": "จัดการบล็อก",
   "org.permissions.blog.post": "สร้างโพสต์บล็อก",
   "org.members.emailInvited": "ได้รับเชิญทางอีเมล",

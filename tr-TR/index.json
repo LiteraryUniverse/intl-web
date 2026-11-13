@@ -4618,6 +4618,7 @@
   "org.permissions.workshop.transfer": "Mülkiyet devri",
   "org.permissions.workshop.viewAll": "Tüm atölye öğelerini görüntüleyin",
   "org.permissions.forum.manager": "Forumları yönetin",
+  "org.permissions.workshop.translate": "Eserleri çevirin",
   "org.permissions.blog.manage": "Blog yönet",
   "org.permissions.blog.post": "Blog gönderileri oluşturun",
   "org.members.emailInvited": "E-posta ile davet edildi",

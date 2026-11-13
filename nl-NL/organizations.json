@@ -105,6 +105,7 @@
   "org.permissions.workshop.transfer": "Eigendom overdragen",
   "org.permissions.workshop.viewAll": "Alle workshopartikelen bekijken",
   "org.permissions.forum.manager": "Beheer forums",
+  "org.permissions.workshop.translate": "Werken vertalen",
   "org.permissions.blog.manage": "Beheer blog",
   "org.permissions.blog.post": "Blogberichten maken",
   "org.members.emailInvited": "Uitgenodigd per e-mail",

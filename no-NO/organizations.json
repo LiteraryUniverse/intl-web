@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Overfør eierskap",
   "org.permissions.workshop.viewAll": "Se alle verkstedelementer",
   "org.permissions.forum.manager": "Administrer forum",
+  "org.permissions.workshop.translate": "Oversett verk",
   "org.permissions.blog.manage": "Administrer blogg",
   "org.permissions.blog.post": "Opprett blogginnlegg",
   "org.members.emailInvited": "Invited by email",

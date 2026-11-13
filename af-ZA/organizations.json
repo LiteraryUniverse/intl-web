@@ -103,6 +103,7 @@
   "org.permissions.workshop.transfer": "Dra eienaarskap oor",
   "org.permissions.workshop.viewAll": "Bekyk alle werkswinkel-items",
   "org.permissions.forum.manager": "Bestuur forums",
+  "org.permissions.workshop.translate": "Vertaal werke",
   "org.permissions.blog.manage": "Bestuur blog",
   "org.permissions.blog.post": "Skep blogplasings",
   "org.members.emailInvited": "Invited by email",

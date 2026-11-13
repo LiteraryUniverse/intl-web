@@ -4616,6 +4616,7 @@
   "org.permissions.workshop.transfer": "Prevod vlastníctva",
   "org.permissions.workshop.viewAll": "Zobraziť všetky položky workshopu",
   "org.permissions.forum.manager": "Správa fór",
+  "org.permissions.workshop.translate": "Prekladanie diel",
   "org.permissions.blog.manage": "Správa blogu",
   "org.permissions.blog.post": "Vytváranie príspevkov na blogu",
   "org.members.emailInvited": "Pozvaní e-mailom",
