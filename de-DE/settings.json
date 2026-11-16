@@ -567,5 +567,9 @@
   "settings.integrations.mailer.summary": "Verbinde die Mailinglisten deines Blogs.",
   "settings.integrations.mailer.description": "Übertrage bestätigte Abonnenten an deinen E-Mail-Dienst. Abmeldungen werden stündlich geprüft.",
   "settings.integrations.mailer.noBlogs": "Erstelle einen Blog, um seine Mailingliste zu verbinden.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} akzeptiert die Verbindung nicht mehr. Verbinde dich erneut, um die Änderungen zu synchronisieren."
+  "settings.integrations.mailer.reconnectNeeded": "{service} akzeptiert die Verbindung nicht mehr. Verbinde dich erneut, um die Änderungen zu synchronisieren.",
+  "settings.integrations.chatgpt.summary": "Erstelle und bearbeite Geschichten, Kapitel und Enzyklopädieeinträge mit ChatGPT.",
+  "settings.integrations.chatgpt.web": "Füge in ChatGPT einen eigenen MCP-Server mit dieser Adresse hinzu und melde dich bei Literary Universe an. Die Verfügbarkeit von Plugins hängt von deinem Konto und Arbeitsbereich ab.",
+  "settings.integrations.chatgpt.local": "Installiere für ein lokales Projekt die CLI, melde dich an und initialisiere deinen Geschichtenordner. Öffne ihn in Codex oder einem anderen Schreibagenten.",
+  "settings.integrations.chatgpt.access": "Es werden nur die von dir genehmigten Berechtigungen erteilt. Gespeicherte Entwürfe werden nicht veröffentlicht. Verwalte den Zugriff unter <link>Verbunden</link>."
 }

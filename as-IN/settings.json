@@ -567,5 +567,9 @@
   "settings.integrations.mailer.summary": "আপোনাৰ ব্লগৰ মেইলিং তালিকা সংযোগ কৰক।",
   "settings.integrations.mailer.description": "নিশ্চিত কৰা গ্ৰাহকসকলক আপোনাৰ ইমেইল সেৱালৈ পঠিয়াওক। প্ৰতি ঘণ্টাত সদস্যতা বাতিল পৰীক্ষা কৰা হয়।",
   "settings.integrations.mailer.noBlogs": "মেইলিং তালিকা সংযোগ কৰিবলৈ এটা ব্লগ সৃষ্টি কৰক।",
-  "settings.integrations.mailer.reconnectNeeded": "{service}-এ সংযোগ গ্ৰহণ কৰা বন্ধ কৰিছে। পৰিৱৰ্তনসমূহ সমন্বয় কৰিবলৈ পুনৰ সংযোগ কৰক।"
+  "settings.integrations.mailer.reconnectNeeded": "{service}-এ সংযোগ গ্ৰহণ কৰা বন্ধ কৰিছে। পৰিৱৰ্তনসমূহ সমন্বয় কৰিবলৈ পুনৰ সংযোগ কৰক।",
+  "settings.integrations.chatgpt.summary": "ChatGPT-ৰে গল্প, অধ্যায় আৰু বিশ্বকোষৰ ভুক্তি সৃষ্টি আৰু সম্পাদনা কৰক।",
+  "settings.integrations.chatgpt.web": "ChatGPT-ত এই ঠিকনাৰে এটা নিজস্ব MCP ছাৰ্ভাৰ যোগ কৰি Literary Universe-ত ছাইন ইন কৰক। প্লাগইনৰ উপলব্ধতা আপোনাৰ একাউণ্ট আৰু কৰ্মক্ষেত্ৰৰ ওপৰত নিৰ্ভৰ কৰে।",
+  "settings.integrations.chatgpt.local": "স্থানীয় প্ৰকল্পৰ বাবে CLI ইনষ্টল কৰক, ছাইন ইন কৰক আৰু গল্পৰ ফোল্ডাৰ আৰম্ভ কৰক। ইয়াক Codex বা আন লিখন এজেণ্টত খোলক।",
+  "settings.integrations.chatgpt.access": "কেৱল আপুনি অনুমোদন জনোৱা অনুমতিহে দিয়া হয়। খচৰা সংৰক্ষণ কৰিলে প্ৰকাশ নহয়। <link>সংযুক্ত</link> অংশত প্ৰৱেশাধিকাৰ পৰিচালনা কৰক।"
 }

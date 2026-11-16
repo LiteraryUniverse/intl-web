@@ -567,5 +567,9 @@
   "settings.integrations.mailer.summary": "חברו את רשימות התפוצה של הבלוג שלכם.",
   "settings.integrations.mailer.description": "שלחו מנויים מאומתים לשירות הדיוור שלכם. ביטולי הרשמה נבדקים מדי שעה.",
   "settings.integrations.mailer.noBlogs": "צרו בלוג כדי לחבר את רשימת התפוצה שלו.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} הפסיק לקבל את החיבור. יש להתחבר מחדש כדי לסנכרן את השינויים."
+  "settings.integrations.mailer.reconnectNeeded": "{service} הפסיק לקבל את החיבור. יש להתחבר מחדש כדי לסנכרן את השינויים.",
+  "settings.integrations.chatgpt.summary": "צרו וערכו סיפורים, פרקים וערכי אנציקלופדיה באמצעות ChatGPT.",
+  "settings.integrations.chatgpt.web": "ב־ChatGPT הוסיפו שרת MCP מותאם אישית עם הכתובת הזו והיכנסו ל־Literary Universe. זמינות התוספים תלויה בחשבון ובסביבת העבודה שלכם.",
+  "settings.integrations.chatgpt.local": "לפרויקט מקומי, התקינו את CLI, היכנסו ואתחלו את תיקיית הסיפור. פתחו אותה ב־Codex או בסוכן כתיבה אחר.",
+  "settings.integrations.chatgpt.access": "יינתנו רק הרשאות שאישרתם. שמירת טיוטות אינה מפרסמת אותן. נהלו גישה תחת <link>מחוברים</link>."
 }

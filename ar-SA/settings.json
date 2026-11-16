@@ -567,5 +567,9 @@
   "settings.integrations.mailer.summary": "اربط قوائم بريد مدونتك.",
   "settings.integrations.mailer.description": "أرسل المشتركين المؤكدين إلى خدمة البريد لديك. نتحقق من إلغاء الاشتراك كل ساعة.",
   "settings.integrations.mailer.noBlogs": "أنشئ مدونة لربط قائمتها البريدية.",
-  "settings.integrations.mailer.reconnectNeeded": "توقفت {service} عن قبول الاتصال. اتصل مجددًا لمزامنة التغييرات."
+  "settings.integrations.mailer.reconnectNeeded": "توقفت {service} عن قبول الاتصال. اتصل مجددًا لمزامنة التغييرات.",
+  "settings.integrations.chatgpt.summary": "أنشئ القصص والفصول ومداخل الموسوعة وعدّلها باستخدام ChatGPT.",
+  "settings.integrations.chatgpt.web": "في ChatGPT، أضف خادم MCP مخصصًا بهذا العنوان وسجّل الدخول إلى Literary Universe. يعتمد توفر الإضافات على حسابك ومساحة عملك.",
+  "settings.integrations.chatgpt.local": "لمشروع محلي، ثبّت CLI وسجّل الدخول ثم هيّئ مجلد قصتك. افتحه في Codex أو مساعد كتابة آخر.",
+  "settings.integrations.chatgpt.access": "تُمنح فقط الأذونات التي توافق عليها. حفظ المسودات لا ينشرها. أدر الوصول في قسم <link>المتصل</link>."
 }

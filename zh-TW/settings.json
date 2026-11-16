@@ -567,5 +567,9 @@
   "settings.integrations.mailer.summary": "連結部落格的郵件名單。",
   "settings.integrations.mailer.description": "將已確認的訂閱者傳送至您的郵件服務。每小時檢查一次取消訂閱的情況。",
   "settings.integrations.mailer.noBlogs": "建立部落格以連結其郵件名單。",
-  "settings.integrations.mailer.reconnectNeeded": "{service} 已停止接受連線。請重新連線以同步變更。"
+  "settings.integrations.mailer.reconnectNeeded": "{service} 已停止接受連線。請重新連線以同步變更。",
+  "settings.integrations.chatgpt.summary": "使用 ChatGPT 建立及編輯故事、章節和百科全書條目。",
+  "settings.integrations.chatgpt.web": "在 ChatGPT 中以此位址新增自訂 MCP 伺服器，並登入 Literary Universe。外掛程式的可用性取決於您的帳號和工作區。",
+  "settings.integrations.chatgpt.local": "如要建立本機專案，請安裝 CLI、登入，然後初始化故事資料夾。在 Codex 或其他寫作代理程式中開啟該資料夾。",
+  "settings.integrations.chatgpt.access": "只會授予您核准的權限。儲存草稿不會將其發布。請在<link>已連線</link>中管理存取權。"
 }

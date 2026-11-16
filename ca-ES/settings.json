@@ -567,5 +567,9 @@
   "settings.integrations.mailer.summary": "Connecta les llistes de correu del teu blog.",
   "settings.integrations.mailer.description": "Envia els subscriptors confirmats al teu servei de correu. Les baixes es comproven cada hora.",
   "settings.integrations.mailer.noBlogs": "Crea un blog per connectar-ne la llista de correu.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} ha deixat d'acceptar la connexió. Torna a connectar per sincronitzar els canvis."
+  "settings.integrations.mailer.reconnectNeeded": "{service} ha deixat d'acceptar la connexió. Torna a connectar per sincronitzar els canvis.",
+  "settings.integrations.chatgpt.summary": "Crea i edita històries, capítols i entrades d’enciclopèdia amb ChatGPT.",
+  "settings.integrations.chatgpt.web": "A ChatGPT, afegeix un servidor MCP personalitzat amb aquesta adreça i inicia sessió a Literary Universe. La disponibilitat dels connectors depèn del compte i de l’espai de treball.",
+  "settings.integrations.chatgpt.local": "Per a un projecte local, instal·la la CLI, inicia sessió i inicialitza la carpeta de la història. Obre-la a Codex o en un altre agent d’escriptura.",
+  "settings.integrations.chatgpt.access": "Només s’atorguen els permisos que aproves. Desar esborranys no els publica. Gestiona l’accés a <link>Connectats</link>."
 }
