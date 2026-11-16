@@ -21,5 +21,18 @@
   "glossary.term.overridden": "تم تغييره لهذه القصة",
   "glossary.term.override": "تغيير لهذه القصة",
   "glossary.translation": "الترجمة",
-  "glossary.translation.note": "ملاحظة المترجم"
+  "glossary.translation.note": "ملاحظة المترجم",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "أرسل مصطلحات الترجمة إلى حسابك في DeepL ليحافظ عليها في ترجماته، هنا وفي تطبيقاته. وعند استيراد قاموس من DeepL تُضاف ترجماته إلى هنا.",
+  "glossary.deepl.noKey": "احفظ مفتاح DeepL لإرسال هذه المصطلحات إلى DeepL أو لاستيراد قاموس منه. <link>مفاتيح واجهة برمجة التطبيقات والخدمات</link>",
+  "glossary.deepl.send": "إرسال إلى DeepL",
+  "glossary.deepl.sent": "أصبح لدى DeepL الآن {entries, plural, zero {# مدخل} one {مدخل واحد} two {مدخلان} few {# مداخل} many {# مدخلًا} other {# مدخل}} في {languages, plural, zero {# لغة} one {لغة واحدة} two {لغتين} few {# لغات} many {# لغة} other {# لغة}}.",
+  "glossary.deepl.import": "استيراد من DeepL",
+  "glossary.deepl.dictionary": "قاموس DeepL",
+  "glossary.deepl.importNow": "استيراد",
+  "glossary.deepl.imported": "تم الاستيراد من DeepL. المصطلحات المحدَّثة: {updated, number}، المضافة: {created, number}، المتخطّاة: {skipped, number}.",
+  "glossary.deepl.none": "لا يحتوي حسابك في DeepL على أي قاموس بلغة هذا العمل.",
+  "glossary.deepl.error.failed": "تعذّر على DeepL تنفيذ ذلك الآن. حاول مرة أخرى لاحقًا.",
+  "glossary.deepl.error.nothing": "ترجم بعض المصطلحات أولًا إلى لغة يدعم DeepL قواميس لها.",
+  "glossary.deepl.error.language": "حدّد لغة هذا العمل أولًا."
 }

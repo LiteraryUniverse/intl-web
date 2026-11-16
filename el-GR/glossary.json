@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Τροποποιήθηκε για αυτή την ιστορία",
   "glossary.term.override": "Αλλαγή για αυτή την ιστορία",
   "glossary.translation": "Μετάφραση",
-  "glossary.translation.note": "Σημείωση του μεταφραστή"
+  "glossary.translation.note": "Σημείωση του μεταφραστή",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Στείλτε το γλωσσάριο στον λογαριασμό σας στο DeepL και το DeepL θα διατηρεί αυτούς τους όρους στις μεταφράσεις του, εδώ και στις δικές του εφαρμογές. Η εισαγωγή ενός γλωσσαρίου DeepL φέρνει εδώ τις μεταφράσεις του.",
+  "glossary.deepl.noKey": "Αποθηκεύστε το κλειδί API του DeepL για να στείλετε αυτό το γλωσσάριο στο DeepL ή να εισαγάγετε ένα από εκεί. <link>Κλειδιά λογαριασμού</link>",
+  "glossary.deepl.send": "Αποστολή στο DeepL",
+  "glossary.deepl.sent": "Το DeepL έχει πλέον {entries, plural, one {# λήμμα} other {# λήμματα}} σε {languages, plural, one {# γλώσσα} other {# γλώσσες}}.",
+  "glossary.deepl.import": "Εισαγωγή από το DeepL",
+  "glossary.deepl.dictionary": "Γλωσσάριο DeepL",
+  "glossary.deepl.importNow": "Εισαγωγή",
+  "glossary.deepl.imported": "Εισαγωγή από το DeepL: ενημερωμένοι όροι: {updated, number}, προστέθηκαν: {created, number}, παραλείφθηκαν: {skipped, number}.",
+  "glossary.deepl.none": "Ο λογαριασμός σας στο DeepL δεν έχει γλωσσάριο από τη γλώσσα αυτού του έργου.",
+  "glossary.deepl.error.failed": "Το DeepL δεν μπόρεσε να το κάνει αυτή τη στιγμή. Δοκιμάστε ξανά αργότερα.",
+  "glossary.deepl.error.nothing": "Μεταφράστε πρώτα μερικούς όρους σε γλώσσα για την οποία το DeepL διατηρεί γλωσσάρια.",
+  "glossary.deepl.error.language": "Ορίστε πρώτα τη γλώσσα αυτού του έργου."
 }

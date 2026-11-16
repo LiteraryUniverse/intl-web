@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Bu hikâye için değiştirildi",
   "glossary.term.override": "Bu hikâye için değiştir",
   "glossary.translation": "Çeviri",
-  "glossary.translation.note": "Çevirmen notu"
+  "glossary.translation.note": "Çevirmen notu",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Sözlüğü DeepL hesabınıza gönderin; DeepL bu terimleri çevirilerinde, hem burada hem de kendi uygulamalarında korur. Bir DeepL sözlüğünü içe aktarmak, onun çevirilerini buraya getirir.",
+  "glossary.deepl.noKey": "Bu sözlüğü DeepL'e göndermek veya oradan içe aktarmak için DeepL API anahtarınızı kaydedin. <link>Hesap anahtarları</link>",
+  "glossary.deepl.send": "DeepL'e gönder",
+  "glossary.deepl.sent": "DeepL'de artık {languages, plural, one {# dilde} other {# dilde}} {entries, plural, one {# girdi} other {# girdi}} var.",
+  "glossary.deepl.import": "DeepL'den içe aktar",
+  "glossary.deepl.dictionary": "DeepL sözlüğü",
+  "glossary.deepl.importNow": "İçe aktar",
+  "glossary.deepl.imported": "DeepL'den içe aktarıldı: güncellenen terimler: {updated, number}, eklenenler: {created, number}, atlananlar: {skipped, number}.",
+  "glossary.deepl.none": "DeepL hesabınızda bu eserin dilinde bir sözlük yok.",
+  "glossary.deepl.error.failed": "DeepL şu anda bunu yapamadı. Daha sonra tekrar deneyin.",
+  "glossary.deepl.error.nothing": "Önce bazı terimleri, DeepL'in sözlük tuttuğu bir dile çevirin.",
+  "glossary.deepl.error.language": "Önce bu eserin dilini ayarlayın."
 }

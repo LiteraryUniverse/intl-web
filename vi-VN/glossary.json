@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Đã thay đổi cho truyện này",
   "glossary.term.override": "Thay đổi cho truyện này",
   "glossary.translation": "Bản dịch",
-  "glossary.translation.note": "Ghi chú của người dịch"
+  "glossary.translation.note": "Ghi chú của người dịch",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Gửi bảng thuật ngữ đến tài khoản DeepL của bạn, DeepL sẽ giữ các thuật ngữ này trong bản dịch của nó, tại đây và trong các ứng dụng riêng. Nhập một bảng thuật ngữ DeepL sẽ đưa các bản dịch của nó về đây.",
+  "glossary.deepl.noKey": "Lưu khóa API DeepL để gửi bảng thuật ngữ này đến DeepL hoặc nhập một bảng từ đó. <link>Khóa trong tài khoản của bạn</link>",
+  "glossary.deepl.send": "Gửi đến DeepL",
+  "glossary.deepl.sent": "DeepL hiện có {entries, plural, other {# mục}} bằng {languages, plural, other {# ngôn ngữ}}.",
+  "glossary.deepl.import": "Nhập từ DeepL",
+  "glossary.deepl.dictionary": "Bảng thuật ngữ DeepL",
+  "glossary.deepl.importNow": "Nhập",
+  "glossary.deepl.imported": "Đã nhập từ DeepL: thuật ngữ được cập nhật: {updated, number}, được thêm: {created, number}, bị bỏ qua: {skipped, number}.",
+  "glossary.deepl.none": "Tài khoản DeepL của bạn không có bảng thuật ngữ nào theo ngôn ngữ của tác phẩm này.",
+  "glossary.deepl.error.failed": "DeepL chưa thể thực hiện việc này lúc này. Hãy thử lại sau.",
+  "glossary.deepl.error.nothing": "Hãy dịch một số thuật ngữ trước, sang ngôn ngữ mà DeepL có hỗ trợ bảng thuật ngữ.",
+  "glossary.deepl.error.language": "Hãy đặt ngôn ngữ của tác phẩm này trước."
 }

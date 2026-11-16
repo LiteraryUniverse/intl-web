@@ -21,5 +21,18 @@
   "glossary.term.overridden": "已為此故事變更",
   "glossary.term.override": "為此故事變更",
   "glossary.translation": "翻譯",
-  "glossary.translation.note": "譯者註"
+  "glossary.translation.note": "譯者註",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "將術語庫傳送到您的 DeepL 帳戶後，DeepL 會在它的翻譯中保留這些術語，包括在這裡和它自己的應用程式中。匯入 DeepL 術語庫，則會把其中的翻譯帶進來。",
+  "glossary.deepl.noKey": "儲存 DeepL API 金鑰後，即可將此術語庫傳送到 DeepL，或從 DeepL 匯入。<link>帳戶金鑰</link>",
+  "glossary.deepl.send": "傳送到 DeepL",
+  "glossary.deepl.sent": "DeepL 現在有 {languages, plural, other {# 種語言}}的 {entries, plural, other {# 筆條目}}。",
+  "glossary.deepl.import": "從 DeepL 匯入",
+  "glossary.deepl.dictionary": "DeepL 術語庫",
+  "glossary.deepl.importNow": "匯入",
+  "glossary.deepl.imported": "已從 DeepL 匯入：更新 {updated, number} 個術語、新增 {created, number} 個、略過 {skipped, number} 個。",
+  "glossary.deepl.none": "您的 DeepL 帳戶中沒有此作品語言的術語庫。",
+  "glossary.deepl.error.failed": "DeepL 目前無法執行此操作。請稍後再試。",
+  "glossary.deepl.error.nothing": "請先將一些術語翻譯成 DeepL 支援術語庫的語言。",
+  "glossary.deepl.error.language": "請先設定此作品的語言。"
 }

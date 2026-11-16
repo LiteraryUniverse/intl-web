@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Изменено для этой истории",
   "glossary.term.override": "Изменить для этой истории",
   "glossary.translation": "Перевод",
-  "glossary.translation.note": "Примечание переводчика"
+  "glossary.translation.note": "Примечание переводчика",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Отправьте словарь в свой аккаунт DeepL, и DeepL будет сохранять эти термины в своих переводах, здесь и в собственных приложениях. Импорт словаря DeepL переносит сюда его переводы.",
+  "glossary.deepl.noKey": "Сохраните ключ API DeepL, чтобы отправить этот словарь в DeepL или импортировать оттуда. <link>Ключи API и сервисов</link>",
+  "glossary.deepl.send": "Отправить в DeepL",
+  "glossary.deepl.sent": "Теперь в DeepL {entries, plural, one {# запись} few {# записи} many {# записей} other {# записи}} на {languages, plural, one {# языке} few {# языках} many {# языках} other {# языках}}.",
+  "glossary.deepl.import": "Импортировать из DeepL",
+  "glossary.deepl.dictionary": "Словарь DeepL",
+  "glossary.deepl.importNow": "Импортировать",
+  "glossary.deepl.imported": "Импортировано из DeepL: обновлено терминов: {updated, number}, добавлено: {created, number}, пропущено: {skipped, number}.",
+  "glossary.deepl.none": "В вашем аккаунте DeepL нет словаря с языком этого произведения.",
+  "glossary.deepl.error.failed": "Сейчас DeepL не может это сделать. Повторите попытку позже.",
+  "glossary.deepl.error.nothing": "Сначала переведите несколько терминов на язык, для которого DeepL поддерживает словари.",
+  "glossary.deepl.error.language": "Сначала укажите язык этого произведения."
 }

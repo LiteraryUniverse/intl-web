@@ -21,5 +21,18 @@
   "glossary.term.overridden": "შეცვლილია ამ ისტორიისთვის",
   "glossary.term.override": "შეცვალე ამ ისტორიისთვის",
   "glossary.translation": "თარგმანი",
-  "glossary.translation.note": "მთარგმნელის შენიშვნა"
+  "glossary.translation.note": "მთარგმნელის შენიშვნა",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "გაგზავნეთ ლექსიკონი თქვენს DeepL ანგარიშზე და DeepL ამ ტერმინებს თავის თარგმანებში შეინარჩუნებს, აქაც და საკუთარ აპებშიც. DeepL-ის ლექსიკონის იმპორტი მის თარგმანებს აქ გადმოიტანს.",
+  "glossary.deepl.noKey": "შეინახეთ DeepL-ის API გასაღები, რომ ლექსიკონი DeepL-ში გააგზავნოთ ან იქიდან დააიმპორტოთ. <link>ანგარიშის გასაღებები</link>",
+  "glossary.deepl.send": "DeepL-ში გაგზავნა",
+  "glossary.deepl.sent": "DeepL-ს ახლა აქვს {entries, plural, one {# ჩანაწერი} other {# ჩანაწერი}} {languages, plural, one {# ენაზე} other {# ენაზე}}.",
+  "glossary.deepl.import": "DeepL-დან იმპორტი",
+  "glossary.deepl.dictionary": "DeepL-ის ლექსიკონი",
+  "glossary.deepl.importNow": "იმპორტი",
+  "glossary.deepl.imported": "DeepL-დან დაიმპორტდა: განახლებული ტერმინები: {updated, number}, დამატებული: {created, number}, გამოტოვებული: {skipped, number}.",
+  "glossary.deepl.none": "თქვენს DeepL ანგარიშში ამ ნაწარმოების ენის ლექსიკონი არ არის.",
+  "glossary.deepl.error.failed": "DeepL-მა ეს ახლა ვერ შეძლო. სცადეთ მოგვიანებით.",
+  "glossary.deepl.error.nothing": "ჯერ თარგმნეთ რამდენიმე ტერმინი ისეთ ენაზე, რომლისთვისაც DeepL ლექსიკონებს ინახავს.",
+  "glossary.deepl.error.language": "ჯერ მიუთითეთ ამ ნაწარმოების ენა."
 }

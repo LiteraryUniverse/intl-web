@@ -21,5 +21,18 @@
   "glossary.term.overridden": "このストーリー用に変更済み",
   "glossary.term.override": "このストーリー用に変更",
   "glossary.translation": "翻訳",
-  "glossary.translation.note": "訳注"
+  "glossary.translation.note": "訳注",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "用語集をDeepLアカウントに送信すると、DeepLがここでもDeepL自身のアプリでも、翻訳にこれらの用語を反映します。DeepLの用語集をインポートすると、その訳語がここに取り込まれます。",
+  "glossary.deepl.noKey": "この用語集をDeepLに送信したり、DeepLからインポートしたりするには、DeepLのAPIキーを保存してください。<link>APIとサービスキー</link>",
+  "glossary.deepl.send": "DeepLに送信",
+  "glossary.deepl.sent": "DeepLに{languages, plural, other {#言語}}で{entries, plural, other {#件}}の項目が登録されました。",
+  "glossary.deepl.import": "DeepLからインポート",
+  "glossary.deepl.dictionary": "DeepLの用語集",
+  "glossary.deepl.importNow": "インポート",
+  "glossary.deepl.imported": "DeepLからインポートしました：更新した用語 {updated, number}、追加 {created, number}、スキップ {skipped, number}。",
+  "glossary.deepl.none": "DeepLアカウントに、この作品の言語を原文とする用語集がありません。",
+  "glossary.deepl.error.failed": "DeepLで現在この操作を実行できません。しばらくしてからもう一度お試しください。",
+  "glossary.deepl.error.nothing": "まず、DeepLが用語集に対応している言語に、いくつかの用語を翻訳してください。",
+  "glossary.deepl.error.language": "先にこの作品の言語を設定してください。"
 }

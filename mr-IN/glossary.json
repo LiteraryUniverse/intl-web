@@ -21,5 +21,18 @@
   "glossary.term.overridden": "या कथेसाठी बदलले",
   "glossary.term.override": "या कथेसाठी बदला",
   "glossary.translation": "भाषांतर",
-  "glossary.translation.note": "भाषांतरकाराची टीप"
+  "glossary.translation.note": "भाषांतरकाराची टीप",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "शब्दकोश तुमच्या DeepL खात्यावर पाठवा, म्हणजे DeepL आपल्या भाषांतरांत, इथे आणि स्वतःच्या अ‍ॅप्समध्येही, हे शब्द तसेच ठेवेल. DeepL शब्दकोश आयात केल्यावर त्यातील भाषांतरे इथे येतात.",
+  "glossary.deepl.noKey": "हा शब्दकोश DeepL ला पाठवण्यासाठी किंवा तिथून आयात करण्यासाठी तुमची DeepL API की सेव्ह करा. <link>खात्यातील की</link>",
+  "glossary.deepl.send": "DeepL ला पाठवा",
+  "glossary.deepl.sent": "DeepL कडे आता {languages, plural, one {# भाषेत} other {# भाषांत}} {entries, plural, one {# नोंद} other {# नोंदी}} आहेत.",
+  "glossary.deepl.import": "DeepL मधून आयात करा",
+  "glossary.deepl.dictionary": "DeepL शब्दकोश",
+  "glossary.deepl.importNow": "आयात करा",
+  "glossary.deepl.imported": "DeepL मधून आयात केले: अद्यतनित शब्द: {updated, number}, जोडलेले: {created, number}, वगळलेले: {skipped, number}.",
+  "glossary.deepl.none": "तुमच्या DeepL खात्यात या कलाकृतीच्या भाषेतील कोणताही शब्दकोश नाही.",
+  "glossary.deepl.error.failed": "DeepL ला सध्या हे करता आले नाही. नंतर पुन्हा प्रयत्न करा.",
+  "glossary.deepl.error.nothing": "आधी काही शब्दांचे, DeepL शब्दकोश ठेवते अशा भाषेत भाषांतर करा.",
+  "glossary.deepl.error.language": "आधी या कलाकृतीची भाषा सेट करा."
 }

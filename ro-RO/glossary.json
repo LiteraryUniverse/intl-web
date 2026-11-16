@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Modificat pentru această poveste",
   "glossary.term.override": "Modifică pentru această poveste",
   "glossary.translation": "Traducere",
-  "glossary.translation.note": "Nota traducătorului"
+  "glossary.translation.note": "Nota traducătorului",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Trimiteți glosarul în contul DeepL, iar DeepL va păstra acești termeni în traducerile sale, aici și în propriile aplicații. Importul unui glosar DeepL aduce aici traducerile lui.",
+  "glossary.deepl.noKey": "Salvați cheia API DeepL pentru a trimite acest glosar la DeepL sau a importa unul de acolo. <link>Cheile contului</link>",
+  "glossary.deepl.send": "Trimite la DeepL",
+  "glossary.deepl.sent": "DeepL are acum {entries, plural, one {# intrare} few {# intrări} other {# de intrări}} în {languages, plural, one {# limbă} few {# limbi} other {# de limbi}}.",
+  "glossary.deepl.import": "Importă din DeepL",
+  "glossary.deepl.dictionary": "Glosar DeepL",
+  "glossary.deepl.importNow": "Importă",
+  "glossary.deepl.imported": "Importat din DeepL: termeni actualizați: {updated, number}, adăugați: {created, number}, omiși: {skipped, number}.",
+  "glossary.deepl.none": "Contul dvs. DeepL nu are niciun glosar în limba acestei lucrări.",
+  "glossary.deepl.error.failed": "DeepL nu a putut face asta acum. Încercați din nou mai târziu.",
+  "glossary.deepl.error.nothing": "Traduceți mai întâi câțiva termeni într-o limbă pentru care DeepL ține glosare.",
+  "glossary.deepl.error.language": "Setați mai întâi limba acestei lucrări."
 }

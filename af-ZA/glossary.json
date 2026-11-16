@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Verander vir hierdie storie",
   "glossary.term.override": "Verander vir hierdie storie",
   "glossary.translation": "Vertaling",
-  "glossary.translation.note": "Vertaler se nota"
+  "glossary.translation.note": "Vertaler se nota",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Stuur die woordeboek na jou DeepL-rekening, dan hou DeepL hierdie terme in sy vertalings, hier en in sy eie programme. As jy ’n DeepL-woordeboek invoer, kom sy vertalings hierheen.",
+  "glossary.deepl.noKey": "Stoor jou DeepL-API-sleutel om hierdie woordeboek na DeepL te stuur of een daarvandaan in te voer. <link>Rekeningsleutels</link>",
+  "glossary.deepl.send": "Stuur na DeepL",
+  "glossary.deepl.sent": "DeepL het nou {entries, plural, one {# inskrywing} other {# inskrywings}} in {languages, plural, one {# taal} other {# tale}}.",
+  "glossary.deepl.import": "Voer in vanaf DeepL",
+  "glossary.deepl.dictionary": "DeepL-woordeboek",
+  "glossary.deepl.importNow": "Voer in",
+  "glossary.deepl.imported": "Ingevoer vanaf DeepL: terme opgedateer: {updated, number}, bygevoeg: {created, number}, oorgeslaan: {skipped, number}.",
+  "glossary.deepl.none": "Jou DeepL-rekening het geen woordeboek vanaf die taal van hierdie werk nie.",
+  "glossary.deepl.error.failed": "DeepL kon dit nou nie doen nie. Probeer later weer.",
+  "glossary.deepl.error.nothing": "Vertaal eers ’n paar terme na ’n taal waarvoor DeepL woordeboeke hou.",
+  "glossary.deepl.error.language": "Stel eers die taal van hierdie werk."
 }

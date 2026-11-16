@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Ehhez a történethez módosítva",
   "glossary.term.override": "Módosítás ehhez a történethez",
   "glossary.translation": "Fordítás",
-  "glossary.translation.note": "Fordítói megjegyzés"
+  "glossary.translation.note": "Fordítói megjegyzés",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Küldje el a szótárt a DeepL-fiókjába, és a DeepL a fordításaiban, itt és a saját alkalmazásaiban is megtartja ezeket a kifejezéseket. Egy DeepL-szótár importálásakor a fordításai ide kerülnek.",
+  "glossary.deepl.noKey": "Mentse el a DeepL API-kulcsát, hogy elküldhesse a szótárt a DeepL-nek, vagy importálhasson onnan. <link>Fiókkulcsok</link>",
+  "glossary.deepl.send": "Küldés a DeepL-nek",
+  "glossary.deepl.sent": "A DeepL-ben mostantól {entries, plural, one {# bejegyzés} other {# bejegyzés}} van {languages, plural, one {# nyelven} other {# nyelven}}.",
+  "glossary.deepl.import": "Importálás a DeepL-ből",
+  "glossary.deepl.dictionary": "DeepL-szótár",
+  "glossary.deepl.importNow": "Importálás",
+  "glossary.deepl.imported": "Importálva a DeepL-ből: frissített kifejezések: {updated, number}, hozzáadva: {created, number}, kihagyva: {skipped, number}.",
+  "glossary.deepl.none": "A DeepL-fiókjában nincs szótár a mű nyelvéről.",
+  "glossary.deepl.error.failed": "A DeepL jelenleg nem tudta végrehajtani. Próbálja újra később.",
+  "glossary.deepl.error.nothing": "Előbb fordítson le néhány kifejezést olyan nyelvre, amelyhez a DeepL szótárat tud tárolni.",
+  "glossary.deepl.error.language": "Előbb adja meg a mű nyelvét."
 }

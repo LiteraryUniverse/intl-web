@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Cambiado para esta historia",
   "glossary.term.override": "Cambiar para esta historia",
   "glossary.translation": "Traducción",
-  "glossary.translation.note": "Nota del traductor"
+  "glossary.translation.note": "Nota del traductor",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Envía el glosario a tu cuenta de DeepL y DeepL mantendrá estos términos en sus traducciones, aquí y en sus propias aplicaciones. Al importar un glosario de DeepL, sus traducciones se añaden aquí.",
+  "glossary.deepl.noKey": "Guarda tu clave de API de DeepL para enviar este glosario a DeepL o importar uno desde allí. <link>Claves de API y de servicios</link>",
+  "glossary.deepl.send": "Enviar a DeepL",
+  "glossary.deepl.sent": "Ahora DeepL tiene {entries, plural, one {# entrada} many {# de entradas} other {# entradas}} en {languages, plural, one {# idioma} many {# de idiomas} other {# idiomas}}.",
+  "glossary.deepl.import": "Importar desde DeepL",
+  "glossary.deepl.dictionary": "Glosario de DeepL",
+  "glossary.deepl.importNow": "Importar",
+  "glossary.deepl.imported": "Importado desde DeepL: términos actualizados: {updated, number}, añadidos: {created, number}, omitidos: {skipped, number}.",
+  "glossary.deepl.none": "Tu cuenta de DeepL no tiene ningún glosario del idioma de esta obra.",
+  "glossary.deepl.error.failed": "DeepL no ha podido hacerlo ahora. Inténtalo de nuevo más tarde.",
+  "glossary.deepl.error.nothing": "Traduce primero algunos términos a un idioma para el que DeepL mantenga glosarios.",
+  "glossary.deepl.error.language": "Define primero el idioma de esta obra."
 }

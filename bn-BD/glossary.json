@@ -21,5 +21,18 @@
   "glossary.term.overridden": "এই গল্পের জন্য পরিবর্তিত",
   "glossary.term.override": "এই গল্পের জন্য পরিবর্তন করুন",
   "glossary.translation": "অনুবাদ",
-  "glossary.translation.note": "অনুবাদকের টীকা"
+  "glossary.translation.note": "অনুবাদকের টীকা",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "আপনার DeepL অ্যাকাউন্টে শব্দকোষটি পাঠান, তাহলে DeepL এখানে ও তার নিজের অ্যাপে অনুবাদের সময় এই শব্দগুলো ঠিক রাখবে। DeepL শব্দকোষ ইমপোর্ট করলে তার অনুবাদগুলো এখানে চলে আসে।",
+  "glossary.deepl.noKey": "এই শব্দকোষ DeepL-এ পাঠাতে বা সেখান থেকে ইমপোর্ট করতে আপনার DeepL API কী সংরক্ষণ করুন। <link>অ্যাকাউন্টের কী</link>",
+  "glossary.deepl.send": "DeepL-এ পাঠান",
+  "glossary.deepl.sent": "DeepL-এ এখন {languages, plural, one {# টি ভাষায়} other {# টি ভাষায়}} {entries, plural, one {# টি এন্ট্রি} other {# টি এন্ট্রি}} আছে।",
+  "glossary.deepl.import": "DeepL থেকে ইমপোর্ট করুন",
+  "glossary.deepl.dictionary": "DeepL শব্দকোষ",
+  "glossary.deepl.importNow": "ইমপোর্ট করুন",
+  "glossary.deepl.imported": "DeepL থেকে ইমপোর্ট হয়েছে: হালনাগাদ করা শব্দ: {updated, number}, যোগ করা: {created, number}, বাদ দেওয়া: {skipped, number}।",
+  "glossary.deepl.none": "আপনার DeepL অ্যাকাউন্টে এই রচনার ভাষার কোনো শব্দকোষ নেই।",
+  "glossary.deepl.error.failed": "DeepL এখন এটি করতে পারেনি। পরে আবার চেষ্টা করুন।",
+  "glossary.deepl.error.nothing": "আগে কিছু শব্দ এমন ভাষায় অনুবাদ করুন, যে ভাষার শব্দকোষ DeepL রাখে।",
+  "glossary.deepl.error.language": "আগে এই রচনার ভাষা ঠিক করুন।"
 }

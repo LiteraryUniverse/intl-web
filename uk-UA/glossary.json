@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Змінено для цієї історії",
   "glossary.term.override": "Змінити для цієї історії",
   "glossary.translation": "Переклад",
-  "glossary.translation.note": "Примітка перекладача"
+  "glossary.translation.note": "Примітка перекладача",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Надішліть глосарій до свого облікового запису DeepL, і DeepL зберігатиме ці терміни у своїх перекладах, тут і у власних застосунках. Імпорт глосарія з DeepL переносить сюди його переклади.",
+  "glossary.deepl.noKey": "Збережіть ключ API DeepL, щоб надіслати цей глосарій до DeepL або імпортувати звідти. <link>Ключі API та сервісів</link>",
+  "glossary.deepl.send": "Надіслати до DeepL",
+  "glossary.deepl.sent": "Тепер у DeepL {entries, plural, one {# запис} few {# записи} many {# записів} other {# запису}} {languages, plural, one {# мовою} few {# мовами} many {# мовами} other {# мовами}}.",
+  "glossary.deepl.import": "Імпортувати з DeepL",
+  "glossary.deepl.dictionary": "Глосарій DeepL",
+  "glossary.deepl.importNow": "Імпортувати",
+  "glossary.deepl.imported": "Імпортовано з DeepL: оновлено термінів: {updated, number}, додано: {created, number}, пропущено: {skipped, number}.",
+  "glossary.deepl.none": "В обліковому записі DeepL немає глосарія мовою цього твору.",
+  "glossary.deepl.error.failed": "Зараз DeepL не може цього зробити. Спробуйте пізніше.",
+  "glossary.deepl.error.nothing": "Спершу перекладіть кілька термінів мовою, для якої DeepL підтримує глосарії.",
+  "glossary.deepl.error.language": "Спершу вкажіть мову цього твору."
 }

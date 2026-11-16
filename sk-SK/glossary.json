@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Zmenené pre tento príbeh",
   "glossary.term.override": "Zmeniť pre tento príbeh",
   "glossary.translation": "Preklad",
-  "glossary.translation.note": "Poznámka prekladateľa"
+  "glossary.translation.note": "Poznámka prekladateľa",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Pošlite slovník do svojho účtu DeepL a DeepL bude tieto pojmy zachovávať vo svojich prekladoch, tu aj vo vlastných aplikáciách. Import slovníka z DeepL sem prinesie jeho preklady.",
+  "glossary.deepl.noKey": "Uložte si kľúč API DeepL, aby ste mohli tento slovník poslať do DeepL alebo ho odtiaľ importovať. <link>Kľúče API a služieb</link>",
+  "glossary.deepl.send": "Poslať do DeepL",
+  "glossary.deepl.sent": "DeepL má teraz {entries, plural, one {# záznam} few {# záznamy} other {# záznamov}} v {languages, plural, one {# jazyku} few {# jazykoch} other {# jazykoch}}.",
+  "glossary.deepl.import": "Importovať z DeepL",
+  "glossary.deepl.dictionary": "Slovník DeepL",
+  "glossary.deepl.importNow": "Importovať",
+  "glossary.deepl.imported": "Importované z DeepL: aktualizované pojmy: {updated, number}, pridané: {created, number}, preskočené: {skipped, number}.",
+  "glossary.deepl.none": "Váš účet DeepL nemá žiadny slovník v jazyku tohto diela.",
+  "glossary.deepl.error.failed": "DeepL to teraz nedokázal. Skúste to znova neskôr.",
+  "glossary.deepl.error.nothing": "Najprv preložte niekoľko pojmov do jazyka, pre ktorý DeepL vedie slovníky.",
+  "glossary.deepl.error.language": "Najprv nastavte jazyk tohto diela."
 }

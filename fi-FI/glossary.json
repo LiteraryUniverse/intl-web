@@ -21,5 +21,18 @@
   "glossary.term.overridden": "Muutettu tälle tarinalle",
   "glossary.term.override": "Muuta tälle tarinalle",
   "glossary.translation": "Käännös",
-  "glossary.translation.note": "Kääntäjän huomautus"
+  "glossary.translation.note": "Kääntäjän huomautus",
+  "glossary.deepl.title": "DeepL",
+  "glossary.deepl.intro": "Lähetä sanasto DeepL-tilillesi, niin DeepL pitää nämä termit käännöksissään, täällä ja omissa sovelluksissaan. DeepL-sanaston tuonti tuo sen käännökset tänne.",
+  "glossary.deepl.noKey": "Tallenna DeepL-API-avaimesi, niin voit lähettää tämän sanaston DeepLiin tai tuoda sieltä sanaston. <link>Tilin avaimet</link>",
+  "glossary.deepl.send": "Lähetä DeepLiin",
+  "glossary.deepl.sent": "DeepLissä on nyt {entries, plural, one {# merkintä} other {# merkintää}}, {languages, plural, one {# kielellä} other {# kielellä}}.",
+  "glossary.deepl.import": "Tuo DeepListä",
+  "glossary.deepl.dictionary": "DeepL-sanasto",
+  "glossary.deepl.importNow": "Tuo",
+  "glossary.deepl.imported": "Tuotu DeepListä: päivitetyt termit: {updated, number}, lisätyt: {created, number}, ohitetut: {skipped, number}.",
+  "glossary.deepl.none": "DeepL-tililläsi ei ole sanastoa tämän teoksen kielestä.",
+  "glossary.deepl.error.failed": "DeepL ei voinut tehdä tätä juuri nyt. Yritä myöhemmin uudelleen.",
+  "glossary.deepl.error.nothing": "Käännä ensin joitakin termejä kielelle, jolle DeepL ylläpitää sanastoja.",
+  "glossary.deepl.error.language": "Aseta ensin tämän teoksen kieli."
 }
