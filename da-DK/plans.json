@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Udgivelse af lydbøger",
   "plans.feature.audiobookTeams": "Produktionsteams til lydbøger",
   "plans.feature.aiAssistant": "AI-skriveassistent (din egen nøgle)",
+  "plans.feature.aiTranslation": "AI-oversættelseskladder af dine kapitler (DeepL)",
   "plans.feature.seriesPlanner": "Planlægning af serier",
   "plans.feature.manuscriptImport": "Import af manuskripter",
   "plans.feature.offlineWriting": "Skrivning offline",

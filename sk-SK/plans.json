@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Vydávanie audiokníh",
   "plans.feature.audiobookTeams": "Tímy na tvorbu audiokníh",
   "plans.feature.aiAssistant": "AI asistent na písanie (vlastný kľúč)",
+  "plans.feature.aiTranslation": "Koncepty prekladov vašich kapitol od AI (DeepL)",
   "plans.feature.seriesPlanner": "Plánovanie sérií",
   "plans.feature.manuscriptImport": "Import rukopisu",
   "plans.feature.offlineWriting": "Písanie offline",

@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Nakatago ang akdang ito habang bukas ang developer tools ng iyong browser, dahil hindi pinapayagan ng lisensya nito ang pagkopya. Isara ang mga iyon para magpatuloy kung saan ka huminto.",
   "reader.protection.unfocused": "Nakatago habang nasa background ang window na ito. Mag-click kahit saan para ibalik ito.",
   "externalShopping.buyLink.apple": "Bumili sa Apple Books",
-  "externalShopping.buyLink.google": "Bumili sa Google Play Books"
+  "externalShopping.buyLink.google": "Bumili sa Google Play Books",
+  "reader.aiTranslation.reviewed.title": "Saling binuo ng AI · Nasuri na",
+  "reader.aiTranslation.reviewed.body": "Binuo gamit ang AI ang saling ito at sinuri ng may-akda o ng isang lisensyadong tagasalin.",
+  "reader.aiTranslation.notReviewed.title": "Saling binuo ng AI · Hindi pa nasusuri",
+  "reader.aiTranslation.notReviewed.body": "Binuo gamit ang AI ang saling ito at hindi pa ito minamarkahang nasuri ng may-akda o ng isang lisensyadong tagasalin. Maaaring may ilang kahulugan o banayad na bahaging pampanitikan na hindi tumpak."
 }

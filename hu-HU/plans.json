@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Hangoskönyv-kiadás",
   "plans.feature.audiobookTeams": "Hangoskönyv-gyártó csapatok",
   "plans.feature.aiAssistant": "AI-íróasszisztens (saját kulccsal)",
+  "plans.feature.aiTranslation": "MI-fordítástervezetek a fejezeteiről (DeepL)",
   "plans.feature.seriesPlanner": "Könyvsorozatok tervezése",
   "plans.feature.manuscriptImport": "Kézirat importálása",
   "plans.feature.offlineWriting": "Offline írás",

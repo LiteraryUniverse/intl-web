@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "This work is hidden while your browser's developer tools are open, because its license does not allow copying. Close them to pick up where you left off.",
   "reader.protection.unfocused": "Hidden while this window is in the background. Click anywhere to bring it back.",
   "externalShopping.buyLink.apple": "Apple Books ನಲ್ಲಿ ಖರೀದಿಸಿ",
-  "externalShopping.buyLink.google": "Google Play ಪುಸ್ತಕಗಳಲ್ಲಿ ಖರೀದಿಸಿ"
+  "externalShopping.buyLink.google": "Google Play ಪುಸ್ತಕಗಳಲ್ಲಿ ಖರೀದಿಸಿ",
+  "reader.aiTranslation.reviewed.title": "AI-ರಚಿತ ಭಾಷಾಂತರ · ಪರಿಶೀಲಿಸಲಾಗಿದೆ",
+  "reader.aiTranslation.reviewed.body": "ಈ ಭಾಷಾಂತರವನ್ನು AI ಬಳಸಿ ರಚಿಸಲಾಗಿದೆ ಮತ್ತು ಲೇಖಕ ಅಥವಾ ಪರವಾನಗಿ ಪಡೆದ ಭಾಷಾಂತರಕಾರರು ಪರಿಶೀಲಿಸಿದ್ದಾರೆ.",
+  "reader.aiTranslation.notReviewed.title": "AI-ರಚಿತ ಭಾಷಾಂತರ · ಪರಿಶೀಲಿಸಿಲ್ಲ",
+  "reader.aiTranslation.notReviewed.body": "ಈ ಭಾಷಾಂತರವನ್ನು AI ಬಳಸಿ ರಚಿಸಲಾಗಿದೆ ಮತ್ತು ಲೇಖಕ ಅಥವಾ ಪರವಾನಗಿ ಪಡೆದ ಭಾಷಾಂತರಕಾರರು ಇದನ್ನು ಇನ್ನೂ ಪರಿಶೀಲಿಸಿದ್ದೆಂದು ಗುರುತಿಸಿಲ್ಲ. ಕೆಲವು ಅರ್ಥಗಳು ಅಥವಾ ಸಾಹಿತ್ಯಿಕ ಸೂಕ್ಷ್ಮತೆಗಳು ನಿಖರವಾಗಿಲ್ಲದಿರಬಹುದು."
 }

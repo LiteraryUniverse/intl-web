@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "જ્યારે તમારું બ્રાઉઝર ડેવલપર ટૂલ્સ ખુલ્લું હોય છે, ત્યારે આ કાર્ય છુપાયેલું રહે છે, કારણ કે તેની લાઇસેન્સ નકલ કરવાની મંજૂરી આપતી નથી. જ્યાં તમે છોડી દીધું હતું ત્યાંથી આગળ વાંચવા માટે તેને બંધ કરો.",
   "reader.protection.unfocused": "જ્યારે આ વિન્ડો પૃષ્ઠભૂમિમાં હોય ત્યારે છુપાયેલું. તેને પાછું લાવવા માટે કોઈપણ જગ્યાએ ક્લિક કરો.",
   "externalShopping.buyLink.apple": "Apple Books પર ખરીદો",
-  "externalShopping.buyLink.google": "Google Play પુસ્તકો પર ખરીદો"
+  "externalShopping.buyLink.google": "Google Play પુસ્તકો પર ખરીદો",
+  "reader.aiTranslation.reviewed.title": "AI-જનરેટેડ અનુવાદ · સમીક્ષા થયેલ",
+  "reader.aiTranslation.reviewed.body": "આ અનુવાદ AI વડે બનાવવામાં આવ્યો હતો અને લેખક અથવા લાઇસન્સ ધરાવતા અનુવાદક દ્વારા તેની સમીક્ષા કરવામાં આવી છે.",
+  "reader.aiTranslation.notReviewed.title": "AI-જનરેટેડ અનુવાદ · સમીક્ષા બાકી",
+  "reader.aiTranslation.notReviewed.body": "આ અનુવાદ AI વડે બનાવવામાં આવ્યો હતો અને લેખક અથવા લાઇસન્સ ધરાવતા અનુવાદકે હજી તેને સમીક્ષા થયેલ તરીકે ચિહ્નિત કર્યો નથી. કેટલાક અર્થ અથવા સાહિત્યિક સૂક્ષ્મતા અચોક્કસ હોઈ શકે છે."
 }

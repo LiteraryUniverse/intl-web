@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Это произведение скрыто, пока в вашем браузере открыты инструменты разработчика, так как его лицензия не разрешает копирование. Закройте их, чтобы продолжить с того места, где вы остановились.",
   "reader.protection.unfocused": "Скрыто, пока это окно находится в фоне. Нажмите в любом месте, чтобы вернуть содержимое.",
   "externalShopping.buyLink.apple": "Купить в Apple Books",
-  "externalShopping.buyLink.google": "Купить в Google Play Книгах"
+  "externalShopping.buyLink.google": "Купить в Google Play Книгах",
+  "reader.aiTranslation.reviewed.title": "Перевод, созданный ИИ · Проверен",
+  "reader.aiTranslation.reviewed.body": "Этот перевод создан с помощью ИИ и проверен автором или лицензированным переводчиком.",
+  "reader.aiTranslation.notReviewed.title": "Перевод, созданный ИИ · Не проверен",
+  "reader.aiTranslation.notReviewed.body": "Этот перевод создан с помощью ИИ и ещё не отмечен как проверенный автором или лицензированным переводчиком. Некоторые смыслы или литературные нюансы могут быть переданы неточно."
 }

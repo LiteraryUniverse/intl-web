@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "तुमच्या ब्राउझरचे डेव्हलपर टूल्स उघडे असताना हे काम लपवले जाते, कारण त्याच्या परवान्यानुसार त्याची नक्कल करण्यास परवानगी नाही. पुन्हा तेथेच वाचण्यासाठी ते बंद करा.",
   "reader.protection.unfocused": "ही विंडो पार्श्वभूमीत असताना लपवलेली असते. ती परत आणण्यासाठी कुठेही क्लिक करा.",
   "externalShopping.buyLink.apple": "Apple Books वर खरेदी करा",
-  "externalShopping.buyLink.google": "Google Play पुस्तके वर खरेदी करा"
+  "externalShopping.buyLink.google": "Google Play पुस्तके वर खरेदी करा",
+  "reader.aiTranslation.reviewed.title": "AI-निर्मित भाषांतर · पुनरावलोकन झाले",
+  "reader.aiTranslation.reviewed.body": "हे भाषांतर AI च्या मदतीने तयार केले होते आणि लेखक किंवा परवानाधारक अनुवादकाने त्याचे पुनरावलोकन केले आहे.",
+  "reader.aiTranslation.notReviewed.title": "AI-निर्मित भाषांतर · पुनरावलोकन बाकी",
+  "reader.aiTranslation.notReviewed.body": "हे भाषांतर AI च्या मदतीने तयार केले होते आणि लेखक किंवा परवानाधारक अनुवादकाने ते अजून पुनरावलोकन झाले असे चिन्हांकित केलेले नाही. काही अर्थ किंवा साहित्यिक बारकावे अचूक नसू शकतात."
 }

@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "오디오북 발행",
   "plans.feature.audiobookTeams": "오디오북 제작 팀",
   "plans.feature.aiAssistant": "AI 글쓰기 어시스턴트(내 키 사용)",
+  "plans.feature.aiTranslation": "챕터의 AI 번역 초안(DeepL)",
   "plans.feature.seriesPlanner": "시리즈 기획",
   "plans.feature.manuscriptImport": "원고 가져오기",
   "plans.feature.offlineWriting": "오프라인 글쓰기",

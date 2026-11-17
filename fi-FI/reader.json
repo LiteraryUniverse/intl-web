@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Tämä teos on piilotettu niin kauan kuin selaimesi kehittäjätyökalut ovat auki, koska sen lisenssi ei salli kopiointia. Sulje ne, niin voit jatkaa siitä, mihin jäit.",
   "reader.protection.unfocused": "Piilotettu, kun tämä ikkuna on taustalla. Napsauta mitä tahansa kohtaa, niin sisältö palaa näkyviin.",
   "externalShopping.buyLink.apple": "Osta Apple Booksista",
-  "externalShopping.buyLink.google": "Osta Google Play Kirjoista"
+  "externalShopping.buyLink.google": "Osta Google Play Kirjoista",
+  "reader.aiTranslation.reviewed.title": "Tekoälyn tuottama käännös · Tarkistettu",
+  "reader.aiTranslation.reviewed.body": "Tämä käännös on tuotettu tekoälyllä, ja kirjoittaja tai lisensoitu kääntäjä on tarkistanut sen.",
+  "reader.aiTranslation.notReviewed.title": "Tekoälyn tuottama käännös · Ei tarkistettu",
+  "reader.aiTranslation.notReviewed.body": "Tämä käännös on tuotettu tekoälyllä, eikä kirjoittaja tai lisensoitu kääntäjä ole vielä merkinnyt sitä tarkistetuksi. Jotkin merkitykset tai kirjalliset vivahteet voivat olla epätarkkoja."
 }

@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "আপনার ব্রাউজারের ডেভেলপার টুল খোলা থাকা অবস্থায় এই রচনাটি লুকানো থাকে, কারণ এর লাইসেন্স কপি করার অনুমতি দেয় না। যেখানে থেমেছিলেন সেখান থেকে চালিয়ে যেতে সেগুলো বন্ধ করুন।",
   "reader.protection.unfocused": "এই উইন্ডোটি ব্যাকগ্রাউন্ডে থাকা অবস্থায় লুকানো থাকে। ফিরিয়ে আনতে যেকোনো জায়গায় ক্লিক করুন।",
   "externalShopping.buyLink.apple": "Apple Books-এ কিনুন",
-  "externalShopping.buyLink.google": "Google Play বই-এ কিনুন"
+  "externalShopping.buyLink.google": "Google Play বই-এ কিনুন",
+  "reader.aiTranslation.reviewed.title": "AI দিয়ে তৈরি অনুবাদ · পর্যালোচিত",
+  "reader.aiTranslation.reviewed.body": "এই অনুবাদ AI ব্যবহার করে তৈরি করা হয়েছে এবং লেখক বা একজন লাইসেন্সপ্রাপ্ত অনুবাদক পর্যালোচনা করেছেন।",
+  "reader.aiTranslation.notReviewed.title": "AI দিয়ে তৈরি অনুবাদ · পর্যালোচনা করা হয়নি",
+  "reader.aiTranslation.notReviewed.body": "এই অনুবাদ AI ব্যবহার করে তৈরি করা হয়েছে এবং লেখক বা কোনো লাইসেন্সপ্রাপ্ত অনুবাদক এখনও এটি পর্যালোচিত হিসেবে চিহ্নিত করেননি। কিছু অর্থ বা সাহিত্যিক সূক্ষ্মতা ভুল হতে পারে।"
 }

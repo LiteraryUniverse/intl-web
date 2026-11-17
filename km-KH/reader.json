@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "This work is hidden while your browser's developer tools are open, because its license does not allow copying. Close them to pick up where you left off.",
   "reader.protection.unfocused": "Hidden while this window is in the background. Click anywhere to bring it back.",
   "externalShopping.buyLink.apple": "ទិញនៅ Apple Books",
-  "externalShopping.buyLink.google": "ទិញនៅ Google Play សៀវភៅ"
+  "externalShopping.buyLink.google": "ទិញនៅ Google Play សៀវភៅ",
+  "reader.aiTranslation.reviewed.title": "ការបកប្រែដោយ AI · បានត្រួតពិនិត្យ",
+  "reader.aiTranslation.reviewed.body": "ការបកប្រែនេះត្រូវបានបង្កើតដោយប្រើ AI ហើយត្រូវបានត្រួតពិនិត្យដោយអ្នកនិពន្ធ ឬអ្នកបកប្រែមានអាជ្ញាប័ណ្ណ។",
+  "reader.aiTranslation.notReviewed.title": "ការបកប្រែដោយ AI · មិនទាន់ត្រួតពិនិត្យ",
+  "reader.aiTranslation.notReviewed.body": "ការបកប្រែនេះត្រូវបានបង្កើតដោយប្រើ AI ហើយអ្នកនិពន្ធ ឬអ្នកបកប្រែមានអាជ្ញាប័ណ្ណមិនទាន់សម្គាល់ថាបានត្រួតពិនិត្យនៅឡើយទេ។ អត្ថន័យ ឬភាពស្រពិចស្រពិលអក្សរសាស្ត្រមួយចំនួនអាចមិនត្រឹមត្រូវ។"
 }

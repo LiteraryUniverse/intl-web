@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "نشر الكتب الصوتية",
   "plans.feature.audiobookTeams": "فرق إنتاج الكتب الصوتية",
   "plans.feature.aiAssistant": "مساعد كتابة بالذكاء الاصطناعي (بمفتاحك الخاص)",
+  "plans.feature.aiTranslation": "مسودات ترجمة فصولك بالذكاء الاصطناعي (DeepL)",
   "plans.feature.seriesPlanner": "تخطيط السلاسل",
   "plans.feature.manuscriptImport": "استيراد المخطوطات",
   "plans.feature.offlineWriting": "الكتابة دون اتصال",

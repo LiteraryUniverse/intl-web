@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Esta obra está oculta mientras las herramientas para desarrolladores de tu navegador estén abiertas, porque su licencia no permite copiarla. Ciérralas para continuar donde lo dejaste.",
   "reader.protection.unfocused": "Oculto mientras esta ventana esté en segundo plano. Haz clic en cualquier lugar para volver a mostrarlo.",
   "externalShopping.buyLink.apple": "Comprar en Apple Books",
-  "externalShopping.buyLink.google": "Comprar en Google Play Libros"
+  "externalShopping.buyLink.google": "Comprar en Google Play Libros",
+  "reader.aiTranslation.reviewed.title": "Traducción generada por IA · Revisada",
+  "reader.aiTranslation.reviewed.body": "Esta traducción se generó con IA y la revisó el autor o un traductor con licencia.",
+  "reader.aiTranslation.notReviewed.title": "Traducción generada por IA · Sin revisar",
+  "reader.aiTranslation.notReviewed.body": "Esta traducción se generó con IA y el autor o un traductor con licencia aún no la ha marcado como revisada. Es posible que algunos significados o matices literarios sean inexactos."
 }

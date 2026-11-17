@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "აუდიოწიგნების გამოქვეყნება",
   "plans.feature.audiobookTeams": "აუდიოწიგნების საწარმოო გუნდები",
   "plans.feature.aiAssistant": "AI წერის ასისტენტი (თქვენი საკუთარი გასაღებით)",
+  "plans.feature.aiTranslation": "თქვენი თავების AI თარგმანის დრაფტები (DeepL)",
   "plans.feature.seriesPlanner": "სერიების დაგეგმვა",
   "plans.feature.manuscriptImport": "ხელნაწერის იმპორტი",
   "plans.feature.offlineWriting": "ოფლაინ წერა",

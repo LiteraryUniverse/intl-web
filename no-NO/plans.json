@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Publisering av lydbøker",
   "plans.feature.audiobookTeams": "Produksjonsteam for lydbøker",
   "plans.feature.aiAssistant": "KI-skriveassistent (din egen nøkkel)",
+  "plans.feature.aiTranslation": "KI-oversettelsesutkast av kapitlene dine (DeepL)",
   "plans.feature.seriesPlanner": "Planlegging av serier",
   "plans.feature.manuscriptImport": "Import av manus",
   "plans.feature.offlineWriting": "Skriving uten nett",

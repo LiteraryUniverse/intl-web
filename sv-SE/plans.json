@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Publicering av ljudböcker",
   "plans.feature.audiobookTeams": "Produktionsteam för ljudböcker",
   "plans.feature.aiAssistant": "AI-skrivassistent (din egen nyckel)",
+  "plans.feature.aiTranslation": "AI-översättningsutkast av dina kapitel (DeepL)",
   "plans.feature.seriesPlanner": "Planering av bokserier",
   "plans.feature.manuscriptImport": "Import av manus",
   "plans.feature.offlineWriting": "Skriva offline",

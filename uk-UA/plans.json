@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Публікація аудіокниг",
   "plans.feature.audiobookTeams": "Команди для створення аудіокниг",
   "plans.feature.aiAssistant": "ШІ-асистент для письма (ваш власний ключ)",
+  "plans.feature.aiTranslation": "Чернетки перекладу розділів за допомогою ШІ (DeepL)",
   "plans.feature.seriesPlanner": "Планування серій",
   "plans.feature.manuscriptImport": "Імпорт рукопису",
   "plans.feature.offlineWriting": "Письмо офлайн",

@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Karya ini disembunyikan selama alat pengembang di browser Anda terbuka, karena lisensinya tidak mengizinkan penyalinan. Tutup alat tersebut untuk melanjutkan dari bagian terakhir Anda.",
   "reader.protection.unfocused": "Disembunyikan selama jendela ini berada di latar belakang. Klik di mana saja untuk menampilkannya kembali.",
   "externalShopping.buyLink.apple": "Beli di Apple Books",
-  "externalShopping.buyLink.google": "Beli di Google Play Buku"
+  "externalShopping.buyLink.google": "Beli di Google Play Buku",
+  "reader.aiTranslation.reviewed.title": "Terjemahan buatan AI · Sudah ditinjau",
+  "reader.aiTranslation.reviewed.body": "Terjemahan ini dibuat dengan AI dan telah ditinjau oleh penulis atau penerjemah berlisensi.",
+  "reader.aiTranslation.notReviewed.title": "Terjemahan buatan AI · Belum ditinjau",
+  "reader.aiTranslation.notReviewed.body": "Terjemahan ini dibuat dengan AI dan belum ditandai sudah ditinjau oleh penulis atau penerjemah berlisensi. Sebagian makna atau nuansa sastra mungkin tidak akurat."
 }

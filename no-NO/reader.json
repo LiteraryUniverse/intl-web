@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Dette verket er skjult så lenge utviklerverktøyene i nettleseren er åpne, fordi lisensen ikke tillater kopiering. Lukk dem for å fortsette der du slapp.",
   "reader.protection.unfocused": "Skjult så lenge dette vinduet er i bakgrunnen. Klikk hvor som helst for å vise det igjen.",
   "externalShopping.buyLink.apple": "Kjøp på Apple Books",
-  "externalShopping.buyLink.google": "Kjøp på Google Play Bøker"
+  "externalShopping.buyLink.google": "Kjøp på Google Play Bøker",
+  "reader.aiTranslation.reviewed.title": "KI-generert oversettelse · Gjennomgått",
+  "reader.aiTranslation.reviewed.body": "Denne oversettelsen er laget med KI og gjennomgått av forfatteren eller en lisensiert oversetter.",
+  "reader.aiTranslation.notReviewed.title": "KI-generert oversettelse · Ikke gjennomgått",
+  "reader.aiTranslation.notReviewed.body": "Denne oversettelsen er laget med KI og er ennå ikke merket som gjennomgått av forfatteren eller en lisensiert oversetter. Noe betydning eller litterær nyanse kan være unøyaktig."
 }

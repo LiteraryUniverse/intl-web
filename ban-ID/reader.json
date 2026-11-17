@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "This work is hidden while your browser's developer tools are open, because its license does not allow copying. Close them to pick up where you left off.",
   "reader.protection.unfocused": "Hidden while this window is in the background. Click anywhere to bring it back.",
   "externalShopping.buyLink.apple": "Tumbas ring Apple Books",
-  "externalShopping.buyLink.google": "Tumbas ring Google Play Books"
+  "externalShopping.buyLink.google": "Tumbas ring Google Play Books",
+  "reader.aiTranslation.reviewed.title": "Terjemahan kakaryanin antuk AI · Sampun kapariksa",
+  "reader.aiTranslation.reviewed.body": "Terjemahan puniki kakaryanin nganggen AI tur sampun kapariksa olih pangaryan utawi juru terjemah sane madue lisensi.",
+  "reader.aiTranslation.notReviewed.title": "Terjemahan kakaryanin antuk AI · Durung kapariksa",
+  "reader.aiTranslation.notReviewed.body": "Terjemahan puniki kakaryanin nganggen AI tur durung kaaptiang sampun kapariksa olih pangaryan utawi juru terjemah sane madue lisensi. Sawatara arti utawi nuansa sastra prasida nenten tepat."
 }

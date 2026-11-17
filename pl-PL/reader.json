@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Ten utwór jest ukryty, dopóki narzędzia deweloperskie przeglądarki są otwarte, ponieważ jego licencja nie zezwala na kopiowanie. Zamknij je, aby kontynuować od miejsca, w którym przerwano.",
   "reader.protection.unfocused": "Ukryte, dopóki to okno jest w tle. Kliknij w dowolnym miejscu, aby przywrócić treść.",
   "externalShopping.buyLink.apple": "Kup w Apple Books",
-  "externalShopping.buyLink.google": "Kup w Google Play Książki"
+  "externalShopping.buyLink.google": "Kup w Google Play Książki",
+  "reader.aiTranslation.reviewed.title": "Tłumaczenie wygenerowane przez AI · Sprawdzone",
+  "reader.aiTranslation.reviewed.body": "To tłumaczenie zostało wygenerowane przez AI i sprawdzone przez autora lub licencjonowanego tłumacza.",
+  "reader.aiTranslation.notReviewed.title": "Tłumaczenie wygenerowane przez AI · Niesprawdzone",
+  "reader.aiTranslation.notReviewed.body": "To tłumaczenie zostało wygenerowane przez AI i nie zostało jeszcze oznaczone jako sprawdzone przez autora ani licencjonowanego tłumacza. Część znaczeń lub literackich niuansów może być niedokładna."
 }

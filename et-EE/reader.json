@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "See teos on peidetud seni, kuni brauseri arendaja tööriistad on avatud, sest selle litsents ei luba kopeerimist. Sulgege need, et jätkata sealt, kus pooleli jäite.",
   "reader.protection.unfocused": "Peidetud seni, kuni see aken on taustal. Klõpsake ükskõik kuhu, et sisu uuesti kuvada.",
   "externalShopping.buyLink.apple": "Osta Apple Booksist",
-  "externalShopping.buyLink.google": "Osta Google Play Raamatutest"
+  "externalShopping.buyLink.google": "Osta Google Play Raamatutest",
+  "reader.aiTranslation.reviewed.title": "AI loodud tõlge · Üle vaadatud",
+  "reader.aiTranslation.reviewed.body": "See tõlge loodi AI abil ja selle vaatas üle autor või litsentsitud tõlkija.",
+  "reader.aiTranslation.notReviewed.title": "AI loodud tõlge · Üle vaatamata",
+  "reader.aiTranslation.notReviewed.body": "See tõlge loodi AI abil ning autor või litsentsitud tõlkija pole seda veel üle vaadatuks märkinud. Mõni tähendus või kirjanduslik nüanss võib olla ebatäpne."
 }

@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Publikowanie audiobooków",
   "plans.feature.audiobookTeams": "Zespoły produkcji audiobooków",
   "plans.feature.aiAssistant": "Asystent pisania AI (własny klucz)",
+  "plans.feature.aiTranslation": "Szkice tłumaczeń AI Twoich rozdziałów (DeepL)",
   "plans.feature.seriesPlanner": "Planowanie serii",
   "plans.feature.manuscriptImport": "Import rękopisu",
   "plans.feature.offlineWriting": "Pisanie offline",

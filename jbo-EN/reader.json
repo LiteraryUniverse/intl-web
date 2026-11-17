@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "This work is hidden while your browser's developer tools are open, because its license does not allow copying. Close them to pick up where you left off.",
   "reader.protection.unfocused": "Hidden while this window is in the background. Click anywhere to bring it back.",
   "externalShopping.buyLink.apple": "Buy on Apple Books",
-  "externalShopping.buyLink.google": "Buy on Google Play Books"
+  "externalShopping.buyLink.google": "Buy on Google Play Books",
+  "reader.aiTranslation.reviewed.title": "AI-generated translation · Reviewed",
+  "reader.aiTranslation.reviewed.body": "This translation was generated using AI and reviewed by the author or a licensed translator.",
+  "reader.aiTranslation.notReviewed.title": "AI-generated translation · Not reviewed",
+  "reader.aiTranslation.notReviewed.body": "This translation was generated using AI and has not yet been marked reviewed by the author or a licensed translator. Some meaning or literary nuance may be inaccurate."
 }

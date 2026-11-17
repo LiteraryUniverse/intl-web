@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Luisterboeken publiceren",
   "plans.feature.audiobookTeams": "Productieteams voor luisterboeken",
   "plans.feature.aiAssistant": "AI-schrijfassistent (je eigen sleutel)",
+  "plans.feature.aiTranslation": "AI-vertaalconcepten van je hoofdstukken (DeepL)",
   "plans.feature.seriesPlanner": "Reeksen plannen",
   "plans.feature.manuscriptImport": "Manuscript importeren",
   "plans.feature.offlineWriting": "Offline schrijven",

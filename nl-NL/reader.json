@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Dit werk is verborgen zolang de ontwikkelaarstools van je browser open zijn, omdat de licentie kopiëren niet toestaat. Sluit ze om verder te gaan waar je gebleven was.",
   "reader.protection.unfocused": "Verborgen zolang dit venster op de achtergrond staat. Klik ergens om het weer te tonen.",
   "externalShopping.buyLink.apple": "Kopen bij Apple Books",
-  "externalShopping.buyLink.google": "Kopen bij Google Play Boeken"
+  "externalShopping.buyLink.google": "Kopen bij Google Play Boeken",
+  "reader.aiTranslation.reviewed.title": "AI-gegenereerde vertaling · Beoordeeld",
+  "reader.aiTranslation.reviewed.body": "Deze vertaling is met AI gegenereerd en beoordeeld door de auteur of een erkende vertaler.",
+  "reader.aiTranslation.notReviewed.title": "AI-gegenereerde vertaling · Niet beoordeeld",
+  "reader.aiTranslation.notReviewed.body": "Deze vertaling is met AI gegenereerd en nog niet als beoordeeld gemarkeerd door de auteur of een erkende vertaler. Sommige betekenis of literaire nuance kan onjuist zijn."
 }

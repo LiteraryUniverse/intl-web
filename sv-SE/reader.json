@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Det här verket är dolt så länge webbläsarens utvecklarverktyg är öppna, eftersom licensen inte tillåter kopiering. Stäng dem för att fortsätta där du slutade.",
   "reader.protection.unfocused": "Dolt så länge det här fönstret är i bakgrunden. Klicka var som helst för att visa det igen.",
   "externalShopping.buyLink.apple": "Köp på Apple Books",
-  "externalShopping.buyLink.google": "Köp på Google Play Böcker"
+  "externalShopping.buyLink.google": "Köp på Google Play Böcker",
+  "reader.aiTranslation.reviewed.title": "AI-genererad översättning · Granskad",
+  "reader.aiTranslation.reviewed.body": "Den här översättningen har skapats med AI och granskats av författaren eller en licensierad översättare.",
+  "reader.aiTranslation.notReviewed.title": "AI-genererad översättning · Inte granskad",
+  "reader.aiTranslation.notReviewed.body": "Den här översättningen har skapats med AI och har ännu inte markerats som granskad av författaren eller en licensierad översättare. Viss betydelse eller litterär nyans kan vara felaktig."
 }

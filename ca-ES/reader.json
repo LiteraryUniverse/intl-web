@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Aquesta obra està amagada mentre les eines per a desenvolupadors del navegador estiguin obertes, perquè la seva llicència no en permet la còpia. Tanca-les per continuar on ho havies deixat.",
   "reader.protection.unfocused": "Amagat mentre aquesta finestra sigui en segon pla. Fes clic a qualsevol lloc per tornar a mostrar-lo.",
   "externalShopping.buyLink.apple": "Compra a Apple Books",
-  "externalShopping.buyLink.google": "Compra a Google Play Llibres"
+  "externalShopping.buyLink.google": "Compra a Google Play Llibres",
+  "reader.aiTranslation.reviewed.title": "Traducció generada per IA · Revisada",
+  "reader.aiTranslation.reviewed.body": "Aquesta traducció s'ha generat amb IA i l'ha revisat l'autor o un traductor amb llicència.",
+  "reader.aiTranslation.notReviewed.title": "Traducció generada per IA · Sense revisar",
+  "reader.aiTranslation.notReviewed.body": "Aquesta traducció s'ha generat amb IA i l'autor o un traductor amb llicència encara no l'ha marcada com a revisada. És possible que hi hagi imprecisions de significat o de matís literari."
 }

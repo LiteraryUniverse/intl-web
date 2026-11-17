@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Paglalathala ng audiobook",
   "plans.feature.audiobookTeams": "Mga koponan sa paggawa ng audiobook",
   "plans.feature.aiAssistant": "AI writing assistant (sarili mong key)",
+  "plans.feature.aiTranslation": "Mga AI translation draft ng iyong mga kabanata (DeepL)",
   "plans.feature.seriesPlanner": "Pagpaplano ng serye",
   "plans.feature.manuscriptImport": "Pag-import ng manuskrito",
   "plans.feature.offlineWriting": "Pagsusulat nang offline",

@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "有聲書出版",
   "plans.feature.audiobookTeams": "有聲書製作團隊",
   "plans.feature.aiAssistant": "AI 寫作助理（自備金鑰）",
+  "plans.feature.aiTranslation": "你章節的 AI 翻譯草稿（DeepL）",
   "plans.feature.seriesPlanner": "系列規劃",
   "plans.feature.manuscriptImport": "稿件匯入",
   "plans.feature.offlineWriting": "離線寫作",

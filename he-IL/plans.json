@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "פרסום ספרי שמע",
   "plans.feature.audiobookTeams": "צוותי הפקה לספרי שמע",
   "plans.feature.aiAssistant": "עוזר כתיבה מבוסס בינה מלאכותית (עם מפתח משלכם)",
+  "plans.feature.aiTranslation": "טיוטות תרגום ב-AI לפרקים שלכם (DeepL)",
   "plans.feature.seriesPlanner": "תכנון סדרות",
   "plans.feature.manuscriptImport": "ייבוא כתבי יד",
   "plans.feature.offlineWriting": "כתיבה במצב לא מקוון",

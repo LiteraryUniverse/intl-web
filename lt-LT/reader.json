@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Šis kūrinys paslėptas, kol atidaryti naršyklės kūrėjo įrankiai, nes jo licencija neleidžia kopijuoti. Uždarykite juos ir tęskite ten, kur baigėte.",
   "reader.protection.unfocused": "Paslėpta, kol šis langas yra fone. Spustelėkite bet kur, kad vėl būtų rodoma.",
   "externalShopping.buyLink.apple": "Pirkti Apple Books",
-  "externalShopping.buyLink.google": "Pirkti Google Play knygose"
+  "externalShopping.buyLink.google": "Pirkti Google Play knygose",
+  "reader.aiTranslation.reviewed.title": "AI sukurtas vertimas · Peržiūrėtas",
+  "reader.aiTranslation.reviewed.body": "Šis vertimas sukurtas naudojant AI, o autorius ar licencijuotas vertėjas jį peržiūrėjo.",
+  "reader.aiTranslation.notReviewed.title": "AI sukurtas vertimas · Neperžiūrėtas",
+  "reader.aiTranslation.notReviewed.body": "Šis vertimas sukurtas naudojant AI, o autorius ar licencijuotas vertėjas dar nepažymėjo jo kaip peržiūrėto. Kai kurios reikšmės ar literatūriniai niuansai gali būti netikslūs."
 }

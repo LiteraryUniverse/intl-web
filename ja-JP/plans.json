@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "オーディオブックの出版",
   "plans.feature.audiobookTeams": "オーディオブック制作チーム",
   "plans.feature.aiAssistant": "AI 執筆アシスタント（自分のキー）",
+  "plans.feature.aiTranslation": "章のAI翻訳ドラフト（DeepL）",
   "plans.feature.seriesPlanner": "シリーズの計画",
   "plans.feature.manuscriptImport": "原稿のインポート",
   "plans.feature.offlineWriting": "オフライン執筆",

@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "瀏覽器的開發人員工具開啟時，這部作品會被隱藏，因為其授權不允許複製。關閉開發人員工具即可從上次的位置繼續。",
   "reader.protection.unfocused": "此視窗在背景時內容會隱藏。點按任意位置即可重新顯示。",
   "externalShopping.buyLink.apple": "在 Apple Books 購買",
-  "externalShopping.buyLink.google": "在 Google Play 圖書購買"
+  "externalShopping.buyLink.google": "在 Google Play 圖書購買",
+  "reader.aiTranslation.reviewed.title": "AI 生成的翻譯 · 已審閱",
+  "reader.aiTranslation.reviewed.body": "這份翻譯由 AI 生成，並已由作者或有授權的譯者審閱。",
+  "reader.aiTranslation.notReviewed.title": "AI 生成的翻譯 · 未審閱",
+  "reader.aiTranslation.notReviewed.body": "這份翻譯由 AI 生成，尚未由作者或有授權的譯者標示為已審閱。部分意義或文學細節可能不準確。"
 }

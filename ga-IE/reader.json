@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Tá an saothar seo i bhfolach fad is atá uirlisí forbróra do bhrabhsálaí oscailte, toisc nach gceadaíonn a cheadúnas é a chóipeáil. Dún iad chun leanúint ar aghaidh ón áit ar stop tú.",
   "reader.protection.unfocused": "Folaithe agus an fhuinneog seo sa chúlra. Cliceáil áit ar bith chun í a thaispeáint arís.",
   "externalShopping.buyLink.apple": "Ceannaigh ar Apple Books",
-  "externalShopping.buyLink.google": "Ceannaigh ar Google Play Books"
+  "externalShopping.buyLink.google": "Ceannaigh ar Google Play Books",
+  "reader.aiTranslation.reviewed.title": "Aistriúchán ginte ag AI · Athbhreithnithe",
+  "reader.aiTranslation.reviewed.body": "Gineadh an t-aistriúchán seo le AI agus d'athbhreithnigh an t-údar nó aistritheoir ceadúnaithe é.",
+  "reader.aiTranslation.notReviewed.title": "Aistriúchán ginte ag AI · Gan athbhreithniú",
+  "reader.aiTranslation.notReviewed.body": "Gineadh an t-aistriúchán seo le AI agus níor mharcáil an t-údar ná aistritheoir ceadúnaithe mar athbhreithnithe é go fóill. D'fhéadfadh roinnt brí nó mionbhrí liteartha a bheith míchruinn."
 }

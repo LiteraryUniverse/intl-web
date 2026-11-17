@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "هذا العمل مخفي ما دامت أدوات المطوّر في متصفحك مفتوحة، لأن ترخيصه لا يسمح بالنسخ. أغلقها لتتابع من حيث توقفت.",
   "reader.protection.unfocused": "مخفي ما دامت هذه النافذة في الخلفية. انقر في أي مكان لإظهاره من جديد.",
   "externalShopping.buyLink.apple": "اشترِ على Apple Books",
-  "externalShopping.buyLink.google": "اشترِ على كتب Google Play"
+  "externalShopping.buyLink.google": "اشترِ على كتب Google Play",
+  "reader.aiTranslation.reviewed.title": "ترجمة مُنشأة بالذكاء الاصطناعي · تمت المراجعة",
+  "reader.aiTranslation.reviewed.body": "أُنشئت هذه الترجمة باستخدام الذكاء الاصطناعي وراجعها المؤلف أو مترجم مرخَّص.",
+  "reader.aiTranslation.notReviewed.title": "ترجمة مُنشأة بالذكاء الاصطناعي · لم تتم المراجعة",
+  "reader.aiTranslation.notReviewed.body": "أُنشئت هذه الترجمة باستخدام الذكاء الاصطناعي ولم يضع عليها المؤلف أو مترجم مرخَّص علامة المراجعة بعد. قد يكون بعض المعنى أو الفروق الأدبية غير دقيق."
 }

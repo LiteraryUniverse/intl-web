@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Karya ini disembunyikan selagi alat pembangun pelayar anda dibuka, kerana lesennya tidak membenarkan penyalinan. Tutup alat itu untuk menyambung dari tempat anda berhenti.",
   "reader.protection.unfocused": "Disembunyikan selagi tetingkap ini berada di latar belakang. Klik di mana-mana untuk memaparkannya semula.",
   "externalShopping.buyLink.apple": "Beli di Apple Books",
-  "externalShopping.buyLink.google": "Beli di Google Play Buku"
+  "externalShopping.buyLink.google": "Beli di Google Play Buku",
+  "reader.aiTranslation.reviewed.title": "Terjemahan dijana AI · Telah disemak",
+  "reader.aiTranslation.reviewed.body": "Terjemahan ini dijana menggunakan AI dan telah disemak oleh penulis atau penterjemah berlesen.",
+  "reader.aiTranslation.notReviewed.title": "Terjemahan dijana AI · Belum disemak",
+  "reader.aiTranslation.notReviewed.body": "Terjemahan ini dijana menggunakan AI dan belum ditandakan sebagai telah disemak oleh penulis atau penterjemah berlesen. Sesetengah makna atau nuansa sastera mungkin tidak tepat."
 }

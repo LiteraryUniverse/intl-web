@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Tác phẩm này bị ẩn khi công cụ dành cho nhà phát triển của trình duyệt đang mở, vì giấy phép của tác phẩm không cho phép sao chép. Hãy đóng công cụ để tiếp tục từ chỗ bạn đã dừng.",
   "reader.protection.unfocused": "Nội dung bị ẩn khi cửa sổ này ở chế độ nền. Nhấp vào bất kỳ đâu để hiển thị lại.",
   "externalShopping.buyLink.apple": "Mua trên Apple Books",
-  "externalShopping.buyLink.google": "Mua trên Google Play Sách"
+  "externalShopping.buyLink.google": "Mua trên Google Play Sách",
+  "reader.aiTranslation.reviewed.title": "Bản dịch do AI tạo · Đã duyệt",
+  "reader.aiTranslation.reviewed.body": "Bản dịch này được tạo bằng AI và đã được tác giả hoặc dịch giả được cấp phép duyệt.",
+  "reader.aiTranslation.notReviewed.title": "Bản dịch do AI tạo · Chưa duyệt",
+  "reader.aiTranslation.notReviewed.body": "Bản dịch này được tạo bằng AI và chưa được tác giả hoặc dịch giả được cấp phép đánh dấu là đã duyệt. Một số ý nghĩa hoặc sắc thái văn chương có thể chưa chính xác."
 }

@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Audioraamatute avaldamine",
   "plans.feature.audiobookTeams": "Audioraamatute tootmismeeskonnad",
   "plans.feature.aiAssistant": "AI-kirjutusabiline (sinu enda võti)",
+  "plans.feature.aiTranslation": "Sinu peatükkide AI tõlkemustandid (DeepL)",
   "plans.feature.seriesPlanner": "Raamatusarjade planeerimine",
   "plans.feature.manuscriptImport": "Käsikirjade import",
   "plans.feature.offlineWriting": "Kirjutamine võrguühenduseta",

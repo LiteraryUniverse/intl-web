@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "This work is hidden while your browser's developer tools are open, because its license does not allow copying. Close them to pick up where you left off.",
   "reader.protection.unfocused": "Hidden while this window is in the background. Click anywhere to bring it back.",
   "externalShopping.buyLink.apple": "Apple Books ནས་ཉོ།",
-  "externalShopping.buyLink.google": "Google Play Books ནས་ཉོ།"
+  "externalShopping.buyLink.google": "Google Play Books ནས་ཉོ།",
+  "reader.aiTranslation.reviewed.title": "AI ཡིས་བཟོས་པའི་ཡིག་སྒྱུར། · ཞིབ་བཤེར་བྱས་ཟིན།",
+  "reader.aiTranslation.reviewed.body": "ཡིག་སྒྱུར་འདི་ AI སྤྱད་ནས་བཟོས་ཤིང་རྩོམ་པ་པོའམ་ཆོག་ཐུབ་ཡིག་སྒྱུར་པས་ཞིབ་བཤེར་བྱས་ཡོད།",
+  "reader.aiTranslation.notReviewed.title": "AI ཡིས་བཟོས་པའི་ཡིག་སྒྱུར། · ཞིབ་བཤེར་མ་བྱས།",
+  "reader.aiTranslation.notReviewed.body": "ཡིག་སྒྱུར་འདི་ AI སྤྱད་ནས་བཟོས་ཤིང་རྩོམ་པ་པོའམ་ཆོག་ཐུབ་ཡིག་སྒྱུར་པས་ད་དུང་ཞིབ་བཤེར་བྱས་ཟིན་ཞེས་རྟགས་མ་བརྒྱབ། དོན་འགའ་ཞིག་དང་སྙན་ངག་གི་ཞིབ་ཆ་ཡང་དག་མིན་སྲིད།"
 }

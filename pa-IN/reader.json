@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "ਜਦੋਂ ਤੁਹਾਡੇ ਬ੍ਰਾਊਜ਼ਰ ਦੇ ਡਿਵੈਲਪਰ ਟੂਲਜ਼ ਖੁੱਲ੍ਹੇ ਹੁੰਦੇ ਹਨ, ਤਾਂ ਇਹ ਕੰਮ ਲੁਕਿਆ ਰਹਿੰਦਾ ਹੈ, ਕਿਉਂਕਿ ਇਸਦੀ ਲਾਇਸੈਂਸ ਨਕਲ ਕਰਨ ਦੀ ਆਗਿਆ ਨਹੀਂ ਦਿੰਦੀ। ਜਿੱਥੇ ਤੁਸੀਂ ਰੁਕੇ ਸੀ, ਉੱਥੇ ਮੁੜ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਉਹਨਾਂ ਨੂੰ ਬੰਦ ਕਰੋ।",
   "reader.protection.unfocused": "ਜਦੋਂ ਇਹ ਵਿੰਡੋ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਹੁੰਦੀ ਹੈ ਤਾਂ ਇਹ ਲੁਕੀ ਰਹਿੰਦੀ ਹੈ। ਇਸਨੂੰ ਵਾਪਸ ਲਿਆਉਣ ਲਈ ਕਿਸੇ ਵੀ ਥਾਂ ਕਲਿੱਕ ਕਰੋ।",
   "externalShopping.buyLink.apple": "Apple Books 'ਤੇ ਖਰੀਦੋ",
-  "externalShopping.buyLink.google": "Google Play ਕਿਤਾਬਾਂ 'ਤੇ ਖਰੀਦੋ"
+  "externalShopping.buyLink.google": "Google Play ਕਿਤਾਬਾਂ 'ਤੇ ਖਰੀਦੋ",
+  "reader.aiTranslation.reviewed.title": "AI ਦੁਆਰਾ ਬਣਾਇਆ ਅਨੁਵਾਦ · ਸਮੀਖਿਆ ਕੀਤੀ ਗਈ",
+  "reader.aiTranslation.reviewed.body": "ਇਹ ਅਨੁਵਾਦ AI ਨਾਲ ਬਣਾਇਆ ਗਿਆ ਸੀ ਅਤੇ ਲੇਖਕ ਜਾਂ ਲਾਇਸੰਸਸ਼ੁਦਾ ਅਨੁਵਾਦਕ ਨੇ ਇਸਦੀ ਸਮੀਖਿਆ ਕੀਤੀ ਹੈ।",
+  "reader.aiTranslation.notReviewed.title": "AI ਦੁਆਰਾ ਬਣਾਇਆ ਅਨੁਵਾਦ · ਸਮੀਖਿਆ ਨਹੀਂ ਕੀਤੀ ਗਈ",
+  "reader.aiTranslation.notReviewed.body": "ਇਹ ਅਨੁਵਾਦ AI ਨਾਲ ਬਣਾਇਆ ਗਿਆ ਸੀ ਅਤੇ ਲੇਖਕ ਜਾਂ ਲਾਇਸੰਸਸ਼ੁਦਾ ਅਨੁਵਾਦਕ ਨੇ ਅਜੇ ਇਸਨੂੰ ਸਮੀਖਿਆ ਕੀਤਾ ਵਜੋਂ ਨਿਸ਼ਾਨਬੱਧ ਨਹੀਂ ਕੀਤਾ। ਕੁਝ ਅਰਥ ਜਾਂ ਸਾਹਿਤਕ ਬਾਰੀਕੀਆਂ ਗਲਤ ਹੋ ਸਕਦੀਆਂ ਹਨ।"
 }

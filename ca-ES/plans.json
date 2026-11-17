@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Publicació d’audiollibres",
   "plans.feature.audiobookTeams": "Equips de producció d’audiollibres",
   "plans.feature.aiAssistant": "Assistent d’escriptura amb IA (amb la teva pròpia clau)",
+  "plans.feature.aiTranslation": "Esborranys de traducció amb IA dels teus capítols (DeepL)",
   "plans.feature.seriesPlanner": "Planificació de sèries",
   "plans.feature.manuscriptImport": "Importació de manuscrits",
   "plans.feature.offlineWriting": "Escriptura sense connexió",

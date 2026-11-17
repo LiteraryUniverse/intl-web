@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Δημοσίευση ηχητικών βιβλίων",
   "plans.feature.audiobookTeams": "Ομάδες παραγωγής ηχητικών βιβλίων",
   "plans.feature.aiAssistant": "Βοηθός γραφής AI (με δικό σας κλειδί)",
+  "plans.feature.aiTranslation": "Προσχέδια μετάφρασης AI των κεφαλαίων σας (DeepL)",
   "plans.feature.seriesPlanner": "Σχεδιασμός σειρών",
   "plans.feature.manuscriptImport": "Εισαγωγή χειρογράφων",
   "plans.feature.offlineWriting": "Γραφή εκτός σύνδεσης",

@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Äänikirjojen julkaiseminen",
   "plans.feature.audiobookTeams": "Äänikirjojen tuotantotiimit",
   "plans.feature.aiAssistant": "Tekoälykirjoitusavustaja (oma avain)",
+  "plans.feature.aiTranslation": "Lukujesi tekoälyn käännösluonnokset (DeepL)",
   "plans.feature.seriesPlanner": "Kirjasarjojen suunnittelu",
   "plans.feature.manuscriptImport": "Käsikirjoitusten tuonti",
   "plans.feature.offlineWriting": "Kirjoittaminen offline-tilassa",

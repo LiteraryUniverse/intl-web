@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Tarayıcınızın geliştirici araçları açıkken bu eser gizlenir, çünkü lisansı kopyalamaya izin vermiyor. Kaldığınız yerden devam etmek için araçları kapatın.",
   "reader.protection.unfocused": "Bu pencere arka plandayken gizlenir. Geri getirmek için herhangi bir yere tıklayın.",
   "externalShopping.buyLink.apple": "Apple Books'tan satın alın",
-  "externalShopping.buyLink.google": "Google Play Kitaplar'dan satın alın"
+  "externalShopping.buyLink.google": "Google Play Kitaplar'dan satın alın",
+  "reader.aiTranslation.reviewed.title": "Yapay zeka tarafından üretilen çeviri · İncelendi",
+  "reader.aiTranslation.reviewed.body": "Bu çeviri yapay zeka ile üretildi ve yazar veya lisanslı bir çevirmen tarafından incelendi.",
+  "reader.aiTranslation.notReviewed.title": "Yapay zeka tarafından üretilen çeviri · İncelenmedi",
+  "reader.aiTranslation.notReviewed.body": "Bu çeviri yapay zeka ile üretildi ve henüz yazar veya lisanslı bir çevirmen tarafından incelendi olarak işaretlenmedi. Bazı anlamlar veya edebi nüanslar yanlış olabilir."
 }

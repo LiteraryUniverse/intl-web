@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "ブラウザの開発者ツールが開いている間、この作品は非表示になります。ライセンスにより複製が許可されていないためです。開発者ツールを閉じると、続きからお楽しみいただけます。",
   "reader.protection.unfocused": "このウィンドウがバックグラウンドにある間は非表示になります。どこかをクリックすると再表示されます。",
   "externalShopping.buyLink.apple": "Apple Booksで購入",
-  "externalShopping.buyLink.google": "Google Play ブックスで購入"
+  "externalShopping.buyLink.google": "Google Play ブックスで購入",
+  "reader.aiTranslation.reviewed.title": "AI生成の翻訳 · レビュー済み",
+  "reader.aiTranslation.reviewed.body": "この翻訳はAIで生成され、作者または認定翻訳者がレビューしました。",
+  "reader.aiTranslation.notReviewed.title": "AI生成の翻訳 · 未レビュー",
+  "reader.aiTranslation.notReviewed.body": "この翻訳はAIで生成されたもので、作者または認定翻訳者によるレビューはまだ行われていません。意味や文学的なニュアンスが不正確な箇所がある可能性があります。"
 }

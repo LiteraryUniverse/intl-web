@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Ez a mű rejtve marad, amíg a böngésző fejlesztői eszközei nyitva vannak, mert a licence nem engedi a másolást. Zárja be őket, és folytathatja ott, ahol abbahagyta.",
   "reader.protection.unfocused": "Rejtve, amíg ez az ablak a háttérben van. Kattintson bárhová a megjelenítéshez.",
   "externalShopping.buyLink.apple": "Vásárlás az Apple Books oldalon",
-  "externalShopping.buyLink.google": "Vásárlás a Google Play Könyvek oldalon"
+  "externalShopping.buyLink.google": "Vásárlás a Google Play Könyvek oldalon",
+  "reader.aiTranslation.reviewed.title": "MI-generált fordítás · Átnézve",
+  "reader.aiTranslation.reviewed.body": "Ezt a fordítást MI segítségével készítették, és a szerző vagy egy engedéllyel rendelkező fordító átnézte.",
+  "reader.aiTranslation.notReviewed.title": "MI-generált fordítás · Nincs átnézve",
+  "reader.aiTranslation.notReviewed.body": "Ezt a fordítást MI segítségével készítették, és a szerző vagy engedéllyel rendelkező fordító még nem jelölte átnézettnek. Előfordulhat, hogy egyes jelentések vagy irodalmi árnyalatok pontatlanok."
 }

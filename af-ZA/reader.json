@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Hierdie werk is versteek terwyl jou blaaier se ontwikkelaarnutsgoed oop is, omdat die lisensie nie kopiëring toelaat nie. Maak dit toe om voort te gaan waar jy opgehou het.",
   "reader.protection.unfocused": "Versteek terwyl hierdie venster in die agtergrond is. Klik enige plek om dit terug te bring.",
   "externalShopping.buyLink.apple": "Koop by Apple Books",
-  "externalShopping.buyLink.google": "Koop by Google Play Boeke"
+  "externalShopping.buyLink.google": "Koop by Google Play Boeke",
+  "reader.aiTranslation.reviewed.title": "KI-gegenereerde vertaling · Hersien",
+  "reader.aiTranslation.reviewed.body": "Hierdie vertaling is met KI gegenereer en deur die skrywer of 'n gelisensieerde vertaler hersien.",
+  "reader.aiTranslation.notReviewed.title": "KI-gegenereerde vertaling · Nie hersien nie",
+  "reader.aiTranslation.notReviewed.body": "Hierdie vertaling is met KI gegenereer en is nog nie deur die skrywer of 'n gelisensieerde vertaler as hersien gemerk nie. Sommige betekenis of literêre nuanse kan onakkuraat wees."
 }

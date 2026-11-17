@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "మీ బ్రౌజర్ యొక్క డెవలపర్ టూల్స్ తెరిచి ఉన్నప్పుడు ఈ కథనం దాచబడుతుంది, ఎందుకంటే దాని లైసెన్స్ కాపీ చేయడానికి అనుమతించదు. మీరు ఆపిన చోటు నుండి కొనసాగించడానికి వాటిని మూసివేయండి.",
   "reader.protection.unfocused": "ఈ విండో బ్యాక్‌గ్రౌండ్‌లో ఉన్నప్పుడు దాచబడుతుంది. దాన్ని తిరిగి తీసుకురావడానికి ఎక్కడైనా క్లిక్ చేయండి.",
   "externalShopping.buyLink.apple": "Apple Books లో కొనండి",
-  "externalShopping.buyLink.google": "Google Play పుస్తకాలలో కొనండి"
+  "externalShopping.buyLink.google": "Google Play పుస్తకాలలో కొనండి",
+  "reader.aiTranslation.reviewed.title": "AI రూపొందించిన అనువాదం · సమీక్షించబడింది",
+  "reader.aiTranslation.reviewed.body": "ఈ అనువాదం AIతో రూపొందించబడి, రచయిత లేదా లైసెన్స్ పొందిన అనువాదకుడు సమీక్షించారు.",
+  "reader.aiTranslation.notReviewed.title": "AI రూపొందించిన అనువాదం · సమీక్షించబడలేదు",
+  "reader.aiTranslation.notReviewed.body": "ఈ అనువాదం AIతో రూపొందించబడింది, రచయిత లేదా లైసెన్స్ పొందిన అనువాదకుడు ఇంకా సమీక్షించినట్లు గుర్తించలేదు. కొన్ని అర్థాలు లేదా సాహిత్య సూక్ష్మతలు సరికాకపోవచ్చు."
 }

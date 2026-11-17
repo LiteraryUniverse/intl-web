@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "നിങ്ങളുടെ ബ്രൗസറിൻ്റെ ഡെവലപ്പർ ടൂളുകൾ തുറന്നിരിക്കുമ്പോൾ ഈ വർക്ക് മറഞ്ഞിരിക്കും, കാരണം അതിൻ്റെ ലൈസൻസ് പകർപ്പെടുക്കാൻ അനുവദിക്കുന്നില്ല. നിർത്തിയിടത്തുനിന്ന് തുടരുന്നതിന് അവ അടയ്ക്കുക.",
   "reader.protection.unfocused": "ഈ വിൻഡോ ബാക്ക്ഗ്രൗണ്ടിലായിരിക്കുമ്പോൾ ഇത് മറഞ്ഞിരിക്കും. തിരികെ കൊണ്ടുവരാൻ എവിടെയും ക്ലിക്ക് ചെയ്യുക.",
   "externalShopping.buyLink.apple": "Apple Books-ൽ വാങ്ങുക",
-  "externalShopping.buyLink.google": "Google Play ബുക്സിൽ വാങ്ങുക"
+  "externalShopping.buyLink.google": "Google Play ബുക്സിൽ വാങ്ങുക",
+  "reader.aiTranslation.reviewed.title": "AI സൃഷ്ടിച്ച പരിഭാഷ · അവലോകനം ചെയ്തു",
+  "reader.aiTranslation.reviewed.body": "ഈ പരിഭാഷ AI ഉപയോഗിച്ച് സൃഷ്ടിച്ചതാണ്, രചയിതാവോ ലൈസൻസുള്ള പരിഭാഷകനോ അവലോകനം ചെയ്തിട്ടുണ്ട്.",
+  "reader.aiTranslation.notReviewed.title": "AI സൃഷ്ടിച്ച പരിഭാഷ · അവലോകനം ചെയ്തിട്ടില്ല",
+  "reader.aiTranslation.notReviewed.body": "ഈ പരിഭാഷ AI ഉപയോഗിച്ച് സൃഷ്ടിച്ചതാണ്, രചയിതാവോ ലൈസൻസുള്ള പരിഭാഷകനോ ഇതുവരെ അവലോകനം ചെയ്തതായി അടയാളപ്പെടുത്തിയിട്ടില്ല. ചില അർഥങ്ങളോ സാഹിത്യസൂക്ഷ്മതകളോ കൃത്യമല്ലാതിരിക്കാം."
 }

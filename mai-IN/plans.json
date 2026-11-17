@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Audiobook publishing",
   "plans.feature.audiobookTeams": "Audiobook production teams",
   "plans.feature.aiAssistant": "AI writing assistant (your own key)",
+  "plans.feature.aiTranslation": "अहाँक अध्यायक AI अनुवाद ड्राफ्ट (DeepL)",
   "plans.feature.seriesPlanner": "Series planning",
   "plans.feature.manuscriptImport": "Manuscript import",
   "plans.feature.offlineWriting": "Offline writing",

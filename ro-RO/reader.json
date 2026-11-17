@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Această operă este ascunsă cât timp instrumentele pentru dezvoltatori ale browserului sunt deschise, deoarece licența ei nu permite copierea. Închideți-le pentru a continua de unde ați rămas.",
   "reader.protection.unfocused": "Ascuns cât timp această fereastră este în fundal. Faceți clic oriunde pentru a-l afișa din nou.",
   "externalShopping.buyLink.apple": "Cumpărați de pe Apple Books",
-  "externalShopping.buyLink.google": "Cumpărați de pe Google Play Cărți"
+  "externalShopping.buyLink.google": "Cumpărați de pe Google Play Cărți",
+  "reader.aiTranslation.reviewed.title": "Traducere generată de AI · Revizuită",
+  "reader.aiTranslation.reviewed.body": "Această traducere a fost generată cu AI și revizuită de autor sau de un traducător autorizat.",
+  "reader.aiTranslation.notReviewed.title": "Traducere generată de AI · Nerevizuită",
+  "reader.aiTranslation.notReviewed.body": "Această traducere a fost generată cu AI și nu a fost încă marcată ca revizuită de autor sau de un traducător autorizat. Unele sensuri sau nuanțe literare pot fi inexacte."
 }

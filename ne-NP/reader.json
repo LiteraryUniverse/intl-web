@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "तपाईंको ब्राउजरको डेभलपर टुलहरू खुला हुँदा यो कृति लुकाइन्छ, किनकि यसको लाइसेन्सले प्रतिलिपि बनाउन अनुमति दिँदैन। जहाँ छोड्नुभएको थियो त्यहीँबाट फेरि पढ्नका लागि तिनीहरू बन्द गर्नुहोस्।",
   "reader.protection.unfocused": "यो विन्डो पृष्ठभूमिमा हुँदा लुकाइन्छ। यसलाई फिर्ता ल्याउन जुनसुकै ठाउँमा क्लिक गर्नुहोस्।",
   "externalShopping.buyLink.apple": "Apple Books मा किन्नुहोस्",
-  "externalShopping.buyLink.google": "Google Play पुस्तकहरूमा किन्नुहोस्"
+  "externalShopping.buyLink.google": "Google Play पुस्तकहरूमा किन्नुहोस्",
+  "reader.aiTranslation.reviewed.title": "AI-निर्मित अनुवाद · समीक्षा गरिएको",
+  "reader.aiTranslation.reviewed.body": "यो अनुवाद AI प्रयोग गरेर बनाइएको थियो र लेखक वा इजाजतप्राप्त अनुवादकले समीक्षा गरेका छन्।",
+  "reader.aiTranslation.notReviewed.title": "AI-निर्मित अनुवाद · समीक्षा नगरिएको",
+  "reader.aiTranslation.notReviewed.body": "यो अनुवाद AI प्रयोग गरेर बनाइएको थियो र लेखक वा इजाजतप्राप्त अनुवादकले अझै समीक्षा गरिएको भनी चिह्नित गरेका छैनन्। केही अर्थ वा साहित्यिक सूक्ष्मता सही नहुन सक्छ।"
 }

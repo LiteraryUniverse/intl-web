@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "การเผยแพร่หนังสือเสียง",
   "plans.feature.audiobookTeams": "ทีมผลิตหนังสือเสียง",
   "plans.feature.aiAssistant": "ผู้ช่วยเขียน AI (ใช้คีย์ของคุณเอง)",
+  "plans.feature.aiTranslation": "ร่างคำแปลโดย AI สำหรับตอนของคุณ (DeepL)",
   "plans.feature.seriesPlanner": "การวางแผนซีรีส์",
   "plans.feature.manuscriptImport": "การนำเข้าต้นฉบับ",
   "plans.feature.offlineWriting": "การเขียนแบบออฟไลน์",

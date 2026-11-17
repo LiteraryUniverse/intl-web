@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Karya iki didhelikake nalika piranti pangembang browser sampeyan mbukak, amarga lisènse ora ngidini nyalin. Tutup piranti kasebut kanggo nerusake saka panggonan sing wis sampeyan tinggalake.",
   "reader.protection.unfocused": "Didhèlikaké nalika jendhela iki ana ing latar mburi. Klik ing endi waé kanggo mbalèkaké.",
   "externalShopping.buyLink.apple": "Tuku ing Apple Books",
-  "externalShopping.buyLink.google": "Tuku ing Google Play Buku"
+  "externalShopping.buyLink.google": "Tuku ing Google Play Buku",
+  "reader.aiTranslation.reviewed.title": "Terjemahan digawe AI · Wis dipriksa",
+  "reader.aiTranslation.reviewed.body": "Terjemahan iki digawe nganggo AI lan wis dipriksa dening panulis utawa penerjemah sing duwe lisensi.",
+  "reader.aiTranslation.notReviewed.title": "Terjemahan digawe AI · Durung dipriksa",
+  "reader.aiTranslation.notReviewed.body": "Terjemahan iki digawe nganggo AI lan durung ditandhani wis dipriksa dening panulis utawa penerjemah sing duwe lisensi. Sawetara makna utawa nuansa sastra bisa uga ora akurat."
 }

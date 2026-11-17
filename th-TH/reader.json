@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "ผลงานนี้จะถูกซ่อนไว้ขณะที่เครื่องมือสำหรับนักพัฒนาของเบราว์เซอร์เปิดอยู่ เนื่องจากสัญญาอนุญาตไม่อนุญาตให้คัดลอก ปิดเครื่องมือดังกล่าวเพื่อดำเนินการต่อจากจุดที่ค้างไว้",
   "reader.protection.unfocused": "ซ่อนไว้ขณะที่หน้าต่างนี้อยู่เบื้องหลัง คลิกที่ใดก็ได้เพื่อแสดงอีกครั้ง",
   "externalShopping.buyLink.apple": "ซื้อที่ Apple Books",
-  "externalShopping.buyLink.google": "ซื้อที่ Google Play หนังสือ"
+  "externalShopping.buyLink.google": "ซื้อที่ Google Play หนังสือ",
+  "reader.aiTranslation.reviewed.title": "คำแปลที่สร้างโดย AI · ตรวจทานแล้ว",
+  "reader.aiTranslation.reviewed.body": "คำแปลนี้สร้างโดย AI และผู้เขียนหรือนักแปลที่ได้รับอนุญาตตรวจทานแล้ว",
+  "reader.aiTranslation.notReviewed.title": "คำแปลที่สร้างโดย AI · ยังไม่ได้ตรวจทาน",
+  "reader.aiTranslation.notReviewed.body": "คำแปลนี้สร้างโดย AI และผู้เขียนหรือนักแปลที่ได้รับอนุญาตยังไม่ได้ทำเครื่องหมายว่าตรวจทานแล้ว ความหมายหรือน้ำเสียงทางวรรณกรรมบางส่วนอาจไม่ถูกต้อง"
 }

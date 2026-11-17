@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Publication de livres audio",
   "plans.feature.audiobookTeams": "Équipes de production de livres audio",
   "plans.feature.aiAssistant": "Assistant d’écriture IA (avec votre propre clé)",
+  "plans.feature.aiTranslation": "Brouillons de traduction par IA de vos chapitres (DeepL)",
   "plans.feature.seriesPlanner": "Planification de séries",
   "plans.feature.manuscriptImport": "Import de manuscrits",
   "plans.feature.offlineWriting": "Écriture hors ligne",

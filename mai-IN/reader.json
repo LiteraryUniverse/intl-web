@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "This work is hidden while your browser's developer tools are open, because its license does not allow copying. Close them to pick up where you left off.",
   "reader.protection.unfocused": "Hidden while this window is in the background. Click anywhere to bring it back.",
   "externalShopping.buyLink.apple": "Apple Books पर किनू",
-  "externalShopping.buyLink.google": "Google Play किताब पर किनू"
+  "externalShopping.buyLink.google": "Google Play किताब पर किनू",
+  "reader.aiTranslation.reviewed.title": "AI-जनित अनुवाद · समीक्षित",
+  "reader.aiTranslation.reviewed.body": "ई अनुवाद AI सँ बनाओल गेल छल आ लेखक वा लाइसेंस प्राप्त अनुवादक एकर समीक्षा कएने छथि।",
+  "reader.aiTranslation.notReviewed.title": "AI-जनित अनुवाद · असमीक्षित",
+  "reader.aiTranslation.notReviewed.body": "ई अनुवाद AI सँ बनाओल गेल छल आ लेखक वा लाइसेंस प्राप्त अनुवादक एकरा एखन धरि समीक्षित चिह्नित नहि कएने छथि। किछु अर्थ वा साहित्यिक बारीकी सटीक नहि भऽ सकैत अछि।"
 }

@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Toto dílo je skryté, dokud máte v prohlížeči otevřené vývojářské nástroje, protože jeho licence nedovoluje kopírování. Zavřete je a pokračujte tam, kde jste skončili.",
   "reader.protection.unfocused": "Skryto, dokud je toto okno na pozadí. Kliknutím kamkoli obsah vrátíte.",
   "externalShopping.buyLink.apple": "Koupit na Apple Books",
-  "externalShopping.buyLink.google": "Koupit na Google Play Knihy"
+  "externalShopping.buyLink.google": "Koupit na Google Play Knihy",
+  "reader.aiTranslation.reviewed.title": "Překlad vytvořený AI · Zkontrolováno",
+  "reader.aiTranslation.reviewed.body": "Tento překlad byl vytvořen pomocí AI a zkontrolován autorem nebo licencovaným překladatelem.",
+  "reader.aiTranslation.notReviewed.title": "Překlad vytvořený AI · Nezkontrolováno",
+  "reader.aiTranslation.notReviewed.body": "Tento překlad byl vytvořen pomocí AI a autor ani licencovaný překladatel jej zatím neoznačil jako zkontrolovaný. Některé významy nebo literární nuance mohou být nepřesné."
 }

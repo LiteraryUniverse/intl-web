@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "অডিওবুক প্রকাশনা",
   "plans.feature.audiobookTeams": "অডিওবুক প্রযোজনা দল",
   "plans.feature.aiAssistant": "AI লেখার সহকারী (আপনার নিজের কী)",
+  "plans.feature.aiTranslation": "আপনার অধ্যায়ের AI অনুবাদের খসড়া (DeepL)",
   "plans.feature.seriesPlanner": "সিরিজ পরিকল্পনা",
   "plans.feature.manuscriptImport": "পাণ্ডুলিপি আমদানি",
   "plans.feature.offlineWriting": "অফলাইনে লেখা",

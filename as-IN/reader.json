@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "যেতিয়া আপোনাৰ ব্ৰাউজাৰৰ ডেভেলপাৰ টুলছ খোলা থাকে, তেতিয়া এই কামটো লুকুৱাই ৰখা হয়, কাৰণ ইয়াৰ অনুজ্ঞাপত্ৰই নকল কৰাৰ অনুমতি নিদিয়ে। আপুনি য'ত এৰিছিল তাৰ পৰা পুনৰ পঢ়িবলৈ সেইবোৰ বন্ধ কৰক।",
   "reader.protection.unfocused": "এই উইণ্ডোখন বেকগ্ৰাউণ্ডত থাকিলে লুকুৱাই ৰখা হয়। ইয়াক পুনৰ দেখুৱাবলৈ যিকোনো ঠাইতে ক্লিক কৰক।",
   "externalShopping.buyLink.apple": "Apple Booksত কিনক",
-  "externalShopping.buyLink.google": "Google Play কিতাপত কিনক"
+  "externalShopping.buyLink.google": "Google Play কিতাপত কিনক",
+  "reader.aiTranslation.reviewed.title": "AI-ৰে প্ৰস্তুত অনুবাদ · পৰ্যালোচিত",
+  "reader.aiTranslation.reviewed.body": "এই অনুবাদ AI ব্যৱহাৰ কৰি প্ৰস্তুত কৰা হৈছিল আৰু লেখক বা এজন অনুমোদিত অনুবাদকে পৰ্যালোচনা কৰিছে।",
+  "reader.aiTranslation.notReviewed.title": "AI-ৰে প্ৰস্তুত অনুবাদ · পৰ্যালোচনা কৰা হোৱা নাই",
+  "reader.aiTranslation.notReviewed.body": "এই অনুবাদ AI ব্যৱহাৰ কৰি প্ৰস্তুত কৰা হৈছিল আৰু লেখক বা এজন অনুমোদিত অনুবাদকে এতিয়ালৈকে পৰ্যালোচিত বুলি চিহ্নিত কৰা নাই। কিছু অৰ্থ বা সাহিত্যিক সূক্ষ্মতা ভুল হ'ব পাৰে।"
 }

@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Ĉi tiu verko estas kaŝita dum la programistaj iloj de via retumilo estas malfermitaj, ĉar ĝia permesilo ne permesas kopiadon. Fermu ilin por daŭrigi tie, kie vi ĉesis.",
   "reader.protection.unfocused": "Kaŝita dum ĉi tiu fenestro estas en la fono. Alklaku ie ajn por remontri ĝin.",
   "externalShopping.buyLink.apple": "Aĉeti ĉe Apple Books",
-  "externalShopping.buyLink.google": "Aĉeti ĉe Google Play Libroj"
+  "externalShopping.buyLink.google": "Aĉeti ĉe Google Play Libroj",
+  "reader.aiTranslation.reviewed.title": "AI-generita traduko · Reviziita",
+  "reader.aiTranslation.reviewed.body": "Ĉi tiu traduko estis generita per AI kaj reviziita de la aŭtoro aŭ rajtigita tradukisto.",
+  "reader.aiTranslation.notReviewed.title": "AI-generita traduko · Ne reviziita",
+  "reader.aiTranslation.notReviewed.body": "Ĉi tiu traduko estis generita per AI kaj ankoraŭ ne estis markita kiel reviziita de la aŭtoro aŭ rajtigita tradukisto. Iuj sencoj aŭ literaturaj nuancoj eble estas malprecizaj."
 }

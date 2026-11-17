@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "जब तक आपके ब्राउज़र के डेवलपर टूल खुले हैं, यह रचना छिपी रहेगी, क्योंकि इसका लाइसेंस कॉपी करने की अनुमति नहीं देता। जहाँ आपने छोड़ा था वहीं से जारी रखने के लिए उन्हें बंद करें।",
   "reader.protection.unfocused": "जब तक यह विंडो बैकग्राउंड में है, सामग्री छिपी रहेगी। इसे वापस लाने के लिए कहीं भी क्लिक करें।",
   "externalShopping.buyLink.apple": "Apple Books पर खरीदें",
-  "externalShopping.buyLink.google": "Google Play किताबें पर खरीदें"
+  "externalShopping.buyLink.google": "Google Play किताबें पर खरीदें",
+  "reader.aiTranslation.reviewed.title": "AI-जनित अनुवाद · समीक्षित",
+  "reader.aiTranslation.reviewed.body": "यह अनुवाद AI की मदद से बनाया गया था और लेखक या लाइसेंस प्राप्त अनुवादक द्वारा इसकी समीक्षा की गई है।",
+  "reader.aiTranslation.notReviewed.title": "AI-जनित अनुवाद · असमीक्षित",
+  "reader.aiTranslation.notReviewed.body": "यह अनुवाद AI की मदद से बनाया गया था और लेखक या लाइसेंस प्राप्त अनुवादक ने इसे अभी तक समीक्षित चिह्नित नहीं किया है। कुछ अर्थ या साहित्यिक बारीकियाँ सटीक न हों, ऐसा हो सकता है।"
 }

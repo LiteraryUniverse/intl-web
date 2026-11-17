@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "היצירה מוסתרת כל עוד כלי המפתחים של הדפדפן פתוחים, מפני שהרישיון שלה אינו מתיר העתקה. סגור אותם כדי להמשיך מהמקום שבו עצרת.",
   "reader.protection.unfocused": "מוסתר כל עוד החלון הזה ברקע. לחץ בכל מקום כדי להציג שוב.",
   "externalShopping.buyLink.apple": "קנה ב-Apple Books",
-  "externalShopping.buyLink.google": "קנה ב-Google Play ספרים"
+  "externalShopping.buyLink.google": "קנה ב-Google Play ספרים",
+  "reader.aiTranslation.reviewed.title": "תרגום שנוצר ב-AI · נבדק",
+  "reader.aiTranslation.reviewed.body": "התרגום הזה נוצר באמצעות AI ונבדק על ידי המחבר או מתרגם מורשה.",
+  "reader.aiTranslation.notReviewed.title": "תרגום שנוצר ב-AI · לא נבדק",
+  "reader.aiTranslation.notReviewed.body": "התרגום הזה נוצר באמצעות AI ועדיין לא סומן כנבדק על ידי המחבר או מתרגם מורשה. ייתכן שחלק מהמשמעות או מהניואנסים הספרותיים אינם מדויקים."
 }

@@ -59,5 +59,9 @@
   "reader.protection.devtoolsOpen": "Цей твір приховано, доки у вашому браузері відкриті інструменти розробника, оскільки його ліцензія не дозволяє копіювання. Закрийте їх, щоб продовжити з того місця, де ви зупинилися.",
   "reader.protection.unfocused": "Приховано, доки це вікно у фоні. Натисніть будь-де, щоб повернути вміст.",
   "externalShopping.buyLink.apple": "Купити в Apple Books",
-  "externalShopping.buyLink.google": "Купити в Google Play Книгах"
+  "externalShopping.buyLink.google": "Купити в Google Play Книгах",
+  "reader.aiTranslation.reviewed.title": "Переклад, створений ШІ · Перевірено",
+  "reader.aiTranslation.reviewed.body": "Цей переклад створено за допомогою ШІ та перевірено автором або ліцензованим перекладачем.",
+  "reader.aiTranslation.notReviewed.title": "Переклад, створений ШІ · Не перевірено",
+  "reader.aiTranslation.notReviewed.body": "Цей переклад створено за допомогою ШІ, і автор чи ліцензований перекладач ще не позначили його як перевірений. Деякі значення або літературні нюанси можуть бути неточними."
 }

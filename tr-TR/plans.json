@@ -80,6 +80,7 @@
   "plans.feature.audiobooks": "Sesli kitap yayımlama",
   "plans.feature.audiobookTeams": "Sesli kitap yapım ekipleri",
   "plans.feature.aiAssistant": "Yapay zeka yazma asistanı (kendi anahtarınızla)",
+  "plans.feature.aiTranslation": "Bölümlerinizin yapay zeka çeviri taslakları (DeepL)",
   "plans.feature.seriesPlanner": "Seri planlama",
   "plans.feature.manuscriptImport": "Müsvedde içe aktarma",
   "plans.feature.offlineWriting": "Çevrimdışı yazma",
