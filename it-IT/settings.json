@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "Collega le mailing list del tuo blog.",
   "settings.integrations.mailer.description": "Invia gli iscritti confermati al tuo servizio email. Le disiscrizioni vengono controllate ogni ora.",
   "settings.integrations.mailer.noBlogs": "Crea un blog per collegare la sua mailing list.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} non accetta più la connessione. Riconnettiti per sincronizzare le modifiche."
+  "settings.integrations.mailer.reconnectNeeded": "{service} non accetta più la connessione. Riconnettiti per sincronizzare le modifiche.",
+  "settings.integrations.chatgpt.summary": "Crea e modifica storie, capitoli e voci dell’enciclopedia con ChatGPT.",
+  "settings.integrations.chatgpt.web": "In ChatGPT, aggiungi un server MCP personalizzato con questo indirizzo e accedi a Literary Universe. La disponibilità dei plugin dipende dal tuo account e spazio di lavoro.",
+  "settings.integrations.chatgpt.local": "Per un progetto locale, installa la CLI, accedi e inizializza la cartella della tua storia. Aprila in Codex o in un altro agente di scrittura.",
+  "settings.integrations.chatgpt.access": "Vengono concessi solo i permessi che approvi. Salvare le bozze non le pubblica. Gestisci gli accessi in <link>Connessi</link>."
 }

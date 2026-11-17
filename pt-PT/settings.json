@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "Ligue as listas de correio do seu blogue.",
   "settings.integrations.mailer.description": "Envie os subscritores confirmados para o seu serviço de correio. Os cancelamentos de subscrição são verificados de hora a hora.",
   "settings.integrations.mailer.noBlogs": "Crie um blogue para ligar a sua lista de correio.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} deixou de aceitar a ligação. Volte a ligar para sincronizar as alterações."
+  "settings.integrations.mailer.reconnectNeeded": "{service} deixou de aceitar a ligação. Volte a ligar para sincronizar as alterações.",
+  "settings.integrations.chatgpt.summary": "Crie e edite histórias, capítulos e entradas da enciclopédia com o ChatGPT.",
+  "settings.integrations.chatgpt.web": "No ChatGPT, adicione um servidor MCP personalizado com este endereço e inicie sessão no Literary Universe. A disponibilidade dos plugins depende da sua conta e espaço de trabalho.",
+  "settings.integrations.chatgpt.local": "Para um projeto local, instale a CLI, inicie sessão e inicialize a pasta da sua história. Abra-a no Codex ou noutro agente de escrita.",
+  "settings.integrations.chatgpt.access": "Apenas são concedidas as permissões que aprovar. Guardar rascunhos não os publica. Gira o acesso em <link>Ligados</link>."
 }

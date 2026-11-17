@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "Sambungang daftar email blog ragane.",
   "settings.integrations.mailer.description": "Kirim pelanggan sane sampun mastikayang ka layanan email ragane. Pembatalan langganan kapariksa saben jam.",
   "settings.integrations.mailer.noBlogs": "Damel blog anggen nyambungang daftar emailnyane.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} sampun nénten nrima sambungan. Sambung malih mangda owah-owahan kasinkronang."
+  "settings.integrations.mailer.reconnectNeeded": "{service} sampun nénten nrima sambungan. Sambung malih mangda owah-owahan kasinkronang.",
+  "settings.integrations.chatgpt.summary": "Ngaryanin miwah ngowah carita, bab miwah entri ensiklopedia antuk ChatGPT.",
+  "settings.integrations.chatgpt.web": "Ring ChatGPT, tambah server MCP khusus antuk alamat puniki lan manjing ring Literary Universe. Kasediaan plugin manut akun miwah ruang kerja ragane.",
+  "settings.integrations.chatgpt.local": "Kanggen proyek lokal, pasang CLI, manjing, raris ngawitin folder carita ragane. Bukak ring Codex utawi agen nyurat siosan.",
+  "settings.integrations.chatgpt.access": "Wantah idin sane sampun kasarujukin kaicen. Nyimpen draf nenten nerbitang. Atur akses ring <link>Sampun Kasambung</link>."
 }

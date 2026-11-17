@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "Prijunkite savo tinklaraščio adresatų sąrašus.",
   "settings.integrations.mailer.description": "Siųskite patvirtintus prenumeratorius į savo el. pašto paslaugą. Prenumeratos atsisakymai tikrinami kas valandą.",
   "settings.integrations.mailer.noBlogs": "Sukurkite tinklaraštį, kad prijungtumėte jo adresatų sąrašą.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} nebepriima ryšio. Prisijunkite iš naujo, kad sinchronizuotumėte pakeitimus."
+  "settings.integrations.mailer.reconnectNeeded": "{service} nebepriima ryšio. Prisijunkite iš naujo, kad sinchronizuotumėte pakeitimus.",
+  "settings.integrations.chatgpt.summary": "Kurkite ir redaguokite istorijas, skyrius ir enciklopedijos įrašus su ChatGPT.",
+  "settings.integrations.chatgpt.web": "ChatGPT pridėkite pasirinktinį MCP serverį šiuo adresu ir prisijunkite prie Literary Universe. Papildinių prieinamumas priklauso nuo paskyros ir darbo srities.",
+  "settings.integrations.chatgpt.local": "Vietiniam projektui įdiekite CLI, prisijunkite ir inicijuokite istorijos aplanką. Atverkite jį Codex ar kitame rašymo agente.",
+  "settings.integrations.chatgpt.access": "Suteikiami tik jūsų patvirtinti leidimai. Juodraščių išsaugojimas jų nepaskelbia. Prieigą tvarkykite skiltyje <link>Prijungta</link>."
 }

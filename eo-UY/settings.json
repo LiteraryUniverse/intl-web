@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "Konektu la dissendolistojn de via blogo.",
   "settings.integrations.mailer.description": "Sendu konfirmitajn abonantojn al via retpoŝta servo. Malabonoj estas kontrolataj ĉiuhore.",
   "settings.integrations.mailer.noBlogs": "Kreu blogon por konekti ĝian dissendoliston.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} ĉesis akcepti la konekton. Konektu denove por sinkronigi la ŝanĝojn."
+  "settings.integrations.mailer.reconnectNeeded": "{service} ĉesis akcepti la konekton. Konektu denove por sinkronigi la ŝanĝojn.",
+  "settings.integrations.chatgpt.summary": "Kreu kaj redaktu rakontojn, ĉapitrojn kaj enciklopediajn erojn per ChatGPT.",
+  "settings.integrations.chatgpt.web": "En ChatGPT, aldonu propran MCP-servilon kun ĉi tiu adreso kaj ensalutu al Literary Universe. Disponeblo de kromprogramoj dependas de via konto kaj laborspaco.",
+  "settings.integrations.chatgpt.local": "Por loka projekto, instalu la CLI, ensalutu kaj pravalorizu vian rakontan dosierujon. Malfermu ĝin en Codex aŭ alia verkada agento.",
+  "settings.integrations.chatgpt.access": "Nur permesoj aprobitaj de vi estas donataj. Konservado de malnetoj ne publikigas ilin. Administru aliron sub <link>Konektitaj</link>."
 }

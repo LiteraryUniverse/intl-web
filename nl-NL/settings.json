@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "Koppel de mailinglijsten van je blog.",
   "settings.integrations.mailer.description": "Stuur bevestigde abonnees naar je e-maildienst. Uitschrijvingen worden elk uur gecontroleerd.",
   "settings.integrations.mailer.noBlogs": "Maak een blog om de mailinglijst te koppelen.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} accepteert de verbinding niet meer. Maak opnieuw verbinding om de wijzigingen te synchroniseren."
+  "settings.integrations.mailer.reconnectNeeded": "{service} accepteert de verbinding niet meer. Maak opnieuw verbinding om de wijzigingen te synchroniseren.",
+  "settings.integrations.chatgpt.summary": "Maak en bewerk verhalen, hoofdstukken en encyclopedieartikelen met ChatGPT.",
+  "settings.integrations.chatgpt.web": "Voeg in ChatGPT een aangepaste MCP-server met dit adres toe en meld je aan bij Literary Universe. Beschikbaarheid van plugins hangt af van je account en werkruimte.",
+  "settings.integrations.chatgpt.local": "Installeer voor een lokaal project de CLI, meld je aan en initialiseer je verhaalmap. Open deze in Codex of een andere schrijfagent.",
+  "settings.integrations.chatgpt.access": "Alleen de door jou goedgekeurde rechten worden verleend. Concepten opslaan publiceert ze niet. Beheer toegang onder <link>Verbonden</link>."
 }

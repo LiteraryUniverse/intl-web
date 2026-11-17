@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "Подключите рассылки своего блога.",
   "settings.integrations.mailer.description": "Передавайте подтвержденных подписчиков в свой почтовый сервис. Отписки проверяются каждый час.",
   "settings.integrations.mailer.noBlogs": "Создайте блог, чтобы подключить его рассылку.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} больше не принимает подключение. Подключитесь снова, чтобы синхронизировать изменения."
+  "settings.integrations.mailer.reconnectNeeded": "{service} больше не принимает подключение. Подключитесь снова, чтобы синхронизировать изменения.",
+  "settings.integrations.chatgpt.summary": "Создавайте и редактируйте истории, главы и статьи энциклопедии с ChatGPT.",
+  "settings.integrations.chatgpt.web": "В ChatGPT добавьте собственный MCP-сервер с этим адресом и войдите в Literary Universe. Доступность плагинов зависит от учётной записи и рабочего пространства.",
+  "settings.integrations.chatgpt.local": "Для локального проекта установите CLI, войдите в систему и инициализируйте папку истории. Откройте её в Codex или другом агенте для письма.",
+  "settings.integrations.chatgpt.access": "Предоставляются только одобренные вами разрешения. Сохранение черновиков не публикует их. Управляйте доступом в разделе <link>Подключённые</link>."
 }

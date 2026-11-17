@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "तुमच्या ब्लॉगच्या मेलिंग याद्या जोडा.",
   "settings.integrations.mailer.description": "पुष्टी केलेले सदस्य तुमच्या ईमेल सेवेकडे पाठवा. रद्द केलेली सदस्यत्वे दर तासाला तपासली जातात.",
   "settings.integrations.mailer.noBlogs": "मेलिंग यादी जोडण्यासाठी ब्लॉग तयार करा.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} ने कनेक्शन स्वीकारणे थांबवले आहे. बदल सिंक करण्यासाठी पुन्हा कनेक्ट करा."
+  "settings.integrations.mailer.reconnectNeeded": "{service} ने कनेक्शन स्वीकारणे थांबवले आहे. बदल सिंक करण्यासाठी पुन्हा कनेक्ट करा.",
+  "settings.integrations.chatgpt.summary": "ChatGPT सह कथा, प्रकरणे आणि ज्ञानकोशातील नोंदी तयार व संपादित करा.",
+  "settings.integrations.chatgpt.web": "ChatGPT मध्ये या पत्त्यासह सानुकूल MCP सर्व्हर जोडा आणि Literary Universe मध्ये साइन इन करा. प्लगइनची उपलब्धता तुमच्या खात्यावर आणि कार्यक्षेत्रावर अवलंबून आहे.",
+  "settings.integrations.chatgpt.local": "स्थानिक प्रकल्पासाठी CLI स्थापित करा, साइन इन करा आणि कथेचे फोल्डर सुरू करा. ते Codex किंवा दुसऱ्या लेखन एजंटमध्ये उघडा.",
+  "settings.integrations.chatgpt.access": "फक्त तुम्ही मंजूर केलेल्या परवानग्याच दिल्या जातात. मसुदे जतन केल्याने ते प्रकाशित होत नाहीत. <link>जोडलेले</link> मध्ये प्रवेश व्यवस्थापित करा."
 }

@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "आफ्नो ब्लगको मेलिङ सूची जोड्नुहोस्।",
   "settings.integrations.mailer.description": "पुष्टि भएका सदस्यहरूलाई आफ्नो इमेल सेवामा पठाउनुहोस्। सदस्यता रद्द भएको हरेक घण्टा जाँच गरिन्छ।",
   "settings.integrations.mailer.noBlogs": "मेलिङ सूची जोड्न ब्लग सिर्जना गर्नुहोस्।",
-  "settings.integrations.mailer.reconnectNeeded": "{service} ले जडान स्वीकार गर्न छोडेको छ। परिवर्तनहरू सिंक गर्न फेरि जडान गर्नुहोस्।"
+  "settings.integrations.mailer.reconnectNeeded": "{service} ले जडान स्वीकार गर्न छोडेको छ। परिवर्तनहरू सिंक गर्न फेरि जडान गर्नुहोस्।",
+  "settings.integrations.chatgpt.summary": "ChatGPT बाट कथा, अध्याय र विश्वकोशका प्रविष्टिहरू सिर्जना र सम्पादन गर्नुहोस्।",
+  "settings.integrations.chatgpt.web": "ChatGPT मा यो ठेगानासहित अनुकूलित MCP सर्भर थपेर Literary Universe मा साइन इन गर्नुहोस्। प्लगइनको उपलब्धता तपाईंको खाता र कार्यक्षेत्रमा निर्भर हुन्छ।",
+  "settings.integrations.chatgpt.local": "स्थानीय परियोजनाका लागि CLI स्थापना गर्नुहोस्, साइन इन गरी कथाको फोल्डर सुरु गर्नुहोस्। यसलाई Codex वा अर्को लेखन एजेन्टमा खोल्नुहोस्।",
+  "settings.integrations.chatgpt.access": "तपाईंले स्वीकृत गरेका अनुमतिहरू मात्र दिइन्छन्। मस्यौदा बचत गर्दा प्रकाशित हुँदैन। <link>जडान भएका</link> मा पहुँच व्यवस्थापन गर्नुहोस्।"
 }

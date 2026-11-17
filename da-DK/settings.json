@@ -571,5 +571,9 @@
   "settings.integrations.mailer.summary": "Forbind din blogs mailinglister.",
   "settings.integrations.mailer.description": "Send bekræftede abonnenter til din mailtjeneste. Afmeldinger kontrolleres hver time.",
   "settings.integrations.mailer.noBlogs": "Opret en blog for at forbinde dens mailingliste.",
-  "settings.integrations.mailer.reconnectNeeded": "{service} accepterer ikke længere forbindelsen. Opret forbindelse igen for at synkronisere ændringerne."
+  "settings.integrations.mailer.reconnectNeeded": "{service} accepterer ikke længere forbindelsen. Opret forbindelse igen for at synkronisere ændringerne.",
+  "settings.integrations.chatgpt.summary": "Opret og rediger historier, kapitler og encyklopædiopslag med ChatGPT.",
+  "settings.integrations.chatgpt.web": "Tilføj en tilpasset MCP-server med denne adresse i ChatGPT, og log ind på Literary Universe. Adgang til plugins afhænger af din konto og dit arbejdsområde.",
+  "settings.integrations.chatgpt.local": "Installer CLI til et lokalt projekt, log ind, og initialiser historiens mappe. Åbn den i Codex eller en anden skriveagent.",
+  "settings.integrations.chatgpt.access": "Kun de tilladelser, du godkender, bliver givet. At gemme kladder udgiver dem ikke. Administrer adgang under <link>Forbundet</link>."
 }
