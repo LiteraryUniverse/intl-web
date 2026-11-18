@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Grundlæggende indstillinger",
   "workshop.settings.genres": "Genrer (maks. 2)",
   "workshop.story.license": "Historielicens",
+  "workshop.story.settings.id": "Historie-ID",
   "workshop.story.settings.universe": "Universindstillinger",
   "workshop.story.dangerZone": "Farezone",
   "workshop.story.dangerZone.desc": "Disse handlinger påvirker, hvordan din historie er organiseret på tværs af universer. Fortsæt forsigtigt.",

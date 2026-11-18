@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "الإعدادات الأساسية",
   "workshop.settings.genres": "الأنواع (حد أقصى 2)",
   "workshop.story.license": "ترخيص القصة",
+  "workshop.story.settings.id": "معرّف القصة",
   "workshop.story.settings.universe": "إعدادات العالم",
   "workshop.story.dangerZone": "منطقة الخطر",
   "workshop.story.dangerZone.desc": "تؤثر هذه الإجراءات على كيفية تنظيم قصتك عبر الأكوان. تابع بحذر.",

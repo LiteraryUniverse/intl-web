@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "Alapbeállítások",
   "workshop.settings.genres": "Műfajok (max 2)",
   "workshop.story.license": "Történet licenc",
+  "workshop.story.settings.id": "Történetazonosító",
   "workshop.story.settings.universe": "Univerzum beállítások",
   "workshop.story.dangerZone": "Veszélyes zóna",
   "workshop.story.dangerZone.desc": "Ezek az akciók befolyásolják, hogy a történeted hogyan szerveződik az univerzumokban. Óvatosan járj el.",

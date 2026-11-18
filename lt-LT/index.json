@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "Pagrindiniai nustatymai",
   "workshop.settings.genres": "Žanrai (maks. 2)",
   "workshop.story.license": "Istorijos licencija",
+  "workshop.story.settings.id": "Istorijos ID",
   "workshop.story.settings.universe": "Universo nustatymai",
   "workshop.story.dangerZone": "Pavojinga zona",
   "workshop.story.dangerZone.desc": "Šie veiksmai daro įtaką jūsų istorijos organizavimui visose visatose. Elkitės atsargiai.",

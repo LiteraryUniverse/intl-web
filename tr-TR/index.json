@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "Temel ayarlar",
   "workshop.settings.genres": "Türler (en fazla 2)",
   "workshop.story.license": "Hikaye lisansı",
+  "workshop.story.settings.id": "Hikaye kimliği",
   "workshop.story.settings.universe": "Evren ayarları",
   "workshop.story.dangerZone": "Tehlikeli bölge",
   "workshop.story.dangerZone.desc": "Bu eylemler hikayenizin evrenler arasında nasıl düzenlendiğini etkiler. Dikkatli ilerleyin.",

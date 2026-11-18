@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Perusasetukset",
   "workshop.settings.genres": "Genret (enintään 2)",
   "workshop.story.license": "Tarinan lisenssi",
+  "workshop.story.settings.id": "Tarinan tunnus",
   "workshop.story.settings.universe": "Universumin asetukset",
   "workshop.story.dangerZone": "Vaaravyöhyke",
   "workshop.story.dangerZone.desc": "Nämä toimet vaikuttavat siihen, miten tarinasi järjestetään eri universumeissa. Toimi varovasti.",

@@ -89,6 +89,7 @@
   "workshop.settings.basic": "הגדרות בסיסיות",
   "workshop.settings.genres": "ז'אנרים (מקסימום 2)",
   "workshop.story.license": "רישיון הסיפור",
+  "workshop.story.settings.id": "מזהה הסיפור",
   "workshop.story.settings.universe": "הגדרות יקום",
   "workshop.story.dangerZone": "אזור סכנה",
   "workshop.story.dangerZone.desc": "פעולות אלה משפיעות על אופן ארגון הסיפור שלך בין יקומים. יש לנהוג בזהירות.",

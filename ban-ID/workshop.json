@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Basic settings",
   "workshop.settings.genres": "Genres (max 2)",
   "workshop.story.license": "Story license",
+  "workshop.story.settings.id": "ID satua",
   "workshop.story.settings.universe": "Universe settings",
   "workshop.story.dangerZone": "Danger zone",
   "workshop.story.dangerZone.desc": "These actions affect how your story is organized across universes. Proceed carefully.",

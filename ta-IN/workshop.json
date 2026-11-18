@@ -89,6 +89,7 @@
   "workshop.settings.basic": "அடிப்படை அமைப்புகள்",
   "workshop.settings.genres": "வகைகள் (அதிகபட்சம் 2)",
   "workshop.story.license": "கதை உரிமை",
+  "workshop.story.settings.id": "கதை ID",
   "workshop.story.settings.universe": "உலகத்தின் அமைப்புகள்",
   "workshop.story.dangerZone": "Danger zone",
   "workshop.story.dangerZone.desc": "These actions affect how your story is organized across universes. Proceed carefully.",

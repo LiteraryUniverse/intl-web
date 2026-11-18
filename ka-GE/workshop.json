@@ -89,6 +89,7 @@
   "workshop.settings.basic": "ძირითადი პარამეტრები",
   "workshop.settings.genres": "ჟანრები (მაქს. 2)",
   "workshop.story.license": "ისტორიის ლიცენზია",
+  "workshop.story.settings.id": "ისტორიის ID",
   "workshop.story.settings.universe": "კოსმოსის პარამეტრები",
   "workshop.story.dangerZone": "Danger zone",
   "workshop.story.dangerZone.desc": "These actions affect how your story is organized across universes. Proceed carefully.",

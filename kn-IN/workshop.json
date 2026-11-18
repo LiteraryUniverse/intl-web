@@ -89,6 +89,7 @@
   "workshop.settings.basic": "ಮೂಲ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
   "workshop.settings.genres": "ಜಾತಿಗಳು (ಗರಿಷ್ಠ 2)",
   "workshop.story.license": "ಕಥೆ ಲೈಸೆನ್ಸ್",
+  "workshop.story.settings.id": "ಕಥೆಯ ID",
   "workshop.story.settings.universe": "ಯೂನಿವರ್ಸ್‌ನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
   "workshop.story.dangerZone": "Danger zone",
   "workshop.story.dangerZone.desc": "These actions affect how your story is organized across universes. Proceed carefully.",

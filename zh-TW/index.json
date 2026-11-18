@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "基本設置",
   "workshop.settings.genres": "流派（最多2個）",
   "workshop.story.license": "故事許可證",
+  "workshop.story.settings.id": "故事 ID",
   "workshop.story.settings.universe": "宇宙設置",
   "workshop.story.dangerZone": "危險區",
   "workshop.story.dangerZone.desc": "這些動作會影響您的故事在不同宇宙中的組織方式。請小心進行。",

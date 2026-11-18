@@ -89,6 +89,7 @@
   "workshop.settings.basic": "基本設定",
   "workshop.settings.genres": "ジャンル(最大2)",
   "workshop.story.license": "物語の著作権",
+  "workshop.story.settings.id": "物語 ID",
   "workshop.story.settings.universe": "宇宙の設定",
   "workshop.story.dangerZone": "危険地帯",
   "workshop.story.dangerZone.desc": "これらの行動は、宇宙をまたいだストーリーの構成に影響を与える。慎重に進めてください。",

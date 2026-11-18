@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Paramètres de base",
   "workshop.settings.genres": "Genres (2 max.)",
   "workshop.story.license": "Licence de l'histoire",
+  "workshop.story.settings.id": "ID de l'histoire",
   "workshop.story.settings.universe": "Paramètres de l'univers",
   "workshop.story.dangerZone": "Zone de danger",
   "workshop.story.dangerZone.desc": "Ces actions ont une incidence sur l'organisation de votre histoire dans les différents univers. Procédez avec prudence.",

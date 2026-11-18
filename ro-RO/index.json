@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "Setări de bază",
   "workshop.settings.genres": "Genuri (maxim 2)",
   "workshop.story.license": "Licență poveste",
+  "workshop.story.settings.id": "ID-ul poveștii",
   "workshop.story.settings.universe": "Setări univers",
   "workshop.story.dangerZone": "Zona periculoasă",
   "workshop.story.dangerZone.desc": "Aceste acțiuni afectează modul în care povestea ta este organizată în universuri. Procedați cu atenție.",

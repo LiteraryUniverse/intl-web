@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "मूळ सेटिंग्ज",
   "workshop.settings.genres": "जनर (किमान २)",
   "workshop.story.license": "कथेची परवानगी",
+  "workshop.story.settings.id": "कथा आयडी",
   "workshop.story.settings.universe": "यूनिव्हर्स सेटिंग्ज",
   "workshop.story.dangerZone": "Danger zone",
   "workshop.story.dangerZone.desc": "These actions affect how your story is organized across universes. Proceed carefully.",

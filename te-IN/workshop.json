@@ -89,6 +89,7 @@
   "workshop.settings.basic": "బేసిక్ సెట్టింగ్లు",
   "workshop.settings.genres": "జాన్రెలు (గరిష్టం 2)",
   "workshop.story.license": "కథ లైసెన్స్",
+  "workshop.story.settings.id": "కథ ID",
   "workshop.story.settings.universe": "యూనివర్స్ సెట్టింగ్లు",
   "workshop.story.dangerZone": "Danger zone",
   "workshop.story.dangerZone.desc": "These actions affect how your story is organized across universes. Proceed carefully.",

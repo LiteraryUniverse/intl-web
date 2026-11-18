@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "Põhiseaded",
   "workshop.settings.genres": "Žanrid (maksimaalselt 2)",
   "workshop.story.license": "Loo litsents",
+  "workshop.story.settings.id": "Loo ID",
   "workshop.story.settings.universe": "Universumi seaded",
   "workshop.story.dangerZone": "Ohutsoon",
   "workshop.story.dangerZone.desc": "Need tegevused mõjutavad seda, kuidas teie lugu on universumite lõikes korraldatud. Tegutsege ettevaatlikult.",

@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Grundinställningar",
   "workshop.settings.genres": "Genrer (max 2)",
   "workshop.story.license": "Berättelselicens",
+  "workshop.story.settings.id": "Berättelse-ID",
   "workshop.story.settings.universe": "Universumsinställningar",
   "workshop.story.dangerZone": "Farlig zon",
   "workshop.story.dangerZone.desc": "Dessa åtgärder påverkar hur din berättelse organiseras i olika universum. Fortsätt försiktigt.",

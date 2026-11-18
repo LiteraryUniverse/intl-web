@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "അടിസ്ഥാന ക്രമീകരണങ്ങൾ",
   "workshop.settings.genres": "ജൺറർ (അധികം 2)",
   "workshop.story.license": "കഥാപാത്ര ലൈസൻസ്",
+  "workshop.story.settings.id": "കഥ ID",
   "workshop.story.settings.universe": "യൂണിവേഴ്‌സ് ക്രമീകരണങ്ങൾ",
   "workshop.story.dangerZone": "Danger zone",
   "workshop.story.dangerZone.desc": "These actions affect how your story is organized across universes. Proceed carefully.",

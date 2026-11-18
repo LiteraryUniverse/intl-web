@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Основні налаштування",
   "workshop.settings.genres": "Жанри (максимум 2)",
   "workshop.story.license": "Ліцензія на історію",
+  "workshop.story.settings.id": "ID історії",
   "workshop.story.settings.universe": "Налаштування всесвіту",
   "workshop.story.dangerZone": "Небезпечна зона",
   "workshop.story.dangerZone.desc": "Ці дії впливають на те, як ваша історія буде організована у різних всесвітах. Дійте обережно.",

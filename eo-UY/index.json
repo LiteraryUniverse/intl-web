@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "Bazaj agordoj",
   "workshop.settings.genres": "Genroj (maksimume 2)",
   "workshop.story.license": "Licenco de la rakonto",
+  "workshop.story.settings.id": "ID de la rakonto",
   "workshop.story.settings.universe": "Agordoj de la universo",
   "workshop.story.dangerZone": "Danĝera zono",
   "workshop.story.dangerZone.desc": "Ĉi tiuj agoj influas, kiel via rakonto estas organizita tra universoj. Procedu zorge.",

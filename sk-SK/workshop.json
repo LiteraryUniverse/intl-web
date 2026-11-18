@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Základné nastavenia",
   "workshop.settings.genres": "Žánre (maximálne 2)",
   "workshop.story.license": "Licencia na autorské práva k príbehu",
+  "workshop.story.settings.id": "ID príbehu",
   "workshop.story.settings.universe": "Nastavenia vesmíru",
   "workshop.story.dangerZone": "Nebezpečná zóna",
   "workshop.story.dangerZone.desc": "Tieto akcie ovplyvňujú usporiadanie vášho príbehu vo vesmíroch. Postupujte opatrne.",

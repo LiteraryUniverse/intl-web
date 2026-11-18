@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "Основные настройки",
   "workshop.settings.genres": "Жанры (не более 2)",
   "workshop.story.license": "Лицензия истории",
+  "workshop.story.settings.id": "ID истории",
   "workshop.story.settings.universe": "Настройки вселенной",
   "workshop.story.dangerZone": "Опасная зона",
   "workshop.story.dangerZone.desc": "Эти действия влияют на то, как Ваша история будет организована в разных вселенных. Действуйте осторожно.",

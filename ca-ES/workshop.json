@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Configuració bàsica",
   "workshop.settings.genres": "Gèneres (màxim 2)",
   "workshop.story.license": "Llicència de la història",
+  "workshop.story.settings.id": "ID de la història",
   "workshop.story.settings.universe": "Configuració de l'univers",
   "workshop.story.dangerZone": "Zona de perill",
   "workshop.story.dangerZone.desc": "Aquestes accions afecten com s'organitza la teva història entre universos. Procedeix amb compte.",

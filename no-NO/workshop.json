@@ -89,6 +89,7 @@
   "workshop.settings.basic": "Grunnleggende innstillinger",
   "workshop.settings.genres": "Sjangre (maks 2)",
   "workshop.story.license": "Historielisens",
+  "workshop.story.settings.id": "Historie-ID",
   "workshop.story.settings.universe": "Universinnstillinger",
   "workshop.story.dangerZone": "Faresone",
   "workshop.story.dangerZone.desc": "Disse handlingene påvirker hvordan historien din er organisert på tvers av universer. Gå forsiktig frem.",

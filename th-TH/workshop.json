@@ -89,6 +89,7 @@
   "workshop.settings.basic": "การตั้งค่าพื้นฐาน",
   "workshop.settings.genres": "ประเภท (สูงสุด 2 ประเภท)",
   "workshop.story.license": "ลิขสิทธิ์เรื่อง",
+  "workshop.story.settings.id": "ID เรื่องราว",
   "workshop.story.settings.universe": "การตั้งค่าจักรวาล",
   "workshop.story.dangerZone": "เขตอันตราย",
   "workshop.story.dangerZone.desc": "การกระทำเหล่านี้ส่งผลต่อวิธีการจัดระเบียบเรื่องราวของคุณข้ามจักรวาลต่างๆ กรุณาดำเนินการอย่างระมัดระวัง",

@@ -7706,6 +7706,7 @@
   "workshop.settings.basic": "ਮੁੱਖ ਸੈਟਿੰਗਾਂ",
   "workshop.settings.genres": "ਜਾਨਰ (ਅਧਿਕਤਮ 2)",
   "workshop.story.license": "ਕਹਾਣੀ ਲਾਇਸੈਂਸ",
+  "workshop.story.settings.id": "ਕਹਾਣੀ ID",
   "workshop.story.settings.universe": "ਯੂਨੀਵਰਸ ਸੈਟਿੰਗਾਂ",
   "workshop.story.dangerZone": "Danger zone",
   "workshop.story.dangerZone.desc": "These actions affect how your story is organized across universes. Proceed carefully.",

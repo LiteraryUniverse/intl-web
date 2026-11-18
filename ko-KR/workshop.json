@@ -89,6 +89,7 @@
   "workshop.settings.basic": "기본 설정",
   "workshop.settings.genres": "장르 (최대 2개)",
   "workshop.story.license": "이야기 라이선스",
+  "workshop.story.settings.id": "이야기 ID",
   "workshop.story.settings.universe": "우주 설정",
   "workshop.story.dangerZone": "위험 구역",
   "workshop.story.dangerZone.desc": "이러한 작업은 여러 유니버스에서 스토리가 구성되는 방식에 영향을 줍니다. 신중하게 진행하세요.",
