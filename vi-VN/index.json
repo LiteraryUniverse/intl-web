@@ -6952,7 +6952,7 @@
   "settings.integrations.mailer.noBlogs": "Tạo blog để kết nối danh sách gửi thư của blog đó.",
   "settings.integrations.mailer.reconnectNeeded": "{service} không còn chấp nhận kết nối. Kết nối lại để đồng bộ các thay đổi.",
   "settings.integrations.chatgpt.summary": "Tạo và chỉnh sửa truyện, chương và mục bách khoa với ChatGPT.",
-  "settings.integrations.chatgpt.web": "Trong ChatGPT, thêm máy chủ MCP tùy chỉnh bằng địa chỉ này rồi đăng nhập Literary Universe. Khả năng dùng plugin phụ thuộc vào tài khoản và không gian làm việc.",
+  "settings.integrations.chatgpt.web": "Trong ChatGPT Plugins, thêm máy chủ MCP tùy chỉnh tên Literary Universe. Chọn Server URL, dán địa chỉ này rồi chọn OAuth. Chấp nhận cảnh báo, chọn Create as a plugin rồi đăng nhập Literary Universe. Không cần khóa API. Khả năng sử dụng tùy thuộc vào tài khoản và không gian làm việc của bạn.",
   "settings.integrations.chatgpt.local": "Với dự án cục bộ, cài CLI, đăng nhập rồi khởi tạo thư mục truyện. Mở thư mục trong Codex hoặc tác nhân viết khác.",
   "settings.integrations.chatgpt.access": "Chỉ cấp những quyền bạn chấp thuận. Lưu bản nháp không xuất bản chúng. Quản lý truy cập tại <link>Đã kết nối</link>.",
   "sharing.title": "Chia sẻ",

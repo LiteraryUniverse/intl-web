@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "གློག་འཕྲིན་ཐོ་ཡིག་མཐུད་ནི་ལུ་བློག་ཅིག་བཟོ།",
   "settings.integrations.mailer.reconnectNeeded": "{service} གིས་མཐུད་ལམ་དང་ལེན་འབད་ནི་བཀག་ཡོད། བསྒྱུར་བཅོས་མཐུན་སྒྲིག་འབད་ནི་ལུ་ལོག་མཐུད།",
   "settings.integrations.chatgpt.summary": "ChatGPT སྤྱད་ནས་སྒྲུང་དང་ལེའུ། ཤེས་བྱ་ཀུན་ཁྱབ་ཀྱི་ཚན་པ་བཟོ་བ་དང་བཅོས་སྒྲིག་བྱོས།",
-  "settings.integrations.chatgpt.web": "ChatGPT ནང་ས་གནས་འདི་སྤྱད་ནས་རང་མོས་ MCP ཞབས་ཞུ་ཆས་སྣོན་ཏེ་ Literary Universe ལ་ནང་འཛུལ་བྱོས། ཟུར་སྣོན་གྱི་སྤྱོད་ནུས་ནི་ཁྱེད་ཀྱི་ཐོ་ཁོངས་དང་ལས་ཀའི་བར་སྟོང་ལ་རག་ལས།",
+  "settings.integrations.chatgpt.web": "ChatGPT Plugins ནང་ Literary Universe ཞེས་པའི་རང་མོས་ MCP ཞབས་ཞུ་ཆས་སྣོན། Server URL འདེམས་ནས་ས་གནས་འདི་སྦྱར་ཞིང་ OAuth འདེམས། ཉེན་བརྡ་ཁས་ལེན་བྱས་ནས་ Create as a plugin འདེམས་ཏེ་ Literary Universe ལ་ནང་འཛུལ་བྱོས། API ལྡེ་མིག་མི་དགོས། ཟུར་སྣོན་སྤྱོད་ཐུབ་མིན་ནི་ཁྱེད་ཀྱི་ཐོ་ཁོངས་དང་ལས་ཀའི་ས་ཁོངས་ལ་རག་ལས།",
   "settings.integrations.chatgpt.local": "ས་གནས་ཀྱི་ལས་གཞིའི་ཆེད་ CLI སྒྲིག་འཇུག་བྱས་ཏེ་ནང་འཛུལ་དང་སྒྲུང་གི་ཡིག་སྣོད་འགོ་འཛུགས་བྱོས། Codex ཡང་ན་འབྲི་རྩོམ་ལས་ཚབ་གཞན་ཞིག་ནང་ཁ་ཕྱེ།",
   "settings.integrations.chatgpt.access": "ཁྱེད་ཀྱིས་ཆོག་མཆན་སྤྲད་པའི་དབང་ཆ་ཁོ་ན་སྤྲོད། ཟིན་བྲིས་ཉར་བས་དཔེ་སྐྲུན་མི་བྱེད། <link>མཐུད་ཟིན་པ</link> ནང་འཛུལ་སྤྱོད་དོ་དམ་བྱོས།"
 }

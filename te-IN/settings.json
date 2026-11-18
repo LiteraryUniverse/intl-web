@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "మెయిలింగ్ జాబితాను అనుసంధానించడానికి బ్లాగును సృష్టించండి.",
   "settings.integrations.mailer.reconnectNeeded": "{service} కనెక్షన్‌ను అంగీకరించడం ఆపివేసింది. మార్పులను సింక్ చేయడానికి మళ్లీ కనెక్ట్ చేయండి.",
   "settings.integrations.chatgpt.summary": "ChatGPTతో కథలు, అధ్యాయాలు మరియు విజ్ఞానసర్వస్వ నమోదులను సృష్టించి సవరించండి.",
-  "settings.integrations.chatgpt.web": "ChatGPTలో ఈ చిరునామాతో అనుకూల MCP సర్వర్‌ను జోడించి Literary Universeలో సైన్ ఇన్ చేయండి. ప్లగిన్ లభ్యత మీ ఖాతా, వర్క్‌స్పేస్‌పై ఆధారపడి ఉంటుంది.",
+  "settings.integrations.chatgpt.web": "ChatGPT Pluginsలో Literary Universe పేరుతో అనుకూల MCP సర్వర్‌ను జోడించండి. Server URL ఎంచుకుని ఈ చిరునామాను పేస్ట్ చేసి OAuth ఎంచుకోండి. హెచ్చరికను అంగీకరించి, Create as a plugin ఎంచుకుని Literary Universeలో సైన్ ఇన్ చేయండి. API కీ అవసరం లేదు. లభ్యత మీ ఖాతా మరియు కార్యస్థలంపై ఆధారపడి ఉంటుంది.",
   "settings.integrations.chatgpt.local": "స్థానిక ప్రాజెక్ట్ కోసం CLIని ఇన్‌స్టాల్ చేసి, సైన్ ఇన్ చేసి కథ ఫోల్డర్‌ను ప్రారంభించండి. దాన్ని Codex లేదా మరో రచనా ఏజెంట్‌లో తెరవండి.",
   "settings.integrations.chatgpt.access": "మీరు ఆమోదించిన అనుమతులు మాత్రమే ఇవ్వబడతాయి. చిత్తుప్రతులను సేవ్ చేయడం వాటిని ప్రచురించదు. <link>కనెక్ట్ అయినవి</link>లో యాక్సెస్‌ను నిర్వహించండి."
 }

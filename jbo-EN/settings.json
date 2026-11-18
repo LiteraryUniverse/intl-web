@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "ko zbasu lo blogu tezu'e lo nu jorne lo ri samymri liste",
   "settings.integrations.mailer.reconnectNeeded": "la'o gy. {service} .gy. na za'e curmi lo nu jo'e .i ko za'u re'u jo'e te zu'e lo nu simxu lo ka cenba",
   "settings.integrations.chatgpt.summary": "ko finti gi'e gafygau lo lisri jo'u lo selci be lo cukta jo'u lo velski pe lo vlaste sepi'o la ChatGPT.",
-  "settings.integrations.chatgpt.web": "ko jmina lo se cuxna MCP samtci lo liste pe la ChatGPT sepi'o ti poi judri gi'e cmisau la Literary Universe. lo nu pilno lo plina cu dependi lo do pilno datni jo'u lo do gunka stuzi.",
+  "settings.integrations.chatgpt.web": "ko jmina lo se cuxna MCP samtci poi se cmene zo'oi Literary Universe ku'o lo liste pe la ChatGPT Plugins .i ko cuxna zo'oi Server URL gi'e fukpu'i ti poi judri gi'e cuxna zo'oi OAuth .i ko tugni lo jundi notci gi'e cuxna zo'oi Create as a plugin gi'e cmisau la Literary Universe .i no API ckiku cu se nitcu .i lo nu ka'e pilno cu dependi lo do pilno jaspu jo'u lo do gunka canlu.",
   "settings.integrations.chatgpt.local": "tezu'e lo diklo gunka ko stika lo CLI gi'e cmisau gi'e cfari lo do lisri datni tanxe. ko kargau ri ne'i la Codex .a lo drata ciska sidju.",
   "settings.integrations.chatgpt.access": "lo do curmi po'o cu se sabji. lo nu vreji lo selpla cu na nibli lo nu banzu selci'a. ko jitro lo nu nerkla ne'i <link>lo se jorne</link>."
 }

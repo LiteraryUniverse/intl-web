@@ -6952,7 +6952,7 @@
   "settings.integrations.mailer.noBlogs": "Skapa en blogg för att ansluta dess e-postlista.",
   "settings.integrations.mailer.reconnectNeeded": "{service} accepterar inte längre anslutningen. Anslut igen för att synkronisera ändringarna.",
   "settings.integrations.chatgpt.summary": "Skapa och redigera berättelser, kapitel och uppslagsverksartiklar med ChatGPT.",
-  "settings.integrations.chatgpt.web": "Lägg till en anpassad MCP-server med den här adressen i ChatGPT och logga in på Literary Universe. Tillgången till tillägg beror på ditt konto och din arbetsyta.",
+  "settings.integrations.chatgpt.web": "Lägg till en anpassad MCP-server med namnet Literary Universe i ChatGPT Plugins. Välj Server URL, klistra in den här adressen och välj OAuth. Godkänn varningen, välj sedan Create as a plugin och logga in på Literary Universe. Ingen API-nyckel behövs. Tillgängligheten beror på ditt konto och din arbetsyta.",
   "settings.integrations.chatgpt.local": "Installera CLI för ett lokalt projekt, logga in och initiera berättelsens mapp. Öppna den i Codex eller en annan skrivagent.",
   "settings.integrations.chatgpt.access": "Bara behörigheter du godkänner beviljas. Att spara utkast publicerar dem inte. Hantera åtkomst under <link>Anslutna</link>.",
   "sharing.title": "Dela",

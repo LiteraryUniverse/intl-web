@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "ਮੇਲਿੰਗ ਸੂਚੀ ਜੋੜਨ ਲਈ ਬਲੌਗ ਬਣਾਓ।",
   "settings.integrations.mailer.reconnectNeeded": "{service} ਨੇ ਕਨੈਕਸ਼ਨ ਸਵੀਕਾਰ ਕਰਨਾ ਬੰਦ ਕਰ ਦਿੱਤਾ ਹੈ। ਤਬਦੀਲੀਆਂ ਸਿੰਕ ਕਰਨ ਲਈ ਮੁੜ ਕਨੈਕਟ ਕਰੋ।",
   "settings.integrations.chatgpt.summary": "ChatGPT ਨਾਲ ਕਹਾਣੀਆਂ, ਅਧਿਆਇ ਅਤੇ ਵਿਸ਼ਵਕੋਸ਼ ਦੀਆਂ ਐਂਟਰੀਆਂ ਬਣਾਓ ਅਤੇ ਸੋਧੋ।",
-  "settings.integrations.chatgpt.web": "ChatGPT ਵਿੱਚ ਇਸ ਪਤੇ ਨਾਲ ਕਸਟਮ MCP ਸਰਵਰ ਜੋੜੋ ਅਤੇ Literary Universe ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ। ਪਲੱਗਇਨ ਦੀ ਉਪਲਬਧਤਾ ਤੁਹਾਡੇ ਖਾਤੇ ਅਤੇ ਵਰਕਸਪੇਸ ਉੱਤੇ ਨਿਰਭਰ ਕਰਦੀ ਹੈ।",
+  "settings.integrations.chatgpt.web": "ChatGPT Plugins ਵਿੱਚ Literary Universe ਨਾਮ ਦਾ ਕਸਟਮ MCP ਸਰਵਰ ਜੋੜੋ। Server URL ਚੁਣ ਕੇ ਇਹ ਪਤਾ ਪੇਸਟ ਕਰੋ ਅਤੇ OAuth ਚੁਣੋ। ਚੇਤਾਵਨੀ ਸਵੀਕਾਰ ਕਰੋ, ਫਿਰ Create as a plugin ਚੁਣ ਕੇ Literary Universe ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ। API ਕੁੰਜੀ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ। ਉਪਲਬਧਤਾ ਤੁਹਾਡੇ ਖਾਤੇ ਅਤੇ ਵਰਕਸਪੇਸ ਉੱਤੇ ਨਿਰਭਰ ਕਰਦੀ ਹੈ।",
   "settings.integrations.chatgpt.local": "ਸਥਾਨਕ ਪ੍ਰੋਜੈਕਟ ਲਈ CLI ਇੰਸਟਾਲ ਕਰੋ, ਸਾਈਨ ਇਨ ਕਰੋ ਅਤੇ ਕਹਾਣੀ ਦਾ ਫੋਲਡਰ ਸ਼ੁਰੂ ਕਰੋ। ਇਸਨੂੰ Codex ਜਾਂ ਕਿਸੇ ਹੋਰ ਲਿਖਣ ਵਾਲੇ ਏਜੰਟ ਵਿੱਚ ਖੋਲ੍ਹੋ।",
   "settings.integrations.chatgpt.access": "ਸਿਰਫ਼ ਤੁਹਾਡੇ ਵੱਲੋਂ ਮਨਜ਼ੂਰ ਕੀਤੀਆਂ ਇਜਾਜ਼ਤਾਂ ਦਿੱਤੀਆਂ ਜਾਂਦੀਆਂ ਹਨ। ਖਰੜੇ ਸੰਭਾਲਣ ਨਾਲ ਉਹ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਹੁੰਦੇ। <link>ਜੁੜੇ ਹੋਏ</link> ਵਿੱਚ ਪਹੁੰਚ ਦਾ ਪ੍ਰਬੰਧ ਕਰੋ।"
 }

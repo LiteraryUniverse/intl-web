@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "შექმენით ბლოგი მისი საფოსტო სიის დასაკავშირებლად.",
   "settings.integrations.mailer.reconnectNeeded": "{service} აღარ იღებს კავშირს. ცვლილებების სინქრონიზაციისთვის ხელახლა დაუკავშირდით.",
   "settings.integrations.chatgpt.summary": "შექმენით და შეცვალეთ ისტორიები, თავები და ენციკლოპედიის ჩანაწერები ChatGPT-ით.",
-  "settings.integrations.chatgpt.web": "ChatGPT-ში დაამატეთ მორგებული MCP სერვერი ამ მისამართით და შედით Literary Universe-ში. დანამატების ხელმისაწვდომობა დამოკიდებულია თქვენს ანგარიშსა და სამუშაო სივრცეზე.",
+  "settings.integrations.chatgpt.web": "ChatGPT Plugins-ში დაამატეთ მორგებული MCP სერვერი სახელით Literary Universe. აირჩიეთ Server URL, ჩასვით ეს მისამართი და აირჩიეთ OAuth. დაეთანხმეთ გაფრთხილებას, აირჩიეთ Create as a plugin და შედით Literary Universe-ში. API გასაღები არ არის საჭირო. ხელმისაწვდომობა თქვენს ანგარიშსა და სამუშაო სივრცეზეა დამოკიდებული.",
   "settings.integrations.chatgpt.local": "ლოკალური პროექტისთვის დააყენეთ CLI, შედით და მოამზადეთ ისტორიის საქაღალდე. გახსენით ის Codex-ში ან სხვა წერის აგენტში.",
   "settings.integrations.chatgpt.access": "გაიცემა მხოლოდ თქვენ მიერ დამტკიცებული უფლებები. მონახაზების შენახვა მათ არ აქვეყნებს. წვდომა მართეთ განყოფილებაში <link>დაკავშირებული</link>."
 }

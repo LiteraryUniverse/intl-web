@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "メーリングリストを連携するにはブログを作成してください。",
   "settings.integrations.mailer.reconnectNeeded": "{service} が接続を受け付けなくなりました。変更を同期するには、再接続してください。",
   "settings.integrations.chatgpt.summary": "ChatGPTで物語、章、百科事典の項目を作成・編集できます。",
-  "settings.integrations.chatgpt.web": "ChatGPTでこのアドレスのカスタムMCPサーバーを追加し、Literary Universeにログインしてください。プラグインの利用可否はアカウントとワークスペースによって異なります。",
+  "settings.integrations.chatgpt.web": "ChatGPT Plugins で Literary Universe という名前のカスタム MCP サーバーを追加します。Server URL を選び、このアドレスを貼り付けて OAuth を選択します。警告に同意し、Create as a plugin を選んで Literary Universe にログインしてください。API キーは不要です。利用可否はアカウントとワークスペースによって異なります。",
   "settings.integrations.chatgpt.local": "ローカルのプロジェクトにはCLIをインストールし、ログインして物語のフォルダーを初期化してください。Codexなどの執筆エージェントで開けます。",
   "settings.integrations.chatgpt.access": "承認した権限だけが付与されます。下書きを保存しても公開されません。アクセスは<link>接続済み</link>で管理できます。"
 }

@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "Utwórz blog, aby połączyć jego listę mailingową.",
   "settings.integrations.mailer.reconnectNeeded": "{service} nie akceptuje już połączenia. Połącz ponownie, aby zsynchronizować zmiany.",
   "settings.integrations.chatgpt.summary": "Twórz i edytuj opowiadania, rozdziały i hasła encyklopedii z ChatGPT.",
-  "settings.integrations.chatgpt.web": "W ChatGPT dodaj własny serwer MCP z tym adresem i zaloguj się do Literary Universe. Dostępność wtyczek zależy od konta i przestrzeni roboczej.",
+  "settings.integrations.chatgpt.web": "W ChatGPT Plugins dodaj własny serwer MCP o nazwie Literary Universe. Wybierz Server URL, wklej ten adres i wybierz OAuth. Zaakceptuj ostrzeżenie, wybierz Create as a plugin i zaloguj się do Literary Universe. Klucz API nie jest potrzebny. Dostępność zależy od konta i obszaru roboczego.",
   "settings.integrations.chatgpt.local": "Dla projektu lokalnego zainstaluj CLI, zaloguj się i zainicjuj folder opowiadania. Otwórz go w Codex lub innym agencie pisarskim.",
   "settings.integrations.chatgpt.access": "Przyznawane są tylko zatwierdzone uprawnienia. Zapisanie szkiców ich nie publikuje. Zarządzaj dostępem w sekcji <link>Połączone</link>."
 }

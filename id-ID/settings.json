@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "Buat blog untuk menghubungkan milisnya.",
   "settings.integrations.mailer.reconnectNeeded": "{service} tidak lagi menerima koneksi. Hubungkan kembali untuk menyinkronkan perubahan.",
   "settings.integrations.chatgpt.summary": "Buat dan sunting cerita, bab, dan entri ensiklopedia dengan ChatGPT.",
-  "settings.integrations.chatgpt.web": "Di ChatGPT, tambahkan server MCP khusus dengan alamat ini dan masuk ke Literary Universe. Ketersediaan plugin bergantung pada akun dan ruang kerja Anda.",
+  "settings.integrations.chatgpt.web": "Di ChatGPT Plugins, tambahkan server MCP khusus bernama Literary Universe. Pilih Server URL, tempel alamat ini, lalu pilih OAuth. Terima peringatannya, pilih Create as a plugin, lalu masuk ke Literary Universe. Tidak perlu kunci API. Ketersediaan bergantung pada akun dan ruang kerja Anda.",
   "settings.integrations.chatgpt.local": "Untuk proyek lokal, pasang CLI, masuk, lalu inisialisasi folder cerita Anda. Buka di Codex atau agen penulisan lainnya.",
   "settings.integrations.chatgpt.access": "Hanya izin yang Anda setujui yang diberikan. Menyimpan draf tidak menerbitkannya. Kelola akses di <link>Terhubung</link>."
 }
