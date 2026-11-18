@@ -6952,7 +6952,7 @@
   "settings.integrations.mailer.noBlogs": "Loo ajaveeb, et ühendada selle meililist.",
   "settings.integrations.mailer.reconnectNeeded": "{service} ei võta enam ühendust vastu. Muudatuste sünkroonimiseks ühenda uuesti.",
   "settings.integrations.chatgpt.summary": "Loo ja muuda lugusid, peatükke ja entsüklopeediakirjeid ChatGPT abil.",
-  "settings.integrations.chatgpt.web": "Lisa ChatGPT-s kohandatud MCP-server selle aadressiga ja logi Literary Universe’i sisse. Pluginate saadavus sõltub sinu kontost ja tööruumist.",
+  "settings.integrations.chatgpt.web": "Lisa ChatGPT Pluginsis kohandatud MCP-server nimega Literary Universe. Vali Server URL, kleebi see aadress ja vali OAuth. Nõustu hoiatusega, vali Create as a plugin ja logi Literary Universe’i sisse. API-võtit pole vaja. Saadavus sõltub sinu kontost ja tööruumist.",
   "settings.integrations.chatgpt.local": "Kohaliku projekti jaoks paigalda CLI, logi sisse ja lähtesta loo kaust. Ava see Codexis või teises kirjutamisagendis.",
   "settings.integrations.chatgpt.access": "Antakse ainult sinu kinnitatud õigused. Mustandite salvestamine ei avalda neid. Halda juurdepääsu jaotises <link>Ühendatud</link>.",
   "sharing.title": "Jaga",

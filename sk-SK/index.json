@@ -6952,7 +6952,7 @@
   "settings.integrations.mailer.noBlogs": "Vytvorte blog a prepojte jeho e-mailový zoznam.",
   "settings.integrations.mailer.reconnectNeeded": "{service} prestal prijímať pripojenie. Pripojte sa znova, aby sa zmeny synchronizovali.",
   "settings.integrations.chatgpt.summary": "Vytvárajte a upravujte príbehy, kapitoly a heslá encyklopédie s ChatGPT.",
-  "settings.integrations.chatgpt.web": "V ChatGPT pridajte vlastný MCP server s touto adresou a prihláste sa do Literary Universe. Dostupnosť doplnkov závisí od účtu a pracovného priestoru.",
+  "settings.integrations.chatgpt.web": "V ChatGPT Plugins pridajte vlastný MCP server s názvom Literary Universe. Vyberte Server URL, vložte túto adresu a zvoľte OAuth. Prijmite upozornenie, zvoľte Create as a plugin a prihláste sa do Literary Universe. API kľúč nie je potrebný. Dostupnosť závisí od vášho účtu a pracovného priestoru.",
   "settings.integrations.chatgpt.local": "Pre miestny projekt nainštalujte CLI, prihláste sa a inicializujte priečinok príbehu. Otvorte ho v Codexe alebo inom asistentovi na písanie.",
   "settings.integrations.chatgpt.access": "Udelia sa iba schválené oprávnenia. Uloženie konceptov ich nepublikuje. Prístup spravujte v časti <link>Pripojené</link>.",
   "sharing.title": "Sdílet",

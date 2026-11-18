@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "Creează un blog pentru a-i conecta lista de e-mail.",
   "settings.integrations.mailer.reconnectNeeded": "{service} nu mai acceptă conexiunea. Conectează-te din nou pentru a sincroniza modificările.",
   "settings.integrations.chatgpt.summary": "Creează și editează povești, capitole și articole de enciclopedie cu ChatGPT.",
-  "settings.integrations.chatgpt.web": "În ChatGPT, adaugă un server MCP personalizat cu această adresă și conectează-te la Literary Universe. Disponibilitatea pluginurilor depinde de cont și de spațiul de lucru.",
+  "settings.integrations.chatgpt.web": "În ChatGPT Plugins, adaugă un server MCP personalizat numit Literary Universe. Selectează Server URL, lipește această adresă și alege OAuth. Acceptă avertismentul, alege Create as a plugin și conectează-te la Literary Universe. Nu este necesară o cheie API. Disponibilitatea depinde de contul și spațiul tău de lucru.",
   "settings.integrations.chatgpt.local": "Pentru un proiect local, instalează CLI, conectează-te și inițializează dosarul poveștii. Deschide-l în Codex sau alt agent de scriere.",
   "settings.integrations.chatgpt.access": "Se acordă doar permisiunile aprobate de tine. Salvarea ciornelor nu le publică. Gestionează accesul în <link>Conectate</link>."
 }

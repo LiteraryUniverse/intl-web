@@ -6952,7 +6952,7 @@
   "settings.integrations.mailer.noBlogs": "메일링 목록을 연결하려면 블로그를 만드세요.",
   "settings.integrations.mailer.reconnectNeeded": "{service}에서 더 이상 연결을 허용하지 않습니다. 변경 사항을 동기화하려면 다시 연결하세요.",
   "settings.integrations.chatgpt.summary": "ChatGPT로 이야기, 장, 백과사전 항목을 만들고 편집하세요.",
-  "settings.integrations.chatgpt.web": "ChatGPT에서 이 주소로 사용자 지정 MCP 서버를 추가하고 Literary Universe에 로그인하세요. 플러그인 사용 가능 여부는 계정과 작업 공간에 따라 다릅니다.",
+  "settings.integrations.chatgpt.web": "ChatGPT Plugins에서 Literary Universe라는 이름의 사용자 지정 MCP 서버를 추가하세요. Server URL을 선택하고 이 주소를 붙여 넣은 뒤 OAuth를 선택하세요. 경고에 동의하고 Create as a plugin을 선택한 다음 Literary Universe에 로그인하세요. API 키는 필요하지 않습니다. 사용 가능 여부는 계정과 작업 공간에 따라 다릅니다.",
   "settings.integrations.chatgpt.local": "로컬 프로젝트를 만들려면 CLI를 설치하고 로그인한 다음 이야기 폴더를 초기화하세요. Codex 또는 다른 글쓰기 에이전트에서 여세요.",
   "settings.integrations.chatgpt.access": "승인한 권한만 부여됩니다. 초안을 저장해도 게시되지 않습니다. <link>연결됨</link>에서 접근 권한을 관리하세요.",
   "sharing.title": "공유",

@@ -6952,7 +6952,7 @@
   "settings.integrations.mailer.noBlogs": "Posta listesini bağlamak için bir blog oluşturun.",
   "settings.integrations.mailer.reconnectNeeded": "{service} artık bağlantıyı kabul etmiyor. Değişiklikleri eşitlemek için yeniden bağlanın.",
   "settings.integrations.chatgpt.summary": "ChatGPT ile hikâyeler, bölümler ve ansiklopedi maddeleri oluşturun ve düzenleyin.",
-  "settings.integrations.chatgpt.web": "ChatGPT’de bu adresle özel bir MCP sunucusu ekleyip Literary Universe’e giriş yapın. Eklenti kullanılabilirliği hesabınıza ve çalışma alanınıza bağlıdır.",
+  "settings.integrations.chatgpt.web": "ChatGPT Plugins içinde Literary Universe adlı özel bir MCP sunucusu ekleyin. Server URL seçeneğini seçip bu adresi yapıştırın ve OAuth seçin. Uyarıyı kabul edin, ardından Create as a plugin seçeneğini seçip Literary Universe’e giriş yapın. API anahtarı gerekmez. Kullanılabilirlik hesabınıza ve çalışma alanınıza bağlıdır.",
   "settings.integrations.chatgpt.local": "Yerel proje için CLI’yi kurun, giriş yapın ve hikâye klasörünü başlatın. Klasörü Codex veya başka bir yazma aracısında açın.",
   "settings.integrations.chatgpt.access": "Yalnızca onayladığınız izinler verilir. Taslakları kaydetmek onları yayımlamaz. Erişimi <link>Bağlı</link> bölümünden yönetin.",
   "sharing.title": "Paylaş",

@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "Create a blog to connect its mailing list.",
   "settings.integrations.mailer.reconnectNeeded": "{service} stopped accepting the connection. Connect again to catch up.",
   "settings.integrations.chatgpt.summary": "Create and edit stories, chapters and encyclopedia entries with ChatGPT.",
-  "settings.integrations.chatgpt.web": "On ChatGPT, add a custom MCP server with this address and sign in to Literary Universe. Plugin availability depends on your account and workspace.",
+  "settings.integrations.chatgpt.web": "In ChatGPT Plugins, add a custom MCP server named Literary Universe. Select Server URL, paste this address and choose OAuth. Accept the warning, then Create as a plugin and sign in to Literary Universe. No API key is needed. Availability depends on your account and workspace.",
   "settings.integrations.chatgpt.local": "For a local project, install the CLI, sign in, then initialize your story folder. Open it in Codex or another writing agent.",
   "settings.integrations.chatgpt.access": "Only the permissions you approve are granted. Saving drafts does not publish them. Manage access in <link>Connected</link>."
 }

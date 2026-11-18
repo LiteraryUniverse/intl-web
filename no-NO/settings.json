@@ -573,7 +573,7 @@
   "settings.integrations.mailer.noBlogs": "Opprett en blogg for å koble til e-postlisten.",
   "settings.integrations.mailer.reconnectNeeded": "{service} godtar ikke lenger tilkoblingen. Koble til på nytt for å synkronisere endringene.",
   "settings.integrations.chatgpt.summary": "Opprett og rediger historier, kapitler og leksikonartikler med ChatGPT.",
-  "settings.integrations.chatgpt.web": "Legg til en tilpasset MCP-server med denne adressen i ChatGPT og logg inn på Literary Universe. Tilgjengelige programtillegg avhenger av kontoen og arbeidsområdet ditt.",
+  "settings.integrations.chatgpt.web": "Legg til en tilpasset MCP-server med navnet Literary Universe i ChatGPT Plugins. Velg Server URL, lim inn denne adressen og velg OAuth. Godta advarselen, velg deretter Create as a plugin og logg inn på Literary Universe. Du trenger ingen API-nøkkel. Tilgjengeligheten avhenger av kontoen og arbeidsområdet ditt.",
   "settings.integrations.chatgpt.local": "Installer CLI for et lokalt prosjekt, logg inn og initialiser historiemappen. Åpne den i Codex eller en annen skriveagent.",
   "settings.integrations.chatgpt.access": "Bare tillatelser du godkjenner blir gitt. Lagring av utkast publiserer dem ikke. Administrer tilgang under <link>Tilkoblet</link>."
 }
