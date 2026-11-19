@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "פרולוג",
   "workshop.story.chapter": "פרק {sequence, number}",
   "workshop.work.includesAds": "האם יש פרסומות או הצגת מוצרים בעבודה?",
+  "workshop.work.commentsDisabled": "השבת תגובות לסיפור הזה",
   "workshop.shortStory.toggle": "פורמט סיפור קצר",
   "workshop.shortStory.toggleDescription": "סיפור עצמאי בן פרק אחד, עד כ־8,000 מילים (כ־16,000 תווים בסינית, ביפנית ובקוריאנית). כותרת הפרק תואמת אוטומטית לכותרת הסיפור.",
   "workshop.shortStory.titleLocked": "בסיפורים קצרים כותרת הפרק זהה לכותרת הסיפור — עורכים אותה בהגדרות.",

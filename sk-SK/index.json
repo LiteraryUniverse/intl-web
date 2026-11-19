@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prológ",
   "workshop.story.chapter": "Kapitola {sequence, number}",
   "workshop.work.includesAds": "Sú v diele nejaké reklamy alebo umiestňovanie produktov?",
+  "workshop.work.commentsDisabled": "Vypnúť komentáre pri tomto príbehu",
   "workshop.shortStory.toggle": "Formát krátkeho príbehu",
   "workshop.shortStory.toggleDescription": "Samostatný príbeh v jedinej kapitole s rozsahom do ~8 000 slov (~16 000 znakov pre čínštinu, japončinu a kórejčinu). Názov kapitoly sa automaticky zhoduje s názvom príbehu.",
   "workshop.shortStory.titleLocked": "Krátke príbehy zdieľajú názov príbehu — upravte ho v Nastaveniach.",

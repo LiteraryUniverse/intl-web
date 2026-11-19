@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Proloog",
   "workshop.story.chapter": "Peatükk {sequence, number}",
   "workshop.work.includesAds": "Kas töös on reklaame või tootereklaame?",
+  "workshop.work.commentsDisabled": "Lülita selle loo kommentaarid välja",
   "workshop.shortStory.toggle": "Lühijutu vorming",
   "workshop.shortStory.toggleDescription": "Iseseisev ühepeatükiline lugu kuni ~8000 sõna (~16 000 tähemärki hiina, jaapani ja korea keeles). Peatüki pealkiri ühtib automaatselt loo pealkirjaga.",
   "workshop.shortStory.titleLocked": "Lühijuttudel on peatükil sama pealkiri mis lool — muutke seda seadetes.",

@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prólóg",
   "workshop.story.chapter": "Caibidil {sequence, number}",
   "workshop.work.includesAds": "An bhfuil aon fógraíocht nó ábharáinmneacha táirgí sa saothar?",
+  "workshop.work.commentsDisabled": "Múch nótaí don scéal seo",
   "workshop.shortStory.toggle": "Short Story format",
   "workshop.shortStory.toggleDescription": "A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.",
   "workshop.shortStory.titleLocked": "Short stories share the story title — edit it in Settings.",

@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Chapter {sequence, number}",
   "workshop.work.includesAds": "పనితీరునివ్వాళ్లు లేదా ఉత్పన్నాల ప్రాచుర్యాలు ఉన్నాయా కార్యలో?",
+  "workshop.work.commentsDisabled": "ఈ కథకు వ్యాఖ్యలను ఆపివేయండి",
   "workshop.shortStory.toggle": "Short Story format",
   "workshop.shortStory.toggleDescription": "A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.",
   "workshop.shortStory.titleLocked": "Short stories share the story title — edit it in Settings.",

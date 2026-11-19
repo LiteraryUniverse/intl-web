@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Bölüm {sequence, number}",
   "workshop.work.includesAds": "Çalışmada herhangi bir reklam veya ürün yerleştirme var mı?",
+  "workshop.work.commentsDisabled": "Bu hikaye için yorumları kapat",
   "workshop.shortStory.toggle": "Kısa Hikaye biçimi",
   "workshop.shortStory.toggleDescription": "Yaklaşık 8.000 kelimeye kadar (Çince, Japonca ve Korece için yaklaşık 16.000 karakter) kendi içinde tamamlanmış, tek bölümlük bir hikaye. Bölüm başlığı hikaye başlığıyla otomatik olarak eşleşir.",
   "workshop.shortStory.titleLocked": "Kısa hikayeler hikaye başlığını paylaşır — başlığı Ayarlar bölümünden düzenleyin.",

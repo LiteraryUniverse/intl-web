@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "프롤로그",
   "workshop.story.chapter": "장 {sequence, number}",
   "workshop.work.includesAds": "작품에 광고나 제품 배치가 있나요?",
+  "workshop.work.commentsDisabled": "이 이야기의 댓글 끄기",
   "workshop.shortStory.toggle": "단편 형식",
   "workshop.shortStory.toggleDescription": "약 8,000단어(중국어, 일본어, 한국어는 약 16,000자) 이내의, 한 챕터로 완결되는 이야기입니다. 챕터 제목은 이야기 제목과 자동으로 같아집니다.",
   "workshop.shortStory.titleLocked": "단편은 이야기 제목을 그대로 사용합니다. 설정에서 수정하세요.",

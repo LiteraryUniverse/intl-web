@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "प्रोलॉग",
   "workshop.story.chapter": "अध्याय {sequence, number}",
   "workshop.work.includesAds": "क्या कार्य में कोई विज्ञापन या उत्पाद स्थानन प्रारूपण है?",
+  "workshop.work.commentsDisabled": "इस कहानी के लिए टिप्पणियाँ बंद करें",
   "workshop.shortStory.toggle": "लघु कहानी प्रारूप",
   "workshop.shortStory.toggleDescription": "एक अध्याय की अपने-आप में पूरी कहानी, लगभग 8,000 शब्दों तक (चीनी, जापानी और कोरियाई के लिए लगभग 16,000 अक्षर)। अध्याय का शीर्षक अपने आप कहानी के शीर्षक से मेल खाता है।",
   "workshop.shortStory.titleLocked": "लघु कहानियों में कहानी का शीर्षक ही इस्तेमाल होता है — इसे सेटिंग्स में संपादित करें।",

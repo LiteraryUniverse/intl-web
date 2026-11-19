@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Lời mở đầu",
   "workshop.story.chapter": "Chương {sequence, number}",
   "workshop.work.includesAds": "Có quảng cáo hoặc đặt sản phẩm trong tác phẩm không?",
+  "workshop.work.commentsDisabled": "Tắt bình luận cho câu chuyện này",
   "workshop.shortStory.toggle": "Định dạng truyện ngắn",
   "workshop.shortStory.toggleDescription": "Một câu chuyện trọn vẹn chỉ gồm một chương, tối đa khoảng 8.000 từ (khoảng 16.000 ký tự đối với tiếng Trung, tiếng Nhật và tiếng Hàn). Tiêu đề chương tự động trùng với tiêu đề câu chuyện.",
   "workshop.shortStory.titleLocked": "Truyện ngắn dùng chung tiêu đề với câu chuyện — hãy chỉnh sửa trong Cài đặt.",

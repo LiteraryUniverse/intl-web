@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Пролог",
   "workshop.story.chapter": "Глава {sequence, number}",
   "workshop.work.includesAds": "Есть ли в работе реклама или размещение продукции?",
+  "workshop.work.commentsDisabled": "Отключить комментарии к этой истории",
   "workshop.shortStory.toggle": "Формат короткой истории",
   "workshop.shortStory.toggleDescription": "Самостоятельная история из одной главы объёмом до ~8 000 слов (~16 000 символов для китайского, японского и корейского). Название главы автоматически совпадает с названием истории.",
   "workshop.shortStory.titleLocked": "У коротких историй название главы совпадает с названием истории — измените его в настройках.",

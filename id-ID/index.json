@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Bab {sequence, number}",
   "workshop.work.includesAds": "Apakah ada iklan atau penempatan produk dalam karya ini?",
+  "workshop.work.commentsDisabled": "Nonaktifkan komentar untuk cerita ini",
   "workshop.shortStory.toggle": "Format Cerita Pendek",
   "workshop.shortStory.toggleDescription": "Cerita satu bab yang berdiri sendiri hingga ~8.000 kata (~16.000 karakter untuk bahasa Tionghoa, Jepang, dan Korea). Judul bab otomatis mengikuti judul cerita.",
   "workshop.shortStory.titleLocked": "Cerita pendek memakai judul cerita — edit di Pengaturan.",

@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "প্রোলগ",
   "workshop.story.chapter": "অধ্যায় {sequence, number}",
   "workshop.work.includesAds": "কাজে কোনও বিজ্ঞাপন বা পণ্য প্রদর্শন আছে কি?",
+  "workshop.work.commentsDisabled": "এই গল্পের জন্য মন্তব্য বন্ধ করুন",
   "workshop.shortStory.toggle": "ছোটগল্প ফরম্যাট",
   "workshop.shortStory.toggleDescription": "এক অধ্যায়ের স্বয়ংসম্পূর্ণ গল্প, সর্বোচ্চ ~৮,০০০ শব্দ (চীনা, জাপানি ও কোরীয় ভাষার জন্য ~১৬,০০০ অক্ষর)। অধ্যায়ের শিরোনাম স্বয়ংক্রিয়ভাবে গল্পের শিরোনামের সাথে মিলে যায়।",
   "workshop.shortStory.titleLocked": "ছোটগল্পে অধ্যায়ের শিরোনাম গল্পের শিরোনামই হয় — সেটি সেটিংস থেকে সম্পাদনা করুন।",

@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prologo",
   "workshop.story.chapter": "Ĉapitro {sequence, number}",
   "workshop.work.includesAds": "Ĉu estas iaj reklamoj aŭ produkta enmetoj en la verko?",
+  "workshop.work.commentsDisabled": "Malŝalti komentojn por ĉi tiu rakonto",
   "workshop.shortStory.toggle": "Formato de novelo",
   "workshop.shortStory.toggleDescription": "Memstara unuĉapitra rakonto ĝis ~8,000 vortoj (~16,000 signoj por la ĉina, japana kaj korea). La titolo de la ĉapitro aŭtomate kongruas kun la titolo de la rakonto.",
   "workshop.shortStory.titleLocked": "Noveloj havas la saman titolon kiel la rakonto — redaktu ĝin en Agordoj.",

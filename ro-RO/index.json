@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Capitolul {sequence, number}",
   "workshop.work.includesAds": "Există reclame sau plasamente de produs în lucrare?",
+  "workshop.work.commentsDisabled": "Dezactivează comentariile pentru această poveste",
   "workshop.shortStory.toggle": "Format de poveste scurtă",
   "workshop.shortStory.toggleDescription": "O poveste de sine stătătoare, cu un singur capitol, de până la ~8,000 de cuvinte (~16,000 de caractere pentru chineză, japoneză și coreeană). Titlul capitolului corespunde automat titlului poveștii.",
   "workshop.shortStory.titleLocked": "Poveștile scurte folosesc titlul poveștii — editează-l în Setări.",

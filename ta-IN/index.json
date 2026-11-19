@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "முன்னுரை",
   "workshop.story.chapter": "அத்தியாயம் {sequence, number}",
   "workshop.work.includesAds": "வேலையில் எந்தக் கடவுச்சொல் அல்லது தயாரிப்பு வேண்டுமா?",
+  "workshop.work.commentsDisabled": "இந்தக் கதைக்கான கருத்துகளை முடக்கு",
   "workshop.shortStory.toggle": "Short Story format",
   "workshop.shortStory.toggleDescription": "A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.",
   "workshop.shortStory.titleLocked": "Short stories share the story title — edit it in Settings.",

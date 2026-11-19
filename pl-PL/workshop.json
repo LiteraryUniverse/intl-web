@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Rozdział {sequence, number}",
   "workshop.work.includesAds": "Czy w pracy są jakieś reklamy lub lokowanie produktu?",
+  "workshop.work.commentsDisabled": "Wyłącz komentarze do tej historii",
   "workshop.shortStory.toggle": "Format krótkiej historii",
   "workshop.shortStory.toggleDescription": "Samodzielna historia w jednym rozdziale, do ok. 8000 słów (ok. 16 000 znaków dla chińskiego, japońskiego i koreańskiego). Tytuł rozdziału jest automatycznie zgodny z tytułem historii.",
   "workshop.shortStory.titleLocked": "Krótkie historie używają tytułu historii — zmień go w Ustawieniach.",

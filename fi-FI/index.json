@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prologi",
   "workshop.story.chapter": "Luku {sequence, number}",
   "workshop.work.includesAds": "Onko teoksessa mainoksia tai tuotesijoittelua?",
+  "workshop.work.commentsDisabled": "Poista tämän tarinan kommentit käytöstä",
   "workshop.shortStory.toggle": "Novellimuoto",
   "workshop.shortStory.toggleDescription": "Itsenäinen yhden luvun tarina, enintään noin 8 000 sanaa (noin 16 000 merkkiä kiinaksi, japaniksi ja koreaksi). Luvun otsikko vastaa automaattisesti tarinan otsikkoa.",
   "workshop.shortStory.titleLocked": "Novellit käyttävät tarinan otsikkoa — muokkaa sitä Asetuksissa.",

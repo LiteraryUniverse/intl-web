@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "プロローグ",
   "workshop.story.chapter": "章 {sequence, number}",
   "workshop.work.includesAds": "作品の中に広告や商品の紹介はありますか？",
+  "workshop.work.commentsDisabled": "この物語のコメントをオフにする",
   "workshop.shortStory.toggle": "ショートストーリー形式",
   "workshop.shortStory.toggleDescription": "1章で完結する、約8,000語（中国語・日本語・韓国語では約16,000文字）までのストーリーです。章のタイトルは自動的にストーリーのタイトルと一致します。",
   "workshop.shortStory.titleLocked": "ショートストーリーはストーリーのタイトルを共有します。変更は設定から行ってください。",

@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Πρόλογος",
   "workshop.story.chapter": "Κεφάλαιο {sequence, number}",
   "workshop.work.includesAds": "Υπάρχουν διαφημίσεις ή προϊόντα που προωθούνται στο έργο;",
+  "workshop.work.commentsDisabled": "Απενεργοποίηση σχολίων για αυτή την ιστορία",
   "workshop.shortStory.toggle": "Μορφή διηγήματος",
   "workshop.shortStory.toggleDescription": "Μια αυτοτελής ιστορία ενός κεφαλαίου, έως ~8.000 λέξεις (~16.000 χαρακτήρες για τα κινεζικά, τα ιαπωνικά και τα κορεατικά). Ο τίτλος του κεφαλαίου ταυτίζεται αυτόματα με τον τίτλο της ιστορίας.",
   "workshop.shortStory.titleLocked": "Στα διηγήματα το κεφάλαιο έχει τον τίτλο της ιστορίας — επεξεργαστείτε τον στις Ρυθμίσεις.",

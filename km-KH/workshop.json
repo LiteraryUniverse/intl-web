@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Chapter {sequence, number}",
   "workshop.work.includesAds": "តើមាតិការណ៍ឬទំនិញមួយណាមានការបង្ហាញព័ត៌មានទំនិញឬទំនិញក្នុងការងារដែលបានធ្វើបច្ចុប្បន្នមែនទេ?",
+  "workshop.work.commentsDisabled": "បិទមតិសម្រាប់រឿងនិទាននេះ",
   "workshop.shortStory.toggle": "Short Story format",
   "workshop.shortStory.toggleDescription": "A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.",
   "workshop.shortStory.titleLocked": "Short stories share the story title — edit it in Settings.",

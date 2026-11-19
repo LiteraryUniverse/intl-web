@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Pròleg",
   "workshop.story.chapter": "Capítol {sequence, number}",
   "workshop.work.includesAds": "Hi ha algun anunci o producte publicitari en la feina?",
+  "workshop.work.commentsDisabled": "Desactiva els comentaris d'aquesta història",
   "workshop.shortStory.toggle": "Format de relat curt",
   "workshop.shortStory.toggleDescription": "Una història autònoma d'un sol capítol de fins a ~8.000 paraules (~16.000 caràcters per al xinès, el japonès i el coreà). El títol del capítol coincideix automàticament amb el títol de la història.",
   "workshop.shortStory.titleLocked": "Els relats curts comparteixen el títol de la història: edita'l a Configuració.",

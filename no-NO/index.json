@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Kapittel {sequence, number}",
   "workshop.work.includesAds": "Er det noen annonser eller produkt-plasseringer i verket?",
+  "workshop.work.commentsDisabled": "Slå av kommentarer for denne historien",
   "workshop.shortStory.toggle": "Novelleformat",
   "workshop.shortStory.toggleDescription": "En selvstendig historie på ett kapittel med opptil ~8,000 ord (~16,000 tegn for kinesisk, japansk og koreansk). Kapitteltittelen følger automatisk historiens tittel.",
   "workshop.shortStory.titleLocked": "Noveller deler tittel med historien — rediger den i Innstillinger.",

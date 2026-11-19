@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "प्रोलोग",
   "workshop.story.chapter": "अध्याय {sequence, number}",
   "workshop.work.includesAds": "क्या कार्य में कोई विज्ञापन या उत्पाद स्थानन शामिल हैं?",
+  "workshop.work.commentsDisabled": "एहि कथाक लेल टिप्पणी बन्न करू",
   "workshop.shortStory.toggle": "Short Story format",
   "workshop.shortStory.toggleDescription": "A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.",
   "workshop.shortStory.titleLocked": "Short stories share the story title — edit it in Settings.",

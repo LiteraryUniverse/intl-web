@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prólogo",
   "workshop.story.chapter": "Capítulo {sequence, number}",
   "workshop.work.includesAds": "¿Hay publicidad o colocación de productos en la obra?",
+  "workshop.work.commentsDisabled": "Desactivar los comentarios de esta historia",
   "workshop.shortStory.toggle": "Formato de relato corto",
   "workshop.shortStory.toggleDescription": "Una historia autoconclusiva de un solo capítulo de hasta ~8000 palabras (~16 000 caracteres en chino, japonés y coreano). El título del capítulo coincide automáticamente con el de la historia.",
   "workshop.shortStory.titleLocked": "Los relatos cortos comparten el título de la historia — edítalo en Ajustes.",

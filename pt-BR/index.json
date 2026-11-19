@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Perfil",
   "workshop.story.chapter": "Capítulo {sequence, number}",
   "workshop.work.includesAds": "Há algum anúncio ou posicionamento de produtos no trabalho?",
+  "workshop.work.commentsDisabled": "Desativar comentários desta história",
   "workshop.shortStory.toggle": "Formato de história curta",
   "workshop.shortStory.toggleDescription": "Uma história independente, de capítulo único, com até ~8.000 palavras (~16.000 caracteres para chinês, japonês e coreano). O título do capítulo acompanha automaticamente o título da história.",
   "workshop.shortStory.titleLocked": "Histórias curtas compartilham o título da história — edite-o nas Configurações.",

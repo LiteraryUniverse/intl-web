@@ -297,6 +297,7 @@
   "workshop.story.prolog": "序言",
   "workshop.story.chapter": "第 {sequence, number}章",
   "workshop.work.includesAds": "作品中是否有廣告或產品植入？",
+  "workshop.work.commentsDisabled": "關閉此故事的留言",
   "workshop.shortStory.toggle": "短篇故事格式",
   "workshop.shortStory.toggleDescription": "獨立成篇的單章故事，最多約 8,000 個單字（中文、日文與韓文約 16,000 個字元）。章節標題會自動與故事標題一致。",
   "workshop.shortStory.titleLocked": "短篇故事的章節標題與故事標題相同——請在「設定」中編輯。",

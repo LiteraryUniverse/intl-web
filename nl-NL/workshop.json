@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Proloog",
   "workshop.story.chapter": "Hoofdstuk {sequence, number}",
   "workshop.work.includesAds": "Zijn er advertenties of productplaatsingen in het werk?",
+  "workshop.work.commentsDisabled": "Reacties voor dit verhaal uitschakelen",
   "workshop.shortStory.toggle": "Formaat Kort verhaal",
   "workshop.shortStory.toggleDescription": "Een op zichzelf staand verhaal van één hoofdstuk tot ~8.000 woorden (~16.000 tekens voor Chinees, Japans en Koreaans). De hoofdstuktitel komt automatisch overeen met de titel van het verhaal.",
   "workshop.shortStory.titleLocked": "Korte verhalen delen de titel van het verhaal — bewerk die in Instellingen.",

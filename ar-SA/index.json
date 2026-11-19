@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "برولوج",
   "workshop.story.chapter": "الفصل {sequence, number}",
   "workshop.work.includesAds": "هل هناك أي إعلانات أو إشهارات للمنتجات في العمل؟",
+  "workshop.work.commentsDisabled": "إيقاف التعليقات على هذه القصة",
   "workshop.shortStory.toggle": "تنسيق القصة القصيرة",
   "workshop.shortStory.toggleDescription": "قصة مكتملة من فصل واحد بحد أقصى ~8,000 كلمة (~16,000 حرف للصينية واليابانية والكورية). ويتطابق عنوان الفصل مع عنوان القصة تلقائيًا.",
   "workshop.shortStory.titleLocked": "تشترك القصص القصيرة في عنوان القصة — عدّله في الإعدادات.",

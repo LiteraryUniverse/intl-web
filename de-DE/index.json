@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Kapitel {sequence, number}",
   "workshop.work.includesAds": "Gibt es Werbung oder Produktplatzierungen in dem Werk?",
+  "workshop.work.commentsDisabled": "Kommentare für diese Geschichte deaktivieren",
   "workshop.shortStory.toggle": "Kurzgeschichten-Format",
   "workshop.shortStory.toggleDescription": "Eine in sich abgeschlossene Geschichte aus einem einzigen Kapitel mit bis zu ca. 8.000 Wörtern (ca. 16.000 Zeichen für Chinesisch, Japanisch und Koreanisch). Der Kapiteltitel übernimmt automatisch den Titel der Geschichte.",
   "workshop.shortStory.titleLocked": "Kurzgeschichten übernehmen den Titel der Geschichte — bearbeiten Sie ihn in den Einstellungen.",

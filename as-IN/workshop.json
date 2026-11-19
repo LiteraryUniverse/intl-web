@@ -297,6 +297,7 @@
   "workshop.story.prolog": "প্রোলগ",
   "workshop.story.chapter": "অধ্যায় {sequence, number}",
   "workshop.work.includesAds": "কি কোনো বিজ্ঞাপন বা পণ্য প্রদর্শন আছে কাজে?",
+  "workshop.work.commentsDisabled": "এই গল্পৰ বাবে মন্তব্য বন্ধ কৰক",
   "workshop.shortStory.toggle": "Short Story format",
   "workshop.shortStory.toggleDescription": "A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.",
   "workshop.shortStory.titleLocked": "Short stories share the story title — edit it in Settings.",

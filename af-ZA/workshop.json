@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Proloog",
   "workshop.story.chapter": "Hoofstuk {sequence, number}",
   "workshop.work.includesAds": "Is daar enige advertensies of produkplasings in die werk?",
+  "workshop.work.commentsDisabled": "Skakel kommentaar af vir hierdie storie",
   "workshop.shortStory.toggle": "Kortverhaalformaat",
   "workshop.shortStory.toggleDescription": "'n Selfstandige storie van een hoofstuk met tot ~8 000 woorde (~16 000 karakters vir Chinees, Japannees en Koreaans). Die hoofstuktitel stem outomaties met die storietitel ooreen.",
   "workshop.shortStory.titleLocked": "Kortverhale deel die storietitel — wysig dit in Instellings.",

@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Chapter {sequence, number}",
   "workshop.work.includesAds": "ഉദ്യോഗസ്ഥരുടെയോ ഉത്പന്നങ്ങളുടെയോ പ്രചാരണങ്ങൾ ഉണ്ടോ ആണോ?",
+  "workshop.work.commentsDisabled": "ഈ കഥയ്ക്കുള്ള അഭിപ്രായങ്ങൾ ഓഫാക്കുക",
   "workshop.shortStory.toggle": "Short Story format",
   "workshop.shortStory.toggleDescription": "A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.",
   "workshop.shortStory.titleLocked": "Short stories share the story title — edit it in Settings.",

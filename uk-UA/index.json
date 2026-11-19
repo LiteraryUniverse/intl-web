@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Пролог",
   "workshop.story.chapter": "Глава {sequence, number}",
   "workshop.work.includesAds": "Чи є реклама або розміщення товарів у цій роботі?",
+  "workshop.work.commentsDisabled": "Вимкнути коментарі до цієї історії",
   "workshop.shortStory.toggle": "Формат короткого оповідання",
   "workshop.shortStory.toggleDescription": "Самостійна історія з одного розділу обсягом до ~8 000 слів (~16 000 символів для китайської, японської та корейської). Заголовок розділу автоматично збігається із заголовком історії.",
   "workshop.shortStory.titleLocked": "Короткі оповідання використовують заголовок історії — змініть його в налаштуваннях.",

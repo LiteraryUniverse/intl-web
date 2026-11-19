@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "บทนำ",
   "workshop.story.chapter": "บทที่ {sequence, number}",
   "workshop.work.includesAds": "มีโฆษณาหรือการแสดงสินค้าใด ๆ ในงานหรือไม่?",
+  "workshop.work.commentsDisabled": "ปิดความคิดเห็นสำหรับเรื่องนี้",
   "workshop.shortStory.toggle": "รูปแบบเรื่องสั้น",
   "workshop.shortStory.toggleDescription": "เรื่องราวบทเดียวจบในตัว ยาวไม่เกิน ~8,000 คำ (~16,000 อักขระสำหรับภาษาจีน ญี่ปุ่น และเกาหลี) ชื่อบทจะตรงกับชื่อเรื่องโดยอัตโนมัติ",
   "workshop.shortStory.titleLocked": "เรื่องสั้นใช้ชื่อเดียวกับชื่อเรื่อง — แก้ไขได้ในตั้งค่า",

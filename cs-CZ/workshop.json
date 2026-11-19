@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Kapitola {sequence, number}",
   "workshop.work.includesAds": "Jsou v tvorbě nějaké reklamy nebo umístění produktu?",
+  "workshop.work.commentsDisabled": "Vypnout komentáře u tohoto příběhu",
   "workshop.shortStory.toggle": "Formát krátkého příběhu",
   "workshop.shortStory.toggleDescription": "Samostatný jednokapitolový příběh do zhruba 8 000 slov (~16 000 znaků u čínštiny, japonštiny a korejštiny). Název kapitoly se automaticky shoduje s názvem příběhu.",
   "workshop.shortStory.titleLocked": "Krátké příběhy sdílejí název příběhu — upravte jej v Nastavení.",

@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prologas",
   "workshop.story.chapter": "{sequence, number}skyrius",
   "workshop.work.includesAds": "Ar darbe yra reklamų ar produktų platinimų?",
+  "workshop.work.commentsDisabled": "Išjungti šios istorijos komentarus",
   "workshop.shortStory.toggle": "Apsakymo formatas",
   "workshop.shortStory.toggleDescription": "Savarankiška vieno skyriaus istorija iki ~8 000 žodžių (~16 000 simbolių kinų, japonų ir korėjiečių kalboms). Skyriaus pavadinimas automatiškai sutampa su istorijos pavadinimu.",
   "workshop.shortStory.titleLocked": "Apsakymų skyriaus pavadinimas sutampa su istorijos pavadinimu – redaguokite jį nustatymuose.",

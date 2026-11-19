@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Prologo",
   "workshop.story.chapter": "Capitolo {sequence, number}",
   "workshop.work.includesAds": "Ci sono pubblicità o inserimenti di prodotti nell'opera?",
+  "workshop.work.commentsDisabled": "Disattiva i commenti per questa storia",
   "workshop.shortStory.toggle": "Formato racconto breve",
   "workshop.shortStory.toggleDescription": "Una storia autoconclusiva in un solo capitolo, fino a ~8.000 parole (~16.000 caratteri per cinese, giapponese e coreano). Il titolo del capitolo corrisponde automaticamente al titolo della storia.",
   "workshop.shortStory.titleLocked": "I racconti brevi condividono il titolo della storia — modificalo nelle Impostazioni.",

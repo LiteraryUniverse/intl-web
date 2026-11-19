@@ -7923,6 +7923,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Kabanata {sequence, number}",
   "workshop.work.includesAds": "Mayroon bang mga patalastas o mga patungkol sa produkto sa gawain?",
+  "workshop.work.commentsDisabled": "I-disable ang mga komento para sa kuwentong ito",
   "workshop.shortStory.toggle": "Format na maikling kwento",
   "workshop.shortStory.toggleDescription": "Isang buo at nagsasariling kwentong may iisang kabanata na hanggang ~8,000 salita (~16,000 karakter para sa Chinese, Japanese, at Korean). Awtomatikong tumutugma ang pamagat ng kabanata sa pamagat ng kwento.",
   "workshop.shortStory.titleLocked": "Ginagamit ng mga maikling kwento ang pamagat ng kwento — i-edit ito sa Mga Setting.",

@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Előszó",
   "workshop.story.chapter": "{sequence, number}fejezet",
   "workshop.work.includesAds": "Vannak reklámok vagy termékplasztikok a műben?",
+  "workshop.work.commentsDisabled": "Hozzászólások kikapcsolása ennél a történetnél",
   "workshop.shortStory.toggle": "Novella formátum",
   "workshop.shortStory.toggleDescription": "Önálló, egyetlen fejezetből álló történet legfeljebb ~8000 szóig (kínai, japán és koreai nyelven ~16 000 karakterig). A fejezet címe automatikusan megegyezik a történet címével.",
   "workshop.shortStory.titleLocked": "A novellák a történet címét használják – a Beállításokban szerkesztheted.",

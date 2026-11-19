@@ -297,6 +297,7 @@
   "workshop.story.prolog": "Prolog",
   "workshop.story.chapter": "Bab {sequence, number}",
   "workshop.work.includesAds": "Adakah terdapat iklan atau penempatan produk dalam karya ini?",
+  "workshop.work.commentsDisabled": "Matikan komen untuk cerita ini",
   "workshop.shortStory.toggle": "Format cerpen",
   "workshop.shortStory.toggleDescription": "Cerita lengkap satu bab sehingga ~8,000 perkataan (~16,000 aksara untuk bahasa Cina, Jepun dan Korea). Tajuk bab sepadan dengan tajuk cerita secara automatik.",
   "workshop.shortStory.titleLocked": "Cerpen berkongsi tajuk cerita — sunting dalam Tetapan.",

@@ -297,6 +297,7 @@
   "workshop.story.prolog": "ਪ੍ਰਸਤਾਵਨਾ",
   "workshop.story.chapter": "ਅਧਿਆਇ {sequence, number}",
   "workshop.work.includesAds": "ਕੀ ਕੋਈ ਵਿਗਿਆਪਨਾਂ ਜਾਂ ਉਤਪਾਦਾਂ ਕਾਮ ਵਿੱਚ ਸ਼ਾਮਲ ਹਨ?",
+  "workshop.work.commentsDisabled": "ਇਸ ਕਹਾਣੀ ਲਈ ਟਿੱਪਣੀਆਂ ਬੰਦ ਕਰੋ",
   "workshop.shortStory.toggle": "Short Story format",
   "workshop.shortStory.toggleDescription": "A self-contained single-chapter story up to ~8,000 words (~16,000 characters for Chinese, Japanese, and Korean). The chapter title matches the story title automatically.",
   "workshop.shortStory.titleLocked": "Short stories share the story title — edit it in Settings.",
