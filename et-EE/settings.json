@@ -242,7 +242,7 @@
   "settings.apiKeys.scope.blog.read": "Loe blogipostitusi",
   "settings.apiKeys.scope.blog.read.desc": "Juurdepääs oma blogipostitustele ja mustanditele ning hallatavate blogide lehtedele ja menüüdele",
   "settings.apiKeys.scope.blog.write": "Luua ja muuta blogipostitusi",
-  "settings.apiKeys.scope.blog.write.desc": "Hallatavate blogide lehtede loomine, tõlkimine ja avaldamine ning menüüde muutmine, samuti piltide üleslaadimine blogipostitustele. Postituste endi muutmine lisandub sellele õigusele, kui see saab kättesaadavaks",
+  "settings.apiKeys.scope.blog.write.desc": "Hallatavate blogide lehtede loomine, tõlkimine ja avaldamine ning menüüde muutmine, samuti piltide üleslaadimine blogipostitustele. Samuti postituste endi kirjutamine, tõlkimine ja avaldamine",
   "settings.apiKeys.scope.user.read": "Loe profiili",
   "settings.apiKeys.scope.user.read.desc": "Juurdepääs oma kasutajanimele, avatarile ja avalikule profiilile",
   "settings.apiKeys.scope.library.read": "Loe raamatukogu",

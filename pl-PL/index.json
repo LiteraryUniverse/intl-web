@@ -6622,7 +6622,7 @@
   "settings.apiKeys.scope.blog.read": "Proszę przeczytać wpisy na blogu",
   "settings.apiKeys.scope.blog.read.desc": "Dostęp do wpisów na blogu i wersji roboczych oraz do stron i menu blogów, którymi zarządzasz",
   "settings.apiKeys.scope.blog.write": "Tworzenie i edytowanie wpisów na blogu",
-  "settings.apiKeys.scope.blog.write.desc": "Tworzenie, tłumaczenie i publikowanie stron oraz edycja menu blogów, którymi zarządzasz, a także przesyłanie obrazów do wpisów na blogu. Edycja samych wpisów zostanie dodana do tego uprawnienia, gdy będzie dostępna",
+  "settings.apiKeys.scope.blog.write.desc": "Tworzenie, tłumaczenie i publikowanie stron oraz edycja menu blogów, którymi zarządzasz, a także przesyłanie obrazów do wpisów na blogu. A także pisanie, tłumaczenie i publikowanie samych wpisów",
   "settings.apiKeys.scope.user.read": "Proszę przeczytać profil",
   "settings.apiKeys.scope.user.read.desc": "Dostęp do nazwy użytkownika, awatara i profilu publicznego",
   "settings.apiKeys.scope.library.read": "Proszę przeczytać bibliotekę",

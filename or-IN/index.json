@@ -6622,7 +6622,7 @@
   "settings.apiKeys.scope.blog.read": "Read blog posts",
   "settings.apiKeys.scope.blog.read.desc": "ଆପଣଙ୍କ ବ୍ଲଗ୍ ପୋଷ୍ଟ ଓ ଡ୍ରାଫ୍ଟ, ଏବଂ ଆପଣ ପରିଚାଳନା କରୁଥିବା ବ୍ଲଗର ପୃଷ୍ଠା ଓ ମେନୁକୁ ଆକ୍ସେସ୍",
   "settings.apiKeys.scope.blog.write": "Create and edit blog posts",
-  "settings.apiKeys.scope.blog.write.desc": "ଆପଣ ପରିଚାଳନା କରୁଥିବା ବ୍ଲଗର ପୃଷ୍ଠା ତିଆରି, ଅନୁବାଦ ଓ ପ୍ରକାଶ କରନ୍ତୁ, ମେନୁ ସମ୍ପାଦନ କରନ୍ତୁ, ଏବଂ ଆପଣଙ୍କ ବ୍ଲଗ୍ ପୋଷ୍ଟ ପାଇଁ ଛବି ଅପଲୋଡ୍ କରନ୍ତୁ। ପୋଷ୍ଟ ନିଜେ ସମ୍ପାଦନ କରିବା ସୁବିଧା ଉପଲବ୍ଧ ହେଲେ ଏହି ଅନୁମତିରେ ଯୋଡ଼ାଯିବ",
+  "settings.apiKeys.scope.blog.write.desc": "ଆପଣ ପରିଚାଳନା କରୁଥିବା ବ୍ଲଗର ପୃଷ୍ଠା ତିଆରି, ଅନୁବାଦ ଓ ପ୍ରକାଶ କରନ୍ତୁ, ମେନୁ ସମ୍ପାଦନ କରନ୍ତୁ, ଏବଂ ଆପଣଙ୍କ ବ୍ଲଗ୍ ପୋଷ୍ଟ ପାଇଁ ଛବି ଅପଲୋଡ୍ କରନ୍ତୁ। ସେହିପରି ପୋଷ୍ଟ ନିଜେ ଲେଖନ୍ତୁ, ଅନୁବାଦ କରନ୍ତୁ ଓ ପ୍ରକାଶ କରନ୍ତୁ",
   "settings.apiKeys.scope.user.read": "Read profile",
   "settings.apiKeys.scope.user.read.desc": "Access your username, avatar, and public profile",
   "settings.apiKeys.scope.library.read": "Read library",
