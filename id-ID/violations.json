@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {Universe} other {Cerita}} ini melanggar aturan penerbitan Literary Universe, sehingga tidak lagi tersedia bagi siapa pun.",
   "violations.notice.removedFootnote": "Merasa ini keliru? Penulis dapat mengajukan banding dari Pusat Penyelesaian mereka.",
   "violations.notice.removedTitle": "{type, select, universe {Universe} other {Cerita}} ini telah dihapus",
-  "violations.notice.restrictedBody": "Hukum negara Anda, atau permintaan dari pemerintahnya, tidak mengizinkan {type, select, universe {universe} other {cerita}} ini ditampilkan di sana. Kami hanya memblokirnya di negara Anda. Pembaca di negara lain masih dapat menemukan dan membacanya.",
+  "violations.notice.restrictedBody": "Hukum negara Anda, atau permintaan dari pemerintahnya, tidak mengizinkan {type, select, universe {universe} other {cerita}} ini ditampilkan di sana.",
   "violations.notice.restrictedFootnote": "Ketersediaan bergantung pada negara tempat Anda menjelajah: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Universe} other {Cerita}} ini diblokir di negara Anda",
   "violations.publishingRules": "Baca aturan penerbitan",

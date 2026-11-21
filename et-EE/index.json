@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {See universum rikkus Literary Universe'i avaldamisreegleid, seega pole see enam kellelegi saadaval.} other {See lugu rikkus Literary Universe'i avaldamisreegleid, seega pole see enam kellelegi saadaval.}}",
   "violations.notice.removedFootnote": "Kas arvad, et see on viga? Autor saab vaidlustada oma resolutsioonikeskusest.",
   "violations.notice.removedTitle": "{type, select, universe {See universum on eemaldatud} other {See lugu on eemaldatud}}",
-  "violations.notice.restrictedBody": "Sinu riigi seadused või selle valitsuse taotlus ei luba {type, select, universe {seda universumit} other {seda lugu}} seal näidata. Blokeerime selle ainult sinu riigis. Teiste riikide lugejad saavad seda endiselt leida ja lugeda.",
+  "violations.notice.restrictedBody": "Sinu riigi seadused või selle valitsuse taotlus ei luba {type, select, universe {seda universumit} other {seda lugu}} seal näidata.",
   "violations.notice.restrictedFootnote": "Saadavus sõltub riigist, kust sirvid: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {See universum on} other {See lugu on}} sinu riigis blokeeritud",
   "violations.publishingRules": "Loe avaldamisreegleid",

@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "Hierdie {type, select, universe {heelal} other {storie}} het Literary Universe se publiseringsreëls oortree en is dus vir niemand meer beskikbaar nie.",
   "violations.notice.removedFootnote": "Dink jy dit is 'n fout? Die skrywer kan vanuit hul Oplossingsentrum appelleer.",
   "violations.notice.removedTitle": "Hierdie {type, select, universe {heelal} other {storie}} is verwyder",
-  "violations.notice.restrictedBody": "Jou land se wette, of ’n versoek van sy regering, laat nie toe dat hierdie {type, select, universe {heelal} other {storie}} daar gewys word nie. Ons blokkeer dit slegs in jou land. Lesers in ander lande kan dit steeds vind en lees.",
+  "violations.notice.restrictedBody": "Jou land se wette, of ’n versoek van sy regering, laat nie toe dat hierdie {type, select, universe {heelal} other {storie}} daar gewys word nie.",
   "violations.notice.restrictedFootnote": "Beskikbaarheid is gebaseer op die land waarvandaan jy blaai: {country}.",
   "violations.notice.restrictedTitle": "Hierdie {type, select, universe {heelal} other {storie}} is in jou land geblokkeer",
   "violations.publishingRules": "Lees die publiseringsreëls",

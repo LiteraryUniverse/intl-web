@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {Tämä universumi rikkoi Literary Universen julkaisusääntöjä, joten se ei ole enää kenenkään saatavilla.} other {Tämä tarina rikkoi Literary Universen julkaisusääntöjä, joten se ei ole enää kenenkään saatavilla.}}",
   "violations.notice.removedFootnote": "Onko tämä mielestäsi virhe? Tekijä voi valittaa omasta Ratkaisukeskuksestaan.",
   "violations.notice.removedTitle": "{type, select, universe {Tämä universumi on poistettu} other {Tämä tarina on poistettu}}",
-  "violations.notice.restrictedBody": "Maasi lait tai sen hallituksen pyyntö eivät salli {type, select, universe {tämän universumin} other {tämän tarinan}} näyttämistä siellä. Estämme sen vain maassasi. Muiden maiden lukijat voivat yhä löytää ja lukea sen.",
+  "violations.notice.restrictedBody": "Maasi lait tai sen hallituksen pyyntö eivät salli {type, select, universe {tämän universumin} other {tämän tarinan}} näyttämistä siellä.",
   "violations.notice.restrictedFootnote": "Saatavuus perustuu maahan, josta selaat: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Tämä universumi on estetty} other {Tämä tarina on estetty}} maassasi",
   "violations.publishingRules": "Lue julkaisusäännöt",

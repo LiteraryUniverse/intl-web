@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "ამ {type, select, universe {უნივერსუმმა} other {ისტორიამ}} დაარღვია Literary Universe-ის გამოქვეყნების წესები, ამიტომ ის აღარ არის ხელმისაწვდომი არავისთვის.",
   "violations.notice.removedFootnote": "ფიქრობთ, რომ ეს შეცდომაა? ავტორს შეუძლია გაასაჩივროს თავისი გადაწყვეტის ცენტრიდან.",
   "violations.notice.removedTitle": "ეს {type, select, universe {უნივერსუმი} other {ისტორია}} წაიშალა",
-  "violations.notice.restrictedBody": "თქვენი ქვეყნის კანონები ან მისი მთავრობის მოთხოვნა არ იძლევა ამ {type, select, universe {უნივერსუმის} other {ისტორიის}} იქ ჩვენების უფლებას. ჩვენ მას ვბლოკავთ მხოლოდ თქვენს ქვეყანაში. სხვა ქვეყნების მკითხველებს მაინც შეუძლიათ მისი პოვნა და წაკითხვა.",
+  "violations.notice.restrictedBody": "თქვენი ქვეყნის კანონები ან მისი მთავრობის მოთხოვნა არ იძლევა ამ {type, select, universe {უნივერსუმის} other {ისტორიის}} იქ ჩვენების უფლებას.",
   "violations.notice.restrictedFootnote": "ხელმისაწვდომობა დამოკიდებულია იმ ქვეყანაზე, საიდანაც გადაათვალიერებთ: {country}.",
   "violations.notice.restrictedTitle": "ეს {type, select, universe {უნივერსუმი} other {ისტორია}} თქვენს ქვეყანაში დაბლოკილია",
   "violations.publishingRules": "წაიკითხეთ გამოქვეყნების წესები",

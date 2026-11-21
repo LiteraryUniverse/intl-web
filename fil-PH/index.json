@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {Nilabag ng uniberso na ito ang mga tuntunin sa pag-publish ng Literary Universe, kaya hindi na ito available sa kahit sino.} other {Nilabag ng kuwentong ito ang mga tuntunin sa pag-publish ng Literary Universe, kaya hindi na ito available sa kahit sino.}}",
   "violations.notice.removedFootnote": "Sa tingin mo ba ay pagkakamali ito? Maaaring umapela ang may-akda mula sa kanyang Sentro ng Resolusyon.",
   "violations.notice.removedTitle": "{type, select, universe {Inalis ang uniberso na ito} other {Inalis ang kuwentong ito}}",
-  "violations.notice.restrictedBody": "Hindi pinapayagan ng mga batas ng iyong bansa, o ng kahilingan ng gobyerno nito, ang pagpapakita ng {type, select, universe {uniberso na ito} other {kuwentong ito}} doon. Bina-block lang namin ito sa iyong bansa. Mahahanap at mababasa pa rin ito ng mga mambabasa sa ibang bansa.",
+  "violations.notice.restrictedBody": "Hindi pinapayagan ng mga batas ng iyong bansa, o ng kahilingan ng gobyerno nito, ang pagpapakita ng {type, select, universe {uniberso na ito} other {kuwentong ito}} doon.",
   "violations.notice.restrictedFootnote": "Nakabatay ang pagiging available sa bansang pinagba-browse mo: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Naka-block ang uniberso na ito} other {Naka-block ang kuwentong ito}} sa iyong bansa",
   "violations.publishingRules": "Basahin ang mga tuntunin sa pag-publish",

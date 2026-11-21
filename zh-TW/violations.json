@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "此{type, select, universe {宇宙} other {故事}}違反了 Literary Universe 的發布規範，因此已不再對任何人開放。",
   "violations.notice.removedFootnote": "認為這是誤判嗎？作者可以從其爭議處理中心提出申訴。",
   "violations.notice.removedTitle": "此{type, select, universe {宇宙} other {故事}}已被移除",
-  "violations.notice.restrictedBody": "你所在國家／地區的法律或政府要求，不允許在當地顯示此{type, select, universe {宇宙} other {故事}}。我們只在你所在的國家／地區封鎖。其他國家／地區的讀者仍可找到並閱讀。",
+  "violations.notice.restrictedBody": "你所在國家／地區的法律或政府要求，不允許在當地顯示此{type, select, universe {宇宙} other {故事}}。",
   "violations.notice.restrictedFootnote": "是否可用取決於你瀏覽時所在的國家／地區：{country}",
   "violations.notice.restrictedTitle": "此{type, select, universe {宇宙} other {故事}}在你所在的國家／地區已遭封鎖",
   "violations.publishingRules": "閱讀發布規範",

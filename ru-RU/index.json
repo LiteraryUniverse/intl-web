@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {Эта вселенная нарушила} other {Эта история нарушила}} правила публикации Literary Universe, поэтому она больше никому не доступна.",
   "violations.notice.removedFootnote": "Думаете, это ошибка? Автор может подать апелляцию в своём Центре урегулирования.",
   "violations.notice.removedTitle": "{type, select, universe {Эта вселенная удалена} other {Эта история удалена}}",
-  "violations.notice.restrictedBody": "Законы вашей страны или запрос её правительства не позволяют показывать {type, select, universe {эту вселенную} other {эту историю}} там. Мы блокируем её только в вашей стране. Читатели из других стран по-прежнему могут найти и прочитать её.",
+  "violations.notice.restrictedBody": "Законы вашей страны или запрос её правительства не позволяют показывать {type, select, universe {эту вселенную} other {эту историю}} там.",
   "violations.notice.restrictedFootnote": "Доступность зависит от страны, из которой вы просматриваете сайт: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Эта вселенная заблокирована} other {Эта история заблокирована}} в вашей стране",
   "violations.publishingRules": "Прочитать правила публикации",

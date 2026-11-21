@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "Ĉi tiu {type, select, universe {universo} other {rakonto}} malobservis la publikigajn regulojn de Literary Universe, tial ĝi ne plu estas disponebla al iu ajn.",
   "violations.notice.removedFootnote": "Ĉu vi opinias, ke tio estas eraro? La aŭtoro povas apelacii el sia Solvocentro.",
   "violations.notice.removedTitle": "Ĉi tiu {type, select, universe {universo} other {rakonto}} estis forigita",
-  "violations.notice.restrictedBody": "La leĝoj de via lando, aŭ peto de ĝia registaro, ne permesas montri ĉi tiun {type, select, universe {universon} other {rakonton}} tie. Ni blokas ĝin nur en via lando. Legantoj en aliaj landoj ankoraŭ povas trovi kaj legi ĝin.",
+  "violations.notice.restrictedBody": "La leĝoj de via lando, aŭ peto de ĝia registaro, ne permesas montri ĉi tiun {type, select, universe {universon} other {rakonton}} tie.",
   "violations.notice.restrictedFootnote": "Disponebleco dependas de la lando, el kiu vi foliumas: {country}.",
   "violations.notice.restrictedTitle": "Ĉi tiu {type, select, universe {universo} other {rakonto}} estas blokita en via lando",
   "violations.publishingRules": "Legi la publikigajn regulojn",

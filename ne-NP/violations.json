@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "यो {type, select, universe {ब्रह्माण्डले} other {कथाले}} Literary Universe का प्रकाशन नियमहरू उल्लङ्घन गर्‍यो, त्यसैले यो अब कसैका लागि उपलब्ध छैन।",
   "violations.notice.removedFootnote": "यो गल्ती हो जस्तो लाग्छ? लेखकले आफ्नो समाधान केन्द्रबाट अपिल गर्न सक्छन्।",
   "violations.notice.removedTitle": "यो {type, select, universe {ब्रह्माण्ड} other {कथा}} हटाइएको छ",
-  "violations.notice.restrictedBody": "तपाईंको देशको कानुन वा त्यहाँको सरकारको अनुरोधले यो {type, select, universe {ब्रह्माण्ड} other {कथा}} त्यहाँ देखाउन अनुमति दिँदैन। हामी यसलाई तपाईंको देशमा मात्र अवरुद्ध गर्छौं। अन्य देशका पाठकहरूले अझै यसलाई भेट्टाउन र पढ्न सक्छन्।",
+  "violations.notice.restrictedBody": "तपाईंको देशको कानुन वा त्यहाँको सरकारको अनुरोधले यो {type, select, universe {ब्रह्माण्ड} other {कथा}} त्यहाँ देखाउन अनुमति दिँदैन।",
   "violations.notice.restrictedFootnote": "उपलब्धता तपाईं कुन देशबाट ब्राउज गर्दै हुनुहुन्छ भन्नेमा आधारित छ: {country}।",
   "violations.notice.restrictedTitle": "यो {type, select, universe {ब्रह्माण्ड} other {कथा}} तपाईंको देशमा अवरुद्ध छ",
   "violations.publishingRules": "प्रकाशन नियमहरू पढ्नुहोस्",

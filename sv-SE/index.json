@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {Det här universumet} other {Den här berättelsen}} bröt mot Literary Universes publiceringsregler och är därför inte längre tillgänglig för någon.",
   "violations.notice.removedFootnote": "Tror du att det är ett misstag? Författaren kan överklaga från sitt Upplösningscenter.",
   "violations.notice.removedTitle": "{type, select, universe {Det här universumet} other {Den här berättelsen}} har tagits bort",
-  "violations.notice.restrictedBody": "Lagarna i ditt land, eller en begäran från landets regering, tillåter inte att {type, select, universe {det här universumet} other {den här berättelsen}} visas där. Vi blockerar {type, select, universe {det} other {den}} bara i ditt land. Läsare i andra länder kan fortfarande hitta och läsa {type, select, universe {det} other {den}}.",
+  "violations.notice.restrictedBody": "Lagarna i ditt land, eller en begäran från landets regering, tillåter inte att {type, select, universe {det här universumet} other {den här berättelsen}} visas där.",
   "violations.notice.restrictedFootnote": "Tillgängligheten beror på vilket land du surfar från: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Det här universumet är blockerat} other {Den här berättelsen är blockerad}} i ditt land",
   "violations.publishingRules": "Läs publiceringsreglerna",

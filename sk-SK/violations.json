@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {Tento vesmír porušil} other {Tento príbeh porušil}} pravidlá zverejňovania Literary Universe, preto už nie je nikomu dostupný.",
   "violations.notice.removedFootnote": "Myslíte si, že ide o omyl? Autor sa môže odvolať zo svojho Centra riešení.",
   "violations.notice.removedTitle": "{type, select, universe {Tento vesmír bol odstránený} other {Tento príbeh bol odstránený}}",
-  "violations.notice.restrictedBody": "Zákony vašej krajiny alebo žiadosť jej vlády nedovoľujú, aby sa {type, select, universe {tento vesmír} other {tento príbeh}} tam zobrazoval. Blokujeme ho iba vo vašej krajine. Čitatelia v iných krajinách ho môžu stále nájsť a čítať.",
+  "violations.notice.restrictedBody": "Zákony vašej krajiny alebo žiadosť jej vlády nedovoľujú, aby sa {type, select, universe {tento vesmír} other {tento príbeh}} tam zobrazoval.",
   "violations.notice.restrictedFootnote": "Dostupnosť závisí od krajiny, z ktorej prehliadate: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Tento vesmír je zablokovaný} other {Tento príbeh je zablokovaný}} vo vašej krajine",
   "violations.publishingRules": "Prečítať pravidlá zverejňovania",

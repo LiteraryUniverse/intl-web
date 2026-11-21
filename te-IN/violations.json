@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {ఈ యూనివర్స్} other {ఈ కథ}} Literary Universe ప్రచురణ నియమాలను ఉల్లంఘించింది, అందువల్ల ఇది ఇకపై ఎవరికీ అందుబాటులో లేదు.",
   "violations.notice.removedFootnote": "ఇది పొరపాటు అని అనుకుంటున్నారా? రచయిత తమ Resolution Center నుండి అప్పీల్ చేయవచ్చు.",
   "violations.notice.removedTitle": "{type, select, universe {ఈ యూనివర్స్ తొలగించబడింది} other {ఈ కథ తొలగించబడింది}}",
-  "violations.notice.restrictedBody": "మీ దేశ చట్టాలు లేదా దాని ప్రభుత్వ అభ్యర్థన {type, select, universe {ఈ యూనివర్స్‌ను} other {ఈ కథను}} అక్కడ చూపడానికి అనుమతించవు. మేము దీన్ని మీ దేశంలో మాత్రమే బ్లాక్ చేస్తాము. ఇతర దేశాల్లోని పాఠకులు ఇప్పటికీ దీన్ని కనుగొని చదవవచ్చు.",
+  "violations.notice.restrictedBody": "మీ దేశ చట్టాలు లేదా దాని ప్రభుత్వ అభ్యర్థన {type, select, universe {ఈ యూనివర్స్‌ను} other {ఈ కథను}} అక్కడ చూపడానికి అనుమతించవు.",
   "violations.notice.restrictedFootnote": "అందుబాటు మీరు బ్రౌజ్ చేస్తున్న దేశంపై ఆధారపడి ఉంటుంది: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {ఈ యూనివర్స్ మీ దేశంలో బ్లాక్ చేయబడింది} other {ఈ కథ మీ దేశంలో బ్లాక్ చేయబడింది}}",
   "violations.publishingRules": "ప్రచురణ నియమాలను చదవండి",

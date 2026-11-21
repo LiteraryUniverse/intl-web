@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {Este universo infringiu} other {Esta história infringiu}} as regras de publicação do Literary Universe e, por isso, já não está disponível para ninguém.",
   "violations.notice.removedFootnote": "Acha que foi um engano? O autor pode recorrer a partir do seu Centro de resolução.",
   "violations.notice.removedTitle": "{type, select, universe {Este universo foi removido} other {Esta história foi removida}}",
-  "violations.notice.restrictedBody": "As leis do seu país, ou um pedido do respetivo governo, não permitem mostrar {type, select, universe {este universo} other {esta história}} aí. Bloqueamo-{type, select, universe {lo} other {la}} apenas no seu país. Os leitores de outros países continuam a poder encontrá-{type, select, universe {lo} other {la}} e lê-{type, select, universe {lo} other {la}}.",
+  "violations.notice.restrictedBody": "As leis do seu país, ou um pedido do respetivo governo, não permitem mostrar {type, select, universe {este universo} other {esta história}} aí.",
   "violations.notice.restrictedFootnote": "A disponibilidade depende do país a partir do qual está a navegar: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Este universo está bloqueado} other {Esta história está bloqueada}} no seu país",
   "violations.publishingRules": "Ler as regras de publicação",

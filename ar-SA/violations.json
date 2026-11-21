@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {هذا الكون خالف قواعد النشر في Literary Universe، لذا لم يعد متاحًا لأحد.} other {هذه القصة خالفت قواعد النشر في Literary Universe، لذا لم تعد متاحة لأحد.}}",
   "violations.notice.removedFootnote": "هل تعتقد أن هذا خطأ؟ يمكن للمؤلف الاعتراض من مركز الحلول الخاص به.",
   "violations.notice.removedTitle": "{type, select, universe {تمت إزالة هذا الكون} other {تمت إزالة هذه القصة}}",
-  "violations.notice.restrictedBody": "{type, select, universe {لا تسمح قوانين بلدك، أو طلب من حكومته، بعرض هذا الكون هناك. نحن نحجبه في بلدك فقط. ما زال بإمكان القرّاء في الدول الأخرى العثور عليه وقراءته.} other {لا تسمح قوانين بلدك، أو طلب من حكومته، بعرض هذه القصة هناك. نحن نحجبها في بلدك فقط. ما زال بإمكان القرّاء في الدول الأخرى العثور عليها وقراءتها.}}",
+  "violations.notice.restrictedBody": "{type, select, universe {لا تسمح قوانين بلدك، أو طلب من حكومته، بعرض هذا الكون هناك.} other {لا تسمح قوانين بلدك، أو طلب من حكومته، بعرض هذه القصة هناك.}}",
   "violations.notice.restrictedFootnote": "يعتمد التوفر على الدولة التي تتصفح منها: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {هذا الكون محجوب} other {هذه القصة محجوبة}} في بلدك",
   "violations.publishingRules": "اقرأ قواعد النشر",

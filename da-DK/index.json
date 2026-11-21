@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {Dette univers overtrådte} other {Denne historie overtrådte}} Literary Universes udgivelsesregler og er derfor ikke længere tilgængeligt for nogen.",
   "violations.notice.removedFootnote": "Tror du, det er en fejl? Forfatteren kan anke fra sit Løsningscenter.",
   "violations.notice.removedTitle": "{type, select, universe {Dette univers er blevet fjernet} other {Denne historie er blevet fjernet}}",
-  "violations.notice.restrictedBody": "Dit lands love eller en anmodning fra dets regering tillader ikke, at {type, select, universe {dette univers} other {denne historie}} vises der. Vi blokerer det kun i dit land. Læsere i andre lande kan stadig finde og læse det.",
+  "violations.notice.restrictedBody": "Dit lands love eller en anmodning fra dets regering tillader ikke, at {type, select, universe {dette univers} other {denne historie}} vises der.",
   "violations.notice.restrictedFootnote": "Tilgængeligheden afhænger af, hvilket land du browser fra: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Dette univers er} other {Denne historie er}} blokeret i dit land",
   "violations.publishingRules": "Læs udgivelsesreglerne",

@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "এই {type, select, universe {বিশ্ব} other {গল্প}} Literary Universe-এর প্রকাশনা নিয়ম লঙ্ঘন করেছে, তাই এটি আর কারও জন্য উপলব্ধ নেই।",
   "violations.notice.removedFootnote": "মনে করছেন এটি ভুল? লেখক তাঁর নিষ্পত্তি কেন্দ্র থেকে আপিল করতে পারেন।",
   "violations.notice.removedTitle": "এই {type, select, universe {বিশ্ব} other {গল্প}} সরিয়ে ফেলা হয়েছে",
-  "violations.notice.restrictedBody": "আপনার দেশের আইন বা সরকারের অনুরোধে এই {type, select, universe {বিশ্ব} other {গল্প}} সেখানে দেখানো যাচ্ছে না। আমরা এটি শুধু আপনার দেশেই ব্লক করেছি। অন্য দেশের পাঠকেরা এখনো এটি খুঁজে পড়তে পারেন।",
+  "violations.notice.restrictedBody": "আপনার দেশের আইন বা সরকারের অনুরোধে এই {type, select, universe {বিশ্ব} other {গল্প}} সেখানে দেখানো যাচ্ছে না।",
   "violations.notice.restrictedFootnote": "আপনি যে দেশ থেকে ব্রাউজ করছেন তার ওপর উপলব্ধতা নির্ভর করে: {country}।",
   "violations.notice.restrictedTitle": "এই {type, select, universe {বিশ্ব} other {গল্প}} আপনার দেশে ব্লক করা আছে",
   "violations.publishingRules": "প্রকাশনা নিয়ম পড়ুন",

@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {આ બ્રહ્માંડે} other {આ કથાએ}} Literary Universeના પ્રકાશન નિયમોનો ભંગ કર્યો, તેથી તે હવે કોઈને ઉપલબ્ધ નથી.",
   "violations.notice.removedFootnote": "શું તમને લાગે છે કે આ ભૂલ છે? લેખક પોતાના નિવારણ કેન્દ્રમાંથી અપીલ કરી શકે છે.",
   "violations.notice.removedTitle": "{type, select, universe {આ બ્રહ્માંડ દૂર કરવામાં આવ્યું છે} other {આ કથા દૂર કરવામાં આવી છે}}",
-  "violations.notice.restrictedBody": "તમારા દેશના કાયદા અથવા તેની સરકારની વિનંતી {type, select, universe {આ બ્રહ્માંડને} other {આ કથાને}} ત્યાં બતાવવાની મંજૂરી આપતી નથી. અમે તેને ફક્ત તમારા દેશમાં જ બ્લૉક કરીએ છીએ. અન્ય દેશોના વાચકો હજુ પણ તેને શોધી અને વાંચી શકે છે.",
+  "violations.notice.restrictedBody": "તમારા દેશના કાયદા અથવા તેની સરકારની વિનંતી {type, select, universe {આ બ્રહ્માંડને} other {આ કથાને}} ત્યાં બતાવવાની મંજૂરી આપતી નથી.",
   "violations.notice.restrictedFootnote": "ઉપલબ્ધતા તમે જે દેશમાંથી બ્રાઉઝ કરી રહ્યા છો તેના પર આધારિત છે: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {આ બ્રહ્માંડ} other {આ કથા}} તમારા દેશમાં બ્લૉક છે",
   "violations.publishingRules": "પ્રકાશન નિયમો વાંચો",

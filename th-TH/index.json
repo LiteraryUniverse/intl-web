@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {จักรวาลนี้} other {เรื่องนี้}}ฝ่าฝืนกฎการเผยแพร่ของ Literary Universe จึงไม่เปิดให้ใครเข้าถึงอีกต่อไป",
   "violations.notice.removedFootnote": "คิดว่าเป็นความผิดพลาดหรือไม่ ผู้เขียนสามารถอุทธรณ์ได้จากศูนย์แก้ไขปัญหาของตน",
   "violations.notice.removedTitle": "{type, select, universe {จักรวาลนี้} other {เรื่องนี้}}ถูกลบแล้ว",
-  "violations.notice.restrictedBody": "กฎหมายของประเทศคุณ หรือคำร้องขอจากรัฐบาลของประเทศนั้น ไม่อนุญาตให้แสดง{type, select, universe {จักรวาลนี้} other {เรื่องนี้}}ที่นั่น เราบล็อกเฉพาะในประเทศของคุณเท่านั้น ผู้อ่านในประเทศอื่นยังคงค้นหาและอ่านได้",
+  "violations.notice.restrictedBody": "กฎหมายของประเทศคุณ หรือคำร้องขอจากรัฐบาลของประเทศนั้น ไม่อนุญาตให้แสดง{type, select, universe {จักรวาลนี้} other {เรื่องนี้}}ที่นั่น",
   "violations.notice.restrictedFootnote": "การเข้าถึงขึ้นอยู่กับประเทศที่คุณเข้าชม: {country}",
   "violations.notice.restrictedTitle": "{type, select, universe {จักรวาลนี้} other {เรื่องนี้}}ถูกบล็อกในประเทศของคุณ",
   "violations.publishingRules": "อ่านกฎการเผยแพร่",

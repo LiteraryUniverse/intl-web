@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {இந்த உலகம்} other {இந்தக் கதை}} Literary Universe-இன் வெளியீட்டு விதிகளை மீறியதால் இனி யாருக்கும் கிடைக்காது.",
   "violations.notice.removedFootnote": "இது தவறு என்று நினைக்கிறீர்களா? ஆசிரியர் தனது Resolution Center-இலிருந்து மேல்முறையீடு செய்யலாம்.",
   "violations.notice.removedTitle": "{type, select, universe {இந்த உலகம் நீக்கப்பட்டது} other {இந்தக் கதை நீக்கப்பட்டது}}",
-  "violations.notice.restrictedBody": "உங்கள் நாட்டின் சட்டங்கள் அல்லது அதன் அரசாங்கத்தின் கோரிக்கை, {type, select, universe {இந்த உலகம்} other {இந்தக் கதை}} அங்கே காட்டப்படுவதை அனுமதிப்பதில்லை. நாங்கள் அதை உங்கள் நாட்டில் மட்டுமே தடுக்கிறோம். பிற நாடுகளில் உள்ள வாசகர்கள் இன்னும் அதைக் கண்டுபிடித்துப் படிக்கலாம்.",
+  "violations.notice.restrictedBody": "உங்கள் நாட்டின் சட்டங்கள் அல்லது அதன் அரசாங்கத்தின் கோரிக்கை, {type, select, universe {இந்த உலகம்} other {இந்தக் கதை}} அங்கே காட்டப்படுவதை அனுமதிப்பதில்லை.",
   "violations.notice.restrictedFootnote": "கிடைக்கும் தன்மை நீங்கள் உலாவும் நாட்டைப் பொறுத்தது: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {இந்த உலகம் உங்கள் நாட்டில் தடுக்கப்பட்டுள்ளது} other {இந்தக் கதை உங்கள் நாட்டில் தடுக்கப்பட்டுள்ளது}}",
   "violations.publishingRules": "வெளியீட்டு விதிகளைப் படியுங்கள்",

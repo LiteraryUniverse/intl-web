@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "이 {type, select, universe {유니버스} other {스토리}}는 Literary Universe 게시 규칙을 위반하여 더 이상 누구에게도 제공되지 않아요.",
   "violations.notice.removedFootnote": "잘못된 결정이라고 생각하시나요? 작가는 해결 센터에서 이의를 신청할 수 있어요.",
   "violations.notice.removedTitle": "이 {type, select, universe {유니버스} other {스토리}}는 삭제되었어요",
-  "violations.notice.restrictedBody": "회원님 국가의 법률 또는 정부의 요청으로 인해 이 {type, select, universe {유니버스} other {스토리}}를 해당 국가에서 표시할 수 없어요. 저희는 회원님의 국가에서만 차단하고 있어요. 다른 국가의 독자는 계속 찾아 읽을 수 있어요.",
+  "violations.notice.restrictedBody": "회원님 국가의 법률 또는 정부의 요청으로 인해 이 {type, select, universe {유니버스} other {스토리}}를 해당 국가에서 표시할 수 없어요.",
   "violations.notice.restrictedFootnote": "이용 가능 여부는 접속 중인 국가에 따라 달라져요: {country}",
   "violations.notice.restrictedTitle": "이 {type, select, universe {유니버스} other {스토리}}는 회원님의 국가에서 차단되었어요",
   "violations.publishingRules": "게시 규칙 읽기",

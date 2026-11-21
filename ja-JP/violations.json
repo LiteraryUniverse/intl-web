@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "この{type, select, universe {ユニバース} other {ストーリー}}はLiterary Universeの公開ルールに違反したため、どなたもご覧いただけません。",
   "violations.notice.removedFootnote": "間違いだと思われますか？作者は解決センターから異議を申し立てられます。",
   "violations.notice.removedTitle": "この{type, select, universe {ユニバース} other {ストーリー}}は削除されました",
-  "violations.notice.restrictedBody": "お住まいの国の法律、または政府からの要請により、この{type, select, universe {ユニバース} other {ストーリー}}をそちらで表示することは認められていません。ブロックしているのはお住まいの国のみです。他の国の読者は引き続き検索して読むことができます。",
+  "violations.notice.restrictedBody": "お住まいの国の法律、または政府からの要請により、この{type, select, universe {ユニバース} other {ストーリー}}をそちらで表示することは認められていません。",
   "violations.notice.restrictedFootnote": "利用可否は、閲覧している国によって決まります：{country}",
   "violations.notice.restrictedTitle": "この{type, select, universe {ユニバース} other {ストーリー}}はお住まいの国でブロックされています",
   "violations.publishingRules": "公開ルールを読む",

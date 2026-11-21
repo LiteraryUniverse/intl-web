@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "Dit {type, select, universe {universum} other {verhaal}} overtrad de publicatieregels van Literary Universe en is daarom voor niemand meer beschikbaar.",
   "violations.notice.removedFootnote": "Denk je dat dit een vergissing is? De auteur kan in beroep gaan via zijn of haar Geschillencentrum.",
   "violations.notice.removedTitle": "Dit {type, select, universe {universum} other {verhaal}} is verwijderd",
-  "violations.notice.restrictedBody": "De wetten van jouw land, of een verzoek van de overheid daar, staan niet toe dat dit {type, select, universe {universum} other {verhaal}} daar wordt getoond. We blokkeren het alleen in jouw land. Lezers in andere landen kunnen het nog steeds vinden en lezen.",
+  "violations.notice.restrictedBody": "De wetten van jouw land, of een verzoek van de overheid daar, staan niet toe dat dit {type, select, universe {universum} other {verhaal}} daar wordt getoond.",
   "violations.notice.restrictedFootnote": "Beschikbaarheid is gebaseerd op het land van waaruit je browset: {country}.",
   "violations.notice.restrictedTitle": "Dit {type, select, universe {universum} other {verhaal}} is geblokkeerd in jouw land",
   "violations.publishingRules": "Lees de publicatieregels",

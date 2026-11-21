@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {ਇਸ ਬ੍ਰਹਮੰਡ} other {ਇਸ ਕਹਾਣੀ}} ਨੇ Literary Universe ਦੇ ਪ੍ਰਕਾਸ਼ਨ ਨਿਯਮਾਂ ਦੀ ਉਲੰਘਣਾ ਕੀਤੀ, ਇਸ ਲਈ ਇਹ ਹੁਣ ਕਿਸੇ ਲਈ ਵੀ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।",
   "violations.notice.removedFootnote": "ਕੀ ਤੁਹਾਨੂੰ ਲੱਗਦਾ ਹੈ ਕਿ ਇਹ ਗ਼ਲਤੀ ਹੈ? ਲੇਖਕ ਆਪਣੇ Resolution Center ਤੋਂ ਅਪੀਲ ਕਰ ਸਕਦਾ ਹੈ।",
   "violations.notice.removedTitle": "{type, select, universe {ਇਹ ਬ੍ਰਹਮੰਡ ਹਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ} other {ਇਹ ਕਹਾਣੀ ਹਟਾ ਦਿੱਤੀ ਗਈ ਹੈ}}",
-  "violations.notice.restrictedBody": "ਤੁਹਾਡੇ ਦੇਸ਼ ਦੇ ਕਾਨੂੰਨ ਜਾਂ ਉਸ ਦੀ ਸਰਕਾਰ ਦੀ ਬੇਨਤੀ ਕਾਰਨ {type, select, universe {ਇਸ ਬ੍ਰਹਮੰਡ} other {ਇਸ ਕਹਾਣੀ}} ਨੂੰ ਉੱਥੇ ਦਿਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਅਸੀਂ ਇਸ ਨੂੰ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਬਲੌਕ ਕਰਦੇ ਹਾਂ। ਹੋਰ ਦੇਸ਼ਾਂ ਦੇ ਪਾਠਕ ਹਾਲੇ ਵੀ ਇਸ ਨੂੰ ਲੱਭ ਅਤੇ ਪੜ੍ਹ ਸਕਦੇ ਹਨ।",
+  "violations.notice.restrictedBody": "ਤੁਹਾਡੇ ਦੇਸ਼ ਦੇ ਕਾਨੂੰਨ ਜਾਂ ਉਸ ਦੀ ਸਰਕਾਰ ਦੀ ਬੇਨਤੀ ਕਾਰਨ {type, select, universe {ਇਸ ਬ੍ਰਹਮੰਡ} other {ਇਸ ਕਹਾਣੀ}} ਨੂੰ ਉੱਥੇ ਦਿਖਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।",
   "violations.notice.restrictedFootnote": "ਉਪਲਬਧਤਾ ਉਸ ਦੇਸ਼ ’ਤੇ ਨਿਰਭਰ ਕਰਦੀ ਹੈ ਜਿੱਥੋਂ ਤੁਸੀਂ ਬ੍ਰਾਊਜ਼ ਕਰ ਰਹੇ ਹੋ: {country}।",
   "violations.notice.restrictedTitle": "{type, select, universe {ਇਹ ਬ੍ਰਹਮੰਡ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਬਲੌਕ ਹੈ} other {ਇਹ ਕਹਾਣੀ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਬਲੌਕ ਹੈ}}",
   "violations.publishingRules": "ਪ੍ਰਕਾਸ਼ਨ ਨਿਯਮ ਪੜ੍ਹੋ",

@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {Ez az univerzum megsértette} other {Ez a történet megsértette}} a Literary Universe közzétételi szabályait, ezért már senki számára nem elérhető.",
   "violations.notice.removedFootnote": "Szerinted ez tévedés? A szerző fellebbezhet a Vitarendezési központjában.",
   "violations.notice.removedTitle": "{type, select, universe {Ezt az univerzumot eltávolítottuk} other {Ezt a történetet eltávolítottuk}}",
-  "violations.notice.restrictedBody": "Az országod törvényei vagy a kormánya kérése nem teszi lehetővé, hogy {type, select, universe {ezt az univerzumot} other {ezt a történetet}} ott megjelenítsük. Csak az országodban blokkoljuk. Más országokban az olvasók továbbra is megtalálhatják és elolvashatják.",
+  "violations.notice.restrictedBody": "Az országod törvényei vagy a kormánya kérése nem teszi lehetővé, hogy {type, select, universe {ezt az univerzumot} other {ezt a történetet}} ott megjelenítsük.",
   "violations.notice.restrictedFootnote": "Az elérhetőség attól az országtól függ, ahonnan böngészel: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Ez az univerzum blokkolva van} other {Ez a történet blokkolva van}} az országodban",
   "violations.publishingRules": "A közzétételi szabályok elolvasása",

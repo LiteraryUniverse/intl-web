@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {Acest univers a încălcat} other {Această poveste a încălcat}} regulile de publicare Literary Universe, așa că nu mai este disponibil{type, select, universe {} other {ă}} pentru nimeni.",
   "violations.notice.removedFootnote": "Crezi că e o greșeală? Autorul poate face contestație din Centrul său de rezoluție.",
   "violations.notice.removedTitle": "{type, select, universe {Acest univers a fost eliminat} other {Această poveste a fost eliminată}}",
-  "violations.notice.restrictedBody": "Legile țării tale sau o solicitare a guvernului acesteia nu permit afișarea {type, select, universe {acestui univers} other {acestei povești}} acolo. {type, select, universe {Îl} other {O}} blocăm doar în țara ta. Cititorii din alte țări {type, select, universe {îl} other {o}} pot găsi și citi în continuare.",
+  "violations.notice.restrictedBody": "Legile țării tale sau o solicitare a guvernului acesteia nu permit afișarea {type, select, universe {acestui univers} other {acestei povești}} acolo.",
   "violations.notice.restrictedFootnote": "Disponibilitatea depinde de țara din care navighezi: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Acest univers este blocat} other {Această poveste este blocată}} în țara ta",
   "violations.publishingRules": "Citește regulile de publicare",

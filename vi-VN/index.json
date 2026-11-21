@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "{type, select, universe {Vũ trụ} other {Câu chuyện}} này đã vi phạm quy tắc xuất bản của Literary Universe nên không còn khả dụng với bất kỳ ai.",
   "violations.notice.removedFootnote": "Bạn nghĩ đây là nhầm lẫn? Tác giả có thể khiếu nại từ Trung tâm giải quyết của họ.",
   "violations.notice.removedTitle": "{type, select, universe {Vũ trụ} other {Câu chuyện}} này đã bị gỡ",
-  "violations.notice.restrictedBody": "Luật pháp của quốc gia bạn, hoặc yêu cầu từ chính phủ nước đó, không cho phép hiển thị {type, select, universe {vũ trụ} other {câu chuyện}} này ở đó. Chúng tôi chỉ chặn ở quốc gia của bạn. Độc giả ở các quốc gia khác vẫn có thể tìm và đọc.",
+  "violations.notice.restrictedBody": "Luật pháp của quốc gia bạn, hoặc yêu cầu từ chính phủ nước đó, không cho phép hiển thị {type, select, universe {vũ trụ} other {câu chuyện}} này ở đó.",
   "violations.notice.restrictedFootnote": "Khả năng truy cập phụ thuộc vào quốc gia bạn đang duyệt web: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Vũ trụ} other {Câu chuyện}} này bị chặn ở quốc gia của bạn",
   "violations.publishingRules": "Đọc quy tắc xuất bản",

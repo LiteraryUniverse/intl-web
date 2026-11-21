@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "This {type, select, universe {universe} other {story}} broke Literary Universe's publishing rules, so it's no longer available to anyone.",
   "violations.notice.removedFootnote": "Think this is a mistake? The author can appeal from their Resolution Center.",
   "violations.notice.removedTitle": "This {type, select, universe {universe} other {story}} has been removed",
-  "violations.notice.restrictedBody": "Your country's laws, or a request from its government, don't allow this {type, select, universe {universe} other {story}} to be shown there. We block it only in your country. Readers in other countries can still find and read it.",
+  "violations.notice.restrictedBody": "Your country's laws, or a request from its government, don't allow this {type, select, universe {universe} other {story}} to be shown there.",
   "violations.notice.restrictedFootnote": "Availability is based on the country you're browsing from: {country}.",
   "violations.notice.restrictedTitle": "This {type, select, universe {universe} other {story}} is blocked in your country",
   "violations.publishingRules": "Read the publishing rules",

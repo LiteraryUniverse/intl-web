@@ -7600,7 +7600,7 @@
   "violations.notice.removedBody": "Bu {type, select, universe {evren} other {hikaye}} Literary Universe'ün yayın kurallarını ihlal ettiği için artık hiç kimse tarafından erişilemiyor.",
   "violations.notice.removedFootnote": "Bunun bir hata olduğunu mu düşünüyorsunuz? Yazar, Çözüm Merkezi'nden itiraz edebilir.",
   "violations.notice.removedTitle": "Bu {type, select, universe {evren} other {hikaye}} kaldırıldı",
-  "violations.notice.restrictedBody": "Ülkenizin yasaları veya hükümetinin talebi, bu {type, select, universe {evrenin} other {hikayenin}} orada gösterilmesine izin vermiyor. Yalnızca ülkenizde engelliyoruz. Diğer ülkelerdeki okurlar hâlâ bulup okuyabilir.",
+  "violations.notice.restrictedBody": "Ülkenizin yasaları veya hükümetinin talebi, bu {type, select, universe {evrenin} other {hikayenin}} orada gösterilmesine izin vermiyor.",
   "violations.notice.restrictedFootnote": "Erişilebilirlik, göz attığınız ülkeye bağlıdır: {country}.",
   "violations.notice.restrictedTitle": "Bu {type, select, universe {evren} other {hikaye}} ülkenizde engellendi",
   "violations.publishingRules": "Yayın kurallarını okuyun",

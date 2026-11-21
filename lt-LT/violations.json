@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "Ši {type, select, universe {visata} other {istorija}} pažeidė Literary Universe skelbimo taisykles, todėl nebėra pasiekiama niekam.",
   "violations.notice.removedFootnote": "Manote, kad tai klaida? Autorius gali apskųsti savo sprendimų priėmimo centre.",
   "violations.notice.removedTitle": "Ši {type, select, universe {visata} other {istorija}} pašalinta",
-  "violations.notice.restrictedBody": "Jūsų šalies įstatymai arba jos vyriausybės prašymas neleidžia rodyti šios {type, select, universe {visatos} other {istorijos}} ten. Blokuojame ją tik jūsų šalyje. Kitų šalių skaitytojai vis dar gali ją rasti ir skaityti.",
+  "violations.notice.restrictedBody": "Jūsų šalies įstatymai arba jos vyriausybės prašymas neleidžia rodyti šios {type, select, universe {visatos} other {istorijos}} ten.",
   "violations.notice.restrictedFootnote": "Prieinamumas priklauso nuo šalies, iš kurios naršote: {country}.",
   "violations.notice.restrictedTitle": "Ši {type, select, universe {visata} other {istorija}} užblokuota jūsų šalyje",
   "violations.publishingRules": "Skaityti skelbimo taisykles",

@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "ഈ {type, select, universe {ബ്രഹ്മാണ്ഡം} other {കഥ}} Literary Universe-ന്റെ പ്രസിദ്ധീകരണ നിയമങ്ങൾ ലംഘിച്ചതിനാൽ ഇത് ഇനി ആർക്കും ലഭ്യമല്ല.",
   "violations.notice.removedFootnote": "ഇത് തെറ്റാണെന്ന് തോന്നുന്നുണ്ടോ? രചയിതാവിന് അവരുടെ പരിഹാര കേന്ദ്രത്തിൽ നിന്ന് അപ്പീൽ നൽകാം.",
   "violations.notice.removedTitle": "ഈ {type, select, universe {ബ്രഹ്മാണ്ഡം} other {കഥ}} നീക്കം ചെയ്തിരിക്കുന്നു",
-  "violations.notice.restrictedBody": "നിങ്ങളുടെ രാജ്യത്തെ നിയമങ്ങളോ അവിടത്തെ സർക്കാരിന്റെ അഭ്യർത്ഥനയോ കാരണം ഈ {type, select, universe {ബ്രഹ്മാണ്ഡം} other {കഥ}} അവിടെ പ്രദർശിപ്പിക്കാൻ അനുവാദമില്ല. ഞങ്ങൾ ഇത് തടയുന്നത് നിങ്ങളുടെ രാജ്യത്ത് മാത്രമാണ്. മറ്റ് രാജ്യങ്ങളിലെ വായനക്കാർക്ക് ഇപ്പോഴും ഇത് കണ്ടെത്താനും വായിക്കാനും കഴിയും.",
+  "violations.notice.restrictedBody": "നിങ്ങളുടെ രാജ്യത്തെ നിയമങ്ങളോ അവിടത്തെ സർക്കാരിന്റെ അഭ്യർത്ഥനയോ കാരണം ഈ {type, select, universe {ബ്രഹ്മാണ്ഡം} other {കഥ}} അവിടെ പ്രദർശിപ്പിക്കാൻ അനുവാദമില്ല.",
   "violations.notice.restrictedFootnote": "ലഭ്യത നിങ്ങൾ ബ്രൗസ് ചെയ്യുന്ന രാജ്യത്തെ അടിസ്ഥാനമാക്കിയാണ്: {country}.",
   "violations.notice.restrictedTitle": "ഈ {type, select, universe {ബ്രഹ്മാണ്ഡം} other {കഥ}} നിങ്ങളുടെ രാജ്യത്ത് തടഞ്ഞിരിക്കുന്നു",
   "violations.publishingRules": "പ്രസിദ്ധീകരണ നിയമങ്ങൾ വായിക്കുക",

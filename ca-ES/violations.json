@@ -86,7 +86,7 @@
   "violations.notice.removedBody": "{type, select, universe {Aquest univers va infringir les normes de publicació de Literary Universe, per això ja no està disponible per a ningú.} other {Aquesta història va infringir les normes de publicació de Literary Universe, per això ja no està disponible per a ningú.}}",
   "violations.notice.removedFootnote": "Creus que és un error? L'autor pot apel·lar des del seu Centre de resolució.",
   "violations.notice.removedTitle": "{type, select, universe {Aquest univers s'ha eliminat} other {Aquesta història s'ha eliminat}}",
-  "violations.notice.restrictedBody": "{type, select, universe {Les lleis del teu país, o una sol·licitud del seu govern, no permeten mostrar-hi aquest univers. Només el bloquegem al teu país. Els lectors d’altres països encara el poden trobar i llegir.} other {Les lleis del teu país, o una sol·licitud del seu govern, no permeten mostrar-hi aquesta història. Només la bloquegem al teu país. Els lectors d’altres països encara la poden trobar i llegir.}}",
+  "violations.notice.restrictedBody": "{type, select, universe {Les lleis del teu país, o una sol·licitud del seu govern, no permeten mostrar-hi aquest univers.} other {Les lleis del teu país, o una sol·licitud del seu govern, no permeten mostrar-hi aquesta història.}}",
   "violations.notice.restrictedFootnote": "La disponibilitat depèn del país des del qual navegues: {country}.",
   "violations.notice.restrictedTitle": "{type, select, universe {Aquest univers està bloquejat} other {Aquesta història està bloquejada}} al teu país",
   "violations.publishingRules": "Llegeix les normes de publicació",
