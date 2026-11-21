@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Publikuj wszechświat",
   "workshop.universe.publishing.notice": "Jeśli nie opublikujesz uniwersum, zostanie ono opublikowane automatycznie, gdy zostanie opublikowane pierwsze opowiadanie związane z tym uniwersum.",
   "workshop.universe.settings": "{universe} ustawienia wszechświata",
+  "workshop.universe.settings.id": "ID wszechświata",
   "workshop.universe.publishedOn": "Ten wszechświat został opublikowany {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Jeśli potrzebują Państwo pomocy, prosimy <contact>o kontakt</contact>.",
   "workshop.work.delete.restrictions": "Mogą Państwo usunąć to {type, select,\n    universe {uniwersum tylko wtedy, gdy nie ma w nim opublikowanych historii, a}\n    story {historię tylko wtedy, gdy}\n    other {praca tylko wtedy, gdy}} została opublikowana mniej niż miesiąc temu. Potrzebują Państwo pomocy po tym czasie? <contact>Proszę</contact> się <contact>z nami skontaktować</contact>.",

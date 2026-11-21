@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Publicar univers",
   "workshop.universe.publishing.notice": "Si no publiqueu l'univers, es publicarà automàticament quan es publiqui la primera història connectada a l'univers.",
   "workshop.universe.settings": "{universe} configuració de l'univers",
+  "workshop.universe.settings.id": "ID de l'univers",
   "workshop.universe.publishedOn": "Aquest univers ha estat publicat el {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Si necessites ajuda, <contact>contacta amb nosaltres</contact>.",
   "workshop.work.delete.restrictions": "Pots suprimir {type, select,\n    universe {aquest univers només si no té històries publicades i}\n    story {aquesta història només si}\n    other {aquesta obra només si}} es va publicar fa menys d'un mes. Necessites ajuda passat aquest termini? <contact>Contacta amb nosaltres</contact>.",

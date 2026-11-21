@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Завантажити всесвіт",
   "workshop.universe.publishing.notice": "Якщо ви не завантажите всесвіт, він буде завантажений автоматично, коли з'явиться перша історія, пов'язана з цим всесвітом.",
   "workshop.universe.settings": "{universe} налаштування всесвіту",
+  "workshop.universe.settings.id": "ID всесвіту",
   "workshop.universe.publishedOn": "Цей всесвіт було завантажено {date, date, long} о {date, time, short}",
   "workshop.work.deletion.contactUs": "Якщо вам потрібна допомога, <contact>зв'яжіться з нами</contact>.",
   "workshop.work.delete.restrictions": "Ви можете видалити цей {type, select,\n    universe {всесвіт, тільки якщо в ньому немає опублікованих оповідань, а}\n    story {оповідання, тільки якщо воно}\n    other {твір, тільки якщо воно}} було опубліковано менше місяця тому. Потрібна допомога після цього? <contact>Зверніться до нас</contact>.",

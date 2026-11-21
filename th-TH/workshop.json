@@ -21,6 +21,7 @@
   "workshop.universe.publish": "เผยแพร่จักรวาล",
   "workshop.universe.publishing.notice": "หากคุณไม่เผยแพร่จักรวาล จะมีการเผยแพร่โดยอัตโนมัติเมื่อเรื่องราวแรกที่เชื่อมต่อกับจักรวาลถูกเผยแพร่",
   "workshop.universe.settings": "{universe} การตั้งค่าจักรวาล",
+  "workshop.universe.settings.id": "ID จักรวาล",
   "workshop.universe.publishedOn": "จักรวาลนี้ได้เผยแพร่ในวันที่ {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "หากคุณต้องการความช่วยเหลือ<contact>โปรดติดต่อเรา</contact>",
   "workshop.work.delete.restrictions": "คุณสามารถลบ {type, select,\n    universe {จักรวาลนี้ได้ก็ต่อเมื่อไม่มีเรื่องราวที่เผยแพร่แล้ว และ}\n    story {เรื่องราวได้ก็ต่อเมื่อมัน}\n    other {ผลงานได้ก็ต่อเมื่อมัน}} ได้รับการเผยแพร่ไม่ถึงหนึ่งเดือนที่ผ่านมา ต้องการความช่วยเหลือเพิ่มเติม?<contact>ติดต่อเรา</contact>",

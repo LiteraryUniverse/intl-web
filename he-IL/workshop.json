@@ -21,6 +21,7 @@
   "workshop.universe.publish": "פרסם יחידה",
   "workshop.universe.publishing.notice": "אם לא תפרסם את היחידה, היא תפורסם אוטומטית כאשר הסיפור הראשון המחובר ליחידה ייפורסם.",
   "workshop.universe.settings": "{universe} הגדרות יחידה",
+  "workshop.universe.settings.id": "מזהה היקום",
   "workshop.universe.publishedOn": "היקום הזה פורסם ב- {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "אם אתה זקוק לעזרה, <contact>צור איתנו קשר</contact>.",
   "workshop.work.delete.restrictions": "ניתן למחוק את היקום הזה {type, select,\n    universe {רק אם אין בו סיפורים שפורסמו, ואת הסיפור}\n    story {רק אם}\n    other {עובד רק אם}} פורסם לפני פחות מחודש. זקוק לעזרה לאחר מכן? <contact>צור איתנו קשר</contact>.",

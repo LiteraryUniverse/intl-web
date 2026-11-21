@@ -21,6 +21,7 @@
   "workshop.universe.publish": "បោះពុម្ពជីវិត",
   "workshop.universe.publishing.notice": "ប្រសិនបើអ្នកមិនបោះពុម្ពជីវិតទេ នោះវានឹងត្រូវបានបោះពុម្ពដោយស្វ័យប្រវត្តិរបស់រឿងដែលបានភ្ជាប់ទៅជាមួយជីវិតដំបូងប៉ុណ្ណោះ។",
   "workshop.universe.settings": "{universe} ការកំណត់ជីវិត",
+  "workshop.universe.settings.id": "លេខសម្គាល់សកលលោក",
   "workshop.universe.publishedOn": "ជីវិតនេះត្រូវបានបោះពុម្ពផ្សាយនៅលើ {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

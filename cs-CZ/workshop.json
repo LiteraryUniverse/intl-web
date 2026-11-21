@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Publikovat vesmír",
   "workshop.universe.publishing.notice": "Pokud nezveřejníš vesmír, bude automaticky publikován po zveřejnění prvního příběhu spojeného s vesmírem.",
   "workshop.universe.settings": "Nastavení {universe} vesmíru",
+  "workshop.universe.settings.id": "ID vesmíru",
   "workshop.universe.publishedOn": "Tento vesmír byl zveřejněn {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Pokud potřebujete pomoc, <contact>kontaktujte nás</contact>.",
   "workshop.work.delete.restrictions": "Můžete smazat {type, select,\n    universe {tento vesmír jenom pokud nemá publikované příběhy a nebyl publikován}\n    story {tento příběh jenom když nebyl publikován}\n    other {tuto práci jenom když nebyla publikována}} déle jak jeden měsíc. Pokud potřebujete smazat po této lhůtě, tak nás <contact>kontaktujte</contact>.",

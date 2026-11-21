@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Publiseer heelal",
   "workshop.universe.publishing.notice": "As jy die heelal nie publiseer nie, sal dit outomaties gepubliseer word wanneer die eerste verhaal wat verbind is met die heelal gepubliseer word.",
   "workshop.universe.settings": "{universe} heelal instellings",
+  "workshop.universe.settings.id": "Heelal-ID",
   "workshop.universe.publishedOn": "Hierdie heelal is gepubliseer op {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "As jy hulp nodig het, <contact>kontak ons</contact>.",
   "workshop.work.delete.restrictions": "Jy kan hierdie {type, select,\n    universe {heelal slegs verwyder as dit geen gepubliseerde stories het nie en dit}\n    story {storie slegs verwyder as dit}\n    other {werk slegs verwyder as dit}} minder as een maand gelede gepubliseer is. Het jy daarna hulp nodig? <contact>Kontak ons</contact>.",

@@ -21,6 +21,7 @@
   "workshop.universe.publish": "نشر الكون",
   "workshop.universe.publishing.notice": "إذا لم تقم بنشر الكون، سيتم نشره تلقائيًا عند نشر أول قصة متصلة بالكون.",
   "workshop.universe.settings": "{universe} إعدادات الكون",
+  "workshop.universe.settings.id": "معرّف الكون",
   "workshop.universe.publishedOn": "تم نشر هذا الكون على {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "إذا كنت بحاجة إلى مساعدة، <contact>اتصل بنا</contact>.",
   "workshop.work.delete.restrictions": "يمكنك حذف هذا {type, select,\n    universe {~ الكون فقط إذا لم يكن له قصص منشورة و}\n    story {قصة فقط إذا كان}\n    other {العمل فقط إذا كان}} تم نشره قبل أقل من شهر واحد. هل تحتاج إلى مساعدة بعد ذلك؟ <contact>اتصل بنا</contact>.",

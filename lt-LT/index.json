@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Publikuoti visatą",
   "workshop.universe.publishing.notice": "Jei nepublikuosite visatos, ji bus publikuota automatiškai, kai bus publikuota pirmoji su ja susijusi istorija.",
   "workshop.universe.settings": "{universe} visatos nustatymai",
+  "workshop.universe.settings.id": "Visatos ID",
   "workshop.universe.publishedOn": "Šis visata buvo išleista {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Jei reikia pagalbos, <contact>susisiekite su mumis.</contact>",
   "workshop.work.delete.restrictions": "Šią {type, select,\n    universe {visatą galite ištrinti tik tuo atveju, jei joje nėra paskelbtų istorijų, o}\n    story {istoriją - tik tuo atveju, jei ji}\n    other {darbas - tik tuo atveju, jei ji}} buvo paskelbta mažiau nei prieš mėnesį. Reikia pagalbos po to? <contact>Susisiekite su mumis.</contact>",

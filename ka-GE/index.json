@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "გამოქვეყნება სამყარო",
   "workshop.universe.publishing.notice": "თუ არ გამოაქვეყნებთ სამყაროს, ის ავტომატურად გამოქვეყნდება, როდესაც სამყაროსთან დაკავშირებული პირველი ისტორია გამოქვეყნდება.",
   "workshop.universe.settings": "{universe} სამყაროს პარამეტრები",
+  "workshop.universe.settings.id": "სამყაროს ID",
   "workshop.universe.publishedOn": "ამ უნივერსუმის გამოქვეყნებულია {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

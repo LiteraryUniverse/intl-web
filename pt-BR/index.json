@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Publicar universo",
   "workshop.universe.publishing.notice": "Se você não publicar o universo, ele será publicado automaticamente quando a primeira história conectada ao universo for publicada.",
   "workshop.universe.settings": "Configurações do {universe} universo",
+  "workshop.universe.settings.id": "ID do universo",
   "workshop.universe.publishedOn": "Este universo foi publicado em {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Se o senhor precisar de ajuda, <contact>entre em contato conosco</contact>.",
   "workshop.work.delete.restrictions": "O senhor pode excluir esse universo {type, select,\n    universe {somente se ele não tiver histórias publicadas e a história}\n    story {somente se ela}\n    other {funcionar somente se ela}} tiver sido publicada há menos de um mês. O senhor precisa de ajuda depois disso? <contact>Entre em contato conosco</contact>.",

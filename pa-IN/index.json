@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "ਯੂਨੀਵਰਸ ਪ੍ਰਕਾਸ਼ਿਤ ਕਰੋ",
   "workshop.universe.publishing.notice": "ਜੇ ਤੁਸੀਂ ਯੂਨੀਵਰਸ ਪ੍ਰਕਾਸ਼ਿਤ ਨਹੀਂ ਕਰਦੇ, ਤਾਂ ਜਦੋਂ ਪਹਿਲੀ ਕਹਾਣੀ ਯੂਨੀਵਰਸ ਨਾਲ ਜੁੜੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਆਟੋਮੈਟਿਕ ਤੌਰ 'ਤੇ ਪ੍ਰਕਾਸ਼ਿਤ ਕੀਤੀ ਜਾਵੇਗੀ।",
   "workshop.universe.settings": "{universe} ਯੂਨੀਵਰਸ ਸੈਟਿੰਗਾਂ",
+  "workshop.universe.settings.id": "ਯੂਨੀਵਰਸ ID",
   "workshop.universe.publishedOn": "ਇਹ ਯੂਨੀਵਰਸ ਦਾ ਪ੍ਰਕਾਸ਼ਿਤ ਹੋਇਆ ਹੈ {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

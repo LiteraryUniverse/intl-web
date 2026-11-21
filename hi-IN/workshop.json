@@ -21,6 +21,7 @@
   "workshop.universe.publish": "यूनिवर्स प्रकाशित करें",
   "workshop.universe.publishing.notice": "यदि आप यूनिवर्स को प्रकाशित नहीं करते हैं, तो जब पहली कहानी जो यूनिवर्स से जुड़ी हो, प्रकाशित होगी तब यह स्वचालित रूप से प्रकाशित होगा।",
   "workshop.universe.settings": "{universe} यूनिवर्स सेटिंग्स",
+  "workshop.universe.settings.id": "यूनिवर्स आईडी",
   "workshop.universe.publishedOn": "यह यूनिवर्स प्रकाशित किया गया है {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "अगर आपको मदद चाहिए, तो <contact>हमसे संपर्क करें</contact>।",
   "workshop.work.delete.restrictions": "{type, select,\n    universe {आप इस ब्रह्मांड को तभी हटा सकते हैं जब इसमें कोई प्रकाशित कहानी न हो और इसे}\n    story {आप इस कहानी को तभी हटा सकते हैं जब इसे}\n    other {आप इस रचना को तभी हटा सकते हैं जब इसे}} प्रकाशित हुए एक महीने से कम समय हुआ हो। उसके बाद मदद चाहिए? <contact>हमसे संपर्क करें</contact>।",

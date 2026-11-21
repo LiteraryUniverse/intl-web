@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Publiser univers",
   "workshop.universe.publishing.notice": "Hvis du ikke publiserer universet, vil det bli publisert automatisk når den første historien som er knyttet til universet, blir publisert.",
   "workshop.universe.settings": "{universe} universinnstillinger",
+  "workshop.universe.settings.id": "Univers-ID",
   "workshop.universe.publishedOn": "Dette universet har blitt publisert på {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Hvis du trenger hjelp, <contact>kontakt oss</contact>.",
   "workshop.work.delete.restrictions": "Du kan slette {type, select,\n    universe {dette universet bare hvis det ikke har noen publiserte historier og}\n    story {denne historien bare hvis den}\n    other {dette verket bare hvis det}} ble publisert for mindre enn én måned siden. Trenger du hjelp etter det? <contact>Kontakt oss</contact>.",

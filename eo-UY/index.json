@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Publikigi universon",
   "workshop.universe.publishing.notice": "Se vi ne publikigas la universon, ĝi estos aŭtomate publikigita kiam la unua rakonto konektita al la universo estos publikigita.",
   "workshop.universe.settings": "{universe} universaj agordoj",
+  "workshop.universe.settings.id": "ID de la universo",
   "workshop.universe.publishedOn": "Ĉi tiu universo estis publikigita je {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Se vi bezonas helpon, <contact>kontaktu nin</contact>.",
   "workshop.work.delete.restrictions": "Vi povas forigi ĉi tiun {type, select,\n    universe {universon nur se ĝi havas neniujn publikigitajn rakontojn kaj}\n    story {rakonton nur se ĝi}\n    other {verkon nur se ĝi}} estis publikigita antaŭ malpli ol unu monato. Ĉu vi bezonas helpon post tio? <contact>Kontaktu nin</contact>.",

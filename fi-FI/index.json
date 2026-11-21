@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Julkaise universumi",
   "workshop.universe.publishing.notice": "Jos et julkaise universumia, se julkaistaan automaattisesti kun ensimmäinen universumiin liitetty tarina julkaistaan.",
   "workshop.universe.settings": "{universe} universumin asetukset",
+  "workshop.universe.settings.id": "Universumin tunnus",
   "workshop.universe.publishedOn": "Tämä universumi on julkaistu {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Jos tarvitset apua, <contact>ota meihin yhteyttä</contact>.",
   "workshop.work.delete.restrictions": "Voit poistaa tämän {type, select,\n    universe {maailmankaikkeuden vain, jos sillä ei ole julkaistuja tarinoita ja}\n    story {tarinan vain, jos se}\n    other {teos vain, jos se}} on julkaistu alle kuukausi sitten. Tarvitsetko apua sen jälkeen? <contact>Ota meihin yhteyttä</contact>.",

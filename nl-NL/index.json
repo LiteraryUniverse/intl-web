@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Universum publiceren",
   "workshop.universe.publishing.notice": "Als je het universum niet publiceert, wordt het automatisch gepubliceerd wanneer het eerste verhaal dat aan het universum is gekoppeld, wordt gepubliceerd.",
   "workshop.universe.settings": "{universe} universuminstellingen",
+  "workshop.universe.settings.id": "Universum-ID",
   "workshop.universe.publishedOn": "Dit universum is gepubliceerd op {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "<contact>Neem contact met ons op</contact> als u hulp nodig hebt.",
   "workshop.work.delete.restrictions": "U kunt dit {type, select,\n    universe {universum alleen verwijderen als het geen gepubliceerde verhalen heeft en}\n    story {verhaal alleen als het}\n    other {werk alleen als het}} minder dan een maand geleden is gepubliceerd. Hebt u daarna nog hulp nodig? <contact>Neem contact met ons op</contact>.",

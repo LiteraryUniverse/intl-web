@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Publish universe",
   "workshop.universe.publishing.notice": "If you do not publish the universe, it will be published automatically when the first story connected to the universe is published.",
   "workshop.universe.settings": "{universe} universe settings",
+  "workshop.universe.settings.id": "Universe ID",
   "workshop.universe.publishedOn": "This universe has been published on {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Publikovať vesmír",
   "workshop.universe.publishing.notice": "Ak vesmír nezverejníte, bude zverejnený automaticky po zverejnení prvého príbehu spojeného s týmto vesmírom.",
   "workshop.universe.settings": "Nastavenia vesmíru {universe}",
+  "workshop.universe.settings.id": "ID vesmíru",
   "workshop.universe.publishedOn": "Tento vesmír bol publikovaný {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Ak potrebujete pomoc, <contact>kontaktujte nás</contact>.",
   "workshop.work.delete.restrictions": "Tento {type, select,\n    universe {vesmír môžete vymazať len vtedy, ak nemá žiadne uverejnené príbehy a}\n    story {príbeh len vtedy, ak}\n    other {práca len vtedy, ak}} bola uverejnená pred menej ako jedným mesiacom. Potrebujete pomoc aj potom? <contact>Kontaktujte nás.</contact>",

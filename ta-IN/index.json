@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "பரலோகத்தை வெளியிடு",
   "workshop.universe.publishing.notice": "பரலோகத்துடன் இணைக்கப்பட்ட முதன்முதல் கதை வெளியிடப்படும்படி இல்லாமல் இருக்கும் போது பரலோகத்தை வெளியிடுவது தானாகவே நடைமுறைபடும்.",
   "workshop.universe.settings": "{universe} பரலோக அமைப்புகள்",
+  "workshop.universe.settings.id": "பிரபஞ்ச ID",
   "workshop.universe.publishedOn": "இந்த உலகம் வெளியிடப்பட்டது {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

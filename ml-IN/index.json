@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "യൂണിവേഴ്‌സ് പ്രസിദ്ധീകരിക്കുക",
   "workshop.universe.publishing.notice": "യൂണിവേഴ്‌സ് പ്രസിദ്ധീകരിക്കാൻ നിങ്ങൾ അനുവദിച്ചാൽ, യൂണിവേഴ്‌സിന് അതിനുള്ള ആദ്യത്തെ കഥ പ്രസിദ്ധീകരിക്കപ്പെടും.",
   "workshop.universe.settings": "{universe} യൂണിവേഴ്‌സ് ക്രമീകരണങ്ങൾ",
+  "workshop.universe.settings.id": "യൂണിവേഴ്‌സ് ID",
   "workshop.universe.publishedOn": "ഈ ലോകം പ്രസിദ്ധീകരിച്ചത് {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

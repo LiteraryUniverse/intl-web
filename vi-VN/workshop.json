@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Xuất bản vũ trụ",
   "workshop.universe.publishing.notice": "Nếu bạn không xuất bản vũ trụ, nó sẽ được tự động xuất bản khi câu chuyện đầu tiên liên kết với vũ trụ được xuất bản.",
   "workshop.universe.settings": "{universe} cài đặt vũ trụ",
+  "workshop.universe.settings.id": "ID vũ trụ",
   "workshop.universe.publishedOn": "Vũ trụ này đã được xuất bản trên {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Nếu bạn cần hỗ trợ, vui lòng <contact>liên hệ với chúng tôi</contact>.",
   "workshop.work.delete.restrictions": "Bạn có thể xóa vũ trụ này {type, select,\n    universe {chỉ khi nó không có câu chuyện nào đã được đăng và}\n    story {câu chuyện chỉ khi nó}\n    other {tác phẩm chỉ khi nó}} đã được đăng cách đây ít hơn một tháng. Cần hỗ trợ sau đó? <contact>Hãy liên hệ với chúng tôi</contact>.",

@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Ilathala ang universe",
   "workshop.universe.publishing.notice": "Kung hindi mo ilalathala ang universe, ito ay automatikong ilalathala kapag ang unang kuwento na konektado sa universe ay ilathala.",
   "workshop.universe.settings": "{universe} mga setting ng universe",
+  "workshop.universe.settings.id": "ID ng universe",
   "workshop.universe.publishedOn": "Ang universe na ito ay na-publish noong {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Kung kailangan mo ng tulong, <contact>makipag-ugnayan sa amin</contact>.",
   "workshop.work.delete.restrictions": "Mabubura mo lamang ang {type, select,\n    universe {unibersong ito kung wala itong nakalathalang kwento at}\n    story {kwentong ito kung}\n    other {akdang ito kung}} wala pang isang buwan mula nang mailathala ito. Kailangan ng tulong pagkalipas noon? <contact>Makipag-ugnayan sa amin</contact>.",

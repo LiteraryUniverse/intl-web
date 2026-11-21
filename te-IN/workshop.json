@@ -21,6 +21,7 @@
   "workshop.universe.publish": "యూనివర్స్ ప్రచురణ",
   "workshop.universe.publishing.notice": "మీరు యూనివర్స్‌ను ప్రచురించడం లేదానికి అనుమతించడం లేదు, యూనివర్స్‌తో మొత్తం కనెక్ట్ చేయబడిన మొదటి కథ ప్రచురించబడినప్పుడు అదనపులు ప్రచురించబడుతుంది.",
   "workshop.universe.settings": "{universe} యూనివర్స్ సెట్టింగ్స్",
+  "workshop.universe.settings.id": "యూనివర్స్ ID",
   "workshop.universe.publishedOn": "ఈ యూనివర్స్ ప్రచురించబడింది నుండి {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

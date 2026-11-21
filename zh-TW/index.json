@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "發布宇宙",
   "workshop.universe.publishing.notice": "如果您不發布宇宙，當與宇宙相關聯的第一個故事發布時，它將自動發布。",
   "workshop.universe.settings": "{universe} 宇宙設定",
+  "workshop.universe.settings.id": "宇宙 ID",
   "workshop.universe.publishedOn": "這個宇宙已經在 {date, date, long} {date, time, short}上發布",
   "workshop.work.deletion.contactUs": "如果您需要幫助，請<contact>與我們聯繫</contact>。",
   "workshop.work.delete.restrictions": "只有當 {type, select,\n    universe {宇宙沒有已發表的故事，而且}\n    story {故事只有在}\n    other {作品只有在}} 發表不到一個月時，您才可以刪除此 ~ ~ 宇宙。之後需要幫助嗎？<contact>請聯絡我們</contact>。",

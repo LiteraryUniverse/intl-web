@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "ಬ್ರಹ್ಮಾಂಡವನ್ನು ಪ್ರಕಟಿಸಿ",
   "workshop.universe.publishing.notice": "ನೀವು ಬ್ರಹ್ಮಾಂಡವನ್ನು ಪ್ರಕಟಿಸದಿದ್ದರೆ, ಬ್ರಹ್ಮಾಂಡದ ಮೊದಲ ಕಥೆ ಪ್ರಕಟಿಸಲಾಗುತ್ತದೆ.",
   "workshop.universe.settings": "{universe} ಬ್ರಹ್ಮಾಂಡ ಸೆಟ್ಟಿಂಗ್ಗಳು",
+  "workshop.universe.settings.id": "ಬ್ರಹ್ಮಾಂಡದ ID",
   "workshop.universe.publishedOn": "ಈ ಯೂನಿವರ್ಸ್ ಪ್ರಕಟವಾಗಿದೆ ನೋಡಿ {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

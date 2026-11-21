@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Univerzum közzététele",
   "workshop.universe.publishing.notice": "Ha nem teszed közzé az univerzumot, akkor automatikusan közzé lesz téve, amikor az első a univerzumhoz kapcsolódó történet közzé lesz téve.",
   "workshop.universe.settings": "{universe} univerzum beállítások",
+  "workshop.universe.settings.id": "Univerzumazonosító",
   "workshop.universe.publishedOn": "Ez az univerzum megjelent a következő helyen: {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Ha segítségre van szüksége, <contact>forduljon hozzánk</contact>.",
   "workshop.work.delete.restrictions": "Ezt a {type, select,\n    universe {univerzumot csak akkor törölheted, ha nincsenek publikált történetei, és}\n    story {történetet csak akkor, ha}\n    other {munkát csak akkor, ha}} kevesebb mint egy hónapja publikálták. Ezután segítségre van szüksége? <contact>Vegye fel velünk a kapcsolatot</contact>.",

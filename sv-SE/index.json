@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Publicera universum",
   "workshop.universe.publishing.notice": "Om du inte publicerar universumet kommer det att publiceras automatiskt när den första berättelsen som är kopplad till universumet publiceras.",
   "workshop.universe.settings": "{universe} inställningar för universum",
+  "workshop.universe.settings.id": "Universum-ID",
   "workshop.universe.publishedOn": "Det här universumet har publicerats på {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "<contact>Kontakta oss</contact> om du behöver hjälp.",
   "workshop.work.delete.restrictions": "Du kan radera detta {type, select,\n    universe {universum endast om det inte har några publicerade berättelser och}\n    story {berättelse endast om det}\n    other {verk endast om det}} publicerades för mindre än en månad sedan. Behöver du hjälp efter det? <contact>Kontakta oss</contact> gärna.",

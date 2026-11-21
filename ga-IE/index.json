@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Foilsigh an domhan",
   "workshop.universe.publishing.notice": "Má dhéanann tú an domhan a fhoilsiú, foilseofar é go huathoibríoch nuair a fhoilseofar an chéad scéal atá ceangailte leis an domhan.",
   "workshop.universe.settings": "Socruithe an domhain {universe}",
+  "workshop.universe.settings.id": "ID an domhain",
   "workshop.universe.publishedOn": "Tá an domhan seo foilsithe ar {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

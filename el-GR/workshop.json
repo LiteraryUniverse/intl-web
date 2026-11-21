@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Δημοσίευση σύμπαντος",
   "workshop.universe.publishing.notice": "Εάν δεν δημοσιεύσετε το σύμπαν, θα δημοσιευτεί αυτόματα όταν δημοσιευτεί η πρώτη ιστορία που συνδέεται με το σύμπαν.",
   "workshop.universe.settings": "{universe} ρυθμίσεις σύμπαντος",
+  "workshop.universe.settings.id": "Αναγνωριστικό σύμπαντος",
   "workshop.universe.publishedOn": "Αυτό το σύμπαν έχει δημοσιευτεί στις {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Αν χρειάζεστε βοήθεια, <contact>επικοινωνήστε μαζί μας</contact>.",
   "workshop.work.delete.restrictions": "Μπορείτε να διαγράψετε αυτό το {type, select,\n    universe {σύμπαν μόνο αν δεν έχει δημοσιευμένες ιστορίες και}\n    story {ιστορία μόνο αν έχει}\n    other {έργο μόνο αν έχει}} δημοσιευτεί λιγότερο από ένα μήνα πριν. Χρειάζεστε βοήθεια μετά από αυτό; <contact>Επικοινωνήστε μαζί μας</contact>.",

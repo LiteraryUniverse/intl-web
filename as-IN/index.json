@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "বিশ্ব প্ৰকাশ কৰক",
   "workshop.universe.publishing.notice": "আপুনি যদি বিশ্বটো প্ৰকাশ নকৰে তেনেহে প্ৰথম গল্পটো প্ৰকাশ হোৱাৰ সময়ত বিশ্বটো স্বয়ংক্ৰিয়ভাৱে প্ৰকাশ কৰা হব।",
   "workshop.universe.settings": "{universe} বিশ্ব ছেটিংছ",
+  "workshop.universe.settings.id": "বিশ্বৰ ID",
   "workshop.universe.publishedOn": "এই বৃহত্ৰীয় ইউনিভাৰ্সটো প্ৰকাশ কৰা হৈছে {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

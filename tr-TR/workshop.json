@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Evreni yayınla",
   "workshop.universe.publishing.notice": "Evreni yayınlamazsanız, evrene bağlı ilk hikaye yayınlandığında otomatik olarak yayınlanır.",
   "workshop.universe.settings": "{universe} evren ayarları",
+  "workshop.universe.settings.id": "Evren kimliği",
   "workshop.universe.publishedOn": "Bu evren {date, date, long} {date, time, short}üzerinde yayınlanmıştır.",
   "workshop.work.deletion.contactUs": "Yardıma ihtiyacınız varsa, <contact>bizimle iletişime</contact> geçin.",
   "workshop.work.delete.restrictions": "Bu {type, select,\n    universe {evrenini yalnızca yayınlanmış hikayesi yoksa ve}\n    story {hikayesini yalnızca}\n    other {çalışması yalnızca}} bir aydan daha kısa bir süre önce yayınlanmışsa silebilirsiniz. Bundan sonra yardıma mı ihtiyacınız var? <contact>Bize ulaşın</contact>.",

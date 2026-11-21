@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "યૂનિવર્સ પ્રકાશિત કરો",
   "workshop.universe.publishing.notice": "જો તમે યૂનિવર્સ પ્રકાશિત નહીં કરો તો તે આપોઆપ પ્રકાશિત થશે જ્યારે યૂનિવર્સ સાથે જોડાયેલી પહેલી કથા પ્રકાશિત થશે.",
   "workshop.universe.settings": "{universe} યૂનિવર્સ સેટિંગ્સ",
+  "workshop.universe.settings.id": "યૂનિવર્સ ID",
   "workshop.universe.publishedOn": "આ યુનિવર્સ પર પ્રકાશિત થયું છે પરંતુ {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "If you need help, <contact>contact us</contact>.",
   "workshop.work.delete.restrictions": "You can delete this {type, select,\n    universe {universe only if it has no published stories and}\n    story {story only if it}\n    other {work only if it}} was published less than one month ago. Need help after that? <contact>Contact us</contact>.",

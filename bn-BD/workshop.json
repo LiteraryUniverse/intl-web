@@ -21,6 +21,7 @@
   "workshop.universe.publish": "বিশ্ব প্রকাশ করুন",
   "workshop.universe.publishing.notice": "যদি আপনি বিশ্বটি প্রকাশ না করেন, তবে যখন প্রথম গল্পটি বিশ্বের সাথে সংযুক্ত হবে এবং প্রকাশিত হবে তখন স্বয়ংক্রিয়ভাবে প্রকাশিত হবে।",
   "workshop.universe.settings": "{universe} বিশ্ব সেটিংস",
+  "workshop.universe.settings.id": "বিশ্বের আইডি",
   "workshop.universe.publishedOn": "এই বিশ্বটি প্রকাশিত হয়েছে {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "আপনার সাহায্যের প্রয়োজন হলে <contact>আমাদের সঙ্গে যোগাযোগ করুন</contact>।",
   "workshop.work.delete.restrictions": "{type, select,\n    universe {এই মহাবিশ্বটি আপনি কেবল তখনই মুছতে পারবেন যদি এতে কোনো প্রকাশিত গল্প না থাকে এবং এটি}\n    story {এই গল্পটি আপনি কেবল তখনই মুছতে পারবেন যদি এটি}\n    other {এই কাজটি আপনি কেবল তখনই মুছতে পারবেন যদি এটি}} এক মাসেরও কম সময় আগে প্রকাশিত হয়ে থাকে। তার পরে সাহায্য প্রয়োজন? <contact>আমাদের সঙ্গে যোগাযোগ করুন</contact>।",

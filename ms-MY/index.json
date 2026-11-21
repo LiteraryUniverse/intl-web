@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Terbitkan alam semesta",
   "workshop.universe.publishing.notice": "Jika anda tidak menerbitkan alam semesta, ia akan diterbitkan secara automatik apabila cerita pertama yang berkaitan dengan alam semesta diterbitkan.",
   "workshop.universe.settings": "{universe} tetapan alam semesta",
+  "workshop.universe.settings.id": "ID alam semesta",
   "workshop.universe.publishedOn": "Universe ini telah diterbitkan pada {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Jika anda memerlukan bantuan, <contact>hubungi kami</contact>.",
   "workshop.work.delete.restrictions": "Anda boleh memadam {type, select,\n    universe {univers ini hanya jika ia tiada cerita yang diterbitkan dan}\n    story {cerita ini hanya jika ia}\n    other {karya ini hanya jika ia}} diterbitkan kurang daripada sebulan yang lalu. Perlukan bantuan selepas itu? <contact>Hubungi kami</contact>.",

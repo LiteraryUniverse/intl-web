@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Опубликовать вселенную",
   "workshop.universe.publishing.notice": "Если вы не опубликуете вселенную, она будет опубликована автоматически, когда будет опубликована первая история, связанная с этой вселенной.",
   "workshop.universe.settings": "Настройки вселенной {universe}",
+  "workshop.universe.settings.id": "ID вселенной",
   "workshop.universe.publishedOn": "Эта вселенная была опубликована {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Если Вам нужна помощь, <contact>свяжитесь с нами</contact>.",
   "workshop.work.delete.restrictions": "Вы можете удалить эту {type, select,\n    universe {вселенную, только если в ней нет опубликованных историй, и}\n    story {историю, только если она}\n    other {работа, только если она}} была опубликована менее одного месяца назад. Нужна помощь после этого? <contact>Свяжитесь с нами</contact>.",

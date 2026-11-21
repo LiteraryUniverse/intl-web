@@ -21,6 +21,7 @@
   "workshop.universe.publish": "宇宙を公開する",
   "workshop.universe.publishing.notice": "宇宙を公開していない場合は、最初の物語が宇宙に接続されると自動的に公開されます。",
   "workshop.universe.settings": "{universe} 宇宙設定",
+  "workshop.universe.settings.id": "宇宙 ID",
   "workshop.universe.publishedOn": "この宇宙は {date, date, long} {date, time, short}に公開されました。",
   "workshop.work.deletion.contactUs": "助けが必要な場合は、<contact>ご連絡</contact>ください。",
   "workshop.work.delete.restrictions": "{type, select,\n    universe {この宇宙は、公開された物語がなく、かつ公開から1か月未満の場合にのみ削除できます。}\n    story {この物語は、公開から1か月未満の場合にのみ削除できます。}\n    other {この作品は、公開から1か月未満の場合にのみ削除できます。}} 期限を過ぎた後にお困りですか？<contact>お問い合わせください</contact>。",

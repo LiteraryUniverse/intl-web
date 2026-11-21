@@ -21,6 +21,7 @@
   "workshop.universe.publish": "Udgiv univers",
   "workshop.universe.publishing.notice": "Hvis du ikke udgiver universet, vil det blive udgivet automatisk, når den første historie forbundet til universet bliver udgivet.",
   "workshop.universe.settings": "{universe} univers indstillinger",
+  "workshop.universe.settings.id": "Univers-ID",
   "workshop.universe.publishedOn": "Dette univers er blevet udgivet på {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "<contact>Kontakt os</contact>, hvis du har brug for hjælp.",
   "workshop.work.delete.restrictions": "Du kan kun slette dette {type, select,\n    universe {univers, hvis det ikke har nogen publicerede historier, og}\n    story {historie kun hvis det}\n    other {værk kun hvis det}} blev publiceret for mindre end en måned siden. Har du brug for hjælp efter det? Så <contact>kontakt os</contact>.",

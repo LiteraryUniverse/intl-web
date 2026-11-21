@@ -7652,6 +7652,7 @@
   "workshop.universe.publish": "Publică universul",
   "workshop.universe.publishing.notice": "Dacă nu publici universul, acesta va fi publicat automat când prima poveste conectată la univers este publicată.",
   "workshop.universe.settings": "{universe} setări univers",
+  "workshop.universe.settings.id": "ID-ul universului",
   "workshop.universe.publishedOn": "Această univers a fost publicată pe {date, date, long} {date, time, short}",
   "workshop.work.deletion.contactUs": "Dacă aveți nevoie de ajutor, <contact>contactați-ne</contact>.",
   "workshop.work.delete.restrictions": "Puteți șterge acest {type, select,\n    universe {univers doar dacă nu are nicio poveste publicată și}\n    story {poveste doar dacă aceasta}\n    other {lucrare doar dacă aceasta}} a fost publicată cu mai puțin de o lună în urmă. Ai nevoie de ajutor după aceea? <contact>Contactați-ne</contact>.",
