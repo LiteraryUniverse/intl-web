@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "번역본도 같은 시간에 공개할까요?",
   "workshop.simulpub.body": "이 챕터의 번역본이 준비되었습니다. {date}에 함께 예약할까요?",
   "workshop.simulpub.skip": "나중에",
-  "workshop.simulpub.submit": "번역 예약"
+  "workshop.simulpub.submit": "번역 예약",
+  "workshop.ai.persona.label": "페르소나",
+  "workshop.ai.persona.general": "일반 어시스턴트",
+  "workshop.ai.persona.editor": "문장 편집자",
+  "workshop.ai.persona.storyEditor": "스토리 편집자",
+  "workshop.ai.persona.continuity": "연속성 점검자",
+  "workshop.ai.persona.brainstorm": "브레인스토밍 파트너",
+  "workshop.ai.persona.characters": "캐릭터 코치",
+  "workshop.ai.persona.worldbuilding": "세계관 설계자",
+  "workshop.ai.effort.label": "추론 강도",
+  "workshop.ai.effort.hint": "강도가 높을수록 더 오래 생각합니다. 더 느리고 비용이 더 들지만 어려운 질문에는 더 나은 답을 내는 경우가 많습니다.",
+  "workshop.ai.effort.default": "기본 강도",
+  "workshop.ai.effort.low": "낮은 강도",
+  "workshop.ai.effort.medium": "중간 강도",
+  "workshop.ai.effort.high": "높은 강도",
+  "workshop.ai.instructions.title": "어시스턴트 지침",
+  "workshop.ai.instructions.intro": "어시스턴트는 메시지마다 이 지침을 영어로 받고, 이어서 내 이야기나 우주의 세부 정보를 받습니다. 페르소나는 끝에 자기 섹션을 덧붙입니다.",
+  "workshop.ai.instructions.open": "어시스턴트 지침 읽기"
 }

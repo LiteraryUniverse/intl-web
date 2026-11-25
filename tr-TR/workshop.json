@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Çeviriler aynı anda yayımlansın mı?",
   "workshop.simulpub.body": "Bölümün bu çevirileri hazır. Bunlar da {date} için zamanlansın mı?",
   "workshop.simulpub.skip": "Şimdi değil",
-  "workshop.simulpub.submit": "Çevirileri zamanla"
+  "workshop.simulpub.submit": "Çevirileri zamanla",
+  "workshop.ai.persona.label": "Rol",
+  "workshop.ai.persona.general": "Genel asistan",
+  "workshop.ai.persona.editor": "Redaktör",
+  "workshop.ai.persona.storyEditor": "Hikaye editörü",
+  "workshop.ai.persona.continuity": "Süreklilik denetçisi",
+  "workshop.ai.persona.brainstorm": "Beyin fırtınası ortağı",
+  "workshop.ai.persona.characters": "Karakter koçu",
+  "workshop.ai.persona.worldbuilding": "Dünya kurucusu",
+  "workshop.ai.effort.label": "Akıl yürütme eforu",
+  "workshop.ai.effort.hint": "Yüksek eforda model daha uzun düşünür: daha yavaş ve daha pahalıdır, ancak zor sorularda çoğu zaman daha iyi sonuç verir.",
+  "workshop.ai.effort.default": "Varsayılan efor",
+  "workshop.ai.effort.low": "Düşük efor",
+  "workshop.ai.effort.medium": "Orta efor",
+  "workshop.ai.effort.high": "Yüksek efor",
+  "workshop.ai.instructions.title": "Asistan talimatları",
+  "workshop.ai.instructions.intro": "Asistan bu talimatları her mesajla birlikte, İngilizce olarak alır; ardından hikayenizin veya evreninizin ayrıntıları gelir. Seçilen rol, kendi bölümünü sona ekler.",
+  "workshop.ai.instructions.open": "Asistanın talimatlarını oku"
 }

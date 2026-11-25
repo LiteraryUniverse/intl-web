@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "भाषांतरे एकाच वेळी प्रकाशित करायची?",
   "workshop.simulpub.body": "प्रकरणाची ही भाषांतरे तयार आहेत. त्यांनाही {date} साठी शेड्यूल करायचे?",
   "workshop.simulpub.skip": "आत्ता नको",
-  "workshop.simulpub.submit": "भाषांतरे शेड्यूल करा"
+  "workshop.simulpub.submit": "भाषांतरे शेड्यूल करा",
+  "workshop.ai.persona.label": "भूमिका",
+  "workshop.ai.persona.general": "सर्वसाधारण सहाय्यक",
+  "workshop.ai.persona.editor": "भाषा संपादक",
+  "workshop.ai.persona.storyEditor": "कथा संपादक",
+  "workshop.ai.persona.continuity": "सलगता तपासनीस",
+  "workshop.ai.persona.brainstorm": "विचारमंथन साथीदार",
+  "workshop.ai.persona.characters": "पात्र प्रशिक्षक",
+  "workshop.ai.persona.worldbuilding": "विश्वनिर्माता",
+  "workshop.ai.effort.label": "तर्काचा प्रयत्न",
+  "workshop.ai.effort.hint": "जास्त प्रयत्नात मॉडेल अधिक वेळ विचार करते: संथ आणि महाग, पण कठीण प्रश्नांसाठी बहुधा चांगले.",
+  "workshop.ai.effort.default": "डीफॉल्ट प्रयत्न",
+  "workshop.ai.effort.low": "कमी प्रयत्न",
+  "workshop.ai.effort.medium": "मध्यम प्रयत्न",
+  "workshop.ai.effort.high": "जास्त प्रयत्न",
+  "workshop.ai.instructions.title": "सहाय्यकाच्या सूचना",
+  "workshop.ai.instructions.intro": "सहाय्यकाला प्रत्येक संदेशासोबत या सूचना इंग्रजीत मिळतात, त्यानंतर तुमच्या कथेचा किंवा ब्रह्मांडाचा तपशील येतो. भूमिका शेवटी स्वतःचा विभाग जोडते.",
+  "workshop.ai.instructions.open": "सहाय्यकाच्या सूचना वाचा"
 }

@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Zverejniť preklady súčasne?",
   "workshop.simulpub.body": "Tieto preklady kapitoly sú pripravené. Naplánovať ich aj na {date}?",
   "workshop.simulpub.skip": "Teraz nie",
-  "workshop.simulpub.submit": "Naplánovať preklady"
+  "workshop.simulpub.submit": "Naplánovať preklady",
+  "workshop.ai.persona.label": "Rola",
+  "workshop.ai.persona.general": "Všeobecný asistent",
+  "workshop.ai.persona.editor": "Jazykový redaktor",
+  "workshop.ai.persona.storyEditor": "Redaktor príbehu",
+  "workshop.ai.persona.continuity": "Kontrolór nadväznosti",
+  "workshop.ai.persona.brainstorm": "Partner na brainstorming",
+  "workshop.ai.persona.characters": "Kouč postáv",
+  "workshop.ai.persona.worldbuilding": "Tvorca svetov",
+  "workshop.ai.effort.label": "Úsilie pri uvažovaní",
+  "workshop.ai.effort.hint": "Pri vyššom úsilí model premýšľa dlhšie: je pomalší a drahší, no pri ťažkých otázkach často lepší.",
+  "workshop.ai.effort.default": "Predvolené úsilie",
+  "workshop.ai.effort.low": "Nízke úsilie",
+  "workshop.ai.effort.medium": "Stredné úsilie",
+  "workshop.ai.effort.high": "Vysoké úsilie",
+  "workshop.ai.instructions.title": "Pokyny asistenta",
+  "workshop.ai.instructions.intro": "Asistent dostáva tieto pokyny s každou správou, v angličtine, a za nimi podrobnosti o vašom príbehu alebo vesmíre. Rola pridáva na koniec vlastnú časť.",
+  "workshop.ai.instructions.open": "Prečítať pokyny asistenta"
 }

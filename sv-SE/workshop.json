@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Vill du släppa översättningarna samtidigt?",
   "workshop.simulpub.body": "De här översättningarna av kapitlet är klara. Vill du schemalägga dem för {date} också?",
   "workshop.simulpub.skip": "Inte nu",
-  "workshop.simulpub.submit": "Schemalägg översättningar"
+  "workshop.simulpub.submit": "Schemalägg översättningar",
+  "workshop.ai.persona.label": "Roll",
+  "workshop.ai.persona.general": "Allmän assistent",
+  "workshop.ai.persona.editor": "Språkredaktör",
+  "workshop.ai.persona.storyEditor": "Berättelseredaktör",
+  "workshop.ai.persona.continuity": "Kontinuitetsgranskare",
+  "workshop.ai.persona.brainstorm": "Bollplank för idéer",
+  "workshop.ai.persona.characters": "Karaktärscoach",
+  "workshop.ai.persona.worldbuilding": "Världsbyggare",
+  "workshop.ai.effort.label": "Tankeinsats",
+  "workshop.ai.effort.hint": "Högre insats ger längre betänketid: långsammare och dyrare, men ofta bättre på svåra frågor.",
+  "workshop.ai.effort.default": "Standardinsats",
+  "workshop.ai.effort.low": "Låg insats",
+  "workshop.ai.effort.medium": "Medelhög insats",
+  "workshop.ai.effort.high": "Hög insats",
+  "workshop.ai.instructions.title": "Assistentens instruktioner",
+  "workshop.ai.instructions.intro": "Assistenten får de här instruktionerna med varje meddelande, på engelska, följda av detaljerna om din berättelse eller ditt universum. En roll lägger till sitt eget avsnitt i slutet.",
+  "workshop.ai.instructions.open": "Läs assistentens instruktioner"
 }

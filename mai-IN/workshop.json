@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "अनुवाद एके समय पर जारी करी?",
   "workshop.simulpub.body": "अध्यायक ई अनुवाद तैयार अछि। की एकरा सभकेँ {date} लेल सेहो शेड्यूल करी?",
   "workshop.simulpub.skip": "एखन नहि",
-  "workshop.simulpub.submit": "अनुवाद शेड्यूल करू"
+  "workshop.simulpub.submit": "अनुवाद शेड्यूल करू",
+  "workshop.ai.persona.label": "भूमिका",
+  "workshop.ai.persona.general": "सामान्य सहायक",
+  "workshop.ai.persona.editor": "भाषा संपादक",
+  "workshop.ai.persona.storyEditor": "कथा संपादक",
+  "workshop.ai.persona.continuity": "निरंतरता जाँचकर्ता",
+  "workshop.ai.persona.brainstorm": "विचार-मंथनक संगी",
+  "workshop.ai.persona.characters": "पात्र प्रशिक्षक",
+  "workshop.ai.persona.worldbuilding": "संसार-निर्माता",
+  "workshop.ai.effort.label": "सोचबाक प्रयास",
+  "workshop.ai.effort.hint": "बेसी प्रयास पर मॉडल बेसी काल धरि सोचैत अछि: धीमा आ महग, मुदा कठिन प्रश्न पर प्रायः नीक।",
+  "workshop.ai.effort.default": "डिफ़ॉल्ट प्रयास",
+  "workshop.ai.effort.low": "कम प्रयास",
+  "workshop.ai.effort.medium": "मध्यम प्रयास",
+  "workshop.ai.effort.high": "बेसी प्रयास",
+  "workshop.ai.instructions.title": "सहायकक निर्देश",
+  "workshop.ai.instructions.intro": "सहायककेँ हर संदेशक संग ई निर्देश अंग्रेजीमे भेटैत छैक, आ तकर बाद अहाँक कथा वा ब्रह्माण्डक विवरण। भूमिका अंतमे अपन खंड जोड़ैत अछि।",
+  "workshop.ai.instructions.open": "सहायकक निर्देश पढ़ू"
 }

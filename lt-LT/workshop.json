@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Išleisti vertimus tuo pačiu metu?",
   "workshop.simulpub.body": "Šie skyriaus vertimai paruošti. Suplanuoti juos ir {date}?",
   "workshop.simulpub.skip": "Ne dabar",
-  "workshop.simulpub.submit": "Suplanuoti vertimus"
+  "workshop.simulpub.submit": "Suplanuoti vertimus",
+  "workshop.ai.persona.label": "Vaidmuo",
+  "workshop.ai.persona.general": "Bendrasis asistentas",
+  "workshop.ai.persona.editor": "Kalbos redaktorius",
+  "workshop.ai.persona.storyEditor": "Istorijos redaktorius",
+  "workshop.ai.persona.continuity": "Tęstinumo tikrintojas",
+  "workshop.ai.persona.brainstorm": "Idėjų partneris",
+  "workshop.ai.persona.characters": "Veikėjų treneris",
+  "workshop.ai.persona.worldbuilding": "Pasaulio kūrėjas",
+  "workshop.ai.effort.label": "Samprotavimo pastangos",
+  "workshop.ai.effort.hint": "Didesnės pastangos reiškia ilgesnį mąstymą: lėčiau ir brangiau, bet sunkiems klausimams dažnai geriau.",
+  "workshop.ai.effort.default": "Numatytosios pastangos",
+  "workshop.ai.effort.low": "Mažos pastangos",
+  "workshop.ai.effort.medium": "Vidutinės pastangos",
+  "workshop.ai.effort.high": "Didelės pastangos",
+  "workshop.ai.instructions.title": "Asistento instrukcijos",
+  "workshop.ai.instructions.intro": "Asistentas šias instrukcijas gauna su kiekviena žinute anglų kalba, o po jų – Jūsų istorijos ar visatos duomenis. Vaidmuo pabaigoje prideda savo dalį.",
+  "workshop.ai.instructions.open": "Skaityti asistento instrukcijas"
 }

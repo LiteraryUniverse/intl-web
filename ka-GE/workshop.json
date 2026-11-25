@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "გამოვაქვეყნოთ თარგმანები ერთდროულად?",
   "workshop.simulpub.body": "თავის ეს თარგმანები მზადაა. დავგეგმოთ ისინიც {date}-ისთვის?",
   "workshop.simulpub.skip": "ახლა არა",
-  "workshop.simulpub.submit": "თარგმანების დაგეგმვა"
+  "workshop.simulpub.submit": "თარგმანების დაგეგმვა",
+  "workshop.ai.persona.label": "როლი",
+  "workshop.ai.persona.general": "ზოგადი ასისტენტი",
+  "workshop.ai.persona.editor": "სტილის რედაქტორი",
+  "workshop.ai.persona.storyEditor": "სიუჟეტის რედაქტორი",
+  "workshop.ai.persona.continuity": "თანმიმდევრულობის შემმოწმებელი",
+  "workshop.ai.persona.brainstorm": "იდეების პარტნიორი",
+  "workshop.ai.persona.characters": "პერსონაჟების მწვრთნელი",
+  "workshop.ai.persona.worldbuilding": "სამყაროს შემქმნელი",
+  "workshop.ai.effort.label": "მსჯელობის ძალისხმევა",
+  "workshop.ai.effort.hint": "მეტი ძალისხმევით მოდელი უფრო დიდხანს ფიქრობს: უფრო ნელი და ძვირია, მაგრამ რთულ კითხვებზე ხშირად უკეთესია.",
+  "workshop.ai.effort.default": "ნაგულისხმევი ძალისხმევა",
+  "workshop.ai.effort.low": "დაბალი ძალისხმევა",
+  "workshop.ai.effort.medium": "საშუალო ძალისხმევა",
+  "workshop.ai.effort.high": "მაღალი ძალისხმევა",
+  "workshop.ai.instructions.title": "ასისტენტის ინსტრუქციები",
+  "workshop.ai.instructions.intro": "ასისტენტი ამ ინსტრუქციებს ყოველ შეტყობინებასთან ერთად იღებს, ინგლისურად, რასაც მოსდევს თქვენი ისტორიის ან სამყაროს დეტალები. როლი ბოლოში საკუთარ განყოფილებას ამატებს.",
+  "workshop.ai.instructions.open": "ასისტენტის ინსტრუქციების წაკითხვა"
 }

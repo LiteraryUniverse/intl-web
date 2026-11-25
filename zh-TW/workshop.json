@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "要同步發布翻譯嗎?",
   "workshop.simulpub.body": "這一章的這些翻譯已準備好。要一併排定在 {date} 發布嗎?",
   "workshop.simulpub.skip": "暫時不要",
-  "workshop.simulpub.submit": "排定翻譯"
+  "workshop.simulpub.submit": "排定翻譯",
+  "workshop.ai.persona.label": "人設",
+  "workshop.ai.persona.general": "一般助理",
+  "workshop.ai.persona.editor": "文字編輯",
+  "workshop.ai.persona.storyEditor": "故事編輯",
+  "workshop.ai.persona.continuity": "連貫性檢查員",
+  "workshop.ai.persona.brainstorm": "腦力激盪夥伴",
+  "workshop.ai.persona.characters": "角色塑造教練",
+  "workshop.ai.persona.worldbuilding": "世界觀建構師",
+  "workshop.ai.effort.label": "推理強度",
+  "workshop.ai.effort.hint": "強度越高，思考時間越長：速度較慢、費用較高，但面對難題通常表現更好。",
+  "workshop.ai.effort.default": "預設強度",
+  "workshop.ai.effort.low": "低強度",
+  "workshop.ai.effort.medium": "中強度",
+  "workshop.ai.effort.high": "高強度",
+  "workshop.ai.instructions.title": "助理指示",
+  "workshop.ai.instructions.intro": "助理每次收到訊息時，都會一併收到這些以英文撰寫的指示，後面接著您的故事或宇宙的詳細資料。所選人設會在最後加上自己的段落。",
+  "workshop.ai.instructions.open": "閱讀助理指示"
 }

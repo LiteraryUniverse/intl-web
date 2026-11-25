@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "De vertalingen tegelijk uitbrengen?",
   "workshop.simulpub.body": "Deze vertalingen van het hoofdstuk zijn klaar. Ze ook plannen voor {date}?",
   "workshop.simulpub.skip": "Niet nu",
-  "workshop.simulpub.submit": "Vertalingen plannen"
+  "workshop.simulpub.submit": "Vertalingen plannen",
+  "workshop.ai.persona.label": "Rol",
+  "workshop.ai.persona.general": "Algemene assistent",
+  "workshop.ai.persona.editor": "Tekstredacteur",
+  "workshop.ai.persona.storyEditor": "Verhaalredacteur",
+  "workshop.ai.persona.continuity": "Continuïteitscontroleur",
+  "workshop.ai.persona.brainstorm": "Brainstormpartner",
+  "workshop.ai.persona.characters": "Personagecoach",
+  "workshop.ai.persona.worldbuilding": "Wereldbouwer",
+  "workshop.ai.effort.label": "Denkinspanning",
+  "workshop.ai.effort.hint": "Bij een hogere inspanning denkt het model langer na: trager en duurder, maar vaak beter bij lastige vragen.",
+  "workshop.ai.effort.default": "Standaardinspanning",
+  "workshop.ai.effort.low": "Lage inspanning",
+  "workshop.ai.effort.medium": "Gemiddelde inspanning",
+  "workshop.ai.effort.high": "Hoge inspanning",
+  "workshop.ai.instructions.title": "Instructies van de assistent",
+  "workshop.ai.instructions.intro": "De assistent krijgt deze instructies bij elk bericht, in het Engels, gevolgd door de gegevens van je verhaal of universum. Een rol voegt aan het eind een eigen onderdeel toe.",
+  "workshop.ai.instructions.open": "Instructies van de assistent lezen"
 }

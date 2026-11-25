@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Lepaskan terjemahan pada masa yang sama?",
   "workshop.simulpub.body": "Terjemahan bab ini sudah siap. Jadualkan juga untuk {date}?",
   "workshop.simulpub.skip": "Bukan sekarang",
-  "workshop.simulpub.submit": "Jadualkan terjemahan"
+  "workshop.simulpub.submit": "Jadualkan terjemahan",
+  "workshop.ai.persona.label": "Persona",
+  "workshop.ai.persona.general": "Pembantu umum",
+  "workshop.ai.persona.editor": "Penyunting bahasa",
+  "workshop.ai.persona.storyEditor": "Penyunting cerita",
+  "workshop.ai.persona.continuity": "Penyemak kesinambungan",
+  "workshop.ai.persona.brainstorm": "Rakan sumbang saran",
+  "workshop.ai.persona.characters": "Jurulatih watak",
+  "workshop.ai.persona.worldbuilding": "Pembina dunia",
+  "workshop.ai.effort.label": "Usaha penaakulan",
+  "workshop.ai.effort.hint": "Usaha yang lebih tinggi berfikir lebih lama: lebih perlahan dan lebih mahal, tetapi sering lebih baik untuk soalan sukar.",
+  "workshop.ai.effort.default": "Usaha lalai",
+  "workshop.ai.effort.low": "Usaha rendah",
+  "workshop.ai.effort.medium": "Usaha sederhana",
+  "workshop.ai.effort.high": "Usaha tinggi",
+  "workshop.ai.instructions.title": "Arahan pembantu",
+  "workshop.ai.instructions.intro": "Pembantu menerima arahan ini bersama setiap mesej, dalam bahasa Inggeris, diikuti butiran cerita atau univers anda. Persona menambah bahagiannya di hujung.",
+  "workshop.ai.instructions.open": "Baca arahan pembantu"
 }

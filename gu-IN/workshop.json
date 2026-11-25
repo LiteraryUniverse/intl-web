@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "અનુવાદો એ જ સમયે પ્રકાશિત કરવા છે?",
   "workshop.simulpub.body": "પ્રકરણના આ અનુવાદો તૈયાર છે. તેમને પણ {date} માટે શેડ્યૂલ કરવા છે?",
   "workshop.simulpub.skip": "હમણાં નહીં",
-  "workshop.simulpub.submit": "અનુવાદો શેડ્યૂલ કરો"
+  "workshop.simulpub.submit": "અનુવાદો શેડ્યૂલ કરો",
+  "workshop.ai.persona.label": "ભૂમિકા",
+  "workshop.ai.persona.general": "સામાન્ય સહાયક",
+  "workshop.ai.persona.editor": "ભાષા સંપાદક",
+  "workshop.ai.persona.storyEditor": "વાર્તા સંપાદક",
+  "workshop.ai.persona.continuity": "સાતત્ય તપાસનાર",
+  "workshop.ai.persona.brainstorm": "વિચારમંથન સાથી",
+  "workshop.ai.persona.characters": "પાત્ર માર્ગદર્શક",
+  "workshop.ai.persona.worldbuilding": "વિશ્વ સર્જક",
+  "workshop.ai.effort.label": "વિચારણાનું સ્તર",
+  "workshop.ai.effort.hint": "ઊંચા સ્તરે મોડલ વધુ સમય વિચારે છે: ધીમું અને મોંઘું, પણ અઘરા પ્રશ્નોમાં ઘણી વાર વધુ સારું.",
+  "workshop.ai.effort.default": "ડિફૉલ્ટ સ્તર",
+  "workshop.ai.effort.low": "નીચું સ્તર",
+  "workshop.ai.effort.medium": "મધ્યમ સ્તર",
+  "workshop.ai.effort.high": "ઊંચું સ્તર",
+  "workshop.ai.instructions.title": "સહાયકની સૂચનાઓ",
+  "workshop.ai.instructions.intro": "સહાયકને દરેક સંદેશ સાથે આ સૂચનાઓ અંગ્રેજીમાં મળે છે, અને તેના પછી તમારી વાર્તા અથવા બ્રહ્માંડની વિગતો. ભૂમિકા પસંદ કરો તો તેનો વિભાગ અંતે ઉમેરાય છે.",
+  "workshop.ai.instructions.open": "સહાયકની સૂચનાઓ વાંચો"
 }

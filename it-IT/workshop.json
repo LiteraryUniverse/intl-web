@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Pubblicare le traduzioni nello stesso momento?",
   "workshop.simulpub.body": "Queste traduzioni del capitolo sono pronte. Programmarle anche per il {date}?",
   "workshop.simulpub.skip": "Non ora",
-  "workshop.simulpub.submit": "Programma le traduzioni"
+  "workshop.simulpub.submit": "Programma le traduzioni",
+  "workshop.ai.persona.label": "Ruolo",
+  "workshop.ai.persona.general": "Assistente generico",
+  "workshop.ai.persona.editor": "Revisore di stile",
+  "workshop.ai.persona.storyEditor": "Editor narrativo",
+  "workshop.ai.persona.continuity": "Supervisore della continuità",
+  "workshop.ai.persona.brainstorm": "Compagno di brainstorming",
+  "workshop.ai.persona.characters": "Coach dei personaggi",
+  "workshop.ai.persona.worldbuilding": "Costruttore di mondi",
+  "workshop.ai.effort.label": "Impegno nel ragionamento",
+  "workshop.ai.effort.hint": "Con un impegno maggiore il modello riflette più a lungo: è più lento e costoso, ma spesso risponde meglio alle domande difficili.",
+  "workshop.ai.effort.default": "Impegno predefinito",
+  "workshop.ai.effort.low": "Impegno basso",
+  "workshop.ai.effort.medium": "Impegno medio",
+  "workshop.ai.effort.high": "Impegno alto",
+  "workshop.ai.instructions.title": "Istruzioni dell'assistente",
+  "workshop.ai.instructions.intro": "L'assistente riceve queste istruzioni con ogni messaggio, in inglese, seguite dai dettagli della tua storia o del tuo universo. Un ruolo aggiunge la propria sezione alla fine.",
+  "workshop.ai.instructions.open": "Leggi le istruzioni dell'assistente"
 }

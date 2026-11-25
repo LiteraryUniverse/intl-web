@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "לפרסם את התרגומים באותו זמן?",
   "workshop.simulpub.body": "התרגומים האלה של הפרק מוכנים. לתזמן אותם גם ל-{date}?",
   "workshop.simulpub.skip": "לא עכשיו",
-  "workshop.simulpub.submit": "תזמון תרגומים"
+  "workshop.simulpub.submit": "תזמון תרגומים",
+  "workshop.ai.persona.label": "פרסונה",
+  "workshop.ai.persona.general": "עוזר כללי",
+  "workshop.ai.persona.editor": "עורך לשון",
+  "workshop.ai.persona.storyEditor": "עורך ספרותי",
+  "workshop.ai.persona.continuity": "בודק רציפות",
+  "workshop.ai.persona.brainstorm": "שותף לסיעור מוחות",
+  "workshop.ai.persona.characters": "מאמן דמויות",
+  "workshop.ai.persona.worldbuilding": "בונה עולמות",
+  "workshop.ai.effort.label": "מאמץ חשיבה",
+  "workshop.ai.effort.hint": "מאמץ גבוה יותר פירושו חשיבה ארוכה יותר: איטי ויקר יותר, ולרוב טוב יותר בשאלות קשות.",
+  "workshop.ai.effort.default": "מאמץ ברירת מחדל",
+  "workshop.ai.effort.low": "מאמץ נמוך",
+  "workshop.ai.effort.medium": "מאמץ בינוני",
+  "workshop.ai.effort.high": "מאמץ גבוה",
+  "workshop.ai.instructions.title": "הנחיות העוזר",
+  "workshop.ai.instructions.intro": "העוזר מקבל את ההנחיות האלה עם כל הודעה, באנגלית, ואחריהן את פרטי הסיפור או היקום שלכם. פרסונה מוסיפה את הסעיף שלה בסוף.",
+  "workshop.ai.instructions.open": "קריאת הנחיות העוזר"
 }

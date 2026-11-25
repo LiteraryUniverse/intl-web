@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Ilabas ang mga salin nang sabay?",
   "workshop.simulpub.body": "Handa na ang mga salin ng kabanatang ito. I-iskedyul din ang mga ito para sa {date}?",
   "workshop.simulpub.skip": "Huwag muna",
-  "workshop.simulpub.submit": "I-iskedyul ang mga salin"
+  "workshop.simulpub.submit": "I-iskedyul ang mga salin",
+  "workshop.ai.persona.label": "Persona",
+  "workshop.ai.persona.general": "Pangkalahatang assistant",
+  "workshop.ai.persona.editor": "Editor ng wika at estilo",
+  "workshop.ai.persona.storyEditor": "Editor ng kwento",
+  "workshop.ai.persona.continuity": "Tagasuri ng continuity",
+  "workshop.ai.persona.brainstorm": "Katuwang sa brainstorming",
+  "workshop.ai.persona.characters": "Coach sa mga tauhan",
+  "workshop.ai.persona.worldbuilding": "Tagabuo ng mundo",
+  "workshop.ai.effort.label": "Antas ng pag-iisip",
+  "workshop.ai.effort.hint": "Mas matagal mag-isip sa mas mataas na antas: mas mabagal at mas mahal, pero kadalasang mas mahusay sa mahihirap na tanong.",
+  "workshop.ai.effort.default": "Default na antas",
+  "workshop.ai.effort.low": "Mababang antas",
+  "workshop.ai.effort.medium": "Katamtamang antas",
+  "workshop.ai.effort.high": "Mataas na antas",
+  "workshop.ai.instructions.title": "Mga tagubilin ng assistant",
+  "workshop.ai.instructions.intro": "Natatanggap ng assistant ang mga tagubiling ito sa bawat mensahe, sa Ingles, kasunod ang mga detalye ng iyong kwento o uniberso. Idinaragdag ng persona ang sarili nitong seksyon sa dulo.",
+  "workshop.ai.instructions.open": "Basahin ang mga tagubilin ng assistant"
 }

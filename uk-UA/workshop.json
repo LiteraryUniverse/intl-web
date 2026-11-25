@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Опублікувати переклади одночасно?",
   "workshop.simulpub.body": "Ці переклади розділу готові. Запланувати їх також на {date}?",
   "workshop.simulpub.skip": "Не зараз",
-  "workshop.simulpub.submit": "Запланувати переклади"
+  "workshop.simulpub.submit": "Запланувати переклади",
+  "workshop.ai.persona.label": "Роль",
+  "workshop.ai.persona.general": "Універсальний асистент",
+  "workshop.ai.persona.editor": "Літературний редактор",
+  "workshop.ai.persona.storyEditor": "Редактор сюжету",
+  "workshop.ai.persona.continuity": "Контролер нестиковок",
+  "workshop.ai.persona.brainstorm": "Партнер для мозкового штурму",
+  "workshop.ai.persona.characters": "Наставник із персонажів",
+  "workshop.ai.persona.worldbuilding": "Творець світів",
+  "workshop.ai.effort.label": "Рівень міркувань",
+  "workshop.ai.effort.hint": "Що вищий рівень, то довше модель думає: повільніше й дорожче, але часто краще на складних запитаннях.",
+  "workshop.ai.effort.default": "Рівень за замовчуванням",
+  "workshop.ai.effort.low": "Низький рівень",
+  "workshop.ai.effort.medium": "Середній рівень",
+  "workshop.ai.effort.high": "Високий рівень",
+  "workshop.ai.instructions.title": "Інструкції асистента",
+  "workshop.ai.instructions.intro": "Асистент отримує ці інструкції з кожним повідомленням, англійською мовою, а після них — відомості про вашу історію чи всесвіт. Роль додає наприкінці власний розділ.",
+  "workshop.ai.instructions.open": "Прочитати інструкції асистента"
 }

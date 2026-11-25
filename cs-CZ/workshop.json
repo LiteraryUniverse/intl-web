@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Zveřejnit překlady současně?",
   "workshop.simulpub.body": "Tyto překlady kapitoly jsou připravené. Naplánovat je také na {date}?",
   "workshop.simulpub.skip": "Teď ne",
-  "workshop.simulpub.submit": "Naplánovat překlady"
+  "workshop.simulpub.submit": "Naplánovat překlady",
+  "workshop.ai.persona.label": "Role",
+  "workshop.ai.persona.general": "Obecný asistent",
+  "workshop.ai.persona.editor": "Jazykový redaktor",
+  "workshop.ai.persona.storyEditor": "Redaktor příběhu",
+  "workshop.ai.persona.continuity": "Kontrolor návaznosti",
+  "workshop.ai.persona.brainstorm": "Partner pro brainstorming",
+  "workshop.ai.persona.characters": "Kouč postav",
+  "workshop.ai.persona.worldbuilding": "Tvůrce světů",
+  "workshop.ai.effort.label": "Úsilí při uvažování",
+  "workshop.ai.effort.hint": "Při vyšším úsilí přemýšlí déle: je pomalejší a dražší, u těžkých otázek ale často lepší.",
+  "workshop.ai.effort.default": "Výchozí úsilí",
+  "workshop.ai.effort.low": "Nízké úsilí",
+  "workshop.ai.effort.medium": "Střední úsilí",
+  "workshop.ai.effort.high": "Vysoké úsilí",
+  "workshop.ai.instructions.title": "Pokyny asistenta",
+  "workshop.ai.instructions.intro": "Asistent dostává tyto pokyny s každou zprávou, v angličtině, a za nimi podrobnosti o vašem příběhu nebo vesmíru. Role přidá na konec svůj oddíl.",
+  "workshop.ai.instructions.open": "Přečíst pokyny asistenta"
 }

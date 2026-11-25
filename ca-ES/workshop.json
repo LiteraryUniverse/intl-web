@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Voleu publicar les traduccions alhora?",
   "workshop.simulpub.body": "Aquestes traduccions del capítol estan a punt. Les programem també per al {date}?",
   "workshop.simulpub.skip": "Ara no",
-  "workshop.simulpub.submit": "Programa les traduccions"
+  "workshop.simulpub.submit": "Programa les traduccions",
+  "workshop.ai.persona.label": "Rol",
+  "workshop.ai.persona.general": "Assistent general",
+  "workshop.ai.persona.editor": "Corrector d'estil",
+  "workshop.ai.persona.storyEditor": "Editor literari",
+  "workshop.ai.persona.continuity": "Revisor de continuïtat",
+  "workshop.ai.persona.brainstorm": "Company de pluja d'idees",
+  "workshop.ai.persona.characters": "Assessor de personatges",
+  "workshop.ai.persona.worldbuilding": "Creador de mons",
+  "workshop.ai.effort.label": "Esforç de raonament",
+  "workshop.ai.effort.hint": "Amb més esforç pensa més estona: és més lent i més car, i sovint respon millor a preguntes difícils.",
+  "workshop.ai.effort.default": "Esforç per defecte",
+  "workshop.ai.effort.low": "Esforç baix",
+  "workshop.ai.effort.medium": "Esforç mitjà",
+  "workshop.ai.effort.high": "Esforç alt",
+  "workshop.ai.instructions.title": "Instruccions de l'assistent",
+  "workshop.ai.instructions.intro": "L'assistent rep aquestes instruccions amb cada missatge, en anglès, seguides dels detalls de la teva història o univers. Un rol hi afegeix la seva secció al final.",
+  "workshop.ai.instructions.open": "Llegeix les instruccions de l'assistent"
 }

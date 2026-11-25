@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "অনুবাদগুলো একই সময়ে প্রকাশ করবেন?",
   "workshop.simulpub.body": "অধ্যায়টির এই অনুবাদগুলো প্রস্তুত। সেগুলোও {date}-এর জন্য নির্ধারণ করবেন?",
   "workshop.simulpub.skip": "এখন নয়",
-  "workshop.simulpub.submit": "অনুবাদ নির্ধারণ করুন"
+  "workshop.simulpub.submit": "অনুবাদ নির্ধারণ করুন",
+  "workshop.ai.persona.label": "ভূমিকা",
+  "workshop.ai.persona.general": "সাধারণ সহকারী",
+  "workshop.ai.persona.editor": "ভাষা সম্পাদক",
+  "workshop.ai.persona.storyEditor": "গল্প সম্পাদক",
+  "workshop.ai.persona.continuity": "ধারাবাহিকতা পরীক্ষক",
+  "workshop.ai.persona.brainstorm": "ব্রেনস্টর্মিং সঙ্গী",
+  "workshop.ai.persona.characters": "চরিত্র পরামর্শক",
+  "workshop.ai.persona.worldbuilding": "জগৎ নির্মাতা",
+  "workshop.ai.effort.label": "চিন্তার মাত্রা",
+  "workshop.ai.effort.hint": "মাত্রা বেশি হলে মডেল বেশি সময় ধরে ভাবে: ধীর ও ব্যয়বহুল, তবে কঠিন প্রশ্নে প্রায়ই ভালো ফল দেয়।",
+  "workshop.ai.effort.default": "ডিফল্ট মাত্রা",
+  "workshop.ai.effort.low": "কম মাত্রা",
+  "workshop.ai.effort.medium": "মাঝারি মাত্রা",
+  "workshop.ai.effort.high": "উচ্চ মাত্রা",
+  "workshop.ai.instructions.title": "সহকারীর নির্দেশনা",
+  "workshop.ai.instructions.intro": "সহকারী প্রতিটি বার্তার সঙ্গে এই নির্দেশনাগুলো ইংরেজিতে পায়, এরপর থাকে আপনার গল্প বা বিশ্বের বিবরণ। কোনো ভূমিকা বেছে নিলে তার অংশটি শেষে যুক্ত হয়।",
+  "workshop.ai.instructions.open": "সহকারীর নির্দেশনা পড়ুন"
 }

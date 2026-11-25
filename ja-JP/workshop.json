@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "翻訳も同時に公開しますか?",
   "workshop.simulpub.body": "このチャプターの翻訳は準備ができています。{date}にも公開を予約しますか?",
   "workshop.simulpub.skip": "今はしない",
-  "workshop.simulpub.submit": "翻訳を予約"
+  "workshop.simulpub.submit": "翻訳を予約",
+  "workshop.ai.persona.label": "ペルソナ",
+  "workshop.ai.persona.general": "汎用アシスタント",
+  "workshop.ai.persona.editor": "文章編集者",
+  "workshop.ai.persona.storyEditor": "ストーリー編集者",
+  "workshop.ai.persona.continuity": "整合性チェッカー",
+  "workshop.ai.persona.brainstorm": "ブレインストーミング相手",
+  "workshop.ai.persona.characters": "キャラクターコーチ",
+  "workshop.ai.persona.worldbuilding": "世界設定ビルダー",
+  "workshop.ai.effort.label": "推論レベル",
+  "workshop.ai.effort.hint": "レベルを上げるほど長く考えます。遅くなり料金も上がりますが、難しい質問では良い結果になることが多いです。",
+  "workshop.ai.effort.default": "標準の推論レベル",
+  "workshop.ai.effort.low": "低い推論レベル",
+  "workshop.ai.effort.medium": "中程度の推論レベル",
+  "workshop.ai.effort.high": "高い推論レベル",
+  "workshop.ai.instructions.title": "アシスタントへの指示",
+  "workshop.ai.instructions.intro": "アシスタントはメッセージのたびに、この指示を英語で受け取り、続けてあなたの物語または宇宙の詳細を受け取ります。ペルソナを選ぶと、その内容が末尾に追加されます。",
+  "workshop.ai.instructions.open": "アシスタントへの指示を読む"
 }

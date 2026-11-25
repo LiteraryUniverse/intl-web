@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "ចេញផ្សាយការបកប្រែនៅពេលតែមួយឬ?",
   "workshop.simulpub.body": "ការបកប្រែទាំងនេះនៃជំពូកគឺរួចរាល់ហើយ។ កំណត់ពេលវាសម្រាប់ {date} ដែរឬទេ?",
   "workshop.simulpub.skip": "មិនមែនឥឡូវ",
-  "workshop.simulpub.submit": "កំណត់ពេលការបកប្រែ"
+  "workshop.simulpub.submit": "កំណត់ពេលការបកប្រែ",
+  "workshop.ai.persona.label": "តួនាទី",
+  "workshop.ai.persona.general": "ជំនួយការទូទៅ",
+  "workshop.ai.persona.editor": "អ្នកកែសម្រួលភាសា",
+  "workshop.ai.persona.storyEditor": "អ្នកកែសម្រួលសាច់រឿង",
+  "workshop.ai.persona.continuity": "អ្នកពិនិត្យភាពស៊ីសង្វាក់",
+  "workshop.ai.persona.brainstorm": "ដៃគូបំផុសគំនិត",
+  "workshop.ai.persona.characters": "គ្រូបង្វឹកតួអង្គ",
+  "workshop.ai.persona.worldbuilding": "អ្នកកសាងពិភព",
+  "workshop.ai.effort.label": "កម្រិតការវែកញែក",
+  "workshop.ai.effort.hint": "កម្រិតកាន់តែខ្ពស់ គិតកាន់តែយូរ៖ យឺតជាង និងថ្លៃជាង ប៉ុន្តែច្រើនតែល្អជាងសម្រាប់សំណួរពិបាក។",
+  "workshop.ai.effort.default": "កម្រិតលំនាំដើម",
+  "workshop.ai.effort.low": "កម្រិតទាប",
+  "workshop.ai.effort.medium": "កម្រិតមធ្យម",
+  "workshop.ai.effort.high": "កម្រិតខ្ពស់",
+  "workshop.ai.instructions.title": "សេចក្ដីណែនាំរបស់ជំនួយការ",
+  "workshop.ai.instructions.intro": "ជំនួយការទទួលបានសេចក្ដីណែនាំទាំងនេះជាមួយសារនីមួយៗ ជាភាសាអង់គ្លេស បន្តដោយព័ត៌មានលម្អិតអំពីរឿង ឬសកលលោករបស់អ្នក។ តួនាទីនីមួយៗបន្ថែមផ្នែករបស់ខ្លួននៅខាងចុង។",
+  "workshop.ai.instructions.open": "អានសេចក្ដីណែនាំរបស់ជំនួយការ"
 }

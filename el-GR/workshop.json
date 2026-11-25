@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "Να κυκλοφορήσουν οι μεταφράσεις ταυτόχρονα;",
   "workshop.simulpub.body": "Αυτές οι μεταφράσεις του κεφαλαίου είναι έτοιμες. Να προγραμματιστούν και αυτές για {date};",
   "workshop.simulpub.skip": "Όχι τώρα",
-  "workshop.simulpub.submit": "Προγραμματισμός μεταφράσεων"
+  "workshop.simulpub.submit": "Προγραμματισμός μεταφράσεων",
+  "workshop.ai.persona.label": "Ρόλος",
+  "workshop.ai.persona.general": "Γενικός βοηθός",
+  "workshop.ai.persona.editor": "Επιμελητής κειμένου",
+  "workshop.ai.persona.storyEditor": "Επιμελητής ιστορίας",
+  "workshop.ai.persona.continuity": "Ελεγκτής συνέχειας",
+  "workshop.ai.persona.brainstorm": "Συνεργάτης ιδεών",
+  "workshop.ai.persona.characters": "Σύμβουλος χαρακτήρων",
+  "workshop.ai.persona.worldbuilding": "Δημιουργός κόσμων",
+  "workshop.ai.effort.label": "Προσπάθεια συλλογισμού",
+  "workshop.ai.effort.hint": "Με περισσότερη προσπάθεια σκέφτεται περισσότερο: πιο αργά και πιο ακριβά, συχνά όμως καλύτερα στις δύσκολες ερωτήσεις.",
+  "workshop.ai.effort.default": "Προεπιλεγμένη προσπάθεια",
+  "workshop.ai.effort.low": "Χαμηλή προσπάθεια",
+  "workshop.ai.effort.medium": "Μεσαία προσπάθεια",
+  "workshop.ai.effort.high": "Υψηλή προσπάθεια",
+  "workshop.ai.instructions.title": "Οδηγίες του βοηθού",
+  "workshop.ai.instructions.intro": "Ο βοηθός λαμβάνει αυτές τις οδηγίες με κάθε μήνυμα, στα αγγλικά, και στη συνέχεια τα στοιχεία της ιστορίας ή του σύμπαντός σας. Ένας ρόλος προσθέτει την ενότητά του στο τέλος.",
+  "workshop.ai.instructions.open": "Ανάγνωση οδηγιών του βοηθού"
 }

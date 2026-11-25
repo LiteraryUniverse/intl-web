@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "అనువాదాలను అదే సమయంలో విడుదల చేయాలా?",
   "workshop.simulpub.body": "అధ్యాయం యొక్క ఈ అనువాదాలు సిద్ధంగా ఉన్నాయి. వాటిని కూడా {date}కి షెడ్యూల్ చేయాలా?",
   "workshop.simulpub.skip": "ఇప్పుడు వద్దు",
-  "workshop.simulpub.submit": "అనువాదాలను షెడ్యూల్ చేయండి"
+  "workshop.simulpub.submit": "అనువాదాలను షెడ్యూల్ చేయండి",
+  "workshop.ai.persona.label": "భూమిక",
+  "workshop.ai.persona.general": "సాధారణ సహాయకుడు",
+  "workshop.ai.persona.editor": "భాషా సంపాదకుడు",
+  "workshop.ai.persona.storyEditor": "కథా సంపాదకుడు",
+  "workshop.ai.persona.continuity": "కొనసాగింపు తనిఖీదారు",
+  "workshop.ai.persona.brainstorm": "ఆలోచనల భాగస్వామి",
+  "workshop.ai.persona.characters": "పాత్రల కోచ్",
+  "workshop.ai.persona.worldbuilding": "ప్రపంచ నిర్మాత",
+  "workshop.ai.effort.label": "ఆలోచన ప్రయత్నం",
+  "workshop.ai.effort.hint": "ఎక్కువ ప్రయత్నంతో మోడల్ ఎక్కువ సేపు ఆలోచిస్తుంది: నెమ్మదిగా, ఎక్కువ ఖర్చుతో ఉంటుంది, కానీ కఠినమైన ప్రశ్నలకు తరచుగా మెరుగ్గా ఉంటుంది.",
+  "workshop.ai.effort.default": "డిఫాల్ట్ ప్రయత్నం",
+  "workshop.ai.effort.low": "తక్కువ ప్రయత్నం",
+  "workshop.ai.effort.medium": "మధ్యస్థ ప్రయత్నం",
+  "workshop.ai.effort.high": "అధిక ప్రయత్నం",
+  "workshop.ai.instructions.title": "సహాయకుడి సూచనలు",
+  "workshop.ai.instructions.intro": "సహాయకుడికి ప్రతి సందేశంతో ఈ సూచనలు ఇంగ్లీష్‌లో అందుతాయి, వాటి తర్వాత మీ కథ లేదా యూనివర్స్ వివరాలు ఉంటాయి. భూమిక తన విభాగాన్ని చివర్లో జోడిస్తుంది.",
+  "workshop.ai.instructions.open": "సహాయకుడి సూచనలను చదవండి"
 }

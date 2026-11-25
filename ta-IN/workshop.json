@@ -1452,5 +1452,22 @@
   "workshop.simulpub.title": "மொழிபெயர்ப்புகளை ஒரே நேரத்தில் வெளியிடவா?",
   "workshop.simulpub.body": "அத்தியாயத்தின் இந்த மொழிபெயர்ப்புகள் தயாராக உள்ளன. அவற்றையும் {date} க்கு திட்டமிடவா?",
   "workshop.simulpub.skip": "இப்போது வேண்டாம்",
-  "workshop.simulpub.submit": "மொழிபெயர்ப்புகளைத் திட்டமிடு"
+  "workshop.simulpub.submit": "மொழிபெயர்ப்புகளைத் திட்டமிடு",
+  "workshop.ai.persona.label": "பணிப்பங்கு",
+  "workshop.ai.persona.general": "பொது உதவியாளர்",
+  "workshop.ai.persona.editor": "மொழித் திருத்துநர்",
+  "workshop.ai.persona.storyEditor": "கதைப் பதிப்பாசிரியர்",
+  "workshop.ai.persona.continuity": "தொடர்ச்சி சரிபார்ப்பாளர்",
+  "workshop.ai.persona.brainstorm": "யோசனைக் கூட்டாளி",
+  "workshop.ai.persona.characters": "கதாபாத்திரப் பயிற்சியாளர்",
+  "workshop.ai.persona.worldbuilding": "உலக உருவாக்குநர்",
+  "workshop.ai.effort.label": "சிந்தனை முயற்சி",
+  "workshop.ai.effort.hint": "அதிக முயற்சியில் மாடல் நீண்ட நேரம் சிந்திக்கும்: மெதுவாகவும் அதிக செலவாகவும் இருக்கும், ஆனால் கடினமான கேள்விகளுக்குப் பெரும்பாலும் சிறந்த பதில் தரும்.",
+  "workshop.ai.effort.default": "இயல்புநிலை முயற்சி",
+  "workshop.ai.effort.low": "குறைந்த முயற்சி",
+  "workshop.ai.effort.medium": "நடுத்தர முயற்சி",
+  "workshop.ai.effort.high": "அதிக முயற்சி",
+  "workshop.ai.instructions.title": "உதவியாளரின் வழிமுறைகள்",
+  "workshop.ai.instructions.intro": "உதவியாளர் ஒவ்வொரு செய்தியுடனும் இந்த வழிமுறைகளை ஆங்கிலத்தில் பெறுகிறார்; அதைத் தொடர்ந்து உங்கள் கதை அல்லது பிரபஞ்சத்தின் விவரங்கள் வரும். ஒரு பணிப்பங்கு தன் பகுதியை இறுதியில் சேர்க்கும்.",
+  "workshop.ai.instructions.open": "உதவியாளரின் வழிமுறைகளைப் படிக்கவும்"
 }
