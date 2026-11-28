@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Übersetze zuerst einige Begriffe in eine Sprache, für die DeepL Glossare führt.",
   "glossary.deepl.error.language": "Lege zuerst die Sprache dieses Werks fest.",
   "glossary.add.title": "Begriff hinzufügen",
+  "glossary.add.search": "Enzyklopädie durchsuchen oder ein Wort eingeben",
+  "glossary.add.searchPlain": "Wort oder Namen eingeben",
   "glossary.add.offline": "Du scheinst offline zu sein. Dein Text bleibt erhalten — versuche es erneut, sobald du wieder online bist.",
   "glossary.discard.title": "Diesen Begriff verwerfen?",
   "glossary.discard.text": "Du hast Anweisungen für „{term}“ geschrieben, die noch nicht gespeichert sind. Wenn du jetzt gehst, gehen sie verloren.",

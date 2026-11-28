@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Oversæt først nogle begreber til et sprog, som DeepL fører ordlister for.",
   "glossary.deepl.error.language": "Angiv først dette værks sprog.",
   "glossary.add.title": "Tilføj et begreb",
+  "glossary.add.search": "Søg i encyklopædien, eller skriv et ord",
+  "glossary.add.searchPlain": "Skriv ordet eller navnet",
   "glossary.add.offline": "Det ser ud til, at du er offline. Din tekst er bevaret — prøv igen, når du er online igen.",
   "glossary.discard.title": "Kassér dette begreb?",
   "glossary.discard.text": "Du har skrevet instruktioner til “{term}”, som endnu ikke er gemt. Hvis du forlader siden nu, går de tabt.",

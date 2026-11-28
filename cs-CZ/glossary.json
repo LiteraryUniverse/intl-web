@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Nejprve přeložte některé pojmy do jazyka, pro který DeepL slovníčky vede.",
   "glossary.deepl.error.language": "Nejprve nastavte jazyk tohoto díla.",
   "glossary.add.title": "Přidat pojem",
+  "glossary.add.search": "Hledejte v encyklopedii nebo napište slovo",
+  "glossary.add.searchPlain": "Napište slovo nebo jméno",
   "glossary.add.offline": "Zdá se, že jste offline. Váš text zůstal zachován — zkuste to znovu, až budete zpět online.",
   "glossary.discard.title": "Zahodit tento pojem?",
   "glossary.discard.text": "Napsali jste pokyny k pojmu „{term}“, které ještě nejsou uloženy. Pokud odejdete, ztratí se.",

@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Traduceți mai întâi câțiva termeni într-o limbă pentru care DeepL ține glosare.",
   "glossary.deepl.error.language": "Setați mai întâi limba acestei lucrări.",
   "glossary.add.title": "Adăugați un termen",
+  "glossary.add.search": "Caută în enciclopedie sau scrie un cuvânt",
+  "glossary.add.searchPlain": "Scrie cuvântul sau numele",
   "glossary.add.offline": "Se pare că sunteți offline. Textul dumneavoastră a fost păstrat — încercați din nou când reveniți online.",
   "glossary.discard.title": "Renunțați la acest termen?",
   "glossary.discard.text": "Ați scris instrucțiuni pentru „{term}” care nu au fost încă salvate. Dacă plecați acum, vor fi pierdute.",

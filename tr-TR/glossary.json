@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Önce bazı terimleri, DeepL'in sözlük tuttuğu bir dile çevirin.",
   "glossary.deepl.error.language": "Önce bu eserin dilini ayarlayın.",
   "glossary.add.title": "Terim ekle",
+  "glossary.add.search": "Ansiklopedide arayın veya bir kelime yazın",
+  "glossary.add.searchPlain": "Kelimeyi veya adı yazın",
   "glossary.add.offline": "Çevrimdışı görünüyorsunuz. Metniniz korundu — tekrar çevrimiçi olduğunuzda yeniden deneyin.",
   "glossary.discard.title": "Bu terimden vazgeçilsin mi?",
   "glossary.discard.text": "“{term}” için henüz kaydedilmemiş talimatlar yazdınız. Şimdi ayrılırsanız kaybolacaklar.",

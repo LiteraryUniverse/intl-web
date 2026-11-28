@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "まず、DeepLが用語集に対応している言語に、いくつかの用語を翻訳してください。",
   "glossary.deepl.error.language": "先にこの作品の言語を設定してください。",
   "glossary.add.title": "用語を追加",
+  "glossary.add.search": "エンサイクロペディアを検索するか、語句を入力",
+  "glossary.add.searchPlain": "語句または名前を入力",
   "glossary.add.offline": "オフラインのようです。入力内容は保持されています。オンラインに戻ったらもう一度お試しください。",
   "glossary.discard.title": "この用語を破棄しますか？",
   "glossary.discard.text": "「{term}」に書いた指示がまだ保存されていません。今離れると失われます。",

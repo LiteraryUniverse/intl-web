@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "תרגמו קודם כמה מונחים לשפה ש-DeepL תומך בה במילונים.",
   "glossary.deepl.error.language": "הגדירו קודם את שפת היצירה.",
   "glossary.add.title": "הוספת מונח",
+  "glossary.add.search": "חפשו באנציקלופדיה או הקלידו מילה",
+  "glossary.add.searchPlain": "הקלידו את המילה או השם",
   "glossary.add.offline": "נראה שאין לך חיבור לאינטרנט. הטקסט שלך נשמר, נסו שוב כשתחזרו להיות מחוברים.",
   "glossary.discard.title": "לבטל את המונח הזה?",
   "glossary.discard.text": "כתבתם הנחיות עבור “{term}” שעדיין לא נשמרו. אם תצאו עכשיו, הן יאבדו.",

@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Unue tradukigu kelkajn terminojn en lingvon, por kiu DeepL tenas glosarojn.",
   "glossary.deepl.error.language": "Unue starigu la lingvon de ĉi tiu verko.",
   "glossary.add.title": "Aldoni terminon",
+  "glossary.add.search": "Serĉu en la enciklopedio aŭ tajpu vorton",
+  "glossary.add.searchPlain": "Tajpu la vorton aŭ nomon",
   "glossary.add.offline": "Ŝajnas, ke vi estas senrete. Via teksto restas konservita — reprovu kiam vi revenos.",
   "glossary.discard.title": "Ĉu forĵeti ĉi tiun terminon?",
   "glossary.discard.text": "Vi skribis instrukciojn por “{term}”, kiuj ankoraŭ ne estas konservitaj. Se vi foriras nun, ili perdiĝos.",

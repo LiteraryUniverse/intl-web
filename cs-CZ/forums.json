@@ -87,7 +87,7 @@
   "forums.post.edit": "Upravit odpověď",
   "forums.post.delete": "Smazat odpověď",
   "forums.post.deleteConfirm": "Smazat tuto odpověď? V této diskusi se už nebude zobrazovat.",
-  "forums.post.editedAt": "Edited {at, date, medium}",
+  "forums.post.editedAt": "Upraveno {at, date, medium}",
   "forums.post.deleted": "Tato odpověď byla smazána.",
   "forums.post.hidden": "Tuto odpověď skryli moderátoři.",
   "forums.category.threads": "{count, plural, one {# diskuze} few {# diskuze} many {# diskuze} other {# diskuzí}}",

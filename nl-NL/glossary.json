@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Vertaal eerst een paar termen naar een taal waarvoor DeepL woordenlijsten bijhoudt.",
   "glossary.deepl.error.language": "Stel eerst de taal van dit werk in.",
   "glossary.add.title": "Een term toevoegen",
+  "glossary.add.search": "Zoek in de encyclopedie of typ een woord",
+  "glossary.add.searchPlain": "Typ het woord of de naam",
   "glossary.add.offline": "Je lijkt offline te zijn. Je tekst blijft bewaard: probeer het opnieuw als je weer online bent.",
   "glossary.discard.title": "Deze term verwerpen?",
   "glossary.discard.text": "Je hebt instructies geschreven voor “{term}” die nog niet zijn opgeslagen. Als je nu weggaat, gaan ze verloren.",

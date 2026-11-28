@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "আগে কিছু শব্দ এমন ভাষায় অনুবাদ করুন, যে ভাষার শব্দকোষ DeepL রাখে।",
   "glossary.deepl.error.language": "আগে এই রচনার ভাষা ঠিক করুন।",
   "glossary.add.title": "একটি শব্দ যোগ করুন",
+  "glossary.add.search": "এনসাইক্লোপিডিয়ায় খুঁজুন বা একটি শব্দ লিখুন",
+  "glossary.add.searchPlain": "শব্দ বা নাম লিখুন",
   "glossary.add.offline": "মনে হচ্ছে আপনি অফলাইনে আছেন। আপনার লেখা রাখা হয়েছে — অনলাইনে ফিরে আবার চেষ্টা করুন।",
   "glossary.discard.title": "এই শব্দটি বাতিল করবেন?",
   "glossary.discard.text": "আপনি “{term}”-এর জন্য নির্দেশনা লিখেছেন যা এখনো সংরক্ষিত হয়নি। এখন বেরিয়ে গেলে তা হারিয়ে যাবে।",

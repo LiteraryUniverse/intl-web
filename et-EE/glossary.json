@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Tõlgi kõigepealt mõned terminid keelde, mille sõnastikke DeepL toetab.",
   "glossary.deepl.error.language": "Määra kõigepealt selle teose keel.",
   "glossary.add.title": "Lisa termin",
+  "glossary.add.search": "Otsi entsüklopeediast või sisesta sõna",
+  "glossary.add.searchPlain": "Sisesta sõna või nimi",
   "glossary.add.offline": "Paistab, et oled võrguühenduseta. Sinu tekst on alles — proovi uuesti, kui oled tagasi ühenduses.",
   "glossary.discard.title": "Kas loobuda sellest terminist?",
   "glossary.discard.text": "Oled kirjutanud termini „{term}“ kohta juhised, mida pole veel salvestatud. Kui lahkud nüüd, need lähevad kaduma.",

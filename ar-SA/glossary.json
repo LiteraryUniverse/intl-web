@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "ترجم بعض المصطلحات أولًا إلى لغة يدعم DeepL قواميس لها.",
   "glossary.deepl.error.language": "حدّد لغة هذا العمل أولًا.",
   "glossary.add.title": "إضافة مصطلح",
+  "glossary.add.search": "ابحث في الموسوعة أو اكتب كلمة",
+  "glossary.add.searchPlain": "اكتب الكلمة أو الاسم",
   "glossary.add.offline": "يبدو أنك غير متصل بالإنترنت. نصّك محفوظ — حاول مرة أخرى عند عودة الاتصال.",
   "glossary.discard.title": "تجاهل هذا المصطلح؟",
   "glossary.discard.text": "كتبتَ تعليمات للمصطلح “{term}” لم تُحفظ بعد. إذا غادرتَ الآن فستضيع.",

@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "โปรดแปลคำศัพท์สักสองสามคำก่อน เป็นภาษาที่ DeepL รองรับอภิธานศัพท์",
   "glossary.deepl.error.language": "โปรดตั้งค่าภาษาของผลงานนี้ก่อน",
   "glossary.add.title": "เพิ่มคำศัพท์",
+  "glossary.add.search": "ค้นหาในสารานุกรมหรือพิมพ์คำ",
+  "glossary.add.searchPlain": "พิมพ์คำหรือชื่อ",
   "glossary.add.offline": "ดูเหมือนคุณออฟไลน์อยู่ ข้อความของคุณยังอยู่ — ลองอีกครั้งเมื่อกลับมาออนไลน์",
   "glossary.discard.title": "ทิ้งคำศัพท์นี้หรือไม่",
   "glossary.discard.text": "คุณเขียนคำแนะนำสำหรับ “{term}” ที่ยังไม่ได้บันทึก หากออกตอนนี้ คำแนะนำจะหายไป",

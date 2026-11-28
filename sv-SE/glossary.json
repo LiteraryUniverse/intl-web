@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Översätt först några termer till ett språk som DeepL har ordlistor för.",
   "glossary.deepl.error.language": "Ange först verkets språk.",
   "glossary.add.title": "Lägg till en term",
+  "glossary.add.search": "Sök i encyklopedin eller skriv ett ord",
+  "glossary.add.searchPlain": "Skriv ordet eller namnet",
   "glossary.add.offline": "Du verkar vara offline. Din text är sparad — försök igen när du är online igen.",
   "glossary.discard.title": "Kasta den här termen?",
   "glossary.discard.text": "Du har skrivit instruktioner för ”{term}” som inte är sparade än. Lämnar du nu går de förlorade.",

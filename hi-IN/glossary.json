@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "पहले कुछ शब्दों का ऐसी भाषा में अनुवाद करें जिसके लिए DeepL शब्दकोष रखता है।",
   "glossary.deepl.error.language": "पहले इस रचना की भाषा तय करें।",
   "glossary.add.title": "शब्द जोड़ें",
+  "glossary.add.search": "ज्ञानकोश में खोजें या कोई शब्द लिखें",
+  "glossary.add.searchPlain": "शब्द या नाम लिखें",
   "glossary.add.offline": "लगता है आप ऑफ़लाइन हैं। आपका टेक्स्ट सुरक्षित है — ऑनलाइन लौटने पर फिर कोशिश करें।",
   "glossary.discard.title": "इस शब्द को छोड़ दें?",
   "glossary.discard.text": "आपने “{term}” के लिए निर्देश लिखे हैं जो अभी सहेजे नहीं गए हैं। अभी बाहर जाने पर वे खो जाएँगे।",

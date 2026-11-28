@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Hãy dịch một số thuật ngữ trước, sang ngôn ngữ mà DeepL có hỗ trợ bảng thuật ngữ.",
   "glossary.deepl.error.language": "Hãy đặt ngôn ngữ của tác phẩm này trước.",
   "glossary.add.title": "Thêm thuật ngữ",
+  "glossary.add.search": "Tìm trong bách khoa toàn thư hoặc nhập một từ",
+  "glossary.add.searchPlain": "Nhập từ hoặc tên",
   "glossary.add.offline": "Có vẻ bạn đang ngoại tuyến. Nội dung của bạn vẫn được giữ — hãy thử lại khi có mạng.",
   "glossary.discard.title": "Bỏ thuật ngữ này?",
   "glossary.discard.text": "Bạn đã viết hướng dẫn cho “{term}” nhưng chưa lưu. Nếu rời đi bây giờ, chúng sẽ bị mất.",

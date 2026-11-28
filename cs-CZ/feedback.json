@@ -124,9 +124,9 @@
   "feedback.resolution.action.unban": "Zrušit blokaci",
   "feedback.resolution.active": "Aktivní hlášení",
   "feedback.resolution.resolved": "Vyřešená hlášení",
-  "feedback.report.filterStatus": "Show",
+  "feedback.report.filterStatus": "Zobrazit",
   "feedback.resolution.staffResolution": "Rozhodnutí týmu",
-  "feedback.resolution.moderation": "Moderation",
+  "feedback.resolution.moderation": "Moderování",
   "feedback.resolution.restricted": "Váš účet je omezen",
   "feedback.resolution.restrictedHint": "Zde si můžete přečíst rozhodnutí moderátorů a požádat o přezkum.",
   "feedback.report.reference": "Číslo případu: {reference}",
@@ -166,5 +166,5 @@
   "feedback.history.retention": "Uchovávání přezkoumáno",
   "feedback.history.copyrightHandling": "Postup ve věci autorských práv zaznamenán",
   "feedback.history.note": "Poznámka týmu",
-  "feedback.report.status.recorded": "Recorded"
+  "feedback.report.status.recorded": "Zaznamenáno"
 }

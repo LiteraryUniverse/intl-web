@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Vertaal eers ’n paar terme na ’n taal waarvoor DeepL woordeboeke hou.",
   "glossary.deepl.error.language": "Stel eers die taal van hierdie werk.",
   "glossary.add.title": "Voeg ’n term by",
+  "glossary.add.search": "Soek in die ensiklopedie of tik ’n woord",
+  "glossary.add.searchPlain": "Tik die woord of naam",
   "glossary.add.offline": "Dit lyk of jy aflyn is. Jou teks word gehou — probeer weer wanneer jy terug aanlyn is.",
   "glossary.discard.title": "Hierdie term weggooi?",
   "glossary.discard.text": "Jy het instruksies vir “{term}” geskryf wat nog nie gestoor is nie. As jy nou weggaan, gaan hulle verlore.",

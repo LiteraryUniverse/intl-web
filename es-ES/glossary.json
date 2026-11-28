@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Traduce primero algunos términos a un idioma para el que DeepL mantenga glosarios.",
   "glossary.deepl.error.language": "Define primero el idioma de esta obra.",
   "glossary.add.title": "Añadir un término",
+  "glossary.add.search": "Busca en la enciclopedia o escribe una palabra",
+  "glossary.add.searchPlain": "Escribe la palabra o el nombre",
   "glossary.add.offline": "Parece que no tienes conexión. Tu texto se conserva — vuelve a intentarlo cuando te reconectes.",
   "glossary.discard.title": "¿Descartar este término?",
   "glossary.discard.text": "Has escrito instrucciones para «{term}» que aún no se han guardado. Si sales ahora, se perderán.",

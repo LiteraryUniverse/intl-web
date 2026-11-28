@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Terjemahkan beberapa istilah dahulu ke bahasa yang glosarinya disimpan oleh DeepL.",
   "glossary.deepl.error.language": "Tetapkan bahasa karya ini dahulu.",
   "glossary.add.title": "Tambah istilah",
+  "glossary.add.search": "Cari dalam ensiklopedia atau taip perkataan",
+  "glossary.add.searchPlain": "Taip perkataan atau nama",
   "glossary.add.offline": "Anda seolah-olah di luar talian. Teks anda dikekalkan, cuba lagi apabila anda kembali dalam talian.",
   "glossary.discard.title": "Buang istilah ini?",
   "glossary.discard.text": "Anda telah menulis arahan untuk “{term}” yang belum disimpan. Jika anda keluar sekarang, arahan itu akan hilang.",

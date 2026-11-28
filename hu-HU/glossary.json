@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Előbb fordítson le néhány kifejezést olyan nyelvre, amelyhez a DeepL szótárat tud tárolni.",
   "glossary.deepl.error.language": "Előbb adja meg a mű nyelvét.",
   "glossary.add.title": "Kifejezés hozzáadása",
+  "glossary.add.search": "Keressen az enciklopédiában, vagy írjon be egy szót",
+  "glossary.add.searchPlain": "Írja be a szót vagy a nevet",
   "glossary.add.offline": "Úgy tűnik, offline van. A szövege megmaradt – próbálja újra, ha ismét online lesz.",
   "glossary.discard.title": "Elveti ezt a kifejezést?",
   "glossary.discard.text": "A(z) „{term}” kifejezéshez útmutatót írt, amely még nincs elmentve. Ha most kilép, elvész.",

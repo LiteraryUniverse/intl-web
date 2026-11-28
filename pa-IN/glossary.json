@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "ਪਹਿਲਾਂ ਕੁਝ ਸ਼ਬਦਾਂ ਦਾ ਅਨੁਵਾਦ ਕਰੋ, ਅਜਿਹੀ ਭਾਸ਼ਾ ਵਿੱਚ ਜਿਸ ਲਈ DeepL ਗਲੋਸਰੀਆਂ ਰੱਖਦਾ ਹੈ।",
   "glossary.deepl.error.language": "ਪਹਿਲਾਂ ਇਸ ਰਚਨਾ ਦੀ ਭਾਸ਼ਾ ਚੁਣੋ।",
   "glossary.add.title": "ਸ਼ਬਦ ਸ਼ਾਮਲ ਕਰੋ",
+  "glossary.add.search": "ਜਾਣਕਾਰੀਪੁਸਤਕ ਵਿੱਚ ਖੋਜੋ ਜਾਂ ਕੋਈ ਸ਼ਬਦ ਲਿਖੋ",
+  "glossary.add.searchPlain": "ਸ਼ਬਦ ਜਾਂ ਨਾਂ ਲਿਖੋ",
   "glossary.add.offline": "ਤੁਸੀਂ ਆਫ਼ਲਾਈਨ ਜਾਪਦੇ ਹੋ। ਤੁਹਾਡਾ ਲਿਖਿਆ ਸੁਰੱਖਿਅਤ ਹੈ — ਆਨਲਾਈਨ ਆਉਣ ’ਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
   "glossary.discard.title": "ਇਹ ਸ਼ਬਦ ਛੱਡ ਦੇਈਏ?",
   "glossary.discard.text": "ਤੁਸੀਂ “{term}” ਲਈ ਹਦਾਇਤਾਂ ਲਿਖੀਆਂ ਹਨ ਜੋ ਅਜੇ ਸੰਭਾਲੀਆਂ ਨਹੀਂ ਗਈਆਂ। ਹੁਣੇ ਬਾਹਰ ਨਿਕਲੇ ਤਾਂ ਉਹ ਗੁਆਚ ਜਾਣਗੀਆਂ।",

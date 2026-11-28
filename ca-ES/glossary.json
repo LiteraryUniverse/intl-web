@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Tradueix primer alguns termes a una llengua per a la qual DeepL tingui glossaris.",
   "glossary.deepl.error.language": "Defineix primer la llengua d’aquesta obra.",
   "glossary.add.title": "Afegeix un terme",
+  "glossary.add.search": "Cerca a l’enciclopèdia o escriu una paraula",
+  "glossary.add.searchPlain": "Escriu la paraula o el nom",
   "glossary.add.offline": "Sembla que no tens connexió. El teu text es conserva — torna-ho a provar quan hi tornis.",
   "glossary.discard.title": "Vols descartar aquest terme?",
   "glossary.discard.text": "Has escrit instruccions per a “{term}” que encara no s’han desat. Si surts ara, es perdran.",

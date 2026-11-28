@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Oversett noen termer først, til et språk DeepL har ordlister for.",
   "glossary.deepl.error.language": "Angi språket til dette verket først.",
   "glossary.add.title": "Legg til en term",
+  "glossary.add.search": "Søk i leksikonet eller skriv et ord",
+  "glossary.add.searchPlain": "Skriv ordet eller navnet",
   "glossary.add.offline": "Du ser ut til å være frakoblet. Teksten din er beholdt – prøv igjen når du er på nett igjen.",
   "glossary.discard.title": "Forkaste denne termen?",
   "glossary.discard.text": "Du har skrevet instruksjoner for «{term}» som ikke er lagret ennå. Hvis du går nå, går de tapt.",

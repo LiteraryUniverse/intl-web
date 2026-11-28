@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "먼저 DeepL이 용어집을 지원하는 언어로 용어를 번역하세요.",
   "glossary.deepl.error.language": "먼저 이 작품의 언어를 설정하세요.",
   "glossary.add.title": "용어 추가",
+  "glossary.add.search": "백과사전을 검색하거나 단어를 입력하세요",
+  "glossary.add.searchPlain": "단어나 이름을 입력하세요",
   "glossary.add.offline": "오프라인 상태인 것 같습니다. 입력한 내용은 그대로 보관되니 온라인으로 돌아오면 다시 시도하세요.",
   "glossary.discard.title": "이 용어를 버릴까요?",
   "glossary.discard.text": "“{term}”에 작성한 지침이 아직 저장되지 않았습니다. 지금 나가면 사라집니다.",

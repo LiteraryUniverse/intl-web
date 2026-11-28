@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "आधी काही शब्दांचे, DeepL शब्दकोश ठेवते अशा भाषेत भाषांतर करा.",
   "glossary.deepl.error.language": "आधी या कलाकृतीची भाषा सेट करा.",
   "glossary.add.title": "शब्द जोडा",
+  "glossary.add.search": "विज्ञानकोशात शोधा किंवा एखादा शब्द टाइप करा",
+  "glossary.add.searchPlain": "शब्द किंवा नाव टाइप करा",
   "glossary.add.offline": "तुम्ही ऑफलाइन असल्याचे दिसते. तुमचा मजकूर जतन आहे — ऑनलाइन परतल्यावर पुन्हा प्रयत्न करा.",
   "glossary.discard.title": "हा शब्द टाकून द्यायचा?",
   "glossary.discard.text": "तुम्ही “{term}” साठी लिहिलेल्या सूचना अजून जतन झालेल्या नाहीत. आता बाहेर पडल्यास त्या गमावल्या जातील.",

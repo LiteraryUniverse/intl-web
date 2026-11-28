@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "請先將一些術語翻譯成 DeepL 支援術語庫的語言。",
   "glossary.deepl.error.language": "請先設定此作品的語言。",
   "glossary.add.title": "新增術語",
+  "glossary.add.search": "搜尋百科全書或輸入字詞",
+  "glossary.add.searchPlain": "輸入字詞或名稱",
   "glossary.add.offline": "您似乎已離線。您的文字已保留，恢復連線後請再試一次。",
   "glossary.discard.title": "捨棄這個術語？",
   "glossary.discard.text": "您為「{term}」寫的說明尚未儲存。現在離開的話，內容將會遺失。",

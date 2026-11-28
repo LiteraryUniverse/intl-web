@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Translate some terms first, into a language DeepL keeps glossaries for.",
   "glossary.deepl.error.language": "Set the language of this work first.",
   "glossary.add.title": "Add a term",
+  "glossary.add.search": "Search the encyclopedia or type a word",
+  "glossary.add.searchPlain": "Type the word or name",
   "glossary.add.offline": "You seem to be offline. Your text is kept — try again when you’re back online.",
   "glossary.discard.title": "Discard this term?",
   "glossary.discard.text": "You’ve written instructions for “{term}” that aren’t saved yet. If you leave now they’ll be lost.",

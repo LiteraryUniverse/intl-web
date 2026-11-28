@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Magsalin muna ng ilang termino sa wikang may glossary sa DeepL.",
   "glossary.deepl.error.language": "Itakda muna ang wika ng akdang ito.",
   "glossary.add.title": "Magdagdag ng termino",
+  "glossary.add.search": "Maghanap sa ensiklopedya o mag-type ng salita",
+  "glossary.add.searchPlain": "I-type ang salita o pangalan",
   "glossary.add.offline": "Mukhang offline ka. Nananatili ang iyong teksto — subukan muli kapag online ka na ulit.",
   "glossary.discard.title": "I-discard ang terminong ito?",
   "glossary.discard.text": "Nagsulat ka ng mga tagubilin para sa “{term}” na hindi pa nase-save. Mawawala ang mga ito kapag umalis ka ngayon.",

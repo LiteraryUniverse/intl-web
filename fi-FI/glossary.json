@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Käännä ensin joitakin termejä kielelle, jolle DeepL ylläpitää sanastoja.",
   "glossary.deepl.error.language": "Aseta ensin tämän teoksen kieli.",
   "glossary.add.title": "Lisää termi",
+  "glossary.add.search": "Hae tietosanakirjasta tai kirjoita sana",
+  "glossary.add.searchPlain": "Kirjoita sana tai nimi",
   "glossary.add.offline": "Näyttää siltä, että olet offline-tilassa. Tekstisi säilyy — yritä uudelleen, kun olet taas verkossa.",
   "glossary.discard.title": "Hylätäänkö tämä termi?",
   "glossary.discard.text": "Olet kirjoittanut termille ”{term}” ohjeita, joita ei ole vielä tallennettu. Jos poistut nyt, ne menetetään.",

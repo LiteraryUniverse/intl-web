@@ -21,6 +21,8 @@
   "glossary.deepl.error.nothing": "Najpierw przetłumacz kilka haseł na język, dla którego DeepL obsługuje glosariusze.",
   "glossary.deepl.error.language": "Najpierw ustaw język tego dzieła.",
   "glossary.add.title": "Dodaj hasło",
+  "glossary.add.search": "Przeszukaj encyklopedię lub wpisz słowo",
+  "glossary.add.searchPlain": "Wpisz słowo lub imię",
   "glossary.add.offline": "Wygląda na to, że jesteś offline. Twój tekst został zachowany — spróbuj ponownie, gdy wrócisz do sieci.",
   "glossary.discard.title": "Odrzucić to hasło?",
   "glossary.discard.text": "Napisano wskazówki do hasła „{term}”, które nie zostały jeszcze zapisane. Jeśli teraz wyjdziesz, zostaną utracone.",
